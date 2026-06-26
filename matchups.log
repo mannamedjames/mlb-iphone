@@ -1,0 +1,118 @@
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 15 games
+  MIA (Tyler Phillips) @ PHI (Jesús Luzardo)
+  KC (Michael Wacha) @ WSH (Foster Griffin)
+  TOR (Dylan Cease) @ BOS (Payton Tolle)
+  CWS (Davis Martin) @ NYY (Gerrit Cole)
+  NYM (Kodai Senga) @ CIN (Brady Singer)
+  SF (Adrian Houser) @ ATL (Grant Holmes)
+  CLE (Slade Cecconi) @ MIL (Robert Gasser)
+  SD (Michael King) @ STL (Andre Pallante)
+  COL (Ryan Feltner) @ CHC (Edward Cabrera)
+  MIN (Zebby Matthews) @ TEX (Kumar Rocker)
+  DET (Framber Valdez) @ HOU (Hunter Brown)
+  LAA (Reid Detmers) @ AZ (Merrill Kelly)
+  PIT (Mitch Keller) @ ATH (Jack Perkins)
+  BAL (Brandon Young) @ SEA (Logan Gilbert)
+  TB (Drew Rasmussen) @ LAD (Justin Wrobleski)
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 15 games
+  NYM (Nolan McLean) @ CIN (Nick Lodolo)
+  KC (Luinder Avila) @ WSH (Zack Littell)
+  MIA (Sandy Alcantara) @ PHI (Andrew Painter)
+  SF (Adrian Houser) @ ATL (Grant Holmes)
+  DET (Casey Mize) @ HOU (Peter Lambert)
+  SD (TBD) @ STL (Kyle Leahy)
+  TB (Shane McClanahan) @ LAD (Shohei Ohtani)
+  LAA (Sam Aldegheri) @ AZ (Eduardo Rodriguez)
+  TOR (Max Scherzer) @ BOS (Jake Bennett)
+  CWS (Anthony Kay) @ NYY (Carlos Rodón)
+  SF (TBD) @ ATL (JR Ritchie)
+  CLE (Gavin Williams) @ MIL (Brandon Sproat)
+  COL (Sean Sullivan) @ CHC (Javier Assad)
+  PIT (Braxton Ashcraft) @ ATH (Aaron Civale)
+  BAL (Kyle Bradish) @ SEA (George Kirby)
+  ! couldn't fetch season stats for 687931: list index out of range
+  ! couldn't fetch gameLog for 687931: list index out of range
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 15 games
+  NYM (Nolan McLean) @ CIN (Nick Lodolo) — 2026-06-17T16:40:00Z
+  KC (Luinder Avila) @ WSH (Zack Littell) — 2026-06-17T17:05:00Z
+  MIA (Sandy Alcantara) @ PHI (Andrew Painter) — 2026-06-17T17:05:00Z
+  SF (Adrian Houser) @ ATL (Grant Holmes) — 2026-06-17T18:00:00Z
+  DET (Casey Mize) @ HOU (Peter Lambert) — 2026-06-17T18:10:00Z
+  SD (Bradgley Rodriguez) @ STL (Kyle Leahy) — 2026-06-17T18:15:00Z
+  TB (Shane McClanahan) @ LAD (Shohei Ohtani) — 2026-06-17T19:10:00Z
+  LAA (Sam Aldegheri) @ AZ (Eduardo Rodriguez) — 2026-06-17T19:40:00Z
+  TOR (Max Scherzer) @ BOS (Jake Bennett) — 2026-06-17T22:45:00Z
+  CWS (Anthony Kay) @ NYY (Carlos Rodón) — 2026-06-17T23:05:00Z
+  SF (Carson Whisenhunt) @ ATL (JR Ritchie) — 2026-06-17T23:15:00Z
+  CLE (Gavin Williams) @ MIL (Brandon Sproat) — 2026-06-17T23:40:00Z
+  COL (Sean Sullivan) @ CHC (Javier Assad) — 2026-06-18T00:05:00Z
+  PIT (Braxton Ashcraft) @ ATH (Aaron Civale) — 2026-06-18T01:40:00Z
+  BAL (Kyle Bradish) @ SEA (George Kirby) — 2026-06-18T01:40:00Z
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 15 games
+  NYM (Nolan McLean) @ CIN (Nick Lodolo) — 2026-06-17T16:40:00Z
+  KC (Luinder Avila) @ WSH (Zack Littell) — 2026-06-17T17:05:00Z
+  MIA (Sandy Alcantara) @ PHI (Andrew Painter) — 2026-06-17T17:05:00Z
+  SF (Adrian Houser) @ ATL (Grant Holmes) — 2026-06-17T18:00:00Z
+  DET (Casey Mize) @ HOU (Peter Lambert) — 2026-06-17T18:10:00Z
+  SD (Bradgley Rodriguez) @ STL (Kyle Leahy) — 2026-06-17T18:15:00Z
+  TB (Shane McClanahan) @ LAD (Shohei Ohtani) — 2026-06-17T19:10:00Z
+  LAA (Sam Aldegheri) @ AZ (Eduardo Rodriguez) — 2026-06-17T19:40:00Z
+  TOR (Max Scherzer) @ BOS (Jake Bennett) — 2026-06-17T22:45:00Z
+  CWS (Anthony Kay) @ NYY (Carlos Rodón) — 2026-06-17T23:05:00Z
+  SF (Carson Whisenhunt) @ ATL (JR Ritchie) — 2026-06-17T23:15:00Z
+  CLE (Gavin Williams) @ MIL (Brandon Sproat) — 2026-06-17T23:40:00Z
+  COL (Sean Sullivan) @ CHC (Javier Assad) — 2026-06-18T00:05:00Z
+  PIT (Braxton Ashcraft) @ ATH (Aaron Civale) — 2026-06-18T01:40:00Z
+  BAL (Kyle Bradish) @ SEA (George Kirby) — 2026-06-18T01:40:00Z
+
+-- scheduler-triggered run at 2026-06-17 12:36:25.433350
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 14 games
+  TOR (Kevin Gausman) @ CHC (Ben Brown) — 2026-06-19T18:20:00Z
+  CWS (Brandon Eisert) @ DET (Tarik Skubal) — 2026-06-19T22:40:00Z
+  CIN (Rhett Lowder) @ NYY (Cam Schlittler) — 2026-06-19T23:05:00Z
+  WSH (PJ Poulin) @ TB (Griffin Jax) — 2026-06-19T23:10:00Z
+  SF (Landen Roupp) @ MIA (Lake Bachar) — 2026-06-19T23:10:00Z
+  MIL (Jacob Misiorowski) @ ATL (Martín Pérez) — 2026-06-19T23:15:00Z
+  SD (Randy Vásquez) @ TEX (Jacob deGrom) — 2026-06-20T00:05:00Z
+  CLE (Tanner Bibee) @ HOU (Tatsuya Imai) — 2026-06-20T00:10:00Z
+  STL (Michael McGreevy) @ KC (Seth Lugo) — 2026-06-20T00:15:00Z
+  PIT (Bubba Chandler) @ COL (Kyle Freeland) — 2026-06-20T00:40:00Z
+  LAA (José Soriano) @ ATH (Jeffrey Springs) — 2026-06-20T01:40:00Z
+  MIN (Connor Prielipp) @ AZ (Michael Soroka) — 2026-06-20T01:45:00Z
+  BAL (Trey Gibson) @ LAD (Roki Sasaki) — 2026-06-20T02:10:00Z
+  BOS (Ranger Suarez) @ SEA (Bryce Miller) — 2026-06-20T02:10:00Z
+
+-- scheduler-triggered run at 2026-06-19 14:14:32.968144
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 14 games
+  CWS (Sean Newcomb) @ DET (Troy Melton) — 2026-06-20T17:10:00Z
+  CIN (Andrew Abbott) @ NYY (Will Warren) — 2026-06-20T17:35:00Z
+  TOR (Patrick Corbin) @ CHC (Colin Rea) — 2026-06-20T18:20:00Z
+  SD (Walker Buehler) @ TEX (MacKenzie Gore) — 2026-06-20T20:05:00Z
+  WSH (Cade Cavalli) @ TB (Ian Seymour) — 2026-06-20T20:10:00Z
+  SF (Trevor McDonald) @ MIA (Max Meyer) — 2026-06-20T20:10:00Z
+  MIL (Kyle Harrison) @ ATL (Chris Sale) — 2026-06-20T20:10:00Z
+  CLE (Joey Cantillo) @ HOU (Spencer Arrighetti) — 2026-06-20T23:15:00Z
+  NYM (Freddy Peralta) @ PHI (Cristopher Sánchez) — 2026-06-20T23:15:00Z
+  PIT (Paul Skenes) @ COL (Tomoyuki Sugano) — 2026-06-21T01:10:00Z
+  LAA (Walbert Ureña) @ ATH (J.T. Ginn) — 2026-06-21T02:05:00Z
+  BAL (Trevor Rogers) @ LAD (Yoshinobu Yamamoto) — 2026-06-21T02:10:00Z
+  BOS (Connelly Early) @ SEA (Emerson Hancock) — 2026-06-21T02:10:00Z
+  MIN (Taj Bradley) @ AZ (Zac Gallen) — 2026-06-21T02:10:00Z
+
+-- scheduler-triggered run at 2026-06-20 13:06:25.126497
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 13 games
+  NYY (Gerrit Cole) @ DET (Framber Valdez) — 2026-06-22T22:10:00Z
+  KC (Michael Wacha) @ TB (Drew Rasmussen) — 2026-06-22T22:40:00Z
+  TEX (Tyler Alexander) @ MIA (Tyler Phillips) — 2026-06-22T22:40:00Z
+  PHI (Tim Mayza) @ WSH (Foster Griffin) — 2026-06-22T22:45:00Z
+  HOU (Hunter Brown) @ TOR (Dylan Cease) — 2026-06-22T23:07:00Z
+  CHC (Shota Imanaga) @ NYM (Kodai Senga) — 2026-06-22T23:10:00Z
+  MIL (Brandon Woodruff) @ CIN (Brady Singer) — 2026-06-22T23:10:00Z
+  LAD (Eric Lauer) @ MIN (Zebby Matthews) — 2026-06-22T23:40:00Z
+  CLE (Gavin Williams) @ CWS (Anthony Kay) — 2026-06-22T23:40:00Z
+  AZ (Merrill Kelly) @ STL (Andre Pallante) — 2026-06-22T23:45:00Z
+  BOS (Jake Bennett) @ COL (Ryan Feltner) — 2026-06-23T00:40:00Z
+  BAL (Kyle Bradish) @ LAA (Sam Aldegheri) — 2026-06-23T01:38:00Z
+  ATL (Grant Holmes) @ SD (Michael King) — 2026-06-23T02:10:00Z
+
+-- scheduler-triggered run at 2026-06-22 15:07:40.100062

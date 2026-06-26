@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-06-26 15:52",
+  "window_start": "2026-05-27",
+  "window_end": "2026-06-26",
+  "games_processed": 395,
+  "subbed_out": [
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 21,
+      "rank": 1
+    },
+    {
+      "playerId": 663993,
+      "name": "Nathaniel Lowe",
+      "team": "CIN",
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "games": 12,
+      "started": 19,
+      "pctStarted": 76,
+      "hits": 13,
+      "rank": 2
+    },
+    {
+      "playerId": 660821,
+      "name": "Jes\u00fas S\u00e1nchez",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 12,
+      "started": 16,
+      "pctStarted": 59,
+      "hits": 14,
+      "rank": 3
+    },
+    {
+      "playerId": 683357,
+      "name": "Owen Caissie",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 11,
+      "started": 20,
+      "pctStarted": 80,
+      "hits": 15,
+      "rank": 4
+    },
+    {
+      "playerId": 681481,
+      "name": "Kerry Carpenter",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 11,
+      "started": 18,
+      "pctStarted": 67,
+      "hits": 13,
+      "rank": 5
+    }
+  ],
+  "subbed_in": [
+    {
+      "playerId": 679822,
+      "name": "Justin Foscue",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 14,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 6,
+      "rank": 1
+    },
+    {
+      "playerId": 669743,
+      "name": "Alex Call",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "games": 12,
+      "started": 13,
+      "pctStarted": 50,
+      "hits": 13,
+      "rank": 2
+    },
+    {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 12,
+      "started": 12,
+      "pctStarted": 44,
+      "hits": 11,
+      "rank": 3
+    },
+    {
+      "playerId": 694728,
+      "name": "Brice Matthews",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 12,
+      "started": 12,
+      "pctStarted": 44,
+      "hits": 9,
+      "rank": 4
+    },
+    {
+      "playerId": 665923,
+      "name": "Esteury Ruiz",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 12,
+      "started": 10,
+      "pctStarted": 40,
+      "hits": 11,
+      "rank": 5
+    }
+  ]
+}

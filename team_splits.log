@@ -1,0 +1,836 @@
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 117, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 44, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 117, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 44, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-17 -> 2026-06-16 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:00<00:18,  1.64it/s] 10%|▉         | 3/31 [00:00<00:06,  4.11it/s] 16%|█▌        | 5/31 [00:01<00:08,  3.00it/s] 39%|███▊      | 12/31 [00:01<00:02,  9.38it/s] 55%|█████▍    | 17/31 [00:02<00:01, 11.45it/s] 65%|██████▍   | 20/31 [00:02<00:01,  9.57it/s] 71%|███████   | 22/31 [00:02<00:01,  8.77it/s] 77%|███████▋  | 24/31 [00:03<00:00,  8.93it/s]100%|██████████| 31/31 [00:03<00:00,  9.87it/s]
+Pulled 115942 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (vs RHP, best pitcher matchups):
+   1. CLE: xwOBA 0.291 · K% 163.6
+   2. HOU: xwOBA 0.299 · K% 183.1
+   3. BOS: xwOBA 0.301 · K% 176.8
+   4. KC: xwOBA 0.303 · K% 168.8
+   5. SD: xwOBA 0.303 · K% 170.7
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 117, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 44, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 117, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 44, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-18 -> 2026-06-17 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:03<01:39,  3.32s/it] 10%|▉         | 3/31 [00:04<00:32,  1.16s/it] 13%|█▎        | 4/31 [00:04<00:22,  1.18it/s] 19%|█▉        | 6/31 [00:04<00:12,  1.98it/s] 26%|██▌       | 8/31 [00:04<00:07,  3.16it/s] 29%|██▉       | 9/31 [00:05<00:06,  3.42it/s] 32%|███▏      | 10/31 [00:05<00:05,  4.03it/s] 39%|███▊      | 12/31 [00:05<00:03,  5.32it/s] 42%|████▏     | 13/31 [00:07<00:12,  1.41it/s] 45%|████▌     | 14/31 [00:07<00:09,  1.74it/s] 48%|████▊     | 15/31 [00:08<00:08,  1.78it/s] 55%|█████▍    | 17/31 [00:09<00:06,  2.26it/s] 58%|█████▊    | 18/31 [00:09<00:05,  2.26it/s] 61%|██████▏   | 19/31 [00:09<00:04,  2.48it/s] 65%|██████▍   | 20/31 [00:10<00:04,  2.69it/s] 68%|██████▊   | 21/31 [00:10<00:03,  3.30it/s] 71%|███████   | 22/31 [00:10<00:02,  3.02it/s] 74%|███████▍  | 23/31 [00:10<00:02,  3.20it/s] 81%|████████  | 25/31 [00:11<00:01,  4.42it/s] 87%|████████▋ | 27/31 [00:11<00:00,  5.91it/s] 90%|█████████ | 28/31 [00:11<00:00,  4.80it/s]100%|██████████| 31/31 [00:11<00:00,  2.65it/s]
+Pulled 115441 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (vs RHP, best pitcher matchups):
+   1. CLE: xwOBA 0.278 · K% 177.4
+   2. SD: xwOBA 0.292 · K% 174.3
+   3. HOU: xwOBA 0.302 · K% 178.1
+   4. AZ: xwOBA 0.305 · K% 173.4
+   5. BOS: xwOBA 0.306 · K% 178.7
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-19 -> 2026-06-18 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:03<01:35,  3.18s/it] 10%|▉         | 3/31 [00:04<00:34,  1.22s/it] 13%|█▎        | 4/31 [00:04<00:26,  1.03it/s] 16%|█▌        | 5/31 [00:05<00:20,  1.24it/s] 19%|█▉        | 6/31 [00:06<00:21,  1.18it/s] 23%|██▎       | 7/31 [00:10<00:49,  2.07s/it] 26%|██▌       | 8/31 [00:11<00:34,  1.48s/it] 29%|██▉       | 9/31 [00:11<00:24,  1.13s/it] 32%|███▏      | 10/31 [00:11<00:17,  1.20it/s] 35%|███▌      | 11/31 [00:11<00:12,  1.63it/s] 42%|████▏     | 13/31 [00:11<00:06,  2.68it/s] 58%|█████▊    | 18/31 [00:11<00:02,  6.40it/s] 65%|██████▍   | 20/31 [00:14<00:04,  2.44it/s] 71%|███████   | 22/31 [00:14<00:03,  2.92it/s] 77%|███████▋  | 24/31 [00:15<00:02,  3.13it/s] 81%|████████  | 25/31 [00:15<00:01,  3.48it/s] 87%|████████▋ | 27/31 [00:15<00:00,  4.74it/s] 97%|█████████▋| 30/31 [00:15<00:00,  7.14it/s]100%|██████████| 31/31 [00:15<00:00,  2.01it/s]
+Pulled 115729 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. SD: wOBA 0.284 (n=645) · K% 23.3 (rank 7)
+   2. CLE: wOBA 0.29 (n=609) · K% 22.8 (rank 9)
+   3. PHI: wOBA 0.294 (n=630) · K% 27.8 (rank 1)
+   4. ARI: wOBA 0.298 (n=797) · K% 20.3 (rank 24)
+   5. TEX: wOBA 0.303 (n=743) · K% 20.5 (rank 23)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+  2026-06-15 Jj Bleday — 365ft off David Peterson (2-0 Slider), 3 RBI, RF
+  2026-06-15 Eugenio Suárez — 406ft off Jonathan Pintaro (3-2 Cutter), 4 RBI, LCF
+  2026-06-15 Eugenio Suárez — 376ft off Tobias Myers (3-2 4-Seam Fastball), 2 RBI, LF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-20 -> 2026-06-19 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:00<00:23,  1.28it/s]  6%|▋         | 2/31 [00:01<00:20,  1.40it/s] 10%|▉         | 3/31 [00:01<00:15,  1.80it/s] 26%|██▌       | 8/31 [00:02<00:03,  6.30it/s] 39%|███▊      | 12/31 [00:02<00:01,  9.63it/s] 48%|████▊     | 15/31 [00:02<00:01,  9.96it/s] 58%|█████▊    | 18/31 [00:02<00:01, 11.70it/s] 65%|██████▍   | 20/31 [00:02<00:01, 10.85it/s] 71%|███████   | 22/31 [00:03<00:01,  7.83it/s] 97%|█████████▋| 30/31 [00:03<00:00, 16.48it/s]100%|██████████| 31/31 [00:03<00:00,  9.03it/s]
+Pulled 113760 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. SD: wOBA 0.282 (n=615) · K% 23.7 (rank 6)
+   2. ARI: wOBA 0.297 (n=765) · K% 20.5 (rank 22)
+   3. CLE: wOBA 0.297 (n=596) · K% 23.5 (rank 7)
+   4. PHI: wOBA 0.298 (n=616) · K% 27.1 (rank 1)
+   5. TEX: wOBA 0.299 (n=739) · K% 21.2 (rank 17)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+  2026-06-15 Jj Bleday — 365ft off David Peterson (2-0 Slider), 3 RBI, RF
+  2026-06-15 Eugenio Suárez — 406ft off Jonathan Pintaro (3-2 Cutter), 4 RBI, LCF
+  2026-06-15 Eugenio Suárez — 376ft off Tobias Myers (3-2 4-Seam Fastball), 2 RBI, LF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-21 -> 2026-06-20 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:01<00:30,  1.01s/it]  6%|▋         | 2/31 [00:01<00:27,  1.07it/s] 13%|█▎        | 4/31 [00:02<00:13,  2.00it/s] 19%|█▉        | 6/31 [00:02<00:07,  3.22it/s] 23%|██▎       | 7/31 [00:02<00:06,  3.74it/s] 29%|██▉       | 9/31 [00:02<00:03,  5.66it/s] 35%|███▌      | 11/31 [00:03<00:03,  6.35it/s] 45%|████▌     | 14/31 [00:03<00:02,  5.81it/s] 48%|████▊     | 15/31 [00:03<00:03,  5.00it/s] 55%|█████▍    | 17/31 [00:04<00:02,  6.63it/s] 61%|██████▏   | 19/31 [00:04<00:01,  7.44it/s] 68%|██████▊   | 21/31 [00:04<00:01,  5.81it/s] 71%|███████   | 22/31 [00:04<00:01,  6.01it/s] 87%|████████▋ | 27/31 [00:05<00:00, 11.34it/s] 94%|█████████▎| 29/31 [00:05<00:00, 12.20it/s]100%|██████████| 31/31 [00:06<00:00,  4.87it/s]100%|██████████| 31/31 [00:06<00:00,  4.92it/s]
+Pulled 113451 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. SD: wOBA 0.294 (n=618) · K% 23.9 (rank 7)
+   2. ARI: wOBA 0.297 (n=747) · K% 20.2 (rank 23)
+   3. ATL: wOBA 0.3 (n=541) · K% 22.0 (rank 12)
+   4. CLE: wOBA 0.3 (n=592) · K% 24.0 (rank 6)
+   5. PHI: wOBA 0.3 (n=610) · K% 26.9 (rank 2)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+  2026-06-15 Jj Bleday — 365ft off David Peterson (2-0 Slider), 3 RBI, RF
+  2026-06-15 Eugenio Suárez — 406ft off Jonathan Pintaro (3-2 Cutter), 4 RBI, LCF
+  2026-06-15 Eugenio Suárez — 376ft off Tobias Myers (3-2 4-Seam Fastball), 2 RBI, LF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-22 -> 2026-06-21 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:00<00:28,  1.06it/s]  6%|▋         | 2/31 [00:01<00:23,  1.22it/s] 13%|█▎        | 4/31 [00:01<00:09,  2.94it/s] 42%|████▏     | 13/31 [00:01<00:01, 12.70it/s] 55%|█████▍    | 17/31 [00:04<00:03,  4.33it/s] 65%|██████▍   | 20/31 [00:04<00:02,  4.03it/s] 71%|███████   | 22/31 [00:05<00:01,  4.53it/s] 77%|███████▋  | 24/31 [00:05<00:01,  4.47it/s] 84%|████████▍ | 26/31 [00:05<00:01,  4.93it/s] 87%|████████▋ | 27/31 [00:06<00:00,  5.04it/s] 90%|█████████ | 28/31 [00:06<00:00,  4.66it/s] 94%|█████████▎| 29/31 [00:08<00:01,  1.75it/s] 97%|█████████▋| 30/31 [00:09<00:00,  1.57it/s]100%|██████████| 31/31 [00:09<00:00,  1.92it/s]100%|██████████| 31/31 [00:09<00:00,  3.30it/s]
+Pulled 115657 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. ATL: wOBA 0.288 (n=517) · K% 22.2 (rank 10)
+   2. SD: wOBA 0.298 (n=632) · K% 23.7 (rank 6)
+   3. ARI: wOBA 0.3 (n=747) · K% 20.1 (rank 23)
+   4. CLE: wOBA 0.306 (n=599) · K% 24.7 (rank 3)
+   5. NYM: wOBA 0.31 (n=714) · K% 24.6 (rank 4)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-20 Spencer Steer — 407ft off Will Warren (2-1 Sinker), 3 RBI, LF
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+  2026-06-15 Jj Bleday — 365ft off David Peterson (2-0 Slider), 3 RBI, RF
+  2026-06-15 Eugenio Suárez — 406ft off Jonathan Pintaro (3-2 Cutter), 4 RBI, LCF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-23 -> 2026-06-22 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:00<00:22,  1.32it/s]  6%|▋         | 2/31 [00:03<00:56,  1.95s/it] 10%|▉         | 3/31 [00:03<00:30,  1.11s/it] 13%|█▎        | 4/31 [00:04<00:25,  1.07it/s] 16%|█▌        | 5/31 [00:04<00:16,  1.57it/s] 19%|█▉        | 6/31 [00:04<00:11,  2.14it/s] 26%|██▌       | 8/31 [00:04<00:06,  3.59it/s] 29%|██▉       | 9/31 [00:05<00:06,  3.45it/s] 32%|███▏      | 10/31 [00:05<00:05,  3.76it/s] 39%|███▊      | 12/31 [00:05<00:03,  5.76it/s] 45%|████▌     | 14/31 [00:07<00:09,  1.72it/s] 48%|████▊     | 15/31 [00:08<00:09,  1.71it/s] 52%|█████▏    | 16/31 [00:08<00:07,  1.90it/s] 55%|█████▍    | 17/31 [00:09<00:06,  2.15it/s] 58%|█████▊    | 18/31 [00:09<00:05,  2.22it/s] 61%|██████▏   | 19/31 [00:10<00:07,  1.65it/s] 65%|██████▍   | 20/31 [00:10<00:05,  2.02it/s] 71%|███████   | 22/31 [00:11<00:04,  1.97it/s] 77%|███████▋  | 24/31 [00:12<00:02,  2.66it/s] 87%|████████▋ | 27/31 [00:12<00:00,  4.32it/s] 90%|█████████ | 28/31 [00:12<00:00,  3.71it/s] 94%|█████████▎| 29/31 [00:13<00:00,  3.37it/s] 97%|█████████▋| 30/31 [00:13<00:00,  2.80it/s]100%|██████████| 31/31 [00:15<00:00,  1.37it/s]100%|██████████| 31/31 [00:15<00:00,  1.99it/s]
+Pulled 115490 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. ATL: wOBA 0.293 (n=494) · K% 22.3 (rank 11)
+   2. SD: wOBA 0.295 (n=656) · K% 24.4 (rank 5)
+   3. CLE: wOBA 0.3 (n=618) · K% 24.4 (rank 4)
+   4. ARI: wOBA 0.304 (n=749) · K% 20.0 (rank 25)
+   5. NYM: wOBA 0.312 (n=718) · K% 25.1 (rank 3)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-21 Tyler Stephenson — 401ft off Elmer Rodriguez (3-1 4-Seam Fastball), 3 RBI, LF
+  2026-06-20 Spencer Steer — 407ft off Will Warren (2-1 Sinker), 3 RBI, LF
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+  2026-06-15 Jj Bleday — 365ft off David Peterson (2-0 Slider), 3 RBI, RF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-24 -> 2026-06-23 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:01<00:34,  1.14s/it] 10%|▉         | 3/31 [00:01<00:10,  2.79it/s] 16%|█▌        | 5/31 [00:01<00:08,  3.11it/s] 26%|██▌       | 8/31 [00:01<00:03,  5.83it/s] 39%|███▊      | 12/31 [00:02<00:01,  9.96it/s] 48%|████▊     | 15/31 [00:02<00:01, 12.05it/s] 58%|█████▊    | 18/31 [00:02<00:01,  9.31it/s] 68%|██████▊   | 21/31 [00:03<00:01,  9.47it/s] 74%|███████▍  | 23/31 [00:03<00:00, 10.27it/s] 81%|████████  | 25/31 [00:03<00:00,  8.23it/s] 94%|█████████▎| 29/31 [00:03<00:00, 12.04it/s]100%|██████████| 31/31 [00:03<00:00, 10.26it/s]100%|██████████| 31/31 [00:03<00:00,  7.81it/s]
+Pulled 114799 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. SD: wOBA 0.296 (n=659) · K% 24.3 (rank 4)
+   2. ATL: wOBA 0.298 (n=498) · K% 21.5 (rank 14)
+   3. ARI: wOBA 0.301 (n=743) · K% 19.4 (rank 28)
+   4. CLE: wOBA 0.313 (n=598) · K% 24.1 (rank 5)
+   5. CIN: wOBA 0.315 (n=733) · K% 27.6 (rank 1)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-21 Tyler Stephenson — 401ft off Elmer Rodriguez (3-1 4-Seam Fastball), 3 RBI, LF
+  2026-06-20 Spencer Steer — 407ft off Will Warren (2-1 Sinker), 3 RBI, LF
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+  2026-06-15 Jj Bleday — 365ft off David Peterson (2-0 Slider), 3 RBI, RF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-26 -> 2026-06-25 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:01<00:45,  1.52s/it]  6%|▋         | 2/31 [00:02<00:26,  1.09it/s] 13%|█▎        | 4/31 [00:02<00:14,  1.87it/s] 29%|██▉       | 9/31 [00:02<00:03,  5.54it/s] 45%|████▌     | 14/31 [00:03<00:02,  7.92it/s] 52%|█████▏    | 16/31 [00:03<00:02,  6.23it/s] 65%|██████▍   | 20/31 [00:04<00:01,  7.18it/s] 74%|███████▍  | 23/31 [00:04<00:00,  9.10it/s] 81%|████████  | 25/31 [00:04<00:00,  7.45it/s] 94%|█████████▎| 29/31 [00:04<00:00, 10.80it/s]100%|██████████| 31/31 [00:05<00:00,  5.66it/s]
+Pulled 116062 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. ARI: wOBA 0.296 (n=730) · K% 18.8 (rank 28)
+   2. ATL: wOBA 0.296 (n=517) · K% 21.7 (rank 17)
+   3. SD: wOBA 0.301 (n=683) · K% 24.2 (rank 4)
+   4. BOS: wOBA 0.31 (n=720) · K% 21.4 (rank 18)
+   5. CIN: wOBA 0.316 (n=747) · K% 26.6 (rank 1)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-24 Spencer Steer — 400ft off Craig Yoho (0-1 4-Seam Fastball), 2 RBI, RCF
+  2026-06-21 Tyler Stephenson — 401ft off Elmer Rodriguez (3-1 4-Seam Fastball), 3 RBI, LF
+  2026-06-20 Spencer Steer — 407ft off Will Warren (2-1 Sinker), 3 RBI, LF
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-27 -> 2026-06-26 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:01<00:48,  1.63s/it] 10%|▉         | 3/31 [00:01<00:12,  2.16it/s] 16%|█▌        | 5/31 [00:01<00:07,  3.70it/s] 26%|██▌       | 8/31 [00:02<00:03,  6.39it/s] 39%|███▊      | 12/31 [00:02<00:01, 10.78it/s] 48%|████▊     | 15/31 [00:04<00:06,  2.63it/s] 55%|█████▍    | 17/31 [00:05<00:04,  3.03it/s] 61%|██████▏   | 19/31 [00:05<00:03,  3.26it/s] 65%|██████▍   | 20/31 [00:05<00:03,  3.53it/s] 68%|██████▊   | 21/31 [00:06<00:02,  3.58it/s] 71%|███████   | 22/31 [00:06<00:02,  4.05it/s] 74%|███████▍  | 23/31 [00:06<00:01,  4.29it/s] 81%|████████  | 25/31 [00:06<00:01,  5.08it/s] 84%|████████▍ | 26/31 [00:07<00:00,  5.04it/s] 97%|█████████▋| 30/31 [00:07<00:00,  6.96it/s]100%|██████████| 31/31 [00:07<00:00,  4.19it/s]
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 22, in <module>
+    from pandas.compat import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/__init__.py", line 28, in <module>
+    from pandas.compat.pyarrow import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/compat/pyarrow.py", line 9, in <module>
+    import pyarrow as pa
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.4.2 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 325, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_team_splits.py", line 252, in main
+    from pybaseball import statcast
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/__init__.py", line 1, in <module>
+    import pybaseball.utils
+  File "/usr/local/lib/python3.11/site-packages/pybaseball/utils.py", line 8, in <module>
+    import pandas as pd
+  File "/usr/local/lib/python3.11/site-packages/pandas/__init__.py", line 46, in <module>
+    from pandas.core.api import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/api.py", line 9, in <module>
+    from pandas.core.dtypes.dtypes import (
+  File "/usr/local/lib/python3.11/site-packages/pandas/core/dtypes/dtypes.py", line 28, in <module>
+    from pandas._libs import (
+  File "/usr/local/lib/python3.11/site-packages/pyarrow/__init__.py", line 65, in <module>
+    import pyarrow.lib as _lib
+AttributeError: _ARRAY_API not found
+Pulling Statcast pitches: 2026-05-27 -> 2026-06-26 (this can take a few minutes)
+This is a large query, it may take a moment to complete
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:00<00:22,  1.34it/s] 10%|▉         | 3/31 [00:03<00:36,  1.29s/it] 13%|█▎        | 4/31 [00:04<00:25,  1.05it/s] 16%|█▌        | 5/31 [00:04<00:20,  1.27it/s] 19%|█▉        | 6/31 [00:04<00:16,  1.49it/s] 26%|██▌       | 8/31 [00:05<00:09,  2.36it/s] 29%|██▉       | 9/31 [00:05<00:08,  2.69it/s] 32%|███▏      | 10/31 [00:06<00:09,  2.14it/s] 35%|███▌      | 11/31 [00:06<00:08,  2.44it/s] 39%|███▊      | 12/31 [00:06<00:07,  2.45it/s] 45%|████▌     | 14/31 [00:07<00:04,  3.71it/s] 52%|█████▏    | 16/31 [00:07<00:03,  4.78it/s] 55%|█████▍    | 17/31 [00:07<00:02,  4.73it/s] 61%|██████▏   | 19/31 [00:07<00:02,  5.17it/s] 68%|██████▊   | 21/31 [00:07<00:01,  6.73it/s] 71%|███████   | 22/31 [00:08<00:01,  5.50it/s] 74%|███████▍  | 23/31 [00:09<00:03,  2.55it/s] 77%|███████▋  | 24/31 [00:09<00:03,  2.32it/s] 81%|████████  | 25/31 [00:10<00:02,  2.32it/s] 84%|████████▍ | 26/31 [00:11<00:02,  1.73it/s] 87%|████████▋ | 27/31 [00:11<00:02,  1.71it/s] 90%|█████████ | 28/31 [00:12<00:01,  1.73it/s] 94%|█████████▎| 29/31 [00:12<00:00,  2.18it/s] 97%|█████████▋| 30/31 [00:12<00:00,  2.58it/s]100%|██████████| 31/31 [00:17<00:00,  1.57s/it]100%|██████████| 31/31 [00:17<00:00,  1.79it/s]
+Pulled 114034 pitches.
+
+Wrote /Users/jamesmorris/.mlb_sub_tracker/team_splits_cache.json
+
+Sample (30-day, vs RHP, best pitcher matchups by wOBA):
+   1. ARI: wOBA 0.295 (n=705) · K% 18.9 (rank 29)
+   2. ATL: wOBA 0.295 (n=505) · K% 21.2 (rank 20)
+   3. SD: wOBA 0.304 (n=649) · K% 23.7 (rank 7)
+   4. BOS: wOBA 0.312 (n=719) · K% 21.8 (rank 16)
+   5. CIN: wOBA 0.316 (n=747) · K% 26.6 (rank 1)
+Gathering player lookup table. This may take a moment.
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/reds_hr.json — 10 Reds HRs
+  2026-06-24 Spencer Steer — 400ft off Craig Yoho (0-1 4-Seam Fastball), 2 RBI, RCF
+  2026-06-21 Tyler Stephenson — 401ft off Elmer Rodriguez (3-1 4-Seam Fastball), 3 RBI, LF
+  2026-06-20 Spencer Steer — 407ft off Will Warren (2-1 Sinker), 3 RBI, LF
+  2026-06-16 Spencer Steer — 392ft off Kodai Senga (3-2 4-Seam Fastball), 1 RBI, LF
+  2026-06-16 Sal Stewart — 410ft off Kodai Senga (2-1 Sinker), 3 RBI, LF
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+
+pybaseball isn't installed. Run:
+  pip3 install pybaseball --break-system-packages
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.mlbsubtracker</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/zsh</string>
+        <string>-lc</string>
+        <!-- Edit the path below if you put the script somewhere else. -->
+        <string>python3 "$HOME/MLBSubTracker/mlb_sub_tracker.py" &gt;&gt; "$HOME/MLBSubTracker/run.log" 2&gt;&amp;1</string>
+    </array>
+
+    <!-- Runs every day at 9:00 AM. The Mac must be awake at this time. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Also run once right after loading, so you can confirm it works. -->
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
