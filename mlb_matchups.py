@@ -38,9 +38,7 @@ from pathlib import Path
 API = "https://statsapi.mlb.com/api/v1"
 LIVE_API = "https://statsapi.mlb.com/api/v1.1"
 CACHE_DIR = Path.home() / ".mlb_sub_tracker"
-_repo_splits = Path(__file__).parent / "data" / "team_splits_cache.json"
-_local_splits = Path.home() / ".mlb_sub_tracker" / "team_splits_cache.json"
-TEAM_SPLITS_PATH = _repo_splits if _repo_splits.exists() else _local_splits
+TEAM_SPLITS_PATH = CACHE_DIR / "team_splits_cache.json"
 STATE_PATH = CACHE_DIR / "matchup_state.json"
 OUTPUT_FILENAME = "mlb_matchups.json"
 USER_AGENT = "mlb-matchups/1.0 (personal use)"
@@ -71,9 +69,6 @@ def fetch_json(url, retries=3, timeout=20):
 
 
 def resolve_output_dir():
-    _repo_data = Path(__file__).parent / "data"
-    if _repo_data.exists():
-        return _repo_data
     from gh_output import resolve_output_dir as _r
     return _r()
 
