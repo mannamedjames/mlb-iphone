@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.mlb_sub_tracker/
+matchups.log
+team_splits.log
+run.log
+scheduler.log

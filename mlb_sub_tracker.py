@@ -74,24 +74,8 @@ def fetch_json(url, retries=3, timeout=30):
 
 # -------------------------------------------------------------- output location
 def resolve_output_dir():
-    """Prefer the Scriptable iCloud Documents folder so the phone can read it
-    with FileManager.iCloud(). Fall back to plain iCloud Drive, then home."""
-    home = Path.home()
-    candidates = [
-        home / "Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents",
-        home / "Library/Mobile Documents/com~apple~CloudDocs/MLBSubTracker",
-        home / "MLBSubTracker",
-    ]
-    for c in candidates:
-        try:
-            if c.parent.exists():
-                c.mkdir(parents=True, exist_ok=True)
-                return c
-        except OSError:
-            continue
-    fallback = home / "MLBSubTracker"
-    fallback.mkdir(parents=True, exist_ok=True)
-    return fallback
+    from gh_output import resolve_output_dir as _r
+    return _r()
 
 
 # ------------------------------------------------------------------- boxscores

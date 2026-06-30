@@ -1,0 +1,50 @@
+name: Matchups & Subs
+
+on:
+  schedule:
+    - cron: '30 13 * * *'
+    - cron: '0  17 * * *'
+    - cron: '0  21 * * *'
+    - cron: '0   0 * * *'
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Which job to run'
+        required: true
+        default: 'all'
+        type: choice
+        options: [all, matchups, subs]
+
+concurrency:
+  group: matchups
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run sub tracker
+        if: >
+          github.event_name == 'schedule' ||
+          github.event.inputs.target == 'all' ||
+          github.event.inputs.target == 'subs'
+        run: python mlb_sub_tracker.py
+      - name: Run matchups
+        if: >
+          github.event_name == 'schedule' ||
+          github.event.inputs.target == 'all' ||
+          github.event.inputs.target == 'matchups'
+        run: python mlb_matchups.py
+      - name: Commit data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "matchups: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

@@ -1911,3 +1911,137 @@ Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/D
   ATH (J.T. Ginn) @ LAA (Walbert Ureña) — 2026-06-27T01:38:00Z
   LAD (Roki Sasaki) @ SD (Walker Buehler) — 2026-06-27T01:45:00Z
   ATL (Reynaldo López) @ SF (TBD) — 2026-06-27T02:15:00Z
+Window: 2026-05-28 -> 2026-06-27
+Traceback (most recent call last):
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 274, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 222, in main
+    sched = fetch_json(
+            ^^^^^^^^^^^
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 72, in fetch_json
+    raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+RuntimeError: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-05-28&endDate=2026-06-27: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Window: 2026-05-28 -> 2026-06-27
+Traceback (most recent call last):
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 274, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 222, in main
+    sched = fetch_json(
+            ^^^^^^^^^^^
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 72, in fetch_json
+    raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+RuntimeError: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-05-28&endDate=2026-06-27: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Window: 2026-05-28 -> 2026-06-27
+Traceback (most recent call last):
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 274, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 222, in main
+    sched = fetch_json(
+            ^^^^^^^^^^^
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 72, in fetch_json
+    raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+RuntimeError: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-05-28&endDate=2026-06-27: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Window: 2026-05-28 -> 2026-06-27
+Traceback (most recent call last):
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 274, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 222, in main
+    sched = fetch_json(
+            ^^^^^^^^^^^
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 72, in fetch_json
+    raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+RuntimeError: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-05-28&endDate=2026-06-27: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Window: 2026-05-29 -> 2026-06-28
+Traceback (most recent call last):
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 274, in <module>
+    main()
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 222, in main
+    sched = fetch_json(
+            ^^^^^^^^^^^
+  File "/Users/jamesmorris/Coding/MLBSubTracker/mlb_sub_tracker.py", line 72, in fetch_json
+    raise RuntimeError(f"Failed to fetch {url}: {last_err}")
+RuntimeError: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-05-29&endDate=2026-06-28: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+Window: 2026-05-29 -> 2026-06-28
+Completed games in window: 418
+  processed 25/418
+  processed 50/418
+  processed 75/418
+  processed 100/418
+  processed 125/418
+  processed 150/418
+  processed 175/418
+  processed 200/418
+  processed 225/418
+  processed 250/418
+  processed 275/418
+  processed 300/418
+  processed 325/418
+  processed 350/418
+  processed 375/418
+  processed 400/418
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_sub_tracker.json
+
+Top subbed OUT:
+  1. Trevor Larnach (MIN) — 15 games [started 22 = 79%, hits 27]
+  2. Kerry Carpenter (DET) — 14 games [started 21 = 75%, hits 18]
+  3. Owen Caissie (MIA) — 13 games [started 22 = 81%, hits 16]
+  4. Nathaniel Lowe (CIN) — 13 games [started 20 = 74%, hits 13]
+  5. Ryan Ward (LAD) — 11 games [started 16 = 57%, hits 10]
+Top subbed IN:
+  1. Alex Call (LAD) — 14 games [started 12 = 43%, hits 13]
+  2. Brice Matthews (HOU) — 14 games [started 11 = 39%, hits 8]
+  3. Miguel Rojas (LAD) — 14 games [started 7 = 25%, hits 9]
+  4. Esteury Ruiz (MIA) — 13 games [started 11 = 41%, hits 13]
+  5. Justin Foscue (TEX) — 13 games [started 5 = 18%, hits 8]
+Window: 2026-05-31 -> 2026-06-30
+Completed games in window: 402
+  processed 25/402
+  processed 50/402
+  processed 75/402
+  processed 100/402
+  processed 125/402
+  processed 150/402
+  processed 175/402
+  processed 200/402
+  processed 225/402
+  processed 250/402
+  processed 275/402
+  processed 300/402
+  processed 325/402
+  processed 350/402
+  processed 375/402
+  processed 400/402
+
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_sub_tracker.json
+
+Top subbed OUT:
+  1. Trevor Larnach (MIN) — 14 games [started 21 = 78%, hits 26]
+  2. Kerry Carpenter (DET) — 14 games [started 21 = 78%, hits 19]
+  3. Owen Caissie (MIA) — 13 games [started 20 = 77%, hits 16]
+  4. Nathaniel Lowe (CIN) — 13 games [started 19 = 73%, hits 12]
+  5. Andrew Vaughn (MIL) — 11 games [started 18 = 67%, hits 23]
+Top subbed IN:
+  1. Alex Call (LAD) — 14 games [started 10 = 37%, hits 11]
+  2. Billy Cook (PIT) — 14 games [started 1 = 4%, hits 0]
+  3. Esteury Ruiz (MIA) — 13 games [started 12 = 46%, hits 13]
+  4. Brice Matthews (HOU) — 13 games [started 11 = 41%, hits 8]
+  5. Miguel Rojas (LAD) — 13 games [started 7 = 26%, hits 11]
+--
+Tue Jun 30 15:34:39 MDT 2026: on-demand refresh requested from phone (target: matchups)
+Wrote /Users/jamesmorris/Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents/mlb_matchups.json — 15 games
+  CWS (Erick Fedde) @ BAL (Trey Gibson) — 2026-06-30T22:35:00Z
+  TEX (Jacob deGrom) @ CLE (Tanner Bibee) — 2026-06-30T22:40:00Z
+  PIT (Bubba Chandler) @ PHI (Cristopher Sánchez) — 2026-06-30T22:40:00Z
+  DET (Tarik Skubal) @ NYY (Cam Schlittler) — 2026-06-30T23:05:00Z
+  NYM (Nolan McLean) @ TOR (Kevin Gausman) — 2026-06-30T23:07:00Z
+  WSH (Cade Cavalli) @ BOS (Connelly Early) — 2026-06-30T23:10:00Z
+  STL (Matthew Liberatore) @ ATL (Martín Pérez) — 2026-06-30T23:15:00Z
+  TB (Griffin Jax) @ KC (Noah Cameron) — 2026-06-30T23:40:00Z
+  CIN (Rhett Lowder) @ MIL (Brandon Sproat) — 2026-06-30T23:40:00Z
+  SD (JP Sears) @ CHC (Matthew Boyd) — 2026-07-01T00:05:00Z
+  MIN (Joe Ryan) @ HOU (Mike Burrows) — 2026-07-01T00:10:00Z
+  MIA (Eury Pérez) @ COL (Tanner Gordon) — 2026-07-01T00:40:00Z
+  LAD (Justin Wrobleski) @ ATH (Jeffrey Springs) — 2026-07-01T01:40:00Z
+  LAA (José Soriano) @ SEA (Bryan Woo) — 2026-07-01T01:40:00Z
+  SF (Landen Roupp) @ AZ (Brandon Pfaadt) — 2026-07-01T01:40:00Z

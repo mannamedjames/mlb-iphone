@@ -6,3 +6,10 @@ No games today — skipping the two first-pitch-relative slots.
 Firing slot 'after_first_pitch' (target 2026-06-19 20:20:00, now 2026-06-19 20:14:32.760425)
 Firing slot 'after_first_pitch' (target 2026-06-20 19:10:00, now 2026-06-20 19:06:24.920383)
 Firing slot 'before_first_pitch' (target 2026-06-22 21:10:00, now 2026-06-22 21:07:39.898416)
+couldn't fetch today's schedule: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-06-27: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+No games today — skipping the two first-pitch-relative slots.
+couldn't fetch today's schedule: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-06-27: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+No games today — skipping the two first-pitch-relative slots.
+couldn't fetch today's schedule: Failed to fetch https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-06-28: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+No games today — skipping the two first-pitch-relative slots.
+Firing slot 'before_first_pitch' (target 2026-06-30 21:35:00, now 2026-06-30 21:36:16.586350)

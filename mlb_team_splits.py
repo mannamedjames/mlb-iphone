@@ -34,7 +34,6 @@ from datetime import date, timedelta
 from pathlib import Path
 
 CACHE_DIR = Path.home() / ".mlb_sub_tracker"
-OUTPUT_PATH = CACHE_DIR / "team_splits_cache.json"
 WINDOW_DAYS = 30
 SHORT_WINDOW_DAYS = 7
 
@@ -81,23 +80,8 @@ HR_COUNT = 10
 
 
 def hr_output_path():
-    """Same iCloud-folder resolution as the matchups script uses."""
-    home = Path.home()
-    candidates = [
-        home / "Library/Mobile Documents/iCloud~dk~simonbs~Scriptable/Documents",
-        home / "Library/Mobile Documents/com~apple~CloudDocs/MLBSubTracker",
-        home / "MLBSubTracker",
-    ]
-    for c in candidates:
-        try:
-            if c.parent.exists():
-                c.mkdir(parents=True, exist_ok=True)
-                return c / HR_OUTPUT_FILENAME
-        except OSError:
-            continue
-    fb = home / "MLBSubTracker"
-    fb.mkdir(parents=True, exist_ok=True)
-    return fb / HR_OUTPUT_FILENAME
+    from gh_output import resolve_output_dir
+    return resolve_output_dir() / HR_OUTPUT_FILENAME
 
 
 def spray_field(hc_x, hc_y, stand):
@@ -297,6 +281,8 @@ def main():
     }
 
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    from gh_output import resolve_output_dir
+    OUTPUT_PATH = resolve_output_dir() / "team_splits_cache.json"
     OUTPUT_PATH.write_text(json.dumps(payload, indent=2, allow_nan=False))
     print(f"\nWrote {OUTPUT_PATH}")
     print("\nSample (30-day, vs RHP, best pitcher matchups by wOBA):")
