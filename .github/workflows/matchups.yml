@@ -24,9 +24,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      MLB_SPLITS_PATH: data/team_splits_cache.json
-      MLB_OUTPUT_DIR: data
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -44,10 +41,7 @@ jobs:
           github.event.inputs.target == 'all' ||
           github.event.inputs.target == 'matchups'
         run: python mlb_matchups.py
-      - name: Commit data files
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "matchups: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push --force-with-lease
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "matchups: ${{ github.run_id }}"
+          file_pattern: data/*

@@ -19,10 +19,7 @@ jobs:
         run: pip install pybaseball pandas numpy
       - name: Run team splits + Reds HRs
         run: python mlb_team_splits.py
-      - name: Commit data files
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "splits: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push --force-with-lease
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "splits: ${{ github.run_id }}"
+          file_pattern: data/*

@@ -74,17 +74,13 @@ def fetch_json(url, retries=3, timeout=30):
 
 # -------------------------------------------------------------- output location
 def resolve_output_dir():
-    import os as _os
-    _out = _os.environ.get("MLB_OUTPUT_DIR")
-    if _out:
-        p = Path(_out)
-        p.mkdir(parents=True, exist_ok=True)
-        return p
+    _repo_data = Path(__file__).parent / "data"
+    if _repo_data.exists():
+        return _repo_data
     from gh_output import resolve_output_dir as _r
     return _r()
 
 
-# ------------------------------------------------------------------- boxscores
 def get_boxscore(game_pk):
     """Return a boxscore dict, using the local cache for completed games."""
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
