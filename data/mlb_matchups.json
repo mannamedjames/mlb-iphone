@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30 15:36",
+  "generated_at": "2026-06-30 22:38",
   "date": "2026-06-30",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "88",
+        "temp": "86",
         "wind": "13 mph, Out To LF"
       },
       "home": {
@@ -26,12 +26,12 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
-            "woba30Rank": 20,
-            "woba7": 0.272,
-            "woba7Rank": 3,
-            "kPct30": 22.1,
-            "kPct30Rank": 14
+            "woba30": 0.356,
+            "woba30Rank": 23,
+            "woba7": 0.417,
+            "woba7Rank": 30,
+            "kPct30": 21.9,
+            "kPct30Rank": 17
           }
         }
       },
@@ -49,12 +49,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.344,
-            "woba30Rank": 15,
-            "woba7": 0.324,
-            "woba7Rank": 11,
-            "kPct30": 23.0,
-            "kPct30Rank": 9
+            "woba30": 0.328,
+            "woba30Rank": 11,
+            "woba7": 0.256,
+            "woba7Rank": 4,
+            "kPct30": 24.7,
+            "kPct30Rank": 4
           }
         }
       }
@@ -65,8 +65,8 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Clear",
-        "temp": "96",
+        "condition": "Partly Cloudy",
+        "temp": "90",
         "wind": "10 mph, Out To RF"
       },
       "home": {
@@ -83,12 +83,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.323,
-            "woba30Rank": 9,
-            "woba7": 0.391,
-            "woba7Rank": 26,
-            "kPct30": 20.8,
-            "kPct30Rank": 22
+            "woba30": 0.317,
+            "woba30Rank": 8,
+            "woba7": 0.323,
+            "woba7Rank": 13,
+            "kPct30": 21.6,
+            "kPct30Rank": 18
           }
         }
       },
@@ -106,12 +106,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.321,
-            "woba30Rank": 7,
-            "woba7": 0.354,
-            "woba7Rank": 22,
+            "woba30": 0.329,
+            "woba30Rank": 12,
+            "woba7": 0.331,
+            "woba7Rank": 16,
             "kPct30": 23.7,
-            "kPct30Rank": 6
+            "kPct30Rank": 8
           }
         }
       }
@@ -123,7 +123,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "89",
+        "temp": "91",
         "wind": "15 mph, Out To CF"
       },
       "home": {
@@ -140,11 +140,11 @@
           "avgIpPerOuting": 6.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.304,
+            "woba30": 0.302,
             "woba30Rank": 7,
-            "woba7": 0.194,
-            "woba7Rank": 3,
-            "kPct30": 25.2,
+            "woba7": 0.324,
+            "woba7Rank": 19,
+            "kPct30": 25.5,
             "kPct30Rank": 6
           }
         }
@@ -163,11 +163,11 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.346,
-            "woba30Rank": 19,
-            "woba7": 0.472,
-            "woba7Rank": 30,
-            "kPct30": 25.5,
+            "woba30": 0.353,
+            "woba30Rank": 22,
+            "woba7": 0.381,
+            "woba7Rank": 27,
+            "kPct30": 26.0,
             "kPct30Rank": 2
           }
         }
@@ -197,12 +197,12 @@
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.336,
-            "woba30Rank": 12,
-            "woba7": 0.304,
-            "woba7Rank": 7,
-            "kPct30": 24.4,
-            "kPct30Rank": 3
+            "woba30": 0.349,
+            "woba30Rank": 21,
+            "woba7": 0.327,
+            "woba7Rank": 14,
+            "kPct30": 23.6,
+            "kPct30Rank": 9
           }
         }
       },
@@ -220,10 +220,10 @@
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.327,
-            "woba30Rank": 16,
-            "woba7": 0.303,
-            "woba7Rank": 16,
+            "woba30": 0.317,
+            "woba30Rank": 14,
+            "woba7": 0.27,
+            "woba7Rank": 8,
             "kPct30": 24.7,
             "kPct30Rank": 9
           }
@@ -254,12 +254,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 10,
-            "woba7": 0.32,
-            "woba7Rank": 9,
-            "kPct30": 24.0,
-            "kPct30Rank": 4
+            "woba30": 0.318,
+            "woba30Rank": 9,
+            "woba7": 0.311,
+            "woba7Rank": 10,
+            "kPct30": 24.2,
+            "kPct30Rank": 6
           }
         }
       },
@@ -277,12 +277,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.339,
-            "woba30Rank": 13,
-            "woba7": 0.322,
-            "woba7Rank": 10,
-            "kPct30": 19.2,
-            "kPct30Rank": 28
+            "woba30": 0.332,
+            "woba30Rank": 14,
+            "woba7": 0.29,
+            "woba7Rank": 8,
+            "kPct30": 20.4,
+            "kPct30Rank": 24
           }
         }
       }
@@ -311,12 +311,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.359,
-            "woba30Rank": 26,
-            "woba7": 0.335,
-            "woba7Rank": 23,
-            "kPct30": 21.8,
-            "kPct30Rank": 18
+            "woba30": 0.345,
+            "woba30Rank": 22,
+            "woba7": 0.278,
+            "woba7Rank": 11,
+            "kPct30": 23.8,
+            "kPct30Rank": 11
           }
         }
       },
@@ -334,12 +334,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.312,
-            "woba30Rank": 4,
-            "woba7": 0.292,
-            "woba7Rank": 5,
-            "kPct30": 21.8,
-            "kPct30Rank": 16
+            "woba30": 0.311,
+            "woba30Rank": 5,
+            "woba7": 0.34,
+            "woba7Rank": 18,
+            "kPct30": 21.1,
+            "kPct30Rank": 20
           }
         }
       }
@@ -352,7 +352,7 @@
       "weather": {
         "condition": "Partly Cloudy",
         "temp": "92",
-        "wind": "5 mph, Out To RF"
+        "wind": "5 mph, L To R"
       },
       "home": {
         "teamId": 144,
@@ -368,11 +368,11 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.339,
-            "woba30Rank": 19,
-            "woba7": 0.245,
-            "woba7Rank": 7,
-            "kPct30": 16.1,
+            "woba30": 0.331,
+            "woba30Rank": 17,
+            "woba7": 0.19,
+            "woba7Rank": 2,
+            "kPct30": 16.9,
             "kPct30Rank": 29
           }
         }
@@ -391,12 +391,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 11,
-            "woba7": 0.287,
-            "woba7Rank": 11,
-            "kPct30": 22.7,
-            "kPct30Rank": 13
+            "woba30": 0.307,
+            "woba30Rank": 9,
+            "woba7": 0.265,
+            "woba7Rank": 5,
+            "kPct30": 20.2,
+            "kPct30Rank": 23
           }
         }
       }
@@ -408,8 +408,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "91",
-        "wind": "15 mph, Out To LF"
+        "temp": "93",
+        "wind": "15 mph, R To L"
       },
       "home": {
         "teamId": 118,
@@ -425,12 +425,12 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.305,
-            "woba30Rank": 8,
-            "woba7": 0.297,
-            "woba7Rank": 14,
-            "kPct30": 20.1,
-            "kPct30Rank": 25
+            "woba30": 0.298,
+            "woba30Rank": 6,
+            "woba7": 0.349,
+            "woba7Rank": 23,
+            "kPct30": 19.5,
+            "kPct30Rank": 28
           }
         }
       },
@@ -448,12 +448,12 @@
           "avgIpPerOuting": 4.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.345,
-            "woba30Rank": 18,
-            "woba7": 0.347,
-            "woba7Rank": 19,
-            "kPct30": 20.5,
-            "kPct30Rank": 23
+            "woba30": 0.34,
+            "woba30Rank": 17,
+            "woba7": 0.246,
+            "woba7Rank": 3,
+            "kPct30": 21.2,
+            "kPct30Rank": 19
           }
         }
       }
@@ -465,8 +465,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "93",
-        "wind": "16 mph, R To L"
+        "temp": "92",
+        "wind": "14 mph, R To L"
       },
       "home": {
         "teamId": 158,
@@ -482,11 +482,11 @@
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.316,
-            "woba30Rank": 5,
-            "woba7": 0.282,
-            "woba7Rank": 4,
-            "kPct30": 26.6,
+            "woba30": 0.31,
+            "woba30Rank": 4,
+            "woba7": 0.301,
+            "woba7Rank": 9,
+            "kPct30": 27.2,
             "kPct30Rank": 1
           }
         }
@@ -505,12 +505,12 @@
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
-            "woba30Rank": 22,
-            "woba7": 0.318,
-            "woba7Rank": 8,
-            "kPct30": 21.9,
-            "kPct30Rank": 15
+            "woba30": 0.367,
+            "woba30Rank": 25,
+            "woba7": 0.376,
+            "woba7Rank": 24,
+            "kPct30": 21.1,
+            "kPct30Rank": 22
           }
         }
       }
@@ -522,8 +522,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "92",
-        "wind": "16 mph, Out To CF"
+        "temp": "94",
+        "wind": "19 mph, Out To CF"
       },
       "home": {
         "teamId": 112,
@@ -539,12 +539,12 @@
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.32,
+            "woba30": 0.313,
             "woba30Rank": 12,
-            "woba7": 0.315,
-            "woba7Rank": 18,
-            "kPct30": 21.0,
-            "kPct30Rank": 22
+            "woba7": 0.367,
+            "woba7Rank": 24,
+            "kPct30": 19.8,
+            "kPct30Rank": 26
           }
         }
       },
@@ -562,12 +562,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.37,
+            "woba30": 0.364,
             "woba30Rank": 28,
-            "woba7": 0.433,
-            "woba7Rank": 28,
-            "kPct30": 19.2,
-            "kPct30Rank": 28
+            "woba7": 0.329,
+            "woba7Rank": 20,
+            "kPct30": 20.6,
+            "kPct30Rank": 21
           }
         }
       }
@@ -596,12 +596,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.36,
+            "woba30": 0.372,
             "woba30Rank": 26,
-            "woba7": 0.417,
-            "woba7Rank": 29,
-            "kPct30": 19.5,
-            "kPct30Rank": 26
+            "woba7": 0.349,
+            "woba7Rank": 20,
+            "kPct30": 16.9,
+            "kPct30Rank": 30
           }
         }
       },
@@ -619,12 +619,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.333,
-            "woba30Rank": 11,
-            "woba7": 0.325,
-            "woba7Rank": 13,
-            "kPct30": 23.0,
-            "kPct30Rank": 10
+            "woba30": 0.332,
+            "woba30Rank": 13,
+            "woba7": 0.328,
+            "woba7Rank": 15,
+            "kPct30": 23.8,
+            "kPct30Rank": 7
           }
         }
       }
@@ -634,7 +634,11 @@
       "gameTime": "2026-07-01T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "10 mph, Out To RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -649,12 +653,12 @@
           "avgIpPerOuting": 4.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.34,
-            "woba30Rank": 14,
-            "woba7": 0.351,
-            "woba7Rank": 21,
-            "kPct30": 22.9,
-            "kPct30Rank": 11
+            "woba30": 0.343,
+            "woba30Rank": 18,
+            "woba7": 0.378,
+            "woba7Rank": 26,
+            "kPct30": 21.1,
+            "kPct30Rank": 21
           }
         }
       },
@@ -672,12 +676,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.385,
+            "woba30": 0.384,
             "woba30Rank": 29,
-            "woba7": 0.349,
-            "woba7Rank": 20,
-            "kPct30": 20.3,
-            "kPct30Rank": 24
+            "woba7": 0.366,
+            "woba7Rank": 22,
+            "kPct30": 19.0,
+            "kPct30Rank": 26
           }
         }
       }
@@ -706,12 +710,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.276,
-            "woba30Rank": 2,
-            "woba7": 0.249,
-            "woba7Rank": 9,
-            "kPct30": 21.6,
-            "kPct30Rank": 20
+            "woba30": 0.306,
+            "woba30Rank": 8,
+            "woba7": 0.442,
+            "woba7Rank": 30,
+            "kPct30": 21.7,
+            "kPct30Rank": 17
           }
         }
       },
@@ -729,12 +733,12 @@
           "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.384,
+            "woba30": 0.369,
             "woba30Rank": 29,
-            "woba7": 0.311,
-            "woba7Rank": 17,
-            "kPct30": 23.4,
-            "kPct30Rank": 12
+            "woba7": 0.276,
+            "woba7Rank": 10,
+            "kPct30": 22.7,
+            "kPct30Rank": 15
           }
         }
       }
@@ -763,12 +767,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
-            "woba30Rank": 21,
-            "woba7": 0.335,
-            "woba7Rank": 17,
-            "kPct30": 23.9,
-            "kPct30Rank": 5
+            "woba30": 0.345,
+            "woba30Rank": 20,
+            "woba7": 0.322,
+            "woba7Rank": 12,
+            "kPct30": 23.6,
+            "kPct30Rank": 10
           }
         }
       },
@@ -786,12 +790,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.319,
-            "woba30Rank": 6,
-            "woba7": 0.261,
-            "woba7Rank": 2,
-            "kPct30": 21.5,
-            "kPct30Rank": 17
+            "woba30": 0.308,
+            "woba30Rank": 3,
+            "woba7": 0.32,
+            "woba7Rank": 11,
+            "kPct30": 22.3,
+            "kPct30Rank": 16
           }
         }
       }
@@ -820,12 +824,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.367,
+            "woba30": 0.374,
             "woba30Rank": 27,
-            "woba7": 0.332,
-            "woba7Rank": 16,
-            "kPct30": 17.8,
-            "kPct30Rank": 30
+            "woba7": 0.367,
+            "woba7Rank": 23,
+            "kPct30": 18.4,
+            "kPct30Rank": 29
           }
         }
       },
@@ -844,11 +848,11 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.295,
-            "woba30Rank": 1,
-            "woba7": 0.329,
-            "woba7Rank": 15,
-            "kPct30": 18.9,
-            "kPct30Rank": 29
+            "woba30Rank": 2,
+            "woba7": 0.279,
+            "woba7Rank": 7,
+            "kPct30": 18.5,
+            "kPct30Rank": 28
           }
         }
       }
