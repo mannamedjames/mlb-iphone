@@ -69,6 +69,11 @@ def fetch_json(url, retries=3, timeout=20):
 
 
 def resolve_output_dir():
+    _out = _os.environ.get("MLB_OUTPUT_DIR")
+    if _out:
+        p = Path(_out)
+        p.mkdir(parents=True, exist_ok=True)
+        return p
     from gh_output import resolve_output_dir as _r
     return _r()
 

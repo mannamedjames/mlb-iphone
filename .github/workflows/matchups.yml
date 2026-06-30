@@ -24,6 +24,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      MLB_SPLITS_PATH: data/team_splits_cache.json
+      MLB_OUTPUT_DIR: data
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
