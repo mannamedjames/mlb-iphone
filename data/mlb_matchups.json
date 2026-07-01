@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01 19:02",
+  "generated_at": "2026-07-01 22:23",
   "date": "2026-07-01",
   "games": [
     {
@@ -77,7 +77,7 @@
           "confirmed": true,
           "name": "Joey Cantillo",
           "hand": "L",
-          "era": "3.76",
+          "era": "3.86",
           "ipDisplay": "91.0",
           "gamesStarted": 18,
           "avgIpPerOuting": 5.1,
@@ -191,8 +191,8 @@
           "confirmed": true,
           "name": "Will Warren",
           "hand": "R",
-          "era": "3.64",
-          "ipDisplay": "89.0",
+          "era": "3.73",
+          "ipDisplay": "89.1",
           "gamesStarted": 17,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Troy Melton",
           "hand": "R",
-          "era": "2.11",
-          "ipDisplay": "42.2",
+          "era": "2.05",
+          "ipDisplay": "44.0",
           "gamesStarted": 7,
-          "avgIpPerOuting": 6.1,
+          "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.308,
@@ -248,10 +248,10 @@
           "confirmed": true,
           "name": "Colin Rea",
           "hand": "R",
-          "era": "4.66",
-          "ipDisplay": "87.0",
+          "era": "4.74",
+          "ipDisplay": "89.1",
           "gamesStarted": 14,
-          "avgIpPerOuting": 5.0,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.319,
@@ -271,10 +271,10 @@
           "confirmed": true,
           "name": "Walker Buehler",
           "hand": "R",
-          "era": "4.16",
-          "ipDisplay": "80.0",
+          "era": "4.61",
+          "ipDisplay": "82.0",
           "gamesStarted": 17,
-          "avgIpPerOuting": 4.7,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.343,
@@ -294,8 +294,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "80",
-        "wind": "14 mph, Out To RF"
+        "temp": "86",
+        "wind": "10 mph, Out To RF"
       },
       "home": {
         "teamId": 141,
@@ -305,9 +305,9 @@
           "confirmed": true,
           "name": "Braydon Fisher",
           "hand": "R",
-          "era": "3.48",
-          "ipDisplay": "44.0",
-          "gamesStarted": 5,
+          "era": "3.40",
+          "ipDisplay": "45.0",
+          "gamesStarted": 6,
           "avgIpPerOuting": 1.1,
           "isOpener": true,
           "oppSplits": {
@@ -328,10 +328,10 @@
           "confirmed": true,
           "name": "Freddy Peralta",
           "hand": "R",
-          "era": "4.53",
-          "ipDisplay": "91.1",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 5.4,
+          "era": "4.81",
+          "ipDisplay": "95.1",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.328,
@@ -349,7 +349,11 @@
       "gameTime": "2026-07-01T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "96",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -402,7 +406,11 @@
       "gameTime": "2026-07-01T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "89",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -455,7 +463,11 @@
       "gameTime": "2026-07-01T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "92",
+        "wind": "15 mph, Out To LF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -565,7 +577,11 @@
       "gameTime": "2026-07-02T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "92",
+        "wind": "14 mph, R To L"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -618,7 +634,11 @@
       "gameTime": "2026-07-02T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "13 mph, In From RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -671,7 +691,11 @@
       "gameTime": "2026-07-02T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -709,7 +733,11 @@
       "gameTime": "2026-07-02T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",

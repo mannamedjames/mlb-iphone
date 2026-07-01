@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01 19:01",
+  "generated_at": "2026-07-01 22:23",
   "window_start": "2026-06-01",
   "window_end": "2026-07-01",
-  "games_processed": 402,
+  "games_processed": 408,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -22,10 +22,10 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 13,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 19,
+      "games": 14,
+      "started": 22,
+      "pctStarted": 79,
+      "hits": 20,
       "rank": 2
     },
     {
