@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01 16:04",
+  "generated_at": "2026-07-01 19:02",
   "date": "2026-07-01",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Sunny",
-        "temp": "89",
-        "wind": "6 mph, Out To LF"
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "5 mph, Out To LF"
       },
       "home": {
         "teamId": 110,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Dean Kremer",
           "hand": "R",
-          "era": "4.09",
-          "ipDisplay": "11.0",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 5.5,
+          "era": "3.18",
+          "ipDisplay": "17.0",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.363,
@@ -43,9 +43,9 @@
           "confirmed": true,
           "name": "Noah Schultz",
           "hand": "L",
-          "era": "5.82",
-          "ipDisplay": "38.2",
-          "gamesStarted": 8,
+          "era": "5.86",
+          "ipDisplay": "43.0",
+          "gamesStarted": 9,
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
@@ -66,7 +66,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "93",
+        "temp": "90",
         "wind": "8 mph, In From LF"
       },
       "home": {
@@ -77,9 +77,9 @@
           "confirmed": true,
           "name": "Joey Cantillo",
           "hand": "L",
-          "era": "3.87",
-          "ipDisplay": "86.0",
-          "gamesStarted": 17,
+          "era": "3.76",
+          "ipDisplay": "91.0",
+          "gamesStarted": 18,
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "MacKenzie Gore",
           "hand": "L",
-          "era": "4.05",
-          "ipDisplay": "91.0",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 5.4,
+          "era": "4.31",
+          "ipDisplay": "96.0",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.217,
@@ -123,8 +123,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "92",
-        "wind": "8 mph, In From LF"
+        "temp": "95",
+        "wind": "2 mph, Out To RF"
       },
       "home": {
         "teamId": 111,
@@ -134,10 +134,10 @@
           "confirmed": true,
           "name": "Payton Tolle",
           "hand": "L",
-          "era": "2.78",
-          "ipDisplay": "71.1",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 5.9,
+          "era": "3.39",
+          "ipDisplay": "74.1",
+          "gamesStarted": 13,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.348,
@@ -157,10 +157,10 @@
           "confirmed": true,
           "name": "Brad Lord",
           "hand": "R",
-          "era": "3.31",
-          "ipDisplay": "54.1",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
+          "era": "3.18",
+          "ipDisplay": "56.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 2.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.301,
@@ -180,8 +180,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "92",
-        "wind": "9 mph, Out To LF"
+        "temp": "95",
+        "wind": "2 mph, Out To LF"
       },
       "home": {
         "teamId": 147,
@@ -191,9 +191,9 @@
           "confirmed": true,
           "name": "Will Warren",
           "hand": "R",
-          "era": "3.75",
-          "ipDisplay": "84.0",
-          "gamesStarted": 16,
+          "era": "3.64",
+          "ipDisplay": "89.0",
+          "gamesStarted": 17,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Troy Melton",
           "hand": "R",
-          "era": "2.39",
-          "ipDisplay": "37.2",
-          "gamesStarted": 6,
-          "avgIpPerOuting": 6.3,
+          "era": "2.11",
+          "ipDisplay": "42.2",
+          "gamesStarted": 7,
+          "avgIpPerOuting": 6.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.308,
@@ -237,8 +237,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "88",
-        "wind": "13 mph, Out To LF"
+        "temp": "92",
+        "wind": "12 mph, Out To CF"
       },
       "home": {
         "teamId": 112,
@@ -248,10 +248,10 @@
           "confirmed": true,
           "name": "Colin Rea",
           "hand": "R",
-          "era": "4.80",
-          "ipDisplay": "84.1",
-          "gamesStarted": 13,
-          "avgIpPerOuting": 5.2,
+          "era": "4.66",
+          "ipDisplay": "87.0",
+          "gamesStarted": 14,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.319,
@@ -271,10 +271,10 @@
           "confirmed": true,
           "name": "Walker Buehler",
           "hand": "R",
-          "era": "3.81",
-          "ipDisplay": "78.0",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 4.9,
+          "era": "4.16",
+          "ipDisplay": "80.0",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.343,
@@ -293,9 +293,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Sunny",
+        "condition": "Partly Cloudy",
         "temp": "80",
-        "wind": "15 mph, Out To RF"
+        "wind": "14 mph, Out To RF"
       },
       "home": {
         "teamId": 141,
@@ -508,7 +508,11 @@
       "gameTime": "2026-07-02T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "70",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
