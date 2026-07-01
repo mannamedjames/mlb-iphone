@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-06-30 22:36",
+  "generated_at": "2026-07-01 14:20",
   "team": "CIN",
-  "window_start": "2026-05-31",
-  "window_end": "2026-06-30",
+  "window_start": "2026-06-01",
+  "window_end": "2026-07-01",
   "homers": [
+    {
+      "batter": "Sal Stewart",
+      "batterId": 701398,
+      "pitcher": "Brandon Sproat",
+      "pitcherHand": "R",
+      "count": "1-0",
+      "pitch": "Sinker",
+      "pitchSpeed": 96.8,
+      "rbi": 1,
+      "inning": 1,
+      "halfInning": "Top",
+      "outs": 1,
+      "date": "2026-06-30",
+      "away": "CIN",
+      "home": "MIL",
+      "opponent": "MIL",
+      "opponentId": 158,
+      "distanceFt": 382,
+      "exitVeloMph": 107.3,
+      "field": "RF",
+      "desc": "Sal Stewart homers (16) on a line drive to right field."
+    },
     {
       "batter": "Elly De La Cruz",
       "batterId": 682829,
@@ -201,28 +223,6 @@
       "exitVeloMph": 106.9,
       "field": "LF",
       "desc": "Sal Stewart homers (14) on a fly ball to left field. Blake Dunn scores. JJ Bleday scores."
-    },
-    {
-      "batter": "Jj Bleday",
-      "batterId": 668709,
-      "pitcher": "David Peterson",
-      "pitcherHand": "L",
-      "count": "2-0",
-      "pitch": "Slider",
-      "pitchSpeed": 85.4,
-      "rbi": 3,
-      "inning": 8,
-      "halfInning": "Bot",
-      "outs": 2,
-      "date": "2026-06-15",
-      "away": "NYM",
-      "home": "CIN",
-      "opponent": "NYM",
-      "opponentId": 121,
-      "distanceFt": 365,
-      "exitVeloMph": 98.1,
-      "field": "RF",
-      "desc": "JJ Bleday homers (13) on a fly ball to right center field. Matt McLain scores. Tyler Stephenson scores."
     }
   ]
 }
