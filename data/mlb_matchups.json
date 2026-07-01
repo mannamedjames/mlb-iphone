@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01 14:58",
+  "generated_at": "2026-07-01 16:04",
   "date": "2026-07-01",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "93",
+        "temp": "89",
         "wind": "6 mph, Out To LF"
       },
       "home": {
@@ -155,20 +155,20 @@
         "teamName": "Washington Nationals",
         "starter": {
           "confirmed": true,
-          "name": "Andrew Alvarez",
-          "hand": "L",
-          "era": "3.44",
-          "ipDisplay": "36.2",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 4.2,
+          "name": "Brad Lord",
+          "hand": "R",
+          "era": "3.31",
+          "ipDisplay": "54.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.331,
-            "woba30Rank": 17,
-            "woba7": 0.352,
-            "woba7Rank": 21,
-            "kPct30": 20.4,
-            "kPct30Rank": 22
+            "woba30": 0.301,
+            "woba30Rank": 2,
+            "woba7": 0.306,
+            "woba7Rank": 11,
+            "kPct30": 22.2,
+            "kPct30Rank": 18
           }
         }
       }
@@ -235,7 +235,11 @@
       "gameTime": "2026-07-01T18:20:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "88",
+        "wind": "13 mph, Out To LF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -288,7 +292,11 @@
       "gameTime": "2026-07-01T19:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "80",
+        "wind": "15 mph, Out To RF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
