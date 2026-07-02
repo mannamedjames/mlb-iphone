@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02 18:28",
+  "generated_at": "2026-07-02 22:13",
   "window_start": "2026-06-02",
   "window_end": "2026-07-02",
-  "games_processed": 407,
+  "games_processed": 410,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -17,6 +17,18 @@
       "rank": 1
     },
     {
+      "playerId": 663993,
+      "name": "Nathaniel Lowe",
+      "team": "CIN",
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "games": 14,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 14,
+      "rank": 2
+    },
+    {
       "playerId": 681481,
       "name": "Kerry Carpenter",
       "team": "DET",
@@ -26,18 +38,6 @@
       "started": 21,
       "pctStarted": 78,
       "hits": 17,
-      "rank": 2
-    },
-    {
-      "playerId": 663993,
-      "name": "Nathaniel Lowe",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
-      "games": 13,
-      "started": 18,
-      "pctStarted": 69,
-      "hits": 13,
       "rank": 3
     },
     {
@@ -46,9 +46,9 @@
       "team": "MIA",
       "teamId": 146,
       "teamName": "Miami Marlins",
-      "games": 11,
-      "started": 20,
-      "pctStarted": 77,
+      "games": 12,
+      "started": 21,
+      "pctStarted": 78,
       "hits": 16,
       "rank": 4
     },
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 17,
-      "pctStarted": 63,
+      "pctStarted": 61,
       "hits": 20,
       "rank": 5
     }
@@ -84,7 +84,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 14,
+      "games": 15,
       "started": 2,
       "pctStarted": 7,
       "hits": 1,
@@ -98,7 +98,7 @@
       "teamName": "Philadelphia Phillies",
       "games": 13,
       "started": 10,
-      "pctStarted": 36,
+      "pctStarted": 34,
       "hits": 12,
       "rank": 3
     },
