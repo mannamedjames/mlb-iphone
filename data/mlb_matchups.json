@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 15:40",
+  "generated_at": "2026-07-02 18:28",
   "date": "2026-07-02",
   "games": [
     {
@@ -8,8 +8,8 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Sunny",
-        "temp": "96",
+        "condition": "Partly Cloudy",
+        "temp": "98",
         "wind": "8 mph, Out To RF"
       },
       "home": {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Alan Rangel",
           "hand": "R",
-          "era": "4.50",
-          "ipDisplay": "12.0",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
+          "era": "3.38",
+          "ipDisplay": "16.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 4.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.382,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jared Jones",
           "hand": "R",
-          "era": "5.76",
-          "ipDisplay": "25.0",
-          "gamesStarted": 6,
-          "avgIpPerOuting": 4.2,
+          "era": "5.28",
+          "ipDisplay": "29.0",
+          "gamesStarted": 7,
+          "avgIpPerOuting": 4.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.365,
@@ -65,9 +65,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Roof Closed",
-        "temp": "72",
-        "wind": "0 mph, None"
+        "condition": "Sunny",
+        "temp": "88",
+        "wind": "9 mph, In From RF"
       },
       "home": {
         "teamId": 158,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Jacob Misiorowski",
           "hand": "R",
-          "era": "1.45",
-          "ipDisplay": "99.0",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 6.2,
+          "era": "1.53",
+          "ipDisplay": "100.0",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.306,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Chase Burns",
           "hand": "R",
-          "era": "2.36",
-          "ipDisplay": "91.2",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 5.7,
+          "era": "2.35",
+          "ipDisplay": "92.0",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.366,
@@ -121,7 +121,11 @@
       "gameTime": "2026-07-02T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "90",
+        "wind": "7 mph, Out To LF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
