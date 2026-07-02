@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02 02:07",
+  "generated_at": "2026-07-02 15:40",
   "window_start": "2026-06-02",
   "window_end": "2026-07-02",
-  "games_processed": 402,
+  "games_processed": 407,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -11,9 +11,9 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 14,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 24,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 27,
       "rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "Cincinnati Reds",
       "games": 13,
       "started": 18,
-      "pctStarted": 72,
+      "pctStarted": 69,
       "hits": 13,
       "rank": 3
     },
@@ -47,21 +47,21 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 11,
-      "started": 19,
-      "pctStarted": 76,
-      "hits": 15,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 16,
       "rank": 4
     },
     {
-      "playerId": 669899,
-      "name": "Ryan Ward",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
+      "playerId": 683734,
+      "name": "Andrew Vaughn",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 15,
-      "pctStarted": 58,
-      "hits": 9,
+      "started": 17,
+      "pctStarted": 63,
+      "hits": 20,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 14,
+      "games": 15,
       "started": 11,
-      "pctStarted": 41,
+      "pctStarted": 39,
       "hits": 8,
       "rank": 1
     },
@@ -110,7 +110,7 @@
       "teamName": "Los Angeles Dodgers",
       "games": 13,
       "started": 9,
-      "pctStarted": 35,
+      "pctStarted": 33,
       "hits": 10,
       "rank": 4
     },
@@ -121,9 +121,9 @@
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
       "games": 13,
-      "started": 7,
-      "pctStarted": 27,
-      "hits": 11,
+      "started": 8,
+      "pctStarted": 30,
+      "hits": 13,
       "rank": 5
     }
   ]

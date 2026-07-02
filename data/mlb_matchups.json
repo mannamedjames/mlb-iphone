@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 02:07",
+  "generated_at": "2026-07-02 15:40",
   "date": "2026-07-02",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-07-02T16:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "96",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -22,11 +26,11 @@
           "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.384,
+            "woba30": 0.382,
             "woba30Rank": 30,
-            "woba7": 0.421,
-            "woba7Rank": 30,
-            "kPct30": 24.6,
+            "woba7": 0.397,
+            "woba7Rank": 27,
+            "kPct30": 24.9,
             "kPct30Rank": 5
           }
         }
@@ -45,11 +49,11 @@
           "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.36,
-            "woba30Rank": 24,
-            "woba7": 0.357,
-            "woba7Rank": 23,
-            "kPct30": 25.3,
+            "woba30": 0.365,
+            "woba30Rank": 25,
+            "woba7": 0.374,
+            "woba7Rank": 25,
+            "kPct30": 25.6,
             "kPct30Rank": 2
           }
         }
@@ -60,7 +64,11 @@
       "gameTime": "2026-07-02T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -76,10 +84,10 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.306,
-            "woba30Rank": 4,
-            "woba7": 0.322,
-            "woba7Rank": 16,
-            "kPct30": 27.0,
+            "woba30Rank": 5,
+            "woba7": 0.28,
+            "woba7Rank": 7,
+            "kPct30": 26.6,
             "kPct30Rank": 1
           }
         }
@@ -98,11 +106,11 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.377,
-            "woba30Rank": 27,
-            "woba7": 0.41,
+            "woba30": 0.366,
+            "woba30Rank": 26,
+            "woba7": 0.399,
             "woba7Rank": 28,
-            "kPct30": 21.5,
+            "kPct30": 21.9,
             "kPct30Rank": 19
           }
         }
@@ -128,11 +136,11 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.358,
-            "woba30Rank": 23,
-            "woba7": 0.409,
-            "woba7Rank": 27,
-            "kPct30": 20.8,
+            "woba30": 0.356,
+            "woba30Rank": 24,
+            "woba7": 0.405,
+            "woba7Rank": 29,
+            "kPct30": 20.6,
             "kPct30Rank": 22
           }
         }
@@ -142,7 +150,22 @@
         "teamAbbr": "MIA",
         "teamName": "Miami Marlins",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Ryan Gusto",
+          "hand": "R",
+          "era": "5.06",
+          "ipDisplay": "21.1",
+          "gamesStarted": 5,
+          "avgIpPerOuting": 3.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.377,
+            "woba30Rank": 28,
+            "woba7": 0.346,
+            "woba7Rank": 18,
+            "kPct30": 19.2,
+            "kPct30Rank": 25
+          }
         }
       }
     },
@@ -166,12 +189,12 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.363,
-            "woba30Rank": 25,
-            "woba7": 0.416,
-            "woba7Rank": 29,
-            "kPct30": 22.8,
-            "kPct30Rank": 14
+            "woba30": 0.351,
+            "woba30Rank": 21,
+            "woba7": 0.394,
+            "woba7Rank": 26,
+            "kPct30": 22.2,
+            "kPct30Rank": 17
           }
         }
       },
@@ -189,12 +212,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.324,
-            "woba30Rank": 12,
-            "woba7": 0.306,
+            "woba30": 0.326,
+            "woba30Rank": 11,
+            "woba7": 0.307,
             "woba7Rank": 12,
-            "kPct30": 24.2,
-            "kPct30Rank": 7
+            "kPct30": 23.8,
+            "kPct30Rank": 8
           }
         }
       }
@@ -210,7 +233,22 @@
         "teamAbbr": "ATL",
         "teamName": "Atlanta Braves",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Hurston Waldrep",
+          "hand": "R",
+          "era": "0.00",
+          "ipDisplay": "2.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.338,
+            "woba30Rank": 17,
+            "woba7": 0.198,
+            "woba7Rank": 2,
+            "kPct30": 18.7,
+            "kPct30Rank": 27
+          }
         }
       },
       "away": {
@@ -227,12 +265,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.255,
+            "woba30": 0.259,
             "woba30Rank": 1,
-            "woba7": 0.199,
-            "woba7Rank": 2,
-            "kPct30": 22.9,
-            "kPct30Rank": 13
+            "woba7": 0.247,
+            "woba7Rank": 4,
+            "kPct30": 22.5,
+            "kPct30Rank": 14
           }
         }
       }
@@ -257,12 +295,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.353,
-            "woba30Rank": 21,
-            "woba7": 0.405,
-            "woba7Rank": 26,
-            "kPct30": 18.7,
-            "kPct30Rank": 27
+            "woba30": 0.35,
+            "woba30Rank": 20,
+            "woba7": 0.407,
+            "woba7Rank": 30,
+            "kPct30": 19.2,
+            "kPct30Rank": 26
           }
         }
       },
@@ -271,7 +309,22 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Ian Seymour",
+          "hand": "L",
+          "era": "4.32",
+          "ipDisplay": "50.0",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 3.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.333,
+            "woba30Rank": 19,
+            "woba7": 0.267,
+            "woba7Rank": 6,
+            "kPct30": 20.5,
+            "kPct30Rank": 23
+          }
         }
       }
     },
@@ -295,12 +348,12 @@
           "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.358,
-            "woba30Rank": 22,
-            "woba7": 0.355,
-            "woba7Rank": 22,
-            "kPct30": 23.7,
-            "kPct30Rank": 8
+            "woba30": 0.342,
+            "woba30Rank": 19,
+            "woba7": 0.346,
+            "woba7Rank": 19,
+            "kPct30": 24.0,
+            "kPct30Rank": 7
           }
         }
       },
@@ -318,11 +371,11 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.388,
-            "woba30Rank": 30,
-            "woba7": 0.422,
+            "woba30": 0.386,
+            "woba30Rank": 29,
+            "woba7": 0.404,
             "woba7Rank": 26,
-            "kPct30": 22.1,
+            "kPct30": 22.0,
             "kPct30Rank": 17
           }
         }
@@ -348,11 +401,11 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.339,
+            "woba30": 0.338,
             "woba30Rank": 16,
-            "woba7": 0.311,
-            "woba7Rank": 14,
-            "kPct30": 23.4,
+            "woba7": 0.304,
+            "woba7Rank": 11,
+            "kPct30": 23.7,
             "kPct30Rank": 10
           }
         }
@@ -371,11 +424,11 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.303,
-            "woba30Rank": 3,
-            "woba7": 0.316,
-            "woba7Rank": 15,
-            "kPct30": 23.1,
+            "woba30": 0.307,
+            "woba30Rank": 6,
+            "woba7": 0.338,
+            "woba7Rank": 17,
+            "kPct30": 23.0,
             "kPct30Rank": 12
           }
         }
@@ -401,12 +454,12 @@
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.319,
-            "woba30Rank": 9,
-            "woba7": 0.349,
-            "woba7Rank": 20,
-            "kPct30": 22.8,
-            "kPct30Rank": 15
+            "woba30": 0.322,
+            "woba30Rank": 10,
+            "woba7": 0.366,
+            "woba7Rank": 22,
+            "kPct30": 22.7,
+            "kPct30Rank": 13
           }
         }
       },
@@ -425,10 +478,10 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.378,
-            "woba30Rank": 28,
-            "woba7": 0.369,
-            "woba7Rank": 25,
-            "kPct30": 20.6,
+            "woba30Rank": 29,
+            "woba7": 0.365,
+            "woba7Rank": 21,
+            "kPct30": 20.5,
             "kPct30Rank": 23
           }
         }
