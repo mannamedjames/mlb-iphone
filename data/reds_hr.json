@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-07-01 14:47",
+  "generated_at": "2026-07-02 13:45",
   "team": "CIN",
-  "window_start": "2026-06-01",
-  "window_end": "2026-07-01",
+  "window_start": "2026-06-02",
+  "window_end": "2026-07-02",
   "homers": [
+    {
+      "batter": "Noelvi Marte",
+      "batterId": 682622,
+      "pitcher": "Shane Drohan",
+      "pitcherHand": "L",
+      "count": "1-0",
+      "pitch": "Curveball",
+      "pitchSpeed": 79.4,
+      "rbi": 2,
+      "inning": 2,
+      "halfInning": "Top",
+      "outs": 0,
+      "date": "2026-07-01",
+      "away": "CIN",
+      "home": "MIL",
+      "opponent": "MIL",
+      "opponentId": 158,
+      "distanceFt": 378,
+      "exitVeloMph": 107.4,
+      "field": "LF",
+      "desc": "Noelvi Marte homers (5) on a line drive to left field. Tyler Stephenson scores."
+    },
     {
       "batter": "Sal Stewart",
       "batterId": 701398,
@@ -201,28 +223,6 @@
       "exitVeloMph": 102.9,
       "field": "LF",
       "desc": "Spencer Steer homers (11) on a fly ball to left center field."
-    },
-    {
-      "batter": "Sal Stewart",
-      "batterId": 701398,
-      "pitcher": "Kodai Senga",
-      "pitcherHand": "R",
-      "count": "2-1",
-      "pitch": "Sinker",
-      "pitchSpeed": 88.4,
-      "rbi": 3,
-      "inning": 1,
-      "halfInning": "Bot",
-      "outs": 0,
-      "date": "2026-06-16",
-      "away": "NYM",
-      "home": "CIN",
-      "opponent": "NYM",
-      "opponentId": 121,
-      "distanceFt": 410,
-      "exitVeloMph": 106.9,
-      "field": "LF",
-      "desc": "Sal Stewart homers (14) on a fly ball to left field. Blake Dunn scores. JJ Bleday scores."
     }
   ]
 }
