@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-07-02 22:13",
-  "window_start": "2026-06-02",
-  "window_end": "2026-07-02",
-  "games_processed": 410,
+  "generated_at": "2026-07-03 01:51",
+  "window_start": "2026-06-03",
+  "window_end": "2026-07-03",
+  "games_processed": 396,
   "subbed_out": [
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 14,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 27,
-      "rank": 1
-    },
     {
       "playerId": 663993,
       "name": "Nathaniel Lowe",
@@ -24,9 +12,9 @@
       "teamName": "Cincinnati Reds",
       "games": 14,
       "started": 19,
-      "pctStarted": 70,
+      "pctStarted": 73,
       "hits": 14,
-      "rank": 2
+      "rank": 1
     },
     {
       "playerId": 681481,
@@ -36,8 +24,20 @@
       "teamName": "Detroit Tigers",
       "games": 13,
       "started": 21,
-      "pctStarted": 78,
+      "pctStarted": 81,
       "hits": 17,
+      "rank": 2
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 26,
       "rank": 3
     },
     {
@@ -46,9 +46,9 @@
       "team": "MIA",
       "teamId": 146,
       "teamName": "Miami Marlins",
-      "games": 12,
-      "started": 21,
-      "pctStarted": 78,
+      "games": 11,
+      "started": 20,
+      "pctStarted": 77,
       "hits": 16,
       "rank": 4
     },
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 17,
-      "pctStarted": 61,
+      "pctStarted": 63,
       "hits": 20,
       "rank": 5
     }
@@ -73,9 +73,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 15,
-      "started": 11,
-      "pctStarted": 39,
-      "hits": 8,
+      "started": 10,
+      "pctStarted": 37,
+      "hits": 7,
       "rank": 1
     },
     {
@@ -97,22 +97,10 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 10,
-      "pctStarted": 34,
+      "started": 9,
+      "pctStarted": 32,
       "hits": 12,
       "rank": 3
-    },
-    {
-      "playerId": 669743,
-      "name": "Alex Call",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 13,
-      "started": 9,
-      "pctStarted": 33,
-      "hits": 10,
-      "rank": 4
     },
     {
       "playerId": 500743,
@@ -122,8 +110,20 @@
       "teamName": "Los Angeles Dodgers",
       "games": 13,
       "started": 8,
-      "pctStarted": 30,
+      "pctStarted": 31,
       "hits": 13,
+      "rank": 4
+    },
+    {
+      "playerId": 813841,
+      "name": "Jonah Cox",
+      "team": "SF",
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 6,
       "rank": 5
     }
   ]
