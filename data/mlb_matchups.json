@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04 14:49",
+  "generated_at": "2026-07-04 18:06",
   "date": "2026-07-04",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "95",
-        "wind": "2 mph, In From LF"
+        "temp": "93",
+        "wind": "5 mph, In From LF"
       },
       "home": {
         "teamId": 120,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Carson Palmquist",
           "hand": "L",
-          "era": "2.08",
-          "ipDisplay": "4.1",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 3.3,
+          "era": "8.44",
+          "ipDisplay": "5.1",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 2.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.308,
@@ -43,9 +43,9 @@
           "confirmed": true,
           "name": "Braxton Ashcraft",
           "hand": "R",
-          "era": "3.33",
-          "ipDisplay": "102.2",
-          "gamesStarted": 17,
+          "era": "3.24",
+          "ipDisplay": "108.1",
+          "gamesStarted": 18,
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "94",
-        "wind": "9 mph, Out To CF"
+        "temp": "95",
+        "wind": "10 mph, Out To RF"
       },
       "home": {
         "teamId": 147,
@@ -77,11 +77,11 @@
           "confirmed": true,
           "name": "Brendan Beck",
           "hand": "R",
-          "era": "6.00",
-          "ipDisplay": "3.0",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
+          "era": "13.50",
+          "ipDisplay": "4.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.7,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.379,
             "woba30Rank": 29,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Zebby Matthews",
           "hand": "R",
-          "era": "4.15",
-          "ipDisplay": "56.1",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 6.3,
+          "era": "4.08",
+          "ipDisplay": "57.1",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.315,
@@ -121,19 +121,23 @@
       "gameTime": "2026-07-04T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
         "teamName": "Texas Rangers",
         "starter": {
           "confirmed": true,
-          "name": "Kumar Rocker",
+          "name": "Cal Quantrill",
           "hand": "R",
-          "era": "3.83",
-          "ipDisplay": "80.0",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 4.8,
+          "era": "3.31",
+          "ipDisplay": "35.1",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 3.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.345,
@@ -174,7 +178,11 @@
       "gameTime": "2026-07-04T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -499,20 +507,20 @@
         "teamName": "Colorado Rockies",
         "starter": {
           "confirmed": true,
-          "name": "Tomoyuki Sugano",
-          "hand": "R",
-          "era": "4.80",
-          "ipDisplay": "84.1",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 5.3,
+          "name": "Sean Sullivan",
+          "hand": "L",
+          "era": "8.64",
+          "ipDisplay": "16.2",
+          "gamesStarted": 4,
+          "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.355,
-            "woba30Rank": 21,
-            "woba7": 0.328,
-            "woba7Rank": 17,
-            "kPct30": 18.2,
-            "kPct30Rank": 27
+            "woba30": 0.308,
+            "woba30Rank": 10,
+            "woba7": 0.266,
+            "woba7Rank": 7,
+            "kPct30": 22.7,
+            "kPct30Rank": 14
           }
         }
       },
@@ -787,20 +795,20 @@
         "teamName": "San Diego Padres",
         "starter": {
           "confirmed": true,
-          "name": "Griffin Canning",
-          "hand": "R",
-          "era": "7.09",
-          "ipDisplay": "47.0",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 4.7,
-          "isOpener": false,
+          "name": "Wandy Peralta",
+          "hand": "L",
+          "era": "2.38",
+          "ipDisplay": "45.1",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
           "oppSplits": {
-            "woba30": 0.369,
-            "woba30Rank": 27,
-            "woba7": 0.362,
-            "woba7Rank": 23,
-            "kPct30": 20.1,
-            "kPct30Rank": 22
+            "woba30": 0.344,
+            "woba30Rank": 20,
+            "woba7": 0.482,
+            "woba7Rank": 29,
+            "kPct30": 21.6,
+            "kPct30Rank": 17
           }
         }
       }
