@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-07-03 22:10",
-  "window_start": "2026-06-03",
-  "window_end": "2026-07-03",
-  "games_processed": 401,
+  "generated_at": "2026-07-04 01:51",
+  "window_start": "2026-06-04",
+  "window_end": "2026-07-04",
+  "games_processed": 389,
   "subbed_out": [
-    {
-      "playerId": 663993,
-      "name": "Nathaniel Lowe",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
-      "games": 14,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 14,
-      "rank": 1
-    },
     {
       "playerId": 681481,
       "name": "Kerry Carpenter",
@@ -23,10 +11,10 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 13,
-      "started": 22,
+      "started": 21,
       "pctStarted": 81,
-      "hits": 17,
-      "rank": 2
+      "hits": 16,
+      "rank": 1
     },
     {
       "playerId": 663616,
@@ -35,9 +23,21 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 20,
-      "pctStarted": 77,
+      "started": 19,
+      "pctStarted": 76,
       "hits": 26,
+      "rank": 2
+    },
+    {
+      "playerId": 663993,
+      "name": "Nathaniel Lowe",
+      "team": "CIN",
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "games": 13,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 14,
       "rank": 3
     },
     {
@@ -48,7 +48,7 @@
       "teamName": "Miami Marlins",
       "games": 11,
       "started": 20,
-      "pctStarted": 77,
+      "pctStarted": 80,
       "hits": 16,
       "rank": 4
     },
@@ -59,25 +59,13 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 17,
-      "pctStarted": 63,
+      "started": 16,
+      "pctStarted": 62,
       "hits": 20,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 694728,
-      "name": "Brice Matthews",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 15,
-      "started": 10,
-      "pctStarted": 37,
-      "hits": 7,
-      "rank": 1
-    },
     {
       "playerId": 695257,
       "name": "Billy Cook",
@@ -88,7 +76,31 @@
       "started": 2,
       "pctStarted": 7,
       "hits": 1,
+      "rank": 1
+    },
+    {
+      "playerId": 694728,
+      "name": "Brice Matthews",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 14,
+      "started": 10,
+      "pctStarted": 38,
+      "hits": 7,
       "rank": 2
+    },
+    {
+      "playerId": 676694,
+      "name": "Jake Meyers",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 12,
+      "started": 13,
+      "pctStarted": 50,
+      "hits": 10,
+      "rank": 3
     },
     {
       "playerId": 656537,
@@ -96,11 +108,11 @@
       "team": "PHI",
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
-      "games": 13,
+      "games": 12,
       "started": 9,
-      "pctStarted": 32,
+      "pctStarted": 33,
       "hits": 12,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 500743,
@@ -108,22 +120,10 @@
       "team": "LAD",
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
-      "games": 13,
+      "games": 12,
       "started": 8,
-      "pctStarted": 30,
+      "pctStarted": 31,
       "hits": 13,
-      "rank": 4
-    },
-    {
-      "playerId": 813841,
-      "name": "Jonah Cox",
-      "team": "SF",
-      "teamId": 137,
-      "teamName": "San Francisco Giants",
-      "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 6,
       "rank": 5
     }
   ]
