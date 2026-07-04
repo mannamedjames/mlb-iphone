@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04 01:51",
+  "generated_at": "2026-07-04 14:49",
   "window_start": "2026-06-04",
   "window_end": "2026-07-04",
-  "games_processed": 389,
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -23,8 +23,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 19,
-      "pctStarted": 76,
+      "started": 20,
+      "pctStarted": 77,
       "hits": 26,
       "rank": 2
     },
@@ -47,9 +47,9 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 11,
-      "started": 20,
-      "pctStarted": 80,
-      "hits": 16,
+      "started": 21,
+      "pctStarted": 81,
+      "hits": 17,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 16,
-      "pctStarted": 62,
+      "pctStarted": 59,
       "hits": 20,
       "rank": 5
     }
@@ -86,9 +86,33 @@
       "teamName": "Houston Astros",
       "games": 14,
       "started": 10,
-      "pctStarted": 38,
+      "pctStarted": 37,
       "hits": 7,
       "rank": 2
+    },
+    {
+      "playerId": 500743,
+      "name": "Miguel Rojas",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "games": 13,
+      "started": 8,
+      "pctStarted": 30,
+      "hits": 14,
+      "rank": 3
+    },
+    {
+      "playerId": 813841,
+      "name": "Jonah Cox",
+      "team": "SF",
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 6,
+      "rank": 4
     },
     {
       "playerId": 676694,
@@ -97,33 +121,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 12,
-      "started": 13,
-      "pctStarted": 50,
+      "started": 14,
+      "pctStarted": 52,
       "hits": 10,
-      "rank": 3
-    },
-    {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "games": 12,
-      "started": 9,
-      "pctStarted": 33,
-      "hits": 12,
-      "rank": 4
-    },
-    {
-      "playerId": 500743,
-      "name": "Miguel Rojas",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 12,
-      "started": 8,
-      "pctStarted": 31,
-      "hits": 13,
       "rank": 5
     }
   ]
