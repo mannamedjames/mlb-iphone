@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-04 18:06",
+  "generated_at": "2026-07-04 22:03",
   "window_start": "2026-06-04",
   "window_end": "2026-07-04",
-  "games_processed": 400,
+  "games_processed": 401,
   "subbed_out": [
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 14,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 28,
+      "rank": 1
+    },
     {
       "playerId": 681481,
       "name": "Kerry Carpenter",
@@ -14,18 +26,6 @@
       "started": 21,
       "pctStarted": 81,
       "hits": 16,
-      "rank": 1
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 13,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 26,
       "rank": 2
     },
     {
