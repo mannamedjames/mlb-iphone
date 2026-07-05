@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05 18:08",
+  "generated_at": "2026-07-05 22:06",
   "window_start": "2026-06-05",
   "window_end": "2026-07-05",
-  "games_processed": 405,
+  "games_processed": 411,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -24,7 +24,7 @@
       "teamName": "Minnesota Twins",
       "games": 13,
       "started": 20,
-      "pctStarted": 77,
+      "pctStarted": 74,
       "hits": 27,
       "rank": 2
     },
@@ -36,7 +36,7 @@
       "teamName": "Cincinnati Reds",
       "games": 13,
       "started": 19,
-      "pctStarted": 70,
+      "pctStarted": 68,
       "hits": 14,
       "rank": 3
     },
@@ -72,7 +72,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 16,
+      "games": 17,
       "started": 2,
       "pctStarted": 7,
       "hits": 1,
@@ -110,7 +110,7 @@
       "teamName": "Philadelphia Phillies",
       "games": 13,
       "started": 9,
-      "pctStarted": 33,
+      "pctStarted": 32,
       "hits": 12,
       "rank": 4
     },
