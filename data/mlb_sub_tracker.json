@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05 01:57",
+  "generated_at": "2026-07-05 14:57",
   "window_start": "2026-06-05",
   "window_end": "2026-07-05",
-  "games_processed": 395,
+  "games_processed": 405,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -35,8 +35,8 @@
       "teamId": 113,
       "teamName": "Cincinnati Reds",
       "games": 13,
-      "started": 18,
-      "pctStarted": 69,
+      "started": 19,
+      "pctStarted": 70,
       "hits": 14,
       "rank": 3
     },
@@ -46,8 +46,8 @@
       "team": "MIA",
       "teamId": 146,
       "teamName": "Miami Marlins",
-      "games": 11,
-      "started": 21,
+      "games": 12,
+      "started": 22,
       "pctStarted": 81,
       "hits": 17,
       "rank": 4
@@ -59,8 +59,8 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 16,
-      "pctStarted": 62,
+      "started": 17,
+      "pctStarted": 63,
       "hits": 20,
       "rank": 5
     }
@@ -86,7 +86,7 @@
       "teamName": "Houston Astros",
       "games": 14,
       "started": 10,
-      "pctStarted": 38,
+      "pctStarted": 37,
       "hits": 7,
       "rank": 2
     },
@@ -96,11 +96,23 @@
       "team": "MIA",
       "teamId": 146,
       "teamName": "Miami Marlins",
-      "games": 12,
+      "games": 13,
       "started": 11,
-      "pctStarted": 42,
+      "pctStarted": 41,
       "hits": 12,
       "rank": 3
+    },
+    {
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 12,
+      "rank": 4
     },
     {
       "playerId": 664702,
@@ -112,18 +124,6 @@
       "started": 11,
       "pctStarted": 41,
       "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "games": 12,
-      "started": 9,
-      "pctStarted": 35,
-      "hits": 12,
       "rank": 5
     }
   ]
