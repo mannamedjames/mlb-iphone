@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06 16:35",
+  "generated_at": "2026-07-06 19:00",
   "date": "2026-07-06",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "80",
-        "wind": "3 mph, Varies"
+        "temp": "85",
+        "wind": "4 mph, L To R"
       },
       "home": {
         "teamId": 118,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Noah Cameron",
           "hand": "L",
-          "era": "4.95",
-          "ipDisplay": "83.2",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 5.2,
+          "era": "4.94",
+          "ipDisplay": "85.2",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.308,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Cristopher S\u00e1nchez",
           "hand": "L",
-          "era": "2.00",
-          "ipDisplay": "117.0",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 6.5,
+          "era": "2.44",
+          "ipDisplay": "118.0",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 6.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-06T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
