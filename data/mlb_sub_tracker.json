@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05 22:06",
-  "window_start": "2026-06-05",
-  "window_end": "2026-07-05",
-  "games_processed": 411,
+  "generated_at": "2026-07-06 02:03",
+  "window_start": "2026-06-06",
+  "window_end": "2026-07-06",
+  "games_processed": 403,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -24,7 +24,7 @@
       "teamName": "Minnesota Twins",
       "games": 13,
       "started": 20,
-      "pctStarted": 74,
+      "pctStarted": 77,
       "hits": 27,
       "rank": 2
     },
@@ -35,8 +35,8 @@
       "teamId": 113,
       "teamName": "Cincinnati Reds",
       "games": 13,
-      "started": 19,
-      "pctStarted": 68,
+      "started": 18,
+      "pctStarted": 67,
       "hits": 14,
       "rank": 3
     },
@@ -47,8 +47,8 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 12,
-      "started": 22,
-      "pctStarted": 81,
+      "started": 21,
+      "pctStarted": 78,
       "hits": 17,
       "rank": 4
     },
@@ -58,9 +58,9 @@
       "team": "MIL",
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 63,
+      "games": 11,
+      "started": 18,
+      "pctStarted": 67,
       "hits": 20,
       "rank": 5
     }
@@ -103,27 +103,27 @@
       "rank": 3
     },
     {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 13,
+      "started": 11,
+      "pctStarted": 41,
+      "hits": 9,
+      "rank": 4
+    },
+    {
       "playerId": 656537,
       "name": "Derek Hill",
       "team": "PHI",
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 9,
-      "pctStarted": 32,
-      "hits": 12,
-      "rank": 4
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 12,
-      "started": 11,
-      "pctStarted": 41,
-      "hits": 9,
+      "started": 8,
+      "pctStarted": 30,
+      "hits": 11,
       "rank": 5
     }
   ]
