@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-07-05 13:17",
+  "generated_at": "2026-07-06 15:18",
   "team": "CIN",
-  "window_start": "2026-06-05",
-  "window_end": "2026-07-05",
+  "window_start": "2026-06-06",
+  "window_end": "2026-07-06",
   "homers": [
+    {
+      "batter": "Spencer Steer",
+      "batterId": 668715,
+      "pitcher": "Kyle Bradish",
+      "pitcherHand": "R",
+      "count": "3-2",
+      "pitch": "Slider",
+      "pitchSpeed": 88.1,
+      "rbi": 2,
+      "inning": 5,
+      "halfInning": "Bot",
+      "outs": 0,
+      "date": "2026-07-05",
+      "away": "BAL",
+      "home": "CIN",
+      "opponent": "BAL",
+      "opponentId": 110,
+      "distanceFt": 374,
+      "exitVeloMph": 100.7,
+      "field": "RF",
+      "desc": "Spencer Steer homers (14) on a fly ball to right center field. Eugenio Su\u00e1rez scores."
+    },
     {
       "batter": "Tj Friedl",
       "batterId": 670770,
@@ -201,28 +223,6 @@
       "exitVeloMph": 108.9,
       "field": "LF",
       "desc": "Noelvi Marte homers (4) on a line drive to left center field. Sal Stewart scores."
-    },
-    {
-      "batter": "Spencer Steer",
-      "batterId": 668715,
-      "pitcher": "Craig Yoho",
-      "pitcherHand": "R",
-      "count": "0-1",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 93.7,
-      "rbi": 2,
-      "inning": 8,
-      "halfInning": "Bot",
-      "outs": 2,
-      "date": "2026-06-24",
-      "away": "MIL",
-      "home": "CIN",
-      "opponent": "MIL",
-      "opponentId": 158,
-      "distanceFt": 400,
-      "exitVeloMph": 103.5,
-      "field": "RCF",
-      "desc": "Spencer Steer homers (13) on a fly ball to center field. Elly De La Cruz scores."
     }
   ]
 }
