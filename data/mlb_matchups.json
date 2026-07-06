@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06 19:00",
+  "generated_at": "2026-07-06 22:20",
   "date": "2026-07-06",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Noah Cameron",
           "hand": "L",
-          "era": "4.94",
-          "ipDisplay": "85.2",
+          "era": "4.77",
+          "ipDisplay": "88.2",
           "gamesStarted": 17,
-          "avgIpPerOuting": 5.0,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.308,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Cristopher S\u00e1nchez",
           "hand": "L",
-          "era": "2.44",
-          "ipDisplay": "118.0",
+          "era": "2.62",
+          "ipDisplay": "120.1",
           "gamesStarted": 19,
-          "avgIpPerOuting": 6.2,
+          "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -121,7 +121,11 @@
       "gameTime": "2026-07-06T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "86",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -174,7 +178,11 @@
       "gameTime": "2026-07-06T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "7 mph, R To L"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -227,7 +235,11 @@
       "gameTime": "2026-07-06T23:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "8 mph, In From LF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -280,7 +292,11 @@
       "gameTime": "2026-07-07T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "72",
+        "wind": "10 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -333,7 +349,11 @@
       "gameTime": "2026-07-07T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "60",
+        "wind": "13 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -386,7 +406,11 @@
       "gameTime": "2026-07-07T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "70",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
