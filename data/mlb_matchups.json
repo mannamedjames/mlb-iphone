@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 16:01",
+  "generated_at": "2026-07-07 19:06",
   "date": "2026-07-07",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "S",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "85",
-        "wind": "8 mph, In From LF"
+        "condition": "Cloudy",
+        "temp": "84",
+        "wind": "8 mph, L To R"
       },
       "home": {
         "teamId": 138,
@@ -20,11 +20,11 @@
           "confirmed": true,
           "name": "Matt Svanson",
           "hand": "R",
-          "era": "6.69",
-          "ipDisplay": "37.2",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
+          "era": "6.52",
+          "ipDisplay": "38.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.359,
             "woba30Rank": 25,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jacob Misiorowski",
           "hand": "R",
-          "era": "1.47",
-          "ipDisplay": "104.0",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 6.1,
+          "era": "1.68",
+          "ipDisplay": "107.0",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.338,
@@ -117,7 +117,11 @@
       "gameTime": "2026-07-07T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "79",
+        "wind": "8 mph, In From LF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -223,7 +227,11 @@
       "gameTime": "2026-07-07T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -252,7 +260,22 @@
         "teamAbbr": "SEA",
         "teamName": "Seattle Mariners",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Bryan Woo",
+          "hand": "R",
+          "era": "4.17",
+          "ipDisplay": "99.1",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.38,
+            "woba30Rank": 28,
+            "woba7": 0.467,
+            "woba7Rank": 30,
+            "kPct30": 19.0,
+            "kPct30Rank": 25
+          }
         }
       }
     },
@@ -261,7 +284,11 @@
       "gameTime": "2026-07-07T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -367,7 +394,11 @@
       "gameTime": "2026-07-07T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "9 mph, In From LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -405,7 +436,11 @@
       "gameTime": "2026-07-07T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "5 mph, Out To RF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -511,7 +546,11 @@
       "gameTime": "2026-07-07T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "76",
+        "wind": "6 mph, In From LF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -570,7 +609,22 @@
         "teamAbbr": "STL",
         "teamName": "St. Louis Cardinals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Hunter Dobbins",
+          "hand": "R",
+          "era": "3.63",
+          "ipDisplay": "17.1",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 4.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.359,
+            "woba30Rank": 25,
+            "woba7": 0.343,
+            "woba7Rank": 20,
+            "kPct30": 23.2,
+            "kPct30Rank": 12
+          }
         }
       },
       "away": {
