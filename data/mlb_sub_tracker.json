@@ -1,33 +1,9 @@
 {
-  "generated_at": "2026-07-06 22:20",
-  "window_start": "2026-06-06",
-  "window_end": "2026-07-06",
-  "games_processed": 406,
+  "generated_at": "2026-07-07 01:58",
+  "window_start": "2026-06-07",
+  "window_end": "2026-07-07",
+  "games_processed": 393,
   "subbed_out": [
-    {
-      "playerId": 681481,
-      "name": "Kerry Carpenter",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 13,
-      "started": 22,
-      "pctStarted": 81,
-      "hits": 17,
-      "rank": 1
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 13,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 27,
-      "rank": 2
-    },
     {
       "playerId": 663993,
       "name": "Nathaniel Lowe",
@@ -36,9 +12,21 @@
       "teamName": "Cincinnati Reds",
       "games": 13,
       "started": 18,
-      "pctStarted": 67,
+      "pctStarted": 69,
       "hits": 14,
-      "rank": 3
+      "rank": 1
+    },
+    {
+      "playerId": 681481,
+      "name": "Kerry Carpenter",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 12,
+      "started": 21,
+      "pctStarted": 81,
+      "hits": 17,
+      "rank": 2
     },
     {
       "playerId": 683357,
@@ -48,8 +36,20 @@
       "teamName": "Miami Marlins",
       "games": 12,
       "started": 21,
-      "pctStarted": 78,
+      "pctStarted": 81,
       "hits": 17,
+      "rank": 3
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 12,
+      "started": 19,
+      "pctStarted": 76,
+      "hits": 27,
       "rank": 4
     },
     {
@@ -58,10 +58,10 @@
       "team": "MIL",
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 67,
-      "hits": 20,
+      "games": 10,
+      "started": 17,
+      "pctStarted": 65,
+      "hits": 19,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "Pittsburgh Pirates",
       "games": 17,
       "started": 2,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 1,
       "rank": 1
     },
@@ -84,10 +84,10 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 14,
-      "started": 10,
-      "pctStarted": 37,
-      "hits": 7,
+      "games": 13,
+      "started": 11,
+      "pctStarted": 41,
+      "hits": 9,
       "rank": 2
     },
     {
@@ -97,8 +97,8 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 13,
-      "started": 11,
-      "pctStarted": 41,
+      "started": 10,
+      "pctStarted": 38,
       "hits": 12,
       "rank": 3
     },
@@ -109,8 +109,8 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 13,
-      "started": 11,
-      "pctStarted": 41,
+      "started": 10,
+      "pctStarted": 38,
       "hits": 9,
       "rank": 4
     },
@@ -120,9 +120,9 @@
       "team": "PHI",
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
-      "games": 13,
+      "games": 12,
       "started": 9,
-      "pctStarted": 32,
+      "pctStarted": 33,
       "hits": 12,
       "rank": 5
     }
