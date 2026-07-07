@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 19:06",
+  "generated_at": "2026-07-07 22:16",
   "window_start": "2026-06-07",
   "window_end": "2026-07-07",
-  "games_processed": 398,
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 663993,
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 17,
-      "pctStarted": 63,
+      "pctStarted": 61,
       "hits": 19,
       "rank": 5
     }

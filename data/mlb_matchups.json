@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 19:06",
+  "generated_at": "2026-07-07 22:16",
   "date": "2026-07-07",
   "games": [
     {
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jacob Misiorowski",
           "hand": "R",
-          "era": "1.68",
-          "ipDisplay": "107.0",
+          "era": "1.62",
+          "ipDisplay": "111.0",
           "gamesStarted": 18,
-          "avgIpPerOuting": 5.9,
+          "avgIpPerOuting": 6.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.338,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-07T22:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "80",
+        "wind": "4 mph, In From RF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -174,7 +178,11 @@
       "gameTime": "2026-07-07T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "5 mph, Out To RF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -341,7 +349,11 @@
       "gameTime": "2026-07-07T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "4 mph, In From RF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -404,7 +416,22 @@
         "teamAbbr": "NYM",
         "teamName": "New York Mets",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Cionel P\u00e9rez",
+          "hand": "L",
+          "era": "5.50",
+          "ipDisplay": "34.1",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.352,
+            "woba30Rank": 19,
+            "woba7": 0.349,
+            "woba7Rank": 14,
+            "kPct30": 21.3,
+            "kPct30Rank": 16
+          }
         }
       },
       "away": {
@@ -493,7 +520,11 @@
       "gameTime": "2026-07-07T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "87",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -548,8 +579,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "76",
-        "wind": "6 mph, In From LF"
+        "temp": "80",
+        "wind": "7 mph, In From LF"
       },
       "home": {
         "teamId": 145,
@@ -603,7 +634,11 @@
       "gameTime": "2026-07-07T23:45:00Z",
       "doubleHeader": "S",
       "gameNumber": 2,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "7 mph, In From RF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -656,7 +691,11 @@
       "gameTime": "2026-07-08T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -709,7 +748,11 @@
       "gameTime": "2026-07-08T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "71",
+        "wind": "9 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -762,7 +805,11 @@
       "gameTime": "2026-07-08T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "60",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -815,7 +862,11 @@
       "gameTime": "2026-07-08T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "76",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
