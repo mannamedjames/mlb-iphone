@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 01:58",
+  "generated_at": "2026-07-07 16:01",
   "window_start": "2026-06-07",
   "window_end": "2026-07-07",
-  "games_processed": 393,
+  "games_processed": 398,
   "subbed_out": [
     {
       "playerId": 663993,
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 17,
-      "pctStarted": 65,
+      "pctStarted": 63,
       "hits": 19,
       "rank": 5
     }
@@ -79,6 +79,18 @@
       "rank": 1
     },
     {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 13,
+      "started": 11,
+      "pctStarted": 41,
+      "hits": 9,
+      "rank": 2
+    },
+    {
       "playerId": 694728,
       "name": "Brice Matthews",
       "team": "HOU",
@@ -88,7 +100,7 @@
       "started": 11,
       "pctStarted": 41,
       "hits": 9,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 665923,
@@ -100,18 +112,6 @@
       "started": 10,
       "pctStarted": 38,
       "hits": 12,
-      "rank": 3
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 13,
-      "started": 10,
-      "pctStarted": 38,
-      "hits": 9,
       "rank": 4
     },
     {
