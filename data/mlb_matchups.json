@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 15:41",
+  "generated_at": "2026-07-08 18:22",
   "date": "2026-07-08",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-07-08T19:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "61",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
