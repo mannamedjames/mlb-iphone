@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-07-07 14:15",
+  "generated_at": "2026-07-08 13:48",
   "team": "CIN",
-  "window_start": "2026-06-07",
-  "window_end": "2026-07-07",
+  "window_start": "2026-06-08",
+  "window_end": "2026-07-08",
   "homers": [
+    {
+      "batter": "Eugenio Su\u00e1rez",
+      "batterId": 553993,
+      "pitcher": "Zack Wheeler",
+      "pitcherHand": "R",
+      "count": "0-0",
+      "pitch": "Sweeper",
+      "pitchSpeed": 80.5,
+      "rbi": 1,
+      "inning": 7,
+      "halfInning": "Bot",
+      "outs": 0,
+      "date": "2026-07-07",
+      "away": "PHI",
+      "home": "CIN",
+      "opponent": "PHI",
+      "opponentId": 143,
+      "distanceFt": 362,
+      "exitVeloMph": 96.2,
+      "field": "LF",
+      "desc": "Eugenio Su\u00e1rez homers (9) on a fly ball to left field."
+    },
     {
       "batter": "Spencer Steer",
       "batterId": 668715,
@@ -201,28 +223,6 @@
       "exitVeloMph": 102.5,
       "field": "RF",
       "desc": "Sal Stewart homers (15) on a fly ball to right field."
-    },
-    {
-      "batter": "Noelvi Marte",
-      "batterId": 682622,
-      "pitcher": "Mason Montgomery",
-      "pitcherHand": "L",
-      "count": "3-2",
-      "pitch": "Sinker",
-      "pitchSpeed": 97.3,
-      "rbi": 2,
-      "inning": 8,
-      "halfInning": "Top",
-      "outs": 1,
-      "date": "2026-06-26",
-      "away": "CIN",
-      "home": "PIT",
-      "opponent": "PIT",
-      "opponentId": 134,
-      "distanceFt": 405,
-      "exitVeloMph": 108.9,
-      "field": "LF",
-      "desc": "Noelvi Marte homers (4) on a line drive to left center field. Sal Stewart scores."
     }
   ]
 }
