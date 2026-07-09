@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 18:52",
+  "generated_at": "2026-07-09 22:28",
   "date": "2026-07-09",
   "games": [
     {
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Sean Manaea",
           "hand": "L",
-          "era": "4.62",
-          "ipDisplay": "74.0",
+          "era": "4.56",
+          "ipDisplay": "75.0",
           "gamesStarted": 6,
-          "avgIpPerOuting": 5.2,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.353,
@@ -191,8 +191,8 @@
           "confirmed": true,
           "name": "Trevor Rogers",
           "hand": "L",
-          "era": "4.43",
-          "ipDisplay": "89.1",
+          "era": "4.48",
+          "ipDisplay": "90.1",
           "gamesStarted": 17,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "David Peterson",
           "hand": "L",
-          "era": "6.50",
-          "ipDisplay": "81.2",
+          "era": "6.45",
+          "ipDisplay": "82.1",
           "gamesStarted": 11,
-          "avgIpPerOuting": 4.6,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.325,
@@ -271,10 +271,10 @@
           "confirmed": true,
           "name": "Gavin Williams",
           "hand": "R",
-          "era": "3.75",
-          "ipDisplay": "110.1",
+          "era": "3.81",
+          "ipDisplay": "113.1",
           "gamesStarted": 19,
-          "avgIpPerOuting": 5.8,
+          "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.386,
@@ -305,10 +305,10 @@
           "confirmed": true,
           "name": "Anthony Kay",
           "hand": "L",
-          "era": "4.19",
-          "ipDisplay": "86.0",
+          "era": "4.23",
+          "ipDisplay": "89.1",
           "gamesStarted": 17,
-          "avgIpPerOuting": 4.7,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.393,
@@ -328,11 +328,11 @@
           "confirmed": true,
           "name": "Patrick Sandoval",
           "hand": "L",
-          "era": "0.00",
-          "ipDisplay": "2.0",
+          "era": "2.08",
+          "ipDisplay": "4.1",
           "gamesStarted": 1,
-          "avgIpPerOuting": 2.0,
-          "isOpener": true,
+          "avgIpPerOuting": 4.3,
+          "isOpener": false,
           "oppSplits": {
             "woba30": 0.275,
             "woba30Rank": 3,
@@ -349,7 +349,11 @@
       "gameTime": "2026-07-09T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -379,20 +383,20 @@
         "teamName": "Athletics",
         "starter": {
           "confirmed": true,
-          "name": "Jack Perkins",
-          "hand": "R",
-          "era": "6.75",
-          "ipDisplay": "54.2",
-          "gamesStarted": 6,
-          "avgIpPerOuting": 4.4,
+          "name": "Jos\u00e9 Suarez",
+          "hand": "L",
+          "era": "4.56",
+          "ipDisplay": "47.1",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 3.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.342,
-            "woba30Rank": 19,
-            "woba7": 0.31,
-            "woba7Rank": 12,
-            "kPct30": 24.5,
-            "kPct30Rank": 7
+            "woba30": 0.332,
+            "woba30Rank": 15,
+            "woba7": 0.407,
+            "woba7Rank": 25,
+            "kPct30": 22.5,
+            "kPct30Rank": 14
           }
         }
       }
@@ -516,7 +520,11 @@
       "gameTime": "2026-07-09T23:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "79",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -569,7 +577,11 @@
       "gameTime": "2026-07-10T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -622,7 +634,11 @@
       "gameTime": "2026-07-10T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "74",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -675,7 +691,11 @@
       "gameTime": "2026-07-10T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "66",
+        "wind": "13 mph, Out To RF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",

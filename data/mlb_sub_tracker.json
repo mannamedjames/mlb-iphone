@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09 18:52",
+  "generated_at": "2026-07-09 22:28",
   "window_start": "2026-06-09",
   "window_end": "2026-07-09",
-  "games_processed": 406,
+  "games_processed": 412,
   "subbed_out": [
     {
       "playerId": 683357,
@@ -23,8 +23,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 20,
-      "pctStarted": 77,
+      "started": 21,
+      "pctStarted": 78,
       "hits": 26,
       "rank": 2
     },
