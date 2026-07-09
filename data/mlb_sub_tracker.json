@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08 22:13",
-  "window_start": "2026-06-08",
-  "window_end": "2026-07-08",
-  "games_processed": 399,
+  "generated_at": "2026-07-09 01:51",
+  "window_start": "2026-06-09",
+  "window_end": "2026-07-09",
+  "games_processed": 398,
   "subbed_out": [
     {
       "playerId": 683357,
@@ -10,8 +10,8 @@
       "team": "MIA",
       "teamId": 146,
       "teamName": "Miami Marlins",
-      "games": 12,
-      "started": 21,
+      "games": 13,
+      "started": 22,
       "pctStarted": 81,
       "hits": 18,
       "rank": 1
@@ -29,18 +29,6 @@
       "rank": 2
     },
     {
-      "playerId": 663993,
-      "name": "Nathaniel Lowe",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
-      "games": 12,
-      "started": 18,
-      "pctStarted": 69,
-      "hits": 12,
-      "rank": 3
-    },
-    {
       "playerId": 681481,
       "name": "Kerry Carpenter",
       "team": "DET",
@@ -48,8 +36,20 @@
       "teamName": "Detroit Tigers",
       "games": 11,
       "started": 21,
-      "pctStarted": 81,
+      "pctStarted": 78,
       "hits": 17,
+      "rank": 3
+    },
+    {
+      "playerId": 663993,
+      "name": "Nathaniel Lowe",
+      "team": "CIN",
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "games": 11,
+      "started": 17,
+      "pctStarted": 68,
+      "hits": 11,
       "rank": 4
     },
     {
@@ -59,9 +59,9 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 17,
-      "pctStarted": 61,
-      "hits": 17,
+      "started": 16,
+      "pctStarted": 59,
+      "hits": 14,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "Pittsburgh Pirates",
       "games": 18,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 1,
       "rank": 1
     },
@@ -84,23 +84,11 @@
       "team": "TOR",
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
-      "games": 14,
-      "started": 10,
-      "pctStarted": 37,
-      "hits": 9,
+      "games": 15,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 8,
       "rank": 2
-    },
-    {
-      "playerId": 694728,
-      "name": "Brice Matthews",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 13,
-      "started": 11,
-      "pctStarted": 41,
-      "hits": 10,
-      "rank": 3
     },
     {
       "playerId": 665923,
@@ -110,9 +98,9 @@
       "teamName": "Miami Marlins",
       "games": 13,
       "started": 10,
-      "pctStarted": 38,
+      "pctStarted": 37,
       "hits": 12,
-      "rank": 4
+      "rank": 3
     },
     {
       "playerId": 687749,
@@ -121,9 +109,21 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 3,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 1,
+      "rank": 4
+    },
+    {
+      "playerId": 694728,
+      "name": "Brice Matthews",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 12,
+      "started": 12,
+      "pctStarted": 44,
+      "hits": 10,
       "rank": 5
     }
   ]
