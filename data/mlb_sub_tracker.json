@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09 01:51",
+  "generated_at": "2026-07-09 16:13",
   "window_start": "2026-06-09",
   "window_end": "2026-07-09",
-  "games_processed": 398,
+  "games_processed": 406,
   "subbed_out": [
     {
       "playerId": 683357,
@@ -22,9 +22,9 @@
       "team": "MIN",
       "teamId": 142,
       "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 19,
-      "pctStarted": 76,
+      "games": 13,
+      "started": 20,
+      "pctStarted": 77,
       "hits": 26,
       "rank": 2
     },
@@ -48,7 +48,7 @@
       "teamName": "Cincinnati Reds",
       "games": 11,
       "started": 17,
-      "pctStarted": 68,
+      "pctStarted": 65,
       "hits": 11,
       "rank": 4
     },
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 16,
-      "pctStarted": 59,
+      "pctStarted": 57,
       "hits": 14,
       "rank": 5
     }
@@ -109,9 +109,9 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 1,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 2,
       "rank": 4
     },
     {

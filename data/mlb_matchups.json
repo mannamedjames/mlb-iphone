@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 01:51",
+  "generated_at": "2026-07-09 16:13",
   "date": "2026-07-09",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-07-09T16:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "7 mph, In From CF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -22,12 +26,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.303,
-            "woba30Rank": 4,
-            "woba7": 0.391,
-            "woba7Rank": 25,
-            "kPct30": 21.6,
-            "kPct30Rank": 17
+            "woba30": 0.297,
+            "woba30Rank": 2,
+            "woba7": 0.374,
+            "woba7Rank": 23,
+            "kPct30": 22.4,
+            "kPct30Rank": 14
           }
         }
       },
@@ -45,11 +49,11 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.39,
-            "woba30Rank": 29,
-            "woba7": 0.403,
-            "woba7Rank": 26,
-            "kPct30": 24.9,
+            "woba30": 0.383,
+            "woba30Rank": 28,
+            "woba7": 0.385,
+            "woba7Rank": 25,
+            "kPct30": 25.2,
             "kPct30Rank": 5
           }
         }
@@ -60,7 +64,11 @@
       "gameTime": "2026-07-09T17:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "10 mph, Out To LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -76,11 +84,11 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.353,
-            "woba30Rank": 20,
-            "woba7": 0.344,
-            "woba7Rank": 14,
-            "kPct30": 20.9,
-            "kPct30Rank": 18
+            "woba30Rank": 21,
+            "woba7": 0.372,
+            "woba7Rank": 20,
+            "kPct30": 20.6,
+            "kPct30Rank": 22
           }
         }
       },
@@ -98,12 +106,12 @@
           "avgIpPerOuting": 6.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.322,
-            "woba30Rank": 10,
-            "woba7": 0.374,
-            "woba7Rank": 23,
-            "kPct30": 22.8,
-            "kPct30Rank": 14
+            "woba30": 0.324,
+            "woba30Rank": 11,
+            "woba7": 0.389,
+            "woba7Rank": 26,
+            "kPct30": 22.3,
+            "kPct30Rank": 15
           }
         }
       }
@@ -113,7 +121,11 @@
       "gameTime": "2026-07-09T17:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -128,12 +140,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.307,
-            "woba30Rank": 7,
-            "woba7": 0.293,
-            "woba7Rank": 7,
-            "kPct30": 26.3,
-            "kPct30Rank": 3
+            "woba30": 0.299,
+            "woba30Rank": 4,
+            "woba7": 0.294,
+            "woba7Rank": 8,
+            "kPct30": 27.1,
+            "kPct30Rank": 2
           }
         }
       },
@@ -142,122 +154,35 @@
         "teamAbbr": "NYY",
         "teamName": "New York Yankees",
         "starter": {
-          "confirmed": false
-        }
-      }
-    },
-    {
-      "gamePk": 823683,
-      "gameTime": "2026-07-09T17:40:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": null,
-      "home": {
-        "teamId": 142,
-        "teamAbbr": "MIN",
-        "teamName": "Minnesota Twins",
-        "starter": {
           "confirmed": true,
-          "name": "Bailey Ober",
+          "name": "Paul Blackburn",
           "hand": "R",
-          "era": "4.59",
-          "ipDisplay": "66.2",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 5.6,
-          "isOpener": false,
+          "era": "2.22",
+          "ipDisplay": "44.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
           "oppSplits": {
-            "woba30": 0.325,
-            "woba30Rank": 11,
-            "woba7": 0.338,
-            "woba7Rank": 18,
-            "kPct30": 26.5,
-            "kPct30Rank": 2
-          }
-        }
-      },
-      "away": {
-        "teamId": 114,
-        "teamAbbr": "CLE",
-        "teamName": "Cleveland Guardians",
-        "starter": {
-          "confirmed": true,
-          "name": "Gavin Williams",
-          "hand": "R",
-          "era": "3.89",
-          "ipDisplay": "106.1",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.9,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.387,
-            "woba30Rank": 28,
-            "woba7": 0.389,
-            "woba7Rank": 24,
-            "kPct30": 17.1,
-            "kPct30Rank": 30
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 824577,
-      "gameTime": "2026-07-09T18:10:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": null,
-      "home": {
-        "teamId": 145,
-        "teamAbbr": "CWS",
-        "teamName": "Chicago White Sox",
-        "starter": {
-          "confirmed": true,
-          "name": "Anthony Kay",
-          "hand": "L",
-          "era": "4.29",
-          "ipDisplay": "84.0",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 4.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.377,
-            "woba30Rank": 28,
-            "woba7": 0.402,
-            "woba7Rank": 24,
-            "kPct30": 19.0,
-            "kPct30Rank": 27
-          }
-        }
-      },
-      "away": {
-        "teamId": 111,
-        "teamAbbr": "BOS",
-        "teamName": "Boston Red Sox",
-        "starter": {
-          "confirmed": true,
-          "name": "Patrick Sandoval",
-          "hand": "L",
-          "era": null,
-          "ipDisplay": null,
-          "gamesStarted": null,
-          "avgIpPerOuting": null,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.288,
-            "woba30Rank": 4,
-            "woba7": 0.237,
-            "woba7Rank": 3,
-            "kPct30": 27.4,
-            "kPct30Rank": 3
+            "woba30": 0.354,
+            "woba30Rank": 24,
+            "woba7": 0.306,
+            "woba7Rank": 11,
+            "kPct30": 18.0,
+            "kPct30Rank": 29
           }
         }
       }
     },
     {
       "gamePk": 824816,
-      "gameTime": "2026-07-09T22:35:00Z",
+      "gameTime": "2026-07-09T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "80",
+        "wind": "4 mph, In From CF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -272,11 +197,11 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.412,
+            "woba30": 0.418,
             "woba30Rank": 30,
-            "woba7": 0.403,
-            "woba7Rank": 25,
-            "kPct30": 19.7,
+            "woba7": 0.346,
+            "woba7Rank": 15,
+            "kPct30": 19.3,
             "kPct30Rank": 25
           }
         }
@@ -295,12 +220,126 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.306,
-            "woba30Rank": 8,
-            "woba7": 0.299,
-            "woba7Rank": 9,
-            "kPct30": 25.5,
+            "woba30": 0.325,
+            "woba30Rank": 12,
+            "woba7": 0.342,
+            "woba7Rank": 14,
+            "kPct30": 25.0,
             "kPct30Rank": 7
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 823683,
+      "gameTime": "2026-07-09T17:40:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "78",
+        "wind": "6 mph, In From LF"
+      },
+      "home": {
+        "teamId": 142,
+        "teamAbbr": "MIN",
+        "teamName": "Minnesota Twins",
+        "starter": {
+          "confirmed": true,
+          "name": "Bailey Ober",
+          "hand": "R",
+          "era": "4.59",
+          "ipDisplay": "66.2",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 5.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.322,
+            "woba30Rank": 10,
+            "woba7": 0.321,
+            "woba7Rank": 15,
+            "kPct30": 26.1,
+            "kPct30Rank": 3
+          }
+        }
+      },
+      "away": {
+        "teamId": 114,
+        "teamAbbr": "CLE",
+        "teamName": "Cleveland Guardians",
+        "starter": {
+          "confirmed": true,
+          "name": "Gavin Williams",
+          "hand": "R",
+          "era": "3.89",
+          "ipDisplay": "106.1",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.386,
+            "woba30Rank": 29,
+            "woba7": 0.383,
+            "woba7Rank": 24,
+            "kPct30": 17.2,
+            "kPct30Rank": 30
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 824577,
+      "gameTime": "2026-07-09T18:10:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "10 mph, Out To LF"
+      },
+      "home": {
+        "teamId": 145,
+        "teamAbbr": "CWS",
+        "teamName": "Chicago White Sox",
+        "starter": {
+          "confirmed": true,
+          "name": "Anthony Kay",
+          "hand": "L",
+          "era": "4.29",
+          "ipDisplay": "84.0",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 4.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.393,
+            "woba30Rank": 28,
+            "woba7": 0.429,
+            "woba7Rank": 27,
+            "kPct30": 18.7,
+            "kPct30Rank": 27
+          }
+        }
+      },
+      "away": {
+        "teamId": 111,
+        "teamAbbr": "BOS",
+        "teamName": "Boston Red Sox",
+        "starter": {
+          "confirmed": true,
+          "name": "Patrick Sandoval",
+          "hand": "L",
+          "era": null,
+          "ipDisplay": null,
+          "gamesStarted": null,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.275,
+            "woba30Rank": 3,
+            "woba7": 0.211,
+            "woba7Rank": 5,
+            "kPct30": 26.8,
+            "kPct30Rank": 5
           }
         }
       }
@@ -325,12 +364,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.367,
-            "woba30Rank": 26,
-            "woba7": 0.399,
-            "woba7Rank": 22,
-            "kPct30": 23.7,
-            "kPct30Rank": 10
+            "woba30": 0.336,
+            "woba30Rank": 17,
+            "woba7": 0.294,
+            "woba7Rank": 9,
+            "kPct30": 23.4,
+            "kPct30Rank": 12
           }
         }
       },
@@ -348,12 +387,12 @@
           "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.343,
-            "woba30Rank": 17,
-            "woba7": 0.302,
-            "woba7Rank": 9,
-            "kPct30": 24.7,
-            "kPct30Rank": 6
+            "woba30": 0.342,
+            "woba30Rank": 19,
+            "woba7": 0.31,
+            "woba7Rank": 12,
+            "kPct30": 24.5,
+            "kPct30Rank": 7
           }
         }
       }
@@ -378,12 +417,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.291,
+            "woba30": 0.287,
             "woba30Rank": 1,
-            "woba7": 0.286,
+            "woba7": 0.278,
             "woba7Rank": 4,
-            "kPct30": 24.4,
-            "kPct30Rank": 8
+            "kPct30": 24.9,
+            "kPct30Rank": 6
           }
         }
       },
@@ -401,11 +440,11 @@
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.381,
+            "woba30": 0.379,
             "woba30Rank": 27,
-            "woba7": 0.424,
+            "woba7": 0.421,
             "woba7Rank": 28,
-            "kPct30": 18.8,
+            "kPct30": 19.0,
             "kPct30Rank": 25
           }
         }
@@ -431,12 +470,12 @@
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.355,
-            "woba30Rank": 23,
-            "woba7": 0.34,
-            "woba7Rank": 19,
-            "kPct30": 24.7,
-            "kPct30Rank": 7
+            "woba30": 0.362,
+            "woba30Rank": 25,
+            "woba7": 0.326,
+            "woba7Rank": 18,
+            "kPct30": 24.1,
+            "kPct30Rank": 8
           }
         }
       },
@@ -454,12 +493,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.36,
-            "woba30Rank": 23,
-            "woba7": 0.305,
-            "woba7Rank": 10,
-            "kPct30": 21.6,
-            "kPct30Rank": 15
+            "woba30": 0.401,
+            "woba30Rank": 29,
+            "woba7": 0.486,
+            "woba7Rank": 30,
+            "kPct30": 21.8,
+            "kPct30Rank": 16
           }
         }
       }
@@ -484,12 +523,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.35,
-            "woba30Rank": 20,
-            "woba7": 0.321,
-            "woba7Rank": 14,
-            "kPct30": 23.0,
-            "kPct30Rank": 13
+            "woba30": 0.339,
+            "woba30Rank": 17,
+            "woba7": 0.314,
+            "woba7Rank": 13,
+            "kPct30": 22.9,
+            "kPct30Rank": 12
           }
         }
       },
@@ -507,12 +546,12 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.33,
-            "woba30Rank": 14,
-            "woba7": 0.307,
-            "woba7Rank": 11,
-            "kPct30": 18.6,
-            "kPct30Rank": 27
+            "woba30": 0.326,
+            "woba30Rank": 13,
+            "woba7": 0.32,
+            "woba7Rank": 14,
+            "kPct30": 19.0,
+            "kPct30Rank": 26
           }
         }
       }
@@ -537,11 +576,11 @@
           "avgIpPerOuting": 6.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.325,
+            "woba30": 0.326,
             "woba30Rank": 12,
-            "woba7": 0.218,
+            "woba7": 0.24,
             "woba7Rank": 1,
-            "kPct30": 24.3,
+            "kPct30": 23.8,
             "kPct30Rank": 9
           }
         }
@@ -560,12 +599,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.377,
-            "woba30Rank": 29,
-            "woba7": 0.417,
-            "woba7Rank": 27,
-            "kPct30": 20.3,
-            "kPct30Rank": 22
+            "woba30": 0.364,
+            "woba30Rank": 26,
+            "woba7": 0.389,
+            "woba7Rank": 22,
+            "kPct30": 22.3,
+            "kPct30Rank": 15
           }
         }
       }
@@ -590,12 +629,12 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.297,
-            "woba30Rank": 2,
-            "woba7": 0.244,
-            "woba7Rank": 2,
-            "kPct30": 18.7,
-            "kPct30Rank": 26
+            "woba30": 0.298,
+            "woba30Rank": 3,
+            "woba7": 0.266,
+            "woba7Rank": 3,
+            "kPct30": 18.6,
+            "kPct30Rank": 27
           }
         }
       },
@@ -613,12 +652,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.33,
-            "woba30Rank": 13,
-            "woba7": 0.313,
-            "woba7Rank": 13,
-            "kPct30": 23.2,
-            "kPct30Rank": 12
+            "woba30": 0.333,
+            "woba30Rank": 14,
+            "woba7": 0.327,
+            "woba7Rank": 19,
+            "kPct30": 22.7,
+            "kPct30Rank": 13
           }
         }
       }
@@ -651,12 +690,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
-            "woba30Rank": 19,
-            "woba7": 0.347,
-            "woba7Rank": 20,
-            "kPct30": 19.1,
-            "kPct30Rank": 24
+            "woba30": 0.337,
+            "woba30Rank": 16,
+            "woba7": 0.294,
+            "woba7Rank": 9,
+            "kPct30": 20.2,
+            "kPct30Rank": 22
           }
         }
       }
