@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10 01:49",
+  "generated_at": "2026-07-10 15:44",
   "window_start": "2026-06-10",
   "window_end": "2026-07-10",
-  "games_processed": 400,
+  "games_processed": 404,
   "subbed_out": [
     {
       "playerId": 683357,
@@ -47,8 +47,8 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 16,
-      "pctStarted": 59,
+      "started": 17,
+      "pctStarted": 61,
       "hits": 14,
       "rank": 4
     },
@@ -110,20 +110,20 @@
       "teamName": "San Diego Padres",
       "games": 12,
       "started": 6,
-      "pctStarted": 23,
+      "pctStarted": 22,
       "hits": 2,
       "rank": 4
     },
     {
-      "playerId": 694728,
-      "name": "Brice Matthews",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 11,
-      "started": 12,
-      "pctStarted": 46,
-      "hits": 9,
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 12,
+      "started": 4,
+      "pctStarted": 14,
+      "hits": 4,
       "rank": 5
     }
   ]
