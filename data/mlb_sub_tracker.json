@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-07-10 22:11",
-  "window_start": "2026-06-10",
-  "window_end": "2026-07-10",
-  "games_processed": 404,
+  "generated_at": "2026-07-11 01:28",
+  "window_start": "2026-06-11",
+  "window_end": "2026-07-11",
+  "games_processed": 392,
   "subbed_out": [
-    {
-      "playerId": 683357,
-      "name": "Owen Caissie",
-      "team": "MIA",
-      "teamId": 146,
-      "teamName": "Miami Marlins",
-      "games": 12,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 18,
-      "rank": 1
-    },
     {
       "playerId": 663616,
       "name": "Trevor Larnach",
@@ -24,8 +12,20 @@
       "teamName": "Minnesota Twins",
       "games": 12,
       "started": 20,
-      "pctStarted": 77,
+      "pctStarted": 80,
       "hits": 26,
+      "rank": 1
+    },
+    {
+      "playerId": 683357,
+      "name": "Owen Caissie",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 12,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 17,
       "rank": 2
     },
     {
@@ -37,7 +37,7 @@
       "games": 11,
       "started": 21,
       "pctStarted": 78,
-      "hits": 16,
+      "hits": 15,
       "rank": 3
     },
     {
@@ -47,21 +47,21 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 17,
-      "pctStarted": 61,
-      "hits": 14,
+      "started": 16,
+      "pctStarted": 57,
+      "hits": 12,
       "rank": 4
     },
     {
-      "playerId": 663993,
-      "name": "Nathaniel Lowe",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
-      "games": 10,
-      "started": 16,
-      "pctStarted": 62,
-      "hits": 11,
+      "playerId": 687282,
+      "name": "Gabriel Rincones Jr.",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 9,
+      "started": 18,
+      "pctStarted": 67,
+      "hits": 12,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 18,
+      "games": 17,
       "started": 2,
       "pctStarted": 7,
       "hits": 1,
@@ -85,9 +85,9 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 14,
-      "started": 9,
-      "pctStarted": 35,
-      "hits": 8,
+      "started": 8,
+      "pctStarted": 32,
+      "hits": 5,
       "rank": 2
     },
     {
@@ -98,21 +98,9 @@
       "teamName": "Miami Marlins",
       "games": 12,
       "started": 11,
-      "pctStarted": 41,
+      "pctStarted": 42,
       "hits": 12,
       "rank": 3
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 12,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 2,
-      "rank": 4
     },
     {
       "playerId": 678489,
@@ -122,8 +110,20 @@
       "teamName": "Arizona Diamondbacks",
       "games": 12,
       "started": 4,
-      "pctStarted": 14,
+      "pctStarted": 15,
       "hits": 4,
+      "rank": 4
+    },
+    {
+      "playerId": 694728,
+      "name": "Brice Matthews",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 11,
+      "started": 11,
+      "pctStarted": 44,
+      "hits": 9,
       "rank": 5
     }
   ]
