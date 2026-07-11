@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 01:28",
+  "generated_at": "2026-07-11 14:34",
   "window_start": "2026-06-11",
   "window_end": "2026-07-11",
-  "games_processed": 392,
+  "games_processed": 404,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -11,9 +11,9 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 12,
-      "started": 20,
-      "pctStarted": 80,
-      "hits": 26,
+      "started": 21,
+      "pctStarted": 81,
+      "hits": 28,
       "rank": 1
     },
     {
@@ -24,7 +24,7 @@
       "teamName": "Miami Marlins",
       "games": 12,
       "started": 20,
-      "pctStarted": 77,
+      "pctStarted": 74,
       "hits": 17,
       "rank": 2
     },
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 687282,
-      "name": "Gabriel Rincones Jr.",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
+      "playerId": 685133,
+      "name": "Wade Meckler",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
       "games": 9,
-      "started": 18,
-      "pctStarted": 67,
-      "hits": 12,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 19,
       "rank": 5
     }
   ],
@@ -85,10 +85,22 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 14,
-      "started": 8,
-      "pctStarted": 32,
-      "hits": 5,
+      "started": 9,
+      "pctStarted": 35,
+      "hits": 7,
       "rank": 2
+    },
+    {
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 13,
+      "started": 4,
+      "pctStarted": 14,
+      "hits": 5,
+      "rank": 3
     },
     {
       "playerId": 665923,
@@ -97,32 +109,20 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 12,
-      "started": 11,
-      "pctStarted": 42,
+      "started": 12,
+      "pctStarted": 44,
       "hits": 12,
-      "rank": 3
-    },
-    {
-      "playerId": 678489,
-      "name": "Jorge Barrosa",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 12,
-      "started": 4,
-      "pctStarted": 15,
-      "hits": 4,
       "rank": 4
     },
     {
-      "playerId": 694728,
-      "name": "Brice Matthews",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 11,
-      "started": 11,
-      "pctStarted": 44,
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 12,
+      "started": 8,
+      "pctStarted": 31,
       "hits": 9,
       "rank": 5
     }
