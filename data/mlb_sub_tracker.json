@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 17:57",
+  "generated_at": "2026-07-11 21:56",
   "window_start": "2026-06-11",
   "window_end": "2026-07-11",
-  "games_processed": 404,
+  "games_processed": 407,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -10,10 +10,10 @@
       "team": "MIN",
       "teamId": 142,
       "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 21,
+      "games": 13,
+      "started": 22,
       "pctStarted": 81,
-      "hits": 28,
+      "hits": 29,
       "rank": 1
     },
     {
@@ -48,7 +48,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 16,
-      "pctStarted": 57,
+      "pctStarted": 55,
       "hits": 12,
       "rank": 4
     },
@@ -59,9 +59,9 @@
       "teamId": 108,
       "teamName": "Los Angeles Angels",
       "games": 9,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 19,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 21,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 17,
+      "games": 18,
       "started": 2,
       "pctStarted": 7,
       "hits": 1,
@@ -91,6 +91,18 @@
       "rank": 2
     },
     {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 8,
+      "pctStarted": 30,
+      "hits": 10,
+      "rank": 3
+    },
+    {
       "playerId": 678489,
       "name": "Jorge Barrosa",
       "team": "AZ",
@@ -100,7 +112,7 @@
       "started": 4,
       "pctStarted": 14,
       "hits": 5,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 665923,
@@ -112,18 +124,6 @@
       "started": 12,
       "pctStarted": 44,
       "hits": 12,
-      "rank": 4
-    },
-    {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 8,
-      "pctStarted": 31,
-      "hits": 9,
       "rank": 5
     }
   ]
