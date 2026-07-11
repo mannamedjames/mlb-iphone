@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 14:34",
+  "generated_at": "2026-07-11 17:57",
   "date": "2026-07-11",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "S",
       "gameNumber": 1,
       "weather": {
-        "condition": "Sunny",
-        "temp": "81",
-        "wind": "2 mph, Out To CF"
+        "condition": "Overcast",
+        "temp": "73",
+        "wind": "1 mph, Out To CF"
       },
       "home": {
         "teamId": 134,
@@ -20,9 +20,9 @@
           "confirmed": true,
           "name": "Braxton Ashcraft",
           "hand": "R",
-          "era": "3.24",
-          "ipDisplay": "108.1",
-          "gamesStarted": 18,
+          "era": "3.49",
+          "ipDisplay": "113.1",
+          "gamesStarted": 19,
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Brandon Sproat",
           "hand": "R",
-          "era": "5.13",
-          "ipDisplay": "79.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 4.8,
+          "era": "5.16",
+          "ipDisplay": "82.0",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.385,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-11T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "7 mph, Out To LF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -117,7 +121,11 @@
       "gameTime": "2026-07-11T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "79",
+        "wind": "14 mph, L To R"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -223,7 +231,11 @@
       "gameTime": "2026-07-11T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "63",
+        "wind": "12 mph, In From LF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -276,7 +288,11 @@
       "gameTime": "2026-07-11T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "88",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -329,7 +345,11 @@
       "gameTime": "2026-07-11T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "80",
+        "wind": "10 mph, In From RF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -358,7 +378,22 @@
         "teamAbbr": "BOS",
         "teamName": "Boston Red Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Eduardo Rivera",
+          "hand": "L",
+          "era": "0.00",
+          "ipDisplay": "3.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.357,
+            "woba30Rank": 22,
+            "woba7": 0.374,
+            "woba7Rank": 21,
+            "kPct30": 20.7,
+            "kPct30Rank": 20
+          }
         }
       }
     },
@@ -367,7 +402,11 @@
       "gameTime": "2026-07-11T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -420,7 +459,11 @@
       "gameTime": "2026-07-11T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
