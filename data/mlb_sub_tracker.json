@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11 21:56",
-  "window_start": "2026-06-11",
-  "window_end": "2026-07-11",
+  "generated_at": "2026-07-12 01:30",
+  "window_start": "2026-06-12",
+  "window_end": "2026-07-12",
   "games_processed": 407,
   "subbed_out": [
     {
@@ -11,22 +11,10 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 22,
+      "started": 21,
       "pctStarted": 81,
-      "hits": 29,
+      "hits": 28,
       "rank": 1
-    },
-    {
-      "playerId": 683357,
-      "name": "Owen Caissie",
-      "team": "MIA",
-      "teamId": 146,
-      "teamName": "Miami Marlins",
-      "games": 12,
-      "started": 20,
-      "pctStarted": 74,
-      "hits": 17,
-      "rank": 2
     },
     {
       "playerId": 681481,
@@ -35,9 +23,21 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 11,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 15,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 14,
+      "rank": 2
+    },
+    {
+      "playerId": 683357,
+      "name": "Owen Caissie",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 11,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 17,
       "rank": 3
     },
     {
@@ -48,20 +48,20 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 16,
-      "pctStarted": 55,
+      "pctStarted": 53,
       "hits": 12,
       "rank": 4
     },
     {
-      "playerId": 685133,
-      "name": "Wade Meckler",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
+      "playerId": 678662,
+      "name": "Ezequiel Tovar",
+      "team": "COL",
+      "teamId": 115,
+      "teamName": "Colorado Rockies",
       "games": 9,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 21,
+      "started": 23,
+      "pctStarted": 82,
+      "hits": 14,
       "rank": 5
     }
   ],
@@ -73,9 +73,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 18,
-      "started": 2,
-      "pctStarted": 7,
-      "hits": 1,
+      "started": 3,
+      "pctStarted": 11,
+      "hits": 2,
       "rank": 1
     },
     {
@@ -97,8 +97,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 8,
-      "pctStarted": 30,
+      "started": 7,
+      "pctStarted": 27,
       "hits": 10,
       "rank": 3
     },
@@ -109,9 +109,9 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 13,
-      "started": 4,
-      "pctStarted": 14,
-      "hits": 5,
+      "started": 3,
+      "pctStarted": 11,
+      "hits": 4,
       "rank": 4
     },
     {
@@ -121,8 +121,8 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 12,
-      "started": 12,
-      "pctStarted": 44,
+      "started": 11,
+      "pctStarted": 41,
       "hits": 12,
       "rank": 5
     }
