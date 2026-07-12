@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12 01:30",
+  "generated_at": "2026-07-12 14:40",
   "window_start": "2026-06-12",
   "window_end": "2026-07-12",
-  "games_processed": 407,
+  "games_processed": 412,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -84,11 +84,35 @@
       "team": "TOR",
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
-      "games": 14,
+      "games": 15,
       "started": 9,
-      "pctStarted": 35,
+      "pctStarted": 33,
       "hits": 7,
       "rank": 2
+    },
+    {
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 14,
+      "started": 3,
+      "pctStarted": 11,
+      "hits": 4,
+      "rank": 3
+    },
+    {
+      "playerId": 679822,
+      "name": "Justin Foscue",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 13,
+      "started": 7,
+      "pctStarted": 26,
+      "hits": 13,
+      "rank": 4
     },
     {
       "playerId": 668885,
@@ -100,30 +124,6 @@
       "started": 7,
       "pctStarted": 27,
       "hits": 10,
-      "rank": 3
-    },
-    {
-      "playerId": 678489,
-      "name": "Jorge Barrosa",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 13,
-      "started": 3,
-      "pctStarted": 11,
-      "hits": 4,
-      "rank": 4
-    },
-    {
-      "playerId": 665923,
-      "name": "Esteury Ruiz",
-      "team": "MIA",
-      "teamId": 146,
-      "teamName": "Miami Marlins",
-      "games": 12,
-      "started": 11,
-      "pctStarted": 41,
-      "hits": 12,
       "rank": 5
     }
   ]
