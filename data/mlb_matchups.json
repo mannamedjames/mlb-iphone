@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12 14:40",
+  "generated_at": "2026-07-12 18:03",
   "date": "2026-07-12",
   "games": [
     {
@@ -8,8 +8,8 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "76",
+        "condition": "Sunny",
+        "temp": "81",
         "wind": "5 mph, L To R"
       },
       "home": {
@@ -20,9 +20,9 @@
           "confirmed": true,
           "name": "Paul Skenes",
           "hand": "R",
-          "era": "3.58",
-          "ipDisplay": "103.0",
-          "gamesStarted": 19,
+          "era": "3.61",
+          "ipDisplay": "107.1",
+          "gamesStarted": 20,
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Robert Gasser",
           "hand": "L",
-          "era": "4.15",
-          "ipDisplay": "43.1",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 5.4,
+          "era": "5.24",
+          "ipDisplay": "46.1",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.325,
@@ -66,7 +66,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Cloudy",
-        "temp": "79",
+        "temp": "81",
         "wind": "7 mph, R To L"
       },
       "home": {
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Shane Baz",
           "hand": "R",
-          "era": "4.21",
-          "ipDisplay": "107.0",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.9,
+          "era": "4.14",
+          "ipDisplay": "108.2",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.34,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Seth Lugo",
           "hand": "R",
-          "era": "4.56",
-          "ipDisplay": "100.2",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.6,
+          "era": "4.51",
+          "ipDisplay": "101.2",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.315,
@@ -121,7 +121,11 @@
       "gameTime": "2026-07-12T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "7 mph, In From RF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -130,10 +134,10 @@
           "confirmed": true,
           "name": "Cade Cavalli",
           "hand": "R",
-          "era": "3.88",
-          "ipDisplay": "92.2",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 4.9,
+          "era": "3.82",
+          "ipDisplay": "94.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -153,10 +157,10 @@
           "confirmed": true,
           "name": "Will Warren",
           "hand": "R",
-          "era": "4.15",
-          "ipDisplay": "93.1",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.2,
+          "era": "4.20",
+          "ipDisplay": "94.1",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.358,
@@ -176,7 +180,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "74",
+        "temp": "81",
         "wind": "6 mph, In From RF"
       },
       "home": {
@@ -187,10 +191,10 @@
           "confirmed": true,
           "name": "Andrew Abbott",
           "hand": "L",
-          "era": "3.92",
-          "ipDisplay": "101.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.3,
+          "era": "4.06",
+          "ipDisplay": "102.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.416,
@@ -210,10 +214,10 @@
           "confirmed": true,
           "name": "Matthew Boyd",
           "hand": "L",
-          "era": "4.31",
-          "ipDisplay": "39.2",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 5.0,
+          "era": "4.28",
+          "ipDisplay": "40.0",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.381,
@@ -231,7 +235,11 @@
       "gameTime": "2026-07-12T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "83",
+        "wind": "2 mph, In From RF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -240,10 +248,10 @@
           "confirmed": true,
           "name": "Zach Thornton",
           "hand": "L",
-          "era": "4.35",
-          "ipDisplay": "10.1",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 5.2,
+          "era": "3.97",
+          "ipDisplay": "11.1",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 3.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.392,
@@ -263,10 +271,10 @@
           "confirmed": true,
           "name": "Payton Tolle",
           "hand": "L",
-          "era": "3.14",
-          "ipDisplay": "80.1",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 5.7,
+          "era": "3.21",
+          "ipDisplay": "81.1",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.338,
@@ -297,10 +305,10 @@
           "confirmed": true,
           "name": "Ian Seymour",
           "hand": "L",
-          "era": "4.11",
-          "ipDisplay": "61.1",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 4.5,
+          "era": "4.04",
+          "ipDisplay": "62.1",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 3.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.279,
@@ -320,10 +328,10 @@
           "confirmed": true,
           "name": "Emerson Hancock",
           "hand": "R",
-          "era": "3.23",
-          "ipDisplay": "97.2",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 5.7,
+          "era": "3.19",
+          "ipDisplay": "98.2",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.353,
@@ -343,8 +351,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "77",
-        "wind": "7 mph, In From RF"
+        "temp": "83",
+        "wind": "8 mph, In From RF"
       },
       "home": {
         "teamId": 116,
@@ -354,10 +362,10 @@
           "confirmed": true,
           "name": "Tarik Skubal",
           "hand": "L",
-          "era": "3.06",
-          "ipDisplay": "70.2",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 5.9,
+          "era": "2.97",
+          "ipDisplay": "72.2",
+          "gamesStarted": 13,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.3,
@@ -377,10 +385,10 @@
           "confirmed": true,
           "name": "Zack Wheeler",
           "hand": "R",
-          "era": "2.28",
-          "ipDisplay": "87.0",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 6.2,
+          "era": "2.25",
+          "ipDisplay": "88.0",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.324,
@@ -398,7 +406,11 @@
       "gameTime": "2026-07-12T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -407,10 +419,10 @@
           "confirmed": true,
           "name": "Tyler Phillips",
           "hand": "R",
-          "era": "3.28",
-          "ipDisplay": "74.0",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 4.9,
+          "era": "3.48",
+          "ipDisplay": "75.0",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.317,
@@ -430,10 +442,10 @@
           "confirmed": true,
           "name": "Joey Cantillo",
           "hand": "L",
-          "era": "3.66",
-          "ipDisplay": "96.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.1,
+          "era": "3.62",
+          "ipDisplay": "97.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.347,
@@ -451,7 +463,11 @@
       "gameTime": "2026-07-12T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "90",
+        "wind": "11 mph, Out To LF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -504,7 +520,11 @@
       "gameTime": "2026-07-12T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "82",
+        "wind": "6 mph, In From LF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -557,7 +577,11 @@
       "gameTime": "2026-07-12T18:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "84",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -587,20 +611,20 @@
         "teamName": "Atlanta Braves",
         "starter": {
           "confirmed": true,
-          "name": "JR Ritchie",
-          "hand": "R",
-          "era": "4.60",
-          "ipDisplay": "45.0",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 5.1,
+          "name": "Danny Young",
+          "hand": "L",
+          "era": "2.70",
+          "ipDisplay": "3.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.311,
-            "woba30Rank": 6,
-            "woba7": 0.209,
-            "woba7Rank": 1,
-            "kPct30": 19.2,
-            "kPct30Rank": 26
+            "woba30": 0.323,
+            "woba30Rank": 13,
+            "woba7": 0.326,
+            "woba7Rank": 15,
+            "kPct30": 18.0,
+            "kPct30Rank": 29
           }
         }
       }
@@ -610,7 +634,11 @@
       "gameTime": "2026-07-12T18:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -663,7 +691,11 @@
       "gameTime": "2026-07-12T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "61",
+        "wind": "6 mph, Out To RF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -716,7 +748,11 @@
       "gameTime": "2026-07-12T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "78",
+        "wind": "2 mph, In From RF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
@@ -769,7 +805,11 @@
       "gameTime": "2026-07-12T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "72",
+        "wind": "5 mph, Out To RF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
