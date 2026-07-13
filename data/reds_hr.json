@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-07-12 13:04",
+  "generated_at": "2026-07-13 14:16",
   "team": "CIN",
-  "window_start": "2026-06-12",
-  "window_end": "2026-07-12",
+  "window_start": "2026-06-13",
+  "window_end": "2026-07-13",
   "homers": [
+    {
+      "batter": "Eugenio Su\u00e1rez",
+      "batterId": 553993,
+      "pitcher": "Matt Boyd",
+      "pitcherHand": "L",
+      "count": "3-2",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 92.9,
+      "rbi": 2,
+      "inning": 3,
+      "halfInning": "Bot",
+      "outs": 2,
+      "date": "2026-07-12",
+      "away": "CHC",
+      "home": "CIN",
+      "opponent": "CHC",
+      "opponentId": 112,
+      "distanceFt": 433,
+      "exitVeloMph": 111.3,
+      "field": "LF",
+      "desc": "Eugenio Su\u00e1rez homers (11) on a fly ball to left field. JJ Bleday scores."
+    },
     {
       "batter": "Jj Bleday",
       "batterId": 668709,
@@ -201,28 +223,6 @@
       "exitVeloMph": 94.7,
       "field": "LF",
       "desc": "Noelvi Marte homers (6) on a fly ball to left center field."
-    },
-    {
-      "batter": "Sal Stewart",
-      "batterId": 701398,
-      "pitcher": "Alan Rangel",
-      "pitcherHand": "R",
-      "count": "3-2",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 93.3,
-      "rbi": 2,
-      "inning": 3,
-      "halfInning": "Bot",
-      "outs": 1,
-      "date": "2026-07-08",
-      "away": "PHI",
-      "home": "CIN",
-      "opponent": "PHI",
-      "opponentId": 143,
-      "distanceFt": 356,
-      "exitVeloMph": 100.7,
-      "field": "RF",
-      "desc": "Sal Stewart homers (18) on a fly ball to right field. Elly De La Cruz scores."
     }
   ]
 }
