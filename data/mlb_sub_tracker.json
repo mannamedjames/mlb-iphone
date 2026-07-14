@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13 22:01",
-  "window_start": "2026-06-13",
-  "window_end": "2026-07-13",
-  "games_processed": 412,
+  "generated_at": "2026-07-14 01:21",
+  "window_start": "2026-06-14",
+  "window_end": "2026-07-14",
+  "games_processed": 397,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -12,7 +12,7 @@
       "teamName": "Minnesota Twins",
       "games": 13,
       "started": 21,
-      "pctStarted": 81,
+      "pctStarted": 84,
       "hits": 30,
       "rank": 1
     },
@@ -24,8 +24,8 @@
       "teamName": "Detroit Tigers",
       "games": 12,
       "started": 20,
-      "pctStarted": 74,
-      "hits": 14,
+      "pctStarted": 77,
+      "hits": 13,
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "Miami Marlins",
       "games": 11,
       "started": 18,
-      "pctStarted": 67,
+      "pctStarted": 69,
       "hits": 16,
       "rank": 3
     },
@@ -48,20 +48,20 @@
       "teamName": "Colorado Rockies",
       "games": 9,
       "started": 24,
-      "pctStarted": 86,
+      "pctStarted": 89,
       "hits": 14,
       "rank": 4
     },
     {
-      "playerId": 685133,
-      "name": "Wade Meckler",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
+      "playerId": 699013,
+      "name": "Esmerlyn Valdez",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
       "games": 9,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 21,
+      "started": 18,
+      "pctStarted": 67,
+      "hits": 30,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 19,
+      "games": 18,
       "started": 3,
       "pctStarted": 11,
       "hits": 2,
@@ -84,9 +84,9 @@
       "team": "TOR",
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
-      "games": 16,
+      "games": 15,
       "started": 8,
-      "pctStarted": 30,
+      "pctStarted": 31,
       "hits": 7,
       "rank": 2
     },
@@ -109,8 +109,8 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 7,
-      "pctStarted": 26,
+      "started": 6,
+      "pctStarted": 23,
       "hits": 14,
       "rank": 4
     },
@@ -121,8 +121,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 7,
-      "pctStarted": 27,
+      "started": 6,
+      "pctStarted": 24,
       "hits": 10,
       "rank": 5
     }

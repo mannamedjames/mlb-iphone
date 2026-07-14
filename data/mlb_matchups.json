@@ -1,5 +1,49 @@
 {
-  "generated_at": "2026-07-13 22:01",
-  "date": "2026-07-13",
-  "games": []
+  "generated_at": "2026-07-14 01:21",
+  "date": "2026-07-14",
+  "games": [
+    {
+      "gamePk": 823443,
+      "gameTime": "2026-07-15T00:00:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": {
+        "condition": "Clear",
+        "temp": "89",
+        "wind": "11 mph, Varies"
+      },
+      "home": {
+        "teamId": 160,
+        "teamAbbr": "NL",
+        "teamName": "National League All-Stars",
+        "starter": {
+          "confirmed": true,
+          "name": "Cristopher S\u00e1nchez",
+          "hand": "L",
+          "era": "2.62",
+          "ipDisplay": "127.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 6.4,
+          "isOpener": false,
+          "oppSplits": null
+        }
+      },
+      "away": {
+        "teamId": 159,
+        "teamAbbr": "AL",
+        "teamName": "American League All-Stars",
+        "starter": {
+          "confirmed": true,
+          "name": "Dylan Cease",
+          "hand": "R",
+          "era": "2.56",
+          "ipDisplay": "98.1",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": null
+        }
+      }
+    }
+  ]
 }
