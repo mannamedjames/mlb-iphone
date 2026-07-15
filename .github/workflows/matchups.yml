@@ -16,7 +16,7 @@ on:
         options: [all, matchups, subs]
 
 concurrency:
-  group: matchups
+  group: data-writers
   cancel-in-progress: false
 
 jobs:
