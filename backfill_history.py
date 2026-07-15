@@ -96,10 +96,13 @@ def starters_for_game(game_pk, hand_cache):
     except Exception as e:
         print(f"  ! boxscore {game_pk} failed: {e}", file=sys.stderr)
         return {}
-    result = {}
+    result = {"_teams": {
+        s: box.get("teams", {}).get(s, {}).get("team", {}).get("abbreviation", "")
+        for s in ("home", "away")
+    }}
     for side in ("home", "away"):
         players = box.get("teams", {}).get(side, {}).get("players", {})
-        team_abbr = box.get("teams", {}).get(side, {}).get("team", {}).get("abbreviation", "")
+        team_abbr = result["_teams"][side]
         for p in players.values():
             st = p.get("stats", {}).get("pitching", {})
             if st and st.get("gamesStarted") in (1, "1"):
@@ -178,7 +181,7 @@ def main():
                     if not s or not s.get("name"):
                         continue
                     opp_side = "away" if side == "home" else "home"
-                    opp_abbr = canon(teams.get(opp_side, {}).get("team", {}).get("abbreviation", ""))
+                    opp_abbr = canon(starters.get("_teams", {}).get(opp_side, ""))
                     row = {
                         "gamePk": game_pk,
                         "date": str(d),
@@ -211,7 +214,8 @@ def main():
                 time.sleep(0.03)
         n_days += 1
         if n_days % 10 == 0:
-            print(f"  ...through {d} ({len(rows)} rows)")
+            ranked_so_far = sum(1 for r in rows if r.get("woba30Rank") is not None)
+            print(f"  ...through {d} ({len(rows)} rows, {ranked_so_far} ranked)")
             save_db(rows)   # checkpoint
         d += timedelta(days=1)
 
