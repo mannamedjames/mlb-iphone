@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 22:04",
-  "window_start": "2026-06-14",
-  "window_end": "2026-07-14",
-  "games_processed": 397,
+  "generated_at": "2026-07-15 01:18",
+  "window_start": "2026-06-15",
+  "window_end": "2026-07-15",
+  "games_processed": 382,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -10,10 +10,10 @@
       "team": "MIN",
       "teamId": 142,
       "teamName": "Minnesota Twins",
-      "games": 13,
-      "started": 21,
-      "pctStarted": 84,
-      "hits": 30,
+      "games": 12,
+      "started": 20,
+      "pctStarted": 83,
+      "hits": 29,
       "rank": 1
     },
     {
@@ -24,7 +24,7 @@
       "teamName": "Detroit Tigers",
       "games": 12,
       "started": 20,
-      "pctStarted": 77,
+      "pctStarted": 80,
       "hits": 13,
       "rank": 2
     },
@@ -34,23 +34,11 @@
       "team": "MIA",
       "teamId": 146,
       "teamName": "Miami Marlins",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 69,
+      "games": 10,
+      "started": 17,
+      "pctStarted": 68,
       "hits": 16,
       "rank": 3
-    },
-    {
-      "playerId": 678662,
-      "name": "Ezequiel Tovar",
-      "team": "COL",
-      "teamId": 115,
-      "teamName": "Colorado Rockies",
-      "games": 9,
-      "started": 24,
-      "pctStarted": 89,
-      "hits": 14,
-      "rank": 4
     },
     {
       "playerId": 699013,
@@ -60,8 +48,20 @@
       "teamName": "Pittsburgh Pirates",
       "games": 9,
       "started": 18,
-      "pctStarted": 67,
+      "pctStarted": 69,
       "hits": 30,
+      "rank": 4
+    },
+    {
+      "playerId": 687282,
+      "name": "Gabriel Rincones Jr.",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 9,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 12,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "Pittsburgh Pirates",
       "games": 18,
       "started": 3,
-      "pctStarted": 11,
+      "pctStarted": 12,
       "hits": 2,
       "rank": 1
     },
@@ -84,23 +84,11 @@
       "team": "TOR",
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
-      "games": 15,
+      "games": 14,
       "started": 8,
-      "pctStarted": 31,
+      "pctStarted": 32,
       "hits": 7,
       "rank": 2
-    },
-    {
-      "playerId": 678489,
-      "name": "Jorge Barrosa",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 14,
-      "started": 3,
-      "pctStarted": 11,
-      "hits": 4,
-      "rank": 3
     },
     {
       "playerId": 679822,
@@ -109,21 +97,33 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 6,
-      "pctStarted": 23,
-      "hits": 14,
+      "started": 5,
+      "pctStarted": 20,
+      "hits": 11,
+      "rank": 3
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 13,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 2,
       "rank": 4
     },
     {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
       "games": 13,
-      "started": 6,
-      "pctStarted": 24,
-      "hits": 10,
+      "started": 3,
+      "pctStarted": 12,
+      "hits": 4,
       "rank": 5
     }
   ]
