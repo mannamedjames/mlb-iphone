@@ -41,6 +41,14 @@ jobs:
           github.event.inputs.target == 'all' ||
           github.event.inputs.target == 'matchups'
         run: python mlb_matchups.py
+      - name: Capture pregame matchup rows
+        if: >
+          github.event_name == 'schedule' ||
+          github.event.inputs.target == 'all' ||
+          github.event.inputs.target == 'matchups'
+        run: python capture_matchups.py
+      - name: Fill completed game results
+        run: python fill_results.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "matchups: ${{ github.run_id }}"

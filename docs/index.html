@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Matchup Signal Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root { --bg:#0b1622; --card:#15263b; --line:#24384f; --text:#d7e2ec;
+          --muted:#7d92a8; --accent:#7fd1ff; --good:#2ecc71; --bad:#e74c3c; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+         font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  .wrap { max-width:1100px; margin:0 auto; padding:24px 16px 60px; }
+  h1 { color:var(--accent); font-size:22px; margin:0 0 4px; }
+  h2 { font-size:16px; color:var(--accent); margin:34px 0 4px; }
+  .sub { color:var(--muted); font-size:12px; margin-bottom:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+          padding:16px; margin-top:12px; }
+  .controls { display:flex; gap:10px; flex-wrap:wrap; margin-top:14px; }
+  select,button { background:var(--card); color:var(--text); border:1px solid var(--line);
+          border-radius:8px; padding:6px 10px; font-size:13px; }
+  table { width:100%; border-collapse:collapse; font-size:12.5px; }
+  th,td { padding:7px 9px; text-align:right; border-bottom:1px solid var(--line); }
+  th:first-child, td:first-child { text-align:left; }
+  th { color:var(--muted); font-weight:600; }
+  .pos { color:var(--good); } .neg { color:var(--bad); }
+  .n-badge { color:var(--muted); font-size:11px; }
+  .note { color:var(--muted); font-size:12px; margin-top:10px; }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+  @media (max-width:760px){ .grid2 { grid-template-columns:1fr; } }
+  canvas { max-height:280px; }
+  .warn { background:#3a2b12; border:1px solid #6b5220; color:#e8c37d;
+          border-radius:8px; padding:8px 12px; font-size:12.5px; margin-top:12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Matchup Signal Dashboard</h1>
+  <div class="sub" id="meta">loading…</div>
+
+  <div class="controls">
+    <label>Handedness
+      <select id="handFilter">
+        <option value="ALL">All pitchers</option>
+        <option value="R">RHP only</option>
+        <option value="L">LHP only</option>
+      </select>
+    </label>
+    <label>Outcome
+      <select id="outcome">
+        <option value="dEra">Δ ERA (per start, vs last-10 baseline)</option>
+        <option value="dK9">Δ K/9</option>
+        <option value="dWhip">Δ WHIP</option>
+        <option value="dIp">Δ IP</option>
+      </select>
+    </label>
+    <label>Baseline
+      <select id="baseline">
+        <option value="10">Last 10 starts</option>
+        <option value="3">Last 3 starts</option>
+      </select>
+    </label>
+  </div>
+  <div class="warn" id="sampleWarn" style="display:none"></div>
+
+  <h2>Tier 1 · Does the ranking predict anything?</h2>
+  <div class="sub">Mean outcome delta by opponent-rank tercile, per metric. Negative ΔERA/ΔWHIP = pitcher beat his baseline. For K/9 and IP, positive = better.</div>
+  <div class="grid2">
+    <div class="card"><canvas id="chartTercile"></canvas></div>
+    <div class="card"><canvas id="chartHand"></canvas>
+      <div class="note">Same tercile deltas, split by pitcher handedness (30d wOBA rank only). Tests whether the signal is stronger on one side.</div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="note" style="margin-top:0">Metric redundancy — correlation between the three rank columns across all starts. Near 1.0 means they're telling you the same thing.</div>
+    <table id="corrTable"></table>
+  </div>
+
+  <h2>Tier 2 · How big, and how reliable?</h2>
+  <div class="sub">Effect sizes in usable units plus hit rate (share of starts beating baseline). Extremes view isolates rank 1–5 vs 26–30.</div>
+  <div class="card">
+    <table id="effectTable"></table>
+  </div>
+  <div class="grid2">
+    <div class="card"><canvas id="chartHitRate"></canvas></div>
+    <div class="card"><canvas id="chartExtremes"></canvas></div>
+  </div>
+
+  <h2>Recent starts (spot-check)</h2>
+  <div class="card" style="overflow-x:auto">
+    <table id="recentTable"></table>
+  </div>
+</div>
+
+<script>
+const DATA_URL = "https://raw.githubusercontent.com/mannamedjames/mlb-iphone/main/data/matchup_results.json";
+const METRICS = [
+  { key:"woba30Rank", label:"30d wOBA" },
+  { key:"woba7Rank",  label:"7d wOBA" },
+  { key:"kPct30Rank", label:"30d K%" },
+];
+const TERCILES = [
+  { label:"1–10 (good for P)", lo:1, hi:10 },
+  { label:"11–20", lo:11, hi:20 },
+  { label:"21–30 (bad for P)", lo:21, hi:30 },
+];
+let RAW = [], charts = {};
+
+function perStart(r){
+  if (!r.final || !r.ip || r.ip <= 0) return null;
+  return {
+    era: r.er*9/r.ip,
+    k9:  r.k*9/r.ip,
+    whip:(r.hits+r.bb)/r.ip,
+    ip:  r.ip,
+  };
+}
+
+// Build per-row deltas vs the pitcher's own prior-N-starts baseline.
+function withDeltas(rows, N){
+  const byP = {};
+  rows.filter(r=>r.final).forEach(r=>{
+    (byP[r.pitcherId] = byP[r.pitcherId]||[]).push(r);
+  });
+  const out = [];
+  Object.values(byP).forEach(list=>{
+    list.sort((a,b)=>a.date.localeCompare(b.date));
+    list.forEach((r,i)=>{
+      const prior = list.slice(Math.max(0,i-N), i).map(perStart).filter(Boolean);
+      const cur = perStart(r);
+      if (!cur || prior.length < 3) return;   // need ≥3 prior starts
+      const mean = k => prior.reduce((s,p)=>s+p[k],0)/prior.length;
+      out.push({...r,
+        dEra: cur.era - mean("era"),
+        dK9:  cur.k9  - mean("k9"),
+        dWhip:cur.whip- mean("whip"),
+        dIp:  cur.ip  - mean("ip"),
+      });
+    });
+  });
+  return out;
+}
+
+const mean = a => a.length ? a.reduce((s,x)=>s+x,0)/a.length : null;
+const fmt = (v,d=2) => v==null ? "—" : (v>0?"+":"")+v.toFixed(d);
+const cls = (v, lowerBetter) => v==null ? "" : ((lowerBetter ? v<0 : v>0) ? "pos" : "neg");
+
+function tercileStats(rows, metricKey, outcomeKey){
+  return TERCILES.map(t=>{
+    const sub = rows.filter(r=>r[metricKey]>=t.lo && r[metricKey]<=t.hi);
+    return { label:t.label, n:sub.length, mean:mean(sub.map(r=>r[outcomeKey])) };
+  });
+}
+
+function pearson(xs, ys){
+  const n = xs.length; if (n<3) return null;
+  const mx=mean(xs), my=mean(ys);
+  let num=0,dx=0,dy=0;
+  for(let i=0;i<n;i++){ num+=(xs[i]-mx)*(ys[i]-my); dx+=(xs[i]-mx)**2; dy+=(ys[i]-my)**2; }
+  return dx&&dy ? num/Math.sqrt(dx*dy) : null;
+}
+
+function destroy(id){ if(charts[id]){ charts[id].destroy(); delete charts[id]; } }
+function barChart(id, labels, datasets, title){
+  destroy(id);
+  charts[id] = new Chart(document.getElementById(id), {
+    type:"bar",
+    data:{ labels, datasets },
+    options:{
+      plugins:{ title:{display:true,text:title,color:"#d7e2ec"},
+                legend:{labels:{color:"#9bb0c4"}} },
+      scales:{ x:{ticks:{color:"#9bb0c4"},grid:{color:"#24384f"}},
+               y:{ticks:{color:"#9bb0c4"},grid:{color:"#24384f"}} }
+    }
+  });
+}
+
+function render(){
+  const hand = document.getElementById("handFilter").value;
+  const outcome = document.getElementById("outcome").value;
+  const N = +document.getElementById("baseline").value;
+  const lowerBetter = outcome==="dEra"||outcome==="dWhip";
+
+  let rows = withDeltas(RAW, N);
+  if (hand!=="ALL") rows = rows.filter(r=>r.hand===hand);
+  const ranked = rows.filter(r=>r.woba30Rank!=null);
+
+  const warn = document.getElementById("sampleWarn");
+  if (ranked.length < 150){
+    warn.style.display="block";
+    warn.textContent = `Only ${ranked.length} ranked starts under current filters — treat every read below as provisional until a few hundred accumulate.`;
+  } else warn.style.display="none";
+
+  // Tier 1 — tercile chart, all 3 metrics
+  const colors = ["#2ecc71","#7fd1ff","#e8a23d"];
+  barChart("chartTercile",
+    TERCILES.map(t=>t.label),
+    METRICS.map((m,i)=>({
+      label:m.label,
+      data:tercileStats(ranked,m.key,outcome).map(s=>s.mean),
+      backgroundColor:colors[i],
+    })),
+    `Mean ${outcome} by opponent-rank tercile (${lowerBetter?"negative = beat baseline":"positive = beat baseline"})`);
+
+  // Tier 1 — handedness split (30d wOBA only)
+  const all = withDeltas(RAW, N);
+  barChart("chartHand",
+    TERCILES.map(t=>t.label),
+    [["R","#7fd1ff"],["L","#e8a23d"]].map(([h,c])=>({
+      label:h+"HP",
+      data:tercileStats(all.filter(r=>r.hand===h&&r.woba30Rank!=null),"woba30Rank",outcome).map(s=>s.mean),
+      backgroundColor:c,
+    })),
+    `Handedness split — ${outcome} by 30d wOBA tercile`);
+
+  // Correlation table
+  const pairs=[["woba30Rank","woba7Rank"],["woba30Rank","kPct30Rank"],["woba7Rank","kPct30Rank"]];
+  const lbl=k=>METRICS.find(m=>m.key===k).label;
+  document.getElementById("corrTable").innerHTML =
+    "<tr><th>Pair</th><th>Pearson r</th><th>n</th></tr>" +
+    pairs.map(([a,b])=>{
+      const sub=ranked.filter(r=>r[a]!=null&&r[b]!=null);
+      const r=pearson(sub.map(x=>x[a]),sub.map(x=>x[b]));
+      return `<tr><td>${lbl(a)} × ${lbl(b)}</td><td>${r==null?"—":r.toFixed(2)}</td><td class="n-badge">${sub.length}</td></tr>`;
+    }).join("");
+
+  // Tier 2 — effect size table
+  let html = `<tr><th>Metric · Tercile</th><th>n</th><th>ΔERA</th><th>ΔK/9</th><th>ΔWHIP</th><th>ΔIP</th><th>Hit rate*</th></tr>`;
+  METRICS.forEach(m=>{
+    TERCILES.forEach(t=>{
+      const sub = ranked.filter(r=>r[m.key]>=t.lo&&r[m.key]<=t.hi);
+      const hr = sub.length? (100*sub.filter(r=>r.dEra<0).length/sub.length) : null;
+      html += `<tr><td>${m.label} · ${t.label}</td><td class="n-badge">${sub.length}</td>`+
+        `<td class="${cls(mean(sub.map(r=>r.dEra)),true)}">${fmt(mean(sub.map(r=>r.dEra)))}</td>`+
+        `<td class="${cls(mean(sub.map(r=>r.dK9)),false)}">${fmt(mean(sub.map(r=>r.dK9)))}</td>`+
+        `<td class="${cls(mean(sub.map(r=>r.dWhip)),true)}">${fmt(mean(sub.map(r=>r.dWhip)))}</td>`+
+        `<td class="${cls(mean(sub.map(r=>r.dIp)),false)}">${fmt(mean(sub.map(r=>r.dIp)))}</td>`+
+        `<td>${hr==null?"—":hr.toFixed(0)+"%"}</td></tr>`;
+    });
+  });
+  document.getElementById("effectTable").innerHTML = html +
+    `<tr><td colspan="7" class="note">*Hit rate = share of starts with ERA below the pitcher's own baseline. 50% = coin flip.</td></tr>`;
+
+  // Hit rate chart
+  barChart("chartHitRate",
+    TERCILES.map(t=>t.label),
+    METRICS.map((m,i)=>({
+      label:m.label,
+      data:TERCILES.map(t=>{
+        const sub=ranked.filter(r=>r[m.key]>=t.lo&&r[m.key]<=t.hi);
+        return sub.length?100*sub.filter(r=>r.dEra<0).length/sub.length:null;
+      }),
+      backgroundColor:colors[i],
+    })),
+    "Hit rate (% of starts beating own ERA baseline) — 50% is chance");
+
+  // Extremes chart: rank 1–5 vs 6–25 vs 26–30 for 30d wOBA
+  const bands=[{l:"1–5",lo:1,hi:5},{l:"6–25",lo:6,hi:25},{l:"26–30",lo:26,hi:30}];
+  barChart("chartExtremes",
+    bands.map(b=>b.l),
+    [{label:"30d wOBA — "+outcome,
+      data:bands.map(b=>mean(ranked.filter(r=>r.woba30Rank>=b.lo&&r.woba30Rank<=b.hi).map(r=>r[outcome]))),
+      backgroundColor:"#7fd1ff"}],
+    "Signal at the extremes — is it all in the tails?");
+
+  // Recent starts table
+  const recent = [...ranked].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,25);
+  document.getElementById("recentTable").innerHTML =
+    "<tr><th>Date</th><th>Pitcher</th><th>vs</th><th>wOBA30</th><th>wOBA7</th><th>K%30</th><th>IP</th><th>K</th><th>ER</th><th>ΔERA</th></tr>" +
+    recent.map(r=>`<tr><td>${r.date}</td><td>${r.pitcherName} (${r.hand||"?"})</td><td>${r.opponent}</td>`+
+      `<td>${r.woba30Rank??"—"}</td><td>${r.woba7Rank??"—"}</td><td>${r.kPct30Rank??"—"}</td>`+
+      `<td>${r.ip?.toFixed(1)??"—"}</td><td>${r.k??"—"}</td><td>${r.er??"—"}</td>`+
+      `<td class="${cls(r.dEra,true)}">${fmt(r.dEra)}</td></tr>`).join("");
+}
+
+(async function init(){
+  try {
+    const resp = await fetch(DATA_URL, {cache:"no-store"});
+    RAW = await resp.json();
+  } catch(e) {
+    document.getElementById("meta").textContent = "Failed to load data: "+e.message;
+    return;
+  }
+  const finals = RAW.filter(r=>r.final).length;
+  const ranked = RAW.filter(r=>r.woba30Rank!=null).length;
+  document.getElementById("meta").textContent =
+    `${RAW.length} rows · ${finals} completed starts · ${ranked} with rankings · fetched live from GitHub`;
+  ["handFilter","outcome","baseline"].forEach(id=>
+    document.getElementById(id).addEventListener("change", render));
+  render();
+})();
+</script>
+</body>
+</html>
