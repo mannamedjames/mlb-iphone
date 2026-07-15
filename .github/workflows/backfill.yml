@@ -22,9 +22,16 @@ jobs:
         run: pip install pybaseball pandas numpy
       - name: Run backfill
         run: python backfill_history.py
-      - name: Sync with remote
-        run: git pull --rebase --autostash origin main
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "backfill: matchup history"
-          file_pattern: data/*
+      - name: Commit results (with retry)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet && { echo "nothing to commit"; exit 0; }
+          git commit -m "backfill: matchup history"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "push rejected, rebasing onto latest main (attempt $i)"
+            git pull --rebase origin main
+          done
+          exit 1
