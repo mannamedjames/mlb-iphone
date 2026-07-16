@@ -1,5 +1,59 @@
 {
-  "generated_at": "2026-07-15 22:07",
-  "date": "2026-07-15",
-  "games": []
+  "generated_at": "2026-07-16 01:27",
+  "date": "2026-07-16",
+  "games": [
+    {
+      "gamePk": 823440,
+      "gameTime": "2026-07-16T23:10:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 143,
+        "teamAbbr": "PHI",
+        "teamName": "Philadelphia Phillies",
+        "starter": {
+          "confirmed": true,
+          "name": "Aaron Nola",
+          "hand": "R",
+          "era": "5.75",
+          "ipDisplay": "97.0",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.1,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.325,
+            "woba30Rank": 17,
+            "woba7": 0.339,
+            "woba7Rank": 23,
+            "kPct30": 21.5,
+            "kPct30Rank": 17
+          }
+        }
+      },
+      "away": {
+        "teamId": 121,
+        "teamAbbr": "NYM",
+        "teamName": "New York Mets",
+        "starter": {
+          "confirmed": true,
+          "name": "Christian Scott",
+          "hand": "R",
+          "era": "3.17",
+          "ipDisplay": "54.0",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 4.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.359,
+            "woba30Rank": 27,
+            "woba7": 0.289,
+            "woba7Rank": 8,
+            "kPct30": 21.9,
+            "kPct30Rank": 15
+          }
+        }
+      }
+    }
+  ]
 }
