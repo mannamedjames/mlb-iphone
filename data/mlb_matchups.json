@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-07-16 18:09",
+  "generated_at": "2026-07-16 22:08",
   "date": "2026-07-16",
   "games": [
     {
       "gamePk": 823440,
-      "gameTime": "2026-07-16T23:10:00Z",
+      "gameTime": "2026-07-16T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "94",
+        "wind": "2 mph, Out To CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
