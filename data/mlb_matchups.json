@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16 01:27",
+  "generated_at": "2026-07-16 15:17",
   "date": "2026-07-16",
   "games": [
     {
@@ -22,12 +22,12 @@
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.325,
-            "woba30Rank": 17,
-            "woba7": 0.339,
-            "woba7Rank": 23,
-            "kPct30": 21.5,
-            "kPct30Rank": 17
+            "woba30": 0.329,
+            "woba30Rank": 15,
+            "woba7": 0.33,
+            "woba7Rank": 18,
+            "kPct30": 21.2,
+            "kPct30Rank": 18
           }
         }
       },
@@ -45,12 +45,12 @@
           "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.359,
+            "woba30": 0.358,
             "woba30Rank": 27,
-            "woba7": 0.289,
-            "woba7Rank": 8,
-            "kPct30": 21.9,
-            "kPct30Rank": 15
+            "woba7": 0.255,
+            "woba7Rank": 5,
+            "kPct30": 22.6,
+            "kPct30Rank": 14
           }
         }
       }

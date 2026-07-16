@@ -75106,12 +75106,12 @@
   "team": "PHI",
   "opponent": "NYM",
   "isHome": true,
-  "woba30Rank": 17,
-  "woba7Rank": 23,
-  "kPct30Rank": 17,
-  "woba30": 0.325,
-  "woba7": 0.339,
-  "kPct30": 21.5
+  "woba30Rank": 15,
+  "woba7Rank": 18,
+  "kPct30Rank": 18,
+  "woba30": 0.329,
+  "woba7": 0.33,
+  "kPct30": 21.2
  },
  {
   "ip": null,
@@ -75133,10 +75133,10 @@
   "opponent": "PHI",
   "isHome": false,
   "woba30Rank": 27,
-  "woba7Rank": 8,
-  "kPct30Rank": 15,
-  "woba30": 0.359,
-  "woba7": 0.289,
-  "kPct30": 21.9
+  "woba7Rank": 5,
+  "kPct30Rank": 14,
+  "woba30": 0.358,
+  "woba7": 0.255,
+  "kPct30": 22.6
  }
 ]
