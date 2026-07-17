@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 22:07",
-  "window_start": "2026-06-16",
-  "window_end": "2026-07-16",
-  "games_processed": 372,
+  "generated_at": "2026-07-17 01:30",
+  "window_start": "2026-06-17",
+  "window_end": "2026-07-17",
+  "games_processed": 358,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -11,9 +11,9 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 12,
-      "started": 20,
-      "pctStarted": 87,
-      "hits": 29,
+      "started": 19,
+      "pctStarted": 86,
+      "hits": 25,
       "rank": 1
     },
     {
@@ -22,9 +22,9 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 11,
-      "started": 19,
-      "pctStarted": 79,
+      "games": 10,
+      "started": 18,
+      "pctStarted": 78,
       "hits": 13,
       "rank": 2
     },
@@ -36,7 +36,7 @@
       "teamName": "Pittsburgh Pirates",
       "games": 9,
       "started": 17,
-      "pctStarted": 68,
+      "pctStarted": 71,
       "hits": 30,
       "rank": 3
     },
@@ -48,18 +48,18 @@
       "teamName": "Miami Marlins",
       "games": 9,
       "started": 16,
-      "pctStarted": 67,
+      "pctStarted": 70,
       "hits": 16,
       "rank": 4
     },
     {
-      "playerId": 683734,
-      "name": "Andrew Vaughn",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
+      "playerId": 682668,
+      "name": "Luisangel Acu\u00f1a",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 9,
-      "started": 14,
+      "started": 12,
       "pctStarted": 50,
       "hits": 12,
       "rank": 5
@@ -72,7 +72,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 17,
+      "games": 16,
       "started": 3,
       "pctStarted": 12,
       "hits": 2,
@@ -85,8 +85,8 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 14,
-      "started": 8,
-      "pctStarted": 32,
+      "started": 7,
+      "pctStarted": 29,
       "hits": 7,
       "rank": 2
     },
@@ -96,23 +96,11 @@
       "team": "TEX",
       "teamId": 140,
       "teamName": "Texas Rangers",
-      "games": 13,
+      "games": 12,
       "started": 5,
-      "pctStarted": 21,
+      "pctStarted": 22,
       "hits": 11,
       "rank": 3
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 20,
-      "hits": 2,
-      "rank": 4
     },
     {
       "playerId": 668885,
@@ -122,8 +110,20 @@
       "teamName": "Minnesota Twins",
       "games": 12,
       "started": 5,
-      "pctStarted": 22,
+      "pctStarted": 23,
       "hits": 9,
+      "rank": 4
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 12,
+      "started": 5,
+      "pctStarted": 21,
+      "hits": 2,
       "rank": 5
     }
   ]
