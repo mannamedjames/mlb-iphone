@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17 18:09",
+  "generated_at": "2026-07-17 21:58",
   "date": "2026-07-17",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Jake Bennett",
           "hand": "L",
-          "era": "2.54",
-          "ipDisplay": "49.2",
+          "era": "2.35",
+          "ipDisplay": "53.2",
           "gamesStarted": 9,
-          "avgIpPerOuting": 5.5,
+          "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.339,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Griffin Jax",
           "hand": "R",
-          "era": "3.63",
-          "ipDisplay": "72.0",
+          "era": "4.08",
+          "ipDisplay": "75.0",
           "gamesStarted": 15,
-          "avgIpPerOuting": 4.2,
+          "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.303,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-17T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "82",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -117,13 +121,32 @@
       "gameTime": "2026-07-17T23:10:00Z",
       "doubleHeader": "S",
       "gameNumber": 2,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
         "teamName": "Boston Red Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Eduardo Rivera",
+          "hand": "L",
+          "era": "0.00",
+          "ipDisplay": "7.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 3.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.339,
+            "woba30Rank": 17,
+            "woba7": 0.529,
+            "woba7Rank": 27,
+            "kPct30": 20.0,
+            "kPct30Rank": 23
+          }
         }
       },
       "away": {
@@ -131,7 +154,22 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Mason Englert",
+          "hand": "R",
+          "era": "3.82",
+          "ipDisplay": "30.2",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 4.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.303,
+            "woba30Rank": 8,
+            "woba7": 0.337,
+            "woba7Rank": 20,
+            "kPct30": 23.1,
+            "kPct30Rank": 10
+          }
         }
       }
     },
@@ -193,7 +231,11 @@
       "gameTime": "2026-07-17T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "7 mph, Out To LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -246,7 +288,11 @@
       "gameTime": "2026-07-17T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "68",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -299,7 +345,11 @@
       "gameTime": "2026-07-17T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -352,7 +402,11 @@
       "gameTime": "2026-07-18T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -405,7 +459,11 @@
       "gameTime": "2026-07-18T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -458,7 +516,11 @@
       "gameTime": "2026-07-18T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "87",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -511,7 +573,11 @@
       "gameTime": "2026-07-18T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "93",
+        "wind": "9 mph, R To L"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -564,7 +630,11 @@
       "gameTime": "2026-07-18T01:38:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
@@ -617,7 +687,11 @@
       "gameTime": "2026-07-18T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "88",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -670,7 +744,11 @@
       "gameTime": "2026-07-18T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -723,7 +801,11 @@
       "gameTime": "2026-07-18T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "75",
+        "wind": "6 mph, Out To RF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",

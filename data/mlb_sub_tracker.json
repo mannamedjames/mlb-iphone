@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17 18:09",
+  "generated_at": "2026-07-17 21:58",
   "window_start": "2026-06-17",
   "window_end": "2026-07-17",
-  "games_processed": 358,
+  "games_processed": 360,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -36,7 +36,7 @@
       "teamName": "Pittsburgh Pirates",
       "games": 9,
       "started": 17,
-      "pctStarted": 71,
+      "pctStarted": 68,
       "hits": 30,
       "rank": 3
     },
