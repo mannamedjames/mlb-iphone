@@ -75840,5 +75840,31 @@
   "woba30": 0.29,
   "woba7": 0.197,
   "kPct30": 19.3
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 825060,
+  "date": "2026-07-18",
+  "pitcherId": "Michael McGreevy|STL",
+  "pitcherName": "Michael McGreevy",
+  "hand": "R",
+  "team": "STL",
+  "opponent": "AZ",
+  "isHome": false,
+  "woba30Rank": 9,
+  "woba7Rank": 26,
+  "kPct30Rank": 26,
+  "woba30": 0.305,
+  "woba7": 0.372,
+  "kPct30": 18.2
  }
 ]

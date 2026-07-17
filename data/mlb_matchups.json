@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17 14:57",
+  "generated_at": "2026-07-17 18:09",
   "date": "2026-07-17",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "81",
-        "wind": "11 mph, Varies"
+        "temp": "82",
+        "wind": "10 mph, In From LF"
       },
       "home": {
         "teamId": 111,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Jake Bennett",
           "hand": "L",
-          "era": "2.64",
-          "ipDisplay": "47.2",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 6.0,
+          "era": "2.54",
+          "ipDisplay": "49.2",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.339,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Griffin Jax",
           "hand": "R",
-          "era": "3.47",
-          "ipDisplay": "70.0",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 4.4,
+          "era": "3.63",
+          "ipDisplay": "72.0",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.303,
@@ -699,7 +699,22 @@
         "teamAbbr": "STL",
         "teamName": "St. Louis Cardinals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Michael McGreevy",
+          "hand": "R",
+          "era": "3.01",
+          "ipDisplay": "101.2",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.305,
+            "woba30Rank": 9,
+            "woba7": 0.372,
+            "woba7Rank": 26,
+            "kPct30": 18.2,
+            "kPct30Rank": 26
+          }
         }
       }
     },
