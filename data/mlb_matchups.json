@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 14:34",
+  "generated_at": "2026-07-18 17:59",
   "date": "2026-07-18",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Gavin Williams",
           "hand": "R",
-          "era": "3.81",
-          "ipDisplay": "113.1",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 6.0,
+          "era": "3.86",
+          "ipDisplay": "116.2",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.387,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jared Jones",
           "hand": "R",
-          "era": "4.37",
-          "ipDisplay": "35.0",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 4.4,
+          "era": "4.26",
+          "ipDisplay": "38.0",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.33,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-18T18:20:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "13 mph, L To R"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -113,11 +117,72 @@
       }
     },
     {
+      "gamePk": 823441,
+      "gameTime": "2026-07-18T19:05:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "85",
+        "wind": "8 mph, Out To RF"
+      },
+      "home": {
+        "teamId": 143,
+        "teamAbbr": "PHI",
+        "teamName": "Philadelphia Phillies",
+        "starter": {
+          "confirmed": true,
+          "name": "Jes\u00fas Luzardo",
+          "hand": "L",
+          "era": "3.51",
+          "ipDisplay": "110.1",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.323,
+            "woba30Rank": 14,
+            "woba7": 0.222,
+            "woba7Rank": 3,
+            "kPct30": 22.1,
+            "kPct30Rank": 18
+          }
+        }
+      },
+      "away": {
+        "teamId": 121,
+        "teamAbbr": "NYM",
+        "teamName": "New York Mets",
+        "starter": {
+          "confirmed": true,
+          "name": "Sean Manaea",
+          "hand": "L",
+          "era": "4.56",
+          "ipDisplay": "75.0",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.313,
+            "woba30Rank": 12,
+            "woba7": 0.285,
+            "woba7Rank": 12,
+            "kPct30": 28.2,
+            "kPct30Rank": 5
+          }
+        }
+      }
+    },
+    {
       "gamePk": 822790,
       "gameTime": "2026-07-18T19:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "68",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -170,7 +235,11 @@
       "gameTime": "2026-07-18T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "89",
+        "wind": "6 mph, In From RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -219,64 +288,15 @@
       }
     },
     {
-      "gamePk": 823441,
-      "gameTime": "2026-07-18T20:05:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": null,
-      "home": {
-        "teamId": 143,
-        "teamAbbr": "PHI",
-        "teamName": "Philadelphia Phillies",
-        "starter": {
-          "confirmed": true,
-          "name": "Jes\u00fas Luzardo",
-          "hand": "L",
-          "era": "3.51",
-          "ipDisplay": "110.1",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.323,
-            "woba30Rank": 14,
-            "woba7": 0.222,
-            "woba7Rank": 3,
-            "kPct30": 22.1,
-            "kPct30Rank": 18
-          }
-        }
-      },
-      "away": {
-        "teamId": 121,
-        "teamAbbr": "NYM",
-        "teamName": "New York Mets",
-        "starter": {
-          "confirmed": true,
-          "name": "Sean Manaea",
-          "hand": "L",
-          "era": "4.56",
-          "ipDisplay": "75.0",
-          "gamesStarted": 6,
-          "avgIpPerOuting": 5.3,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.313,
-            "woba30Rank": 12,
-            "woba7": 0.285,
-            "woba7Rank": 12,
-            "kPct30": 28.2,
-            "kPct30Rank": 5
-          }
-        }
-      }
-    },
-    {
       "gamePk": 824169,
       "gameTime": "2026-07-18T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -329,7 +349,11 @@
       "gameTime": "2026-07-18T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "90",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -382,7 +406,11 @@
       "gameTime": "2026-07-18T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -435,7 +463,11 @@
       "gameTime": "2026-07-18T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "80",
+        "wind": "20 mph, Out To LF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -488,7 +520,11 @@
       "gameTime": "2026-07-18T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "89",
+        "wind": "8 mph, Out To LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -541,7 +577,11 @@
       "gameTime": "2026-07-18T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",

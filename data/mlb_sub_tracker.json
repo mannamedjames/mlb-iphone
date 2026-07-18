@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 14:34",
+  "generated_at": "2026-07-18 17:58",
   "window_start": "2026-06-18",
   "window_end": "2026-07-18",
   "games_processed": 358,
@@ -47,8 +47,8 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 9,
-      "started": 17,
-      "pctStarted": 71,
+      "started": 18,
+      "pctStarted": 75,
       "hits": 30,
       "rank": 4
     },
