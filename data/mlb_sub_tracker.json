@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 17:58",
+  "generated_at": "2026-07-18 21:56",
   "window_start": "2026-06-18",
   "window_end": "2026-07-18",
-  "games_processed": 358,
+  "games_processed": 362,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -11,10 +11,22 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 12,
-      "started": 20,
-      "pctStarted": 87,
+      "started": 21,
+      "pctStarted": 88,
       "hits": 26,
       "rank": 1
+    },
+    {
+      "playerId": 699013,
+      "name": "Esmerlyn Valdez",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 10,
+      "started": 18,
+      "pctStarted": 72,
+      "hits": 32,
+      "rank": 2
     },
     {
       "playerId": 681481,
@@ -26,7 +38,7 @@
       "started": 17,
       "pctStarted": 74,
       "hits": 12,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 657757,
@@ -38,18 +50,6 @@
       "started": 20,
       "pctStarted": 83,
       "hits": 14,
-      "rank": 3
-    },
-    {
-      "playerId": 699013,
-      "name": "Esmerlyn Valdez",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 9,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 30,
       "rank": 4
     },
     {
@@ -72,7 +72,7 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 15,
+      "games": 16,
       "started": 3,
       "pctStarted": 12,
       "hits": 2,
@@ -97,8 +97,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 5,
-      "pctStarted": 22,
+      "started": 6,
+      "pctStarted": 25,
       "hits": 9,
       "rank": 3
     },
