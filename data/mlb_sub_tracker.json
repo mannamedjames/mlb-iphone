@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 01:21",
+  "generated_at": "2026-07-18 14:34",
   "window_start": "2026-06-18",
   "window_end": "2026-07-18",
-  "games_processed": 345,
+  "games_processed": 358,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -11,9 +11,9 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 12,
-      "started": 19,
-      "pctStarted": 86,
-      "hits": 25,
+      "started": 20,
+      "pctStarted": 87,
+      "hits": 26,
       "rank": 1
     },
     {
@@ -24,9 +24,21 @@
       "teamName": "Detroit Tigers",
       "games": 10,
       "started": 17,
-      "pctStarted": 77,
+      "pctStarted": 74,
       "hits": 12,
       "rank": 2
+    },
+    {
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 9,
+      "started": 20,
+      "pctStarted": 83,
+      "hits": 14,
+      "rank": 3
     },
     {
       "playerId": 699013,
@@ -38,7 +50,7 @@
       "started": 17,
       "pctStarted": 71,
       "hits": 30,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 683357,
@@ -48,20 +60,8 @@
       "teamName": "Miami Marlins",
       "games": 9,
       "started": 15,
-      "pctStarted": 68,
+      "pctStarted": 65,
       "hits": 15,
-      "rank": 4
-    },
-    {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 8,
-      "started": 19,
-      "pctStarted": 83,
-      "hits": 14,
       "rank": 5
     }
   ],
@@ -85,10 +85,34 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 14,
-      "started": 6,
-      "pctStarted": 26,
+      "started": 7,
+      "pctStarted": 29,
       "hits": 6,
       "rank": 2
+    },
+    {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 5,
+      "pctStarted": 22,
+      "hits": 9,
+      "rank": 3
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 13,
+      "started": 5,
+      "pctStarted": 21,
+      "hits": 2,
+      "rank": 4
     },
     {
       "playerId": 679822,
@@ -97,33 +121,9 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 12,
-      "started": 5,
-      "pctStarted": 22,
-      "hits": 11,
-      "rank": 3
-    },
-    {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 5,
-      "pctStarted": 23,
-      "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 12,
-      "started": 5,
-      "pctStarted": 22,
-      "hits": 2,
+      "started": 6,
+      "pctStarted": 25,
+      "hits": 12,
       "rank": 5
     }
   ]
