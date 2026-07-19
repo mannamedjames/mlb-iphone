@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19 01:28",
+  "generated_at": "2026-07-19 14:37",
   "window_start": "2026-06-19",
   "window_end": "2026-07-19",
-  "games_processed": 361,
+  "games_processed": 365,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -23,9 +23,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 10,
-      "started": 18,
-      "pctStarted": 72,
-      "hits": 32,
+      "started": 19,
+      "pctStarted": 73,
+      "hits": 33,
       "rank": 2
     },
     {
@@ -35,8 +35,8 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 10,
-      "started": 17,
-      "pctStarted": 74,
+      "started": 18,
+      "pctStarted": 75,
       "hits": 12,
       "rank": 3
     },
