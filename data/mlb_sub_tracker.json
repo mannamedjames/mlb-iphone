@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19 18:01",
+  "generated_at": "2026-07-19 21:59",
   "window_start": "2026-06-19",
   "window_end": "2026-07-19",
-  "games_processed": 365,
+  "games_processed": 376,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -12,7 +12,7 @@
       "teamName": "Minnesota Twins",
       "games": 11,
       "started": 20,
-      "pctStarted": 87,
+      "pctStarted": 83,
       "hits": 23,
       "rank": 1
     },
@@ -23,9 +23,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 10,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 33,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 34,
       "rank": 2
     },
     {
@@ -48,8 +48,8 @@
       "teamName": "San Diego Padres",
       "games": 9,
       "started": 21,
-      "pctStarted": 84,
-      "hits": 14,
+      "pctStarted": 81,
+      "hits": 15,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Miami Marlins",
       "games": 9,
       "started": 15,
-      "pctStarted": 62,
+      "pctStarted": 60,
       "hits": 15,
       "rank": 5
     }
@@ -73,9 +73,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 16,
-      "started": 3,
-      "pctStarted": 12,
-      "hits": 2,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 5,
       "rank": 1
     },
     {
@@ -86,7 +86,7 @@
       "teamName": "Toronto Blue Jays",
       "games": 14,
       "started": 7,
-      "pctStarted": 29,
+      "pctStarted": 28,
       "hits": 6,
       "rank": 2
     },
@@ -97,10 +97,22 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 6,
-      "pctStarted": 26,
-      "hits": 9,
+      "started": 7,
+      "pctStarted": 29,
+      "hits": 10,
       "rank": 3
+    },
+    {
+      "playerId": 679822,
+      "name": "Justin Foscue",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 24,
+      "hits": 11,
+      "rank": 4
     },
     {
       "playerId": 687749,
@@ -109,20 +121,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 13,
-      "started": 5,
-      "pctStarted": 20,
-      "hits": 2,
-      "rank": 4
-    },
-    {
-      "playerId": 678489,
-      "name": "Jorge Barrosa",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 13,
-      "started": 3,
-      "pctStarted": 12,
+      "started": 6,
+      "pctStarted": 23,
       "hits": 4,
       "rank": 5
     }
