@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 21:56",
-  "window_start": "2026-06-18",
-  "window_end": "2026-07-18",
-  "games_processed": 362,
+  "generated_at": "2026-07-19 01:28",
+  "window_start": "2026-06-19",
+  "window_end": "2026-07-19",
+  "games_processed": 361,
   "subbed_out": [
     {
       "playerId": 663616,
@@ -10,10 +10,10 @@
       "team": "MIN",
       "teamId": 142,
       "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 21,
-      "pctStarted": 88,
-      "hits": 26,
+      "games": 11,
+      "started": 20,
+      "pctStarted": 87,
+      "hits": 23,
       "rank": 1
     },
     {
@@ -47,8 +47,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 9,
-      "started": 20,
-      "pctStarted": 83,
+      "started": 21,
+      "pctStarted": 84,
       "hits": 14,
       "rank": 4
     },
@@ -60,7 +60,7 @@
       "teamName": "Miami Marlins",
       "games": 9,
       "started": 15,
-      "pctStarted": 65,
+      "pctStarted": 62,
       "hits": 15,
       "rank": 5
     }
@@ -98,7 +98,7 @@
       "teamName": "Minnesota Twins",
       "games": 13,
       "started": 6,
-      "pctStarted": 25,
+      "pctStarted": 26,
       "hits": 9,
       "rank": 3
     },
@@ -110,20 +110,20 @@
       "teamName": "San Diego Padres",
       "games": 13,
       "started": 5,
-      "pctStarted": 21,
+      "pctStarted": 20,
       "hits": 2,
       "rank": 4
     },
     {
-      "playerId": 679822,
-      "name": "Justin Foscue",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 12,
-      "started": 6,
-      "pctStarted": 25,
-      "hits": 12,
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 13,
+      "started": 3,
+      "pctStarted": 12,
+      "hits": 4,
       "rank": 5
     }
   ]
