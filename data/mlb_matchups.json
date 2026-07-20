@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20 18:56",
+  "generated_at": "2026-07-20 22:05",
   "date": "2026-07-20",
   "games": [
     {
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-20T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "81",
+        "wind": "9 mph, R To L"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -117,7 +121,11 @@
       "gameTime": "2026-07-20T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "75",
+        "wind": "13 mph, Out To CF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -170,7 +178,11 @@
       "gameTime": "2026-07-20T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "82",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -223,7 +235,11 @@
       "gameTime": "2026-07-20T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "85",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -276,7 +292,11 @@
       "gameTime": "2026-07-20T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "89",
+        "wind": "5 mph, In From RF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -329,7 +349,11 @@
       "gameTime": "2026-07-20T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "96",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -382,7 +406,11 @@
       "gameTime": "2026-07-20T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -435,7 +463,11 @@
       "gameTime": "2026-07-21T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "16 mph, Out To LF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -488,7 +520,11 @@
       "gameTime": "2026-07-21T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -541,7 +577,11 @@
       "gameTime": "2026-07-21T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -594,7 +634,11 @@
       "gameTime": "2026-07-21T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "97",
+        "wind": "8 mph, R To L"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -647,7 +691,11 @@
       "gameTime": "2026-07-21T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -700,7 +748,11 @@
       "gameTime": "2026-07-21T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "3 mph, In From LF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
