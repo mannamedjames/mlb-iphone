@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21 15:21",
+  "generated_at": "2026-07-21 18:18",
   "date": "2026-07-21",
   "games": [
     {
@@ -226,12 +226,12 @@
         "teamName": "Boston Red Sox",
         "starter": {
           "confirmed": true,
-          "name": "Ranger Suarez",
+          "name": "Eduardo Rivera",
           "hand": "L",
-          "era": "3.15",
-          "ipDisplay": "91.1",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 5.4,
+          "era": "2.89",
+          "ipDisplay": "9.1",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 3.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.34,
@@ -620,20 +620,20 @@
         "teamName": "Washington Nationals",
         "starter": {
           "confirmed": true,
-          "name": "Miles Mikolas",
-          "hand": "R",
-          "era": "5.53",
-          "ipDisplay": "94.1",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 4.8,
+          "name": "Carson Palmquist",
+          "hand": "L",
+          "era": "6.52",
+          "ipDisplay": "9.2",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 2.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.357,
-            "woba30Rank": 27,
-            "woba7": 0.333,
-            "woba7Rank": 15,
-            "kPct30": 19.2,
-            "kPct30Rank": 26
+            "woba30": 0.34,
+            "woba30Rank": 20,
+            "woba7": 0.327,
+            "woba7Rank": 18,
+            "kPct30": 23.9,
+            "kPct30Rank": 12
           }
         }
       }
