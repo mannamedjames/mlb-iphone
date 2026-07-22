@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22 15:20",
+  "generated_at": "2026-07-22 18:11",
   "date": "2026-07-22",
   "games": [
     {
@@ -10,7 +10,7 @@
       "weather": {
         "condition": "Partly Cloudy",
         "temp": "83",
-        "wind": "10 mph, Out To CF"
+        "wind": "14 mph, Out To CF"
       },
       "home": {
         "teamId": 147,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Gerrit Cole",
           "hand": "R",
-          "era": "3.93",
-          "ipDisplay": "55.0",
-          "gamesStarted": 10,
-          "avgIpPerOuting": 5.5,
+          "era": "3.66",
+          "ipDisplay": "59.0",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.377,
@@ -43,9 +43,9 @@
           "confirmed": true,
           "name": "Mitch Keller",
           "hand": "R",
-          "era": "5.14",
-          "ipDisplay": "103.1",
-          "gamesStarted": 19,
+          "era": "4.95",
+          "ipDisplay": "107.1",
+          "gamesStarted": 20,
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
@@ -66,7 +66,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "83",
+        "temp": "82",
         "wind": "11 mph, Out To CF"
       },
       "home": {
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Jake Bennett",
           "hand": "L",
-          "era": "2.35",
-          "ipDisplay": "53.2",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 6.0,
+          "era": "2.26",
+          "ipDisplay": "55.2",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.339,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Dean Kremer",
           "hand": "R",
-          "era": "4.15",
-          "ipDisplay": "26.0",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 5.2,
+          "era": "5.27",
+          "ipDisplay": "27.1",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.331,
@@ -123,8 +123,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "81",
-        "wind": "9 mph, In From LF"
+        "temp": "79",
+        "wind": "9 mph, L To R"
       },
       "home": {
         "teamId": 118,
@@ -179,9 +179,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Roof Closed",
-        "temp": "72",
-        "wind": "0 mph, None"
+        "condition": "Partly Cloudy",
+        "temp": "73",
+        "wind": "2 mph, In From RF"
       },
       "home": {
         "teamId": 158,
@@ -235,7 +235,11 @@
       "gameTime": "2026-07-22T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "93",
+        "wind": "7 mph, In From RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -288,7 +292,11 @@
       "gameTime": "2026-07-22T19:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -341,7 +349,11 @@
       "gameTime": "2026-07-22T19:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -394,7 +406,11 @@
       "gameTime": "2026-07-22T20:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "84",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
