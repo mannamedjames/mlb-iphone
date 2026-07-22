@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-22 18:11",
+  "generated_at": "2026-07-22 22:10",
   "window_start": "2026-06-22",
   "window_end": "2026-07-22",
-  "games_processed": 368,
+  "games_processed": 372,
   "subbed_out": [
+    {
+      "playerId": 699013,
+      "name": "Esmerlyn Valdez",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 10,
+      "started": 22,
+      "pctStarted": 81,
+      "hits": 34,
+      "rank": 1
+    },
     {
       "playerId": 657757,
       "name": "Gavin Sheets",
@@ -14,7 +26,7 @@
       "started": 21,
       "pctStarted": 84,
       "hits": 12,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 681481,
@@ -26,18 +38,6 @@
       "started": 17,
       "pctStarted": 71,
       "hits": 11,
-      "rank": 2
-    },
-    {
-      "playerId": 699013,
-      "name": "Esmerlyn Valdez",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 9,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 34,
       "rank": 3
     },
     {
@@ -67,6 +67,18 @@
   ],
   "subbed_in": [
     {
+      "playerId": 695257,
+      "name": "Billy Cook",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 15,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 5,
+      "rank": 1
+    },
+    {
       "playerId": 664702,
       "name": "Myles Straw",
       "team": "TOR",
@@ -76,18 +88,6 @@
       "started": 8,
       "pctStarted": 33,
       "hits": 6,
-      "rank": 1
-    },
-    {
-      "playerId": 695257,
-      "name": "Billy Cook",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 14,
-      "started": 4,
-      "pctStarted": 15,
-      "hits": 5,
       "rank": 2
     },
     {
