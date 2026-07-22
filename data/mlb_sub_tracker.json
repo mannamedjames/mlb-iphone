@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-22 01:26",
+  "generated_at": "2026-07-22 15:20",
   "window_start": "2026-06-22",
   "window_end": "2026-07-22",
-  "games_processed": 356,
+  "games_processed": 368,
   "subbed_out": [
+    {
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 10,
+      "started": 21,
+      "pctStarted": 84,
+      "hits": 12,
+      "rank": 1
+    },
     {
       "playerId": 681481,
       "name": "Kerry Carpenter",
@@ -12,9 +24,9 @@
       "teamName": "Detroit Tigers",
       "games": 10,
       "started": 17,
-      "pctStarted": 74,
+      "pctStarted": 71,
       "hits": 11,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 699013,
@@ -26,18 +38,6 @@
       "started": 20,
       "pctStarted": 77,
       "hits": 34,
-      "rank": 2
-    },
-    {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 9,
-      "started": 20,
-      "pctStarted": 83,
-      "hits": 12,
       "rank": 3
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Philadelphia Phillies",
       "games": 9,
       "started": 17,
-      "pctStarted": 71,
+      "pctStarted": 68,
       "hits": 12,
       "rank": 5
     }
@@ -73,9 +73,9 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 14,
-      "started": 7,
-      "pctStarted": 30,
-      "hits": 5,
+      "started": 8,
+      "pctStarted": 33,
+      "hits": 6,
       "rank": 1
     },
     {
@@ -91,16 +91,28 @@
       "rank": 2
     },
     {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 13,
+      "started": 5,
+      "pctStarted": 20,
+      "hits": 4,
+      "rank": 3
+    },
+    {
       "playerId": 678489,
       "name": "Jorge Barrosa",
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 13,
-      "started": 2,
-      "pctStarted": 8,
-      "hits": 3,
-      "rank": 3
+      "started": 3,
+      "pctStarted": 12,
+      "hits": 4,
+      "rank": 4
     },
     {
       "playerId": 642350,
@@ -109,21 +121,9 @@
       "teamId": 108,
       "teamName": "Los Angeles Angels",
       "games": 12,
-      "started": 6,
-      "pctStarted": 27,
-      "hits": 5,
-      "rank": 4
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 12,
-      "started": 5,
-      "pctStarted": 21,
-      "hits": 4,
+      "started": 7,
+      "pctStarted": 30,
+      "hits": 7,
       "rank": 5
     }
   ]
