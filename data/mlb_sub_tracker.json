@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 22:10",
-  "window_start": "2026-06-22",
-  "window_end": "2026-07-22",
-  "games_processed": 372,
+  "generated_at": "2026-07-23 01:46",
+  "window_start": "2026-06-23",
+  "window_end": "2026-07-23",
+  "games_processed": 364,
   "subbed_out": [
     {
       "playerId": 699013,
@@ -12,7 +12,7 @@
       "teamName": "Pittsburgh Pirates",
       "games": 10,
       "started": 22,
-      "pctStarted": 81,
+      "pctStarted": 79,
       "hits": 34,
       "rank": 1
     },
@@ -22,35 +22,11 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 10,
-      "started": 21,
-      "pctStarted": 84,
+      "games": 9,
+      "started": 20,
+      "pctStarted": 83,
       "hits": 12,
       "rank": 2
-    },
-    {
-      "playerId": 681481,
-      "name": "Kerry Carpenter",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 71,
-      "hits": 11,
-      "rank": 3
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 9,
-      "started": 18,
-      "pctStarted": 78,
-      "hits": 21,
-      "rank": 4
     },
     {
       "playerId": 687282,
@@ -60,8 +36,32 @@
       "teamName": "Philadelphia Phillies",
       "games": 9,
       "started": 17,
-      "pctStarted": 68,
+      "pctStarted": 71,
       "hits": 12,
+      "rank": 3
+    },
+    {
+      "playerId": 681481,
+      "name": "Kerry Carpenter",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 9,
+      "started": 16,
+      "pctStarted": 70,
+      "hits": 10,
+      "rank": 4
+    },
+    {
+      "playerId": 683357,
+      "name": "Owen Caissie",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 9,
+      "started": 12,
+      "pctStarted": 52,
+      "hits": 10,
       "rank": 5
     }
   ],
@@ -73,34 +73,10 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 15,
-      "started": 4,
-      "pctStarted": 15,
+      "started": 5,
+      "pctStarted": 18,
       "hits": 5,
       "rank": 1
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 14,
-      "started": 8,
-      "pctStarted": 33,
-      "hits": 6,
-      "rank": 2
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 20,
-      "hits": 4,
-      "rank": 3
     },
     {
       "playerId": 678489,
@@ -108,11 +84,23 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 13,
+      "games": 14,
       "started": 3,
       "pctStarted": 12,
       "hits": 4,
-      "rank": 4
+      "rank": 2
+    },
+    {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 13,
+      "started": 8,
+      "pctStarted": 35,
+      "hits": 6,
+      "rank": 3
     },
     {
       "playerId": 642350,
@@ -120,10 +108,22 @@
       "team": "LAA",
       "teamId": 108,
       "teamName": "Los Angeles Angels",
-      "games": 12,
-      "started": 7,
-      "pctStarted": 30,
+      "games": 13,
+      "started": 6,
+      "pctStarted": 26,
       "hits": 7,
+      "rank": 4
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 12,
+      "started": 5,
+      "pctStarted": 21,
+      "hits": 4,
       "rank": 5
     }
   ]
