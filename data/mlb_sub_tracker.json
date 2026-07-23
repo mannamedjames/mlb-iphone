@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 18:16",
+  "generated_at": "2026-07-23 22:10",
   "window_start": "2026-06-23",
   "window_end": "2026-07-23",
-  "games_processed": 372,
+  "games_processed": 375,
   "subbed_out": [
     {
       "playerId": 699013,
@@ -23,9 +23,9 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 9,
-      "started": 20,
-      "pctStarted": 80,
-      "hits": 13,
+      "started": 21,
+      "pctStarted": 81,
+      "hits": 14,
       "rank": 2
     },
     {
@@ -36,8 +36,8 @@
       "teamName": "Minnesota Twins",
       "games": 9,
       "started": 18,
-      "pctStarted": 78,
-      "hits": 23,
+      "pctStarted": 75,
+      "hits": 24,
       "rank": 3
     },
     {
@@ -85,8 +85,8 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 14,
-      "started": 8,
-      "pctStarted": 33,
+      "started": 9,
+      "pctStarted": 36,
       "hits": 6,
       "rank": 2
     },
@@ -121,8 +121,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 12,
-      "started": 6,
-      "pctStarted": 24,
+      "started": 7,
+      "pctStarted": 27,
       "hits": 4,
       "rank": 5
     }

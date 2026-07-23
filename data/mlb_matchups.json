@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23 18:16",
+  "generated_at": "2026-07-23 22:10",
   "date": "2026-07-23",
   "games": [
     {
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Gavin Williams",
           "hand": "R",
-          "era": "3.87",
-          "ipDisplay": "123.1",
+          "era": "3.78",
+          "ipDisplay": "126.1",
           "gamesStarted": 21,
-          "avgIpPerOuting": 5.9,
+          "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.341,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Taj Bradley",
           "hand": "R",
-          "era": "3.71",
-          "ipDisplay": "111.2",
+          "era": "3.69",
+          "ipDisplay": "114.2",
           "gamesStarted": 20,
-          "avgIpPerOuting": 5.6,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.341,
@@ -122,8 +122,8 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "64",
+        "condition": "Sunny",
+        "temp": "68",
         "wind": "13 mph, Out To CF"
       },
       "home": {
@@ -134,10 +134,10 @@
           "confirmed": true,
           "name": "Shane Bieber",
           "hand": "R",
-          "era": "5.70",
-          "ipDisplay": "23.2",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 4.7,
+          "era": "4.70",
+          "ipDisplay": "30.2",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.353,
@@ -157,10 +157,10 @@
           "confirmed": true,
           "name": "Casey Legumina",
           "hand": "R",
-          "era": "3.92",
-          "ipDisplay": "41.1",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 1.5,
+          "era": "3.95",
+          "ipDisplay": "43.1",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 1.7,
           "isOpener": true,
           "oppSplits": {
             "woba30": 0.275,
@@ -180,8 +180,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "81",
-        "wind": "6 mph, In From RF"
+        "temp": "78",
+        "wind": "4 mph, In From CF"
       },
       "home": {
         "teamId": 138,
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Michael McGreevy",
           "hand": "R",
-          "era": "2.92",
-          "ipDisplay": "108.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.7,
+          "era": "2.84",
+          "ipDisplay": "111.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.319,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Brandon Pfaadt",
           "hand": "R",
-          "era": "4.58",
-          "ipDisplay": "59.0",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 5.4,
+          "era": "4.70",
+          "ipDisplay": "61.1",
+          "gamesStarted": 8,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.263,
@@ -235,7 +235,11 @@
       "gameTime": "2026-07-23T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "73",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
