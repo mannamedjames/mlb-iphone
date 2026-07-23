@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 01:46",
+  "generated_at": "2026-07-23 15:31",
   "window_start": "2026-06-23",
   "window_end": "2026-07-23",
-  "games_processed": 364,
+  "games_processed": 372,
   "subbed_out": [
     {
       "playerId": 699013,
@@ -24,9 +24,21 @@
       "teamName": "San Diego Padres",
       "games": 9,
       "started": 20,
-      "pctStarted": 83,
-      "hits": 12,
+      "pctStarted": 80,
+      "hits": 13,
       "rank": 2
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 9,
+      "started": 18,
+      "pctStarted": 78,
+      "hits": 23,
+      "rank": 3
     },
     {
       "playerId": 687282,
@@ -36,9 +48,9 @@
       "teamName": "Philadelphia Phillies",
       "games": 9,
       "started": 17,
-      "pctStarted": 71,
+      "pctStarted": 68,
       "hits": 12,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 681481,
@@ -47,21 +59,9 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 9,
-      "started": 16,
-      "pctStarted": 70,
-      "hits": 10,
-      "rank": 4
-    },
-    {
-      "playerId": 683357,
-      "name": "Owen Caissie",
-      "team": "MIA",
-      "teamId": 146,
-      "teamName": "Miami Marlins",
-      "games": 9,
-      "started": 12,
-      "pctStarted": 52,
-      "hits": 10,
+      "started": 17,
+      "pctStarted": 71,
+      "hits": 11,
       "rank": 5
     }
   ],
@@ -79,6 +79,18 @@
       "rank": 1
     },
     {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 14,
+      "started": 8,
+      "pctStarted": 33,
+      "hits": 6,
+      "rank": 2
+    },
+    {
       "playerId": 678489,
       "name": "Jorge Barrosa",
       "team": "AZ",
@@ -88,18 +100,6 @@
       "started": 3,
       "pctStarted": 12,
       "hits": 4,
-      "rank": 2
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 13,
-      "started": 8,
-      "pctStarted": 35,
-      "hits": 6,
       "rank": 3
     },
     {
@@ -121,8 +121,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 12,
-      "started": 5,
-      "pctStarted": 21,
+      "started": 6,
+      "pctStarted": 24,
       "hits": 4,
       "rank": 5
     }
