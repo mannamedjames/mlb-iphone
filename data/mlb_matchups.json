@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 01:31",
+  "generated_at": "2026-07-24 15:12",
   "date": "2026-07-24",
   "games": [
     {
@@ -25,9 +25,9 @@
             "woba30": 0.345,
             "woba30Rank": 20,
             "woba7": 0.352,
-            "woba7Rank": 23,
+            "woba7Rank": 24,
             "kPct30": 22.6,
-            "kPct30Rank": 16
+            "kPct30Rank": 15
           }
         }
       },
@@ -45,11 +45,11 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.343,
-            "woba30Rank": 20,
+            "woba30": 0.346,
+            "woba30Rank": 23,
             "woba7": 0.336,
-            "woba7Rank": 13,
-            "kPct30": 23.9,
+            "woba7Rank": 14,
+            "kPct30": 23.4,
             "kPct30Rank": 9
           }
         }
@@ -75,12 +75,12 @@
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.336,
-            "woba30Rank": 18,
-            "woba7": 0.337,
-            "woba7Rank": 18,
-            "kPct30": 22.4,
-            "kPct30Rank": 18
+            "woba30": 0.317,
+            "woba30Rank": 10,
+            "woba7": 0.324,
+            "woba7Rank": 17,
+            "kPct30": 22.9,
+            "kPct30Rank": 14
           }
         }
       },
@@ -89,7 +89,22 @@
         "teamAbbr": "KC",
         "teamName": "Kansas City Royals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Beck Way",
+          "hand": "R",
+          "era": "3.22",
+          "ipDisplay": "22.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.337,
+            "woba30Rank": 18,
+            "woba7": 0.386,
+            "woba7Rank": 25,
+            "kPct30": 24.3,
+            "kPct30Rank": 6
+          }
         }
       }
     },
@@ -113,12 +128,12 @@
           "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
-            "woba30Rank": 22,
+            "woba30": 0.341,
+            "woba30Rank": 21,
             "woba7": 0.359,
-            "woba7Rank": 21,
+            "woba7Rank": 23,
             "kPct30": 25.0,
-            "kPct30Rank": 5
+            "kPct30Rank": 4
           }
         }
       },
@@ -136,11 +151,11 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.352,
+            "woba30": 0.356,
             "woba30Rank": 23,
             "woba7": 0.334,
-            "woba7Rank": 17,
-            "kPct30": 24.9,
+            "woba7Rank": 18,
+            "kPct30": 25.2,
             "kPct30Rank": 9
           }
         }
@@ -166,12 +181,12 @@
           "avgIpPerOuting": 2.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.384,
-            "woba30Rank": 29,
-            "woba7": 0.394,
+            "woba30": 0.383,
+            "woba30Rank": 28,
+            "woba7": 0.391,
             "woba7Rank": 28,
-            "kPct30": 18.9,
-            "kPct30Rank": 26
+            "kPct30": 18.8,
+            "kPct30Rank": 27
           }
         }
       },
@@ -189,12 +204,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
+            "woba30": 0.355,
             "woba30Rank": 22,
             "woba7": 0.338,
             "woba7Rank": 19,
-            "kPct30": 29.2,
-            "kPct30Rank": 3
+            "kPct30": 27.7,
+            "kPct30Rank": 5
           }
         }
       }
@@ -219,11 +234,11 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.261,
-            "woba30Rank": 2,
+            "woba30": 0.262,
+            "woba30Rank": 1,
             "woba7": 0.253,
             "woba7Rank": 7,
-            "kPct30": 31.5,
+            "kPct30": 31.3,
             "kPct30Rank": 1
           }
         }
@@ -234,19 +249,19 @@
         "teamName": "New York Yankees",
         "starter": {
           "confirmed": true,
-          "name": "Will Warren",
+          "name": "Cam Schlittler",
           "hand": "R",
-          "era": "4.00",
-          "ipDisplay": "99.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.2,
+          "era": "2.20",
+          "ipDisplay": "123.0",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.338,
-            "woba30Rank": 17,
-            "woba7": 0.302,
-            "woba7Rank": 11,
-            "kPct30": 24.0,
+            "woba30": 0.326,
+            "woba30Rank": 12,
+            "woba7": 0.343,
+            "woba7Rank": 17,
+            "kPct30": 23.8,
             "kPct30Rank": 8
           }
         }
@@ -280,12 +295,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.295,
-            "woba30Rank": 6,
+            "woba30": 0.307,
+            "woba30Rank": 7,
             "woba7": 0.257,
             "woba7Rank": 2,
-            "kPct30": 25.2,
-            "kPct30Rank": 4
+            "kPct30": 24.0,
+            "kPct30Rank": 7
           }
         }
       }
@@ -310,12 +325,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.374,
-            "woba30Rank": 26,
+            "woba30": 0.363,
+            "woba30Rank": 25,
             "woba7": 0.218,
             "woba7Rank": 3,
             "kPct30": 19.7,
-            "kPct30Rank": 24
+            "kPct30Rank": 25
           }
         }
       },
@@ -333,11 +348,11 @@
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.338,
-            "woba30Rank": 16,
-            "woba7": 0.347,
-            "woba7Rank": 18,
-            "kPct30": 21.5,
+            "woba30": 0.337,
+            "woba30Rank": 19,
+            "woba7": 0.336,
+            "woba7Rank": 15,
+            "kPct30": 21.4,
             "kPct30Rank": 18
           }
         }
@@ -363,11 +378,11 @@
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.289,
+            "woba30": 0.295,
             "woba30Rank": 5,
-            "woba7": 0.313,
-            "woba7Rank": 15,
-            "kPct30": 26.8,
+            "woba7": 0.301,
+            "woba7Rank": 14,
+            "kPct30": 27.0,
             "kPct30Rank": 6
           }
         }
@@ -386,11 +401,11 @@
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.358,
+            "woba30": 0.361,
             "woba30Rank": 24,
             "woba7": 0.347,
-            "woba7Rank": 22,
-            "kPct30": 16.9,
+            "woba7Rank": 23,
+            "kPct30": 16.8,
             "kPct30Rank": 29
           }
         }
@@ -424,11 +439,11 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.37,
-            "woba30Rank": 29,
+            "woba30": 0.366,
+            "woba30Rank": 28,
             "woba7": 0.272,
             "woba7Rank": 3,
-            "kPct30": 19.5,
+            "kPct30": 19.8,
             "kPct30Rank": 25
           }
         }
@@ -454,11 +469,11 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.276,
+            "woba30": 0.275,
             "woba30Rank": 3,
-            "woba7": 0.243,
-            "woba7Rank": 4,
-            "kPct30": 20.4,
+            "woba7": 0.247,
+            "woba7Rank": 5,
+            "kPct30": 21.2,
             "kPct30Rank": 23
           }
         }
@@ -477,12 +492,12 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.327,
-            "woba30Rank": 13,
+            "woba30": 0.326,
+            "woba30Rank": 11,
             "woba7": 0.345,
-            "woba7Rank": 15,
-            "kPct30": 21.7,
-            "kPct30Rank": 17
+            "woba7Rank": 18,
+            "kPct30": 22.2,
+            "kPct30Rank": 14
           }
         }
       }
@@ -507,12 +522,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.347,
-            "woba30Rank": 21,
+            "woba30": 0.338,
+            "woba30Rank": 20,
             "woba7": 0.346,
-            "woba7Rank": 16,
-            "kPct30": 20.4,
-            "kPct30Rank": 22
+            "woba7Rank": 19,
+            "kPct30": 20.6,
+            "kPct30Rank": 21
           }
         }
       },
@@ -530,11 +545,11 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.351,
-            "woba30Rank": 23,
+            "woba30": 0.352,
+            "woba30Rank": 24,
             "woba7": 0.296,
             "woba7Rank": 10,
-            "kPct30": 21.4,
+            "kPct30": 21.3,
             "kPct30Rank": 19
           }
         }
@@ -560,11 +575,11 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.332,
-            "woba30Rank": 17,
+            "woba30": 0.334,
+            "woba30Rank": 19,
             "woba7": 0.346,
-            "woba7Rank": 20,
-            "kPct30": 29.0,
+            "woba7Rank": 21,
+            "kPct30": 28.2,
             "kPct30Rank": 4
           }
         }
@@ -583,12 +598,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.317,
+            "woba30": 0.313,
             "woba30Rank": 8,
             "woba7": 0.351,
-            "woba7Rank": 19,
-            "kPct30": 21.9,
-            "kPct30Rank": 15
+            "woba7Rank": 20,
+            "kPct30": 22.2,
+            "kPct30Rank": 16
           }
         }
       }
@@ -614,11 +629,11 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.305,
-            "woba30Rank": 7,
+            "woba30Rank": 6,
             "woba7": 0.4,
             "woba7Rank": 27,
-            "kPct30": 25.6,
-            "kPct30Rank": 3
+            "kPct30": 25.7,
+            "kPct30Rank": 2
           }
         }
       },
@@ -636,12 +651,12 @@
           "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 12,
-            "woba7": 0.271,
+            "woba30": 0.324,
+            "woba30Rank": 14,
+            "woba7": 0.28,
             "woba7Rank": 10,
-            "kPct30": 25.0,
-            "kPct30Rank": 8
+            "kPct30": 26.6,
+            "kPct30Rank": 7
           }
         }
       }
@@ -666,12 +681,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.322,
-            "woba30Rank": 10,
+            "woba30": 0.33,
+            "woba30Rank": 16,
             "woba7": 0.341,
-            "woba7Rank": 14,
-            "kPct30": 23.6,
-            "kPct30Rank": 10
+            "woba7Rank": 16,
+            "kPct30": 22.8,
+            "kPct30Rank": 12
           }
         }
       },
@@ -689,12 +704,12 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.263,
+            "woba30": 0.266,
             "woba30Rank": 1,
-            "woba7": 0.273,
-            "woba7Rank": 4,
-            "kPct30": 21.8,
-            "kPct30Rank": 16
+            "woba7": 0.289,
+            "woba7Rank": 8,
+            "kPct30": 20.5,
+            "kPct30Rank": 22
           }
         }
       }
@@ -719,12 +734,12 @@
           "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.291,
+            "woba30": 0.29,
             "woba30Rank": 4,
             "woba7": 0.279,
-            "woba7Rank": 7,
-            "kPct30": 24.9,
-            "kPct30Rank": 6
+            "woba7Rank": 6,
+            "kPct30": 25.0,
+            "kPct30Rank": 5
           }
         }
       },
@@ -742,12 +757,12 @@
           "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.327,
-            "woba30Rank": 14,
+            "woba30": 0.324,
+            "woba30Rank": 10,
             "woba7": 0.293,
             "woba7Rank": 9,
-            "kPct30": 22.6,
-            "kPct30Rank": 13
+            "kPct30": 22.2,
+            "kPct30Rank": 15
           }
         }
       }
