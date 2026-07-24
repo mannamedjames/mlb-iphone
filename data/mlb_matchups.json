@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 15:12",
+  "generated_at": "2026-07-24 18:22",
   "date": "2026-07-24",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-07-24T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -278,7 +282,22 @@
         "teamAbbr": "BAL",
         "teamName": "Baltimore Orioles",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Trevor Rogers",
+          "hand": "L",
+          "era": "4.28",
+          "ipDisplay": "96.2",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.4,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.299,
+            "woba30Rank": 6,
+            "woba7": 0.341,
+            "woba7Rank": 20,
+            "kPct30": 21.8,
+            "kPct30Rank": 20
+          }
         }
       },
       "away": {
@@ -422,7 +441,22 @@
         "teamAbbr": "MIA",
         "teamName": "Miami Marlins",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Ryan Gusto",
+          "hand": "R",
+          "era": "4.70",
+          "ipDisplay": "30.2",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 3.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.359,
+            "woba30Rank": 27,
+            "woba7": 0.445,
+            "woba7Rank": 30,
+            "kPct30": 20.3,
+            "kPct30Rank": 23
+          }
         }
       },
       "away": {
