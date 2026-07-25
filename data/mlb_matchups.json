@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25 14:46",
+  "generated_at": "2026-07-25 18:01",
   "date": "2026-07-25",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "75",
+        "temp": "78",
         "wind": "5 mph, R To L"
       },
       "home": {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Casey Mize",
           "hand": "R",
-          "era": "2.79",
-          "ipDisplay": "80.2",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 5.4,
+          "era": "2.77",
+          "ipDisplay": "84.1",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.324,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Michael Wacha",
           "hand": "R",
-          "era": "3.66",
-          "ipDisplay": "125.1",
-          "gamesStarted": 20,
-          "avgIpPerOuting": 6.3,
+          "era": "3.65",
+          "ipDisplay": "128.1",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 6.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.342,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-25T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "82",
+        "wind": "6 mph, Out To LF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -117,7 +121,11 @@
       "gameTime": "2026-07-25T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "66",
+        "wind": "13 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -170,7 +178,11 @@
       "gameTime": "2026-07-25T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "79",
+        "wind": "10 mph, In From RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -223,7 +235,11 @@
       "gameTime": "2026-07-25T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -253,20 +269,20 @@
         "teamName": "San Diego Padres",
         "starter": {
           "confirmed": true,
-          "name": "JP Sears",
-          "hand": "L",
-          "era": "4.38",
-          "ipDisplay": "24.2",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 4.9,
+          "name": "Randy V\u00e1squez",
+          "hand": "R",
+          "era": "4.72",
+          "ipDisplay": "87.2",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 13,
-            "woba7": 0.268,
-            "woba7Rank": 11,
-            "kPct30": 21.9,
-            "kPct30Rank": 18
+            "woba30": 0.367,
+            "woba30Rank": 29,
+            "woba7": 0.301,
+            "woba7Rank": 10,
+            "kPct30": 19.8,
+            "kPct30Rank": 25
           }
         }
       }
@@ -314,7 +330,11 @@
       "gameTime": "2026-07-25T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -488,20 +508,20 @@
         "teamName": "Athletics",
         "starter": {
           "confirmed": true,
-          "name": "Mason Barnett",
-          "hand": "R",
-          "era": "4.64",
-          "ipDisplay": "21.1",
+          "name": "Brady Basso",
+          "hand": "L",
+          "era": "6.48",
+          "ipDisplay": "8.1",
           "gamesStarted": 0,
           "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.333,
-            "woba30Rank": 17,
-            "woba7": 0.316,
-            "woba7Rank": 12,
-            "kPct30": 19.7,
-            "kPct30Rank": 26
+            "woba30": 0.31,
+            "woba30Rank": 9,
+            "woba7": 0.25,
+            "woba7Rank": 5,
+            "kPct30": 24.5,
+            "kPct30Rank": 10
           }
         }
       }
