@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25 01:30",
+  "generated_at": "2026-07-25 14:46",
   "window_start": "2026-06-25",
   "window_end": "2026-07-25",
-  "games_processed": 351,
+  "games_processed": 361,
   "subbed_out": [
     {
       "playerId": 699013,
@@ -60,7 +60,7 @@
       "teamName": "Athletics",
       "games": 9,
       "started": 11,
-      "pctStarted": 50,
+      "pctStarted": 48,
       "hits": 7,
       "rank": 5
     }
@@ -73,10 +73,22 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 13,
-      "started": 8,
-      "pctStarted": 35,
+      "started": 9,
+      "pctStarted": 38,
       "hits": 5,
       "rank": 1
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 24,
+      "hits": 3,
+      "rank": 2
     },
     {
       "playerId": 642350,
@@ -86,9 +98,9 @@
       "teamName": "Los Angeles Angels",
       "games": 13,
       "started": 5,
-      "pctStarted": 24,
+      "pctStarted": 23,
       "hits": 6,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 695257,
@@ -100,7 +112,7 @@
       "started": 5,
       "pctStarted": 19,
       "hits": 5,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 678489,
@@ -112,18 +124,6 @@
       "started": 3,
       "pctStarted": 12,
       "hits": 4,
-      "rank": 4
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 12,
-      "started": 6,
-      "pctStarted": 25,
-      "hits": 3,
       "rank": 5
     }
   ]
