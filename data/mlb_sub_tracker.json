@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-25 18:01",
+  "generated_at": "2026-07-25 22:01",
   "window_start": "2026-06-25",
   "window_end": "2026-07-25",
-  "games_processed": 361,
+  "games_processed": 362,
   "subbed_out": [
+    {
+      "playerId": 681481,
+      "name": "Kerry Carpenter",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 11,
+      "started": 19,
+      "pctStarted": 76,
+      "hits": 13,
+      "rank": 1
+    },
     {
       "playerId": 699013,
       "name": "Esmerlyn Valdez",
@@ -14,7 +26,7 @@
       "started": 23,
       "pctStarted": 85,
       "hits": 32,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 690993,
@@ -23,21 +35,9 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 14,
-      "rank": 2
-    },
-    {
-      "playerId": 681481,
-      "name": "Kerry Carpenter",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 12,
+      "started": 19,
+      "pctStarted": 76,
+      "hits": 16,
       "rank": 3
     },
     {
