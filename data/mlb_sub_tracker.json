@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24 22:11",
-  "window_start": "2026-06-24",
-  "window_end": "2026-07-24",
-  "games_processed": 362,
+  "generated_at": "2026-07-25 01:30",
+  "window_start": "2026-06-25",
+  "window_end": "2026-07-25",
+  "games_processed": 351,
   "subbed_out": [
     {
       "playerId": 699013,
@@ -11,10 +11,22 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 10,
-      "started": 22,
-      "pctStarted": 81,
-      "hits": 34,
+      "started": 23,
+      "pctStarted": 85,
+      "hits": 32,
       "rank": 1
+    },
+    {
+      "playerId": 690993,
+      "name": "Colt Keith",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 10,
+      "started": 18,
+      "pctStarted": 75,
+      "hits": 14,
+      "rank": 2
     },
     {
       "playerId": 681481,
@@ -26,30 +38,18 @@
       "started": 18,
       "pctStarted": 75,
       "hits": 12,
-      "rank": 2
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 71,
-      "hits": 13,
       "rank": 3
     },
     {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
+      "playerId": 687282,
+      "name": "Gabriel Rincones Jr.",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
       "games": 9,
-      "started": 18,
-      "pctStarted": 78,
-      "hits": 24,
+      "started": 16,
+      "pctStarted": 67,
+      "hits": 9,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Athletics",
       "games": 9,
       "started": 11,
-      "pctStarted": 48,
+      "pctStarted": 50,
       "hits": 7,
       "rank": 5
     }
@@ -72,23 +72,11 @@
       "team": "TOR",
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
-      "games": 14,
+      "games": 13,
       "started": 8,
-      "pctStarted": 33,
+      "pctStarted": 35,
       "hits": 5,
       "rank": 1
-    },
-    {
-      "playerId": 695257,
-      "name": "Billy Cook",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 14,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 5,
-      "rank": 2
     },
     {
       "playerId": 642350,
@@ -98,8 +86,20 @@
       "teamName": "Los Angeles Angels",
       "games": 13,
       "started": 5,
-      "pctStarted": 23,
+      "pctStarted": 24,
       "hits": 6,
+      "rank": 2
+    },
+    {
+      "playerId": 695257,
+      "name": "Billy Cook",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 13,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 5,
       "rank": 3
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 12,
-      "started": 7,
-      "pctStarted": 28,
-      "hits": 4,
+      "started": 6,
+      "pctStarted": 25,
+      "hits": 3,
       "rank": 5
     }
   ]
