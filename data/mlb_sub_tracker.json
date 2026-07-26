@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 01:44",
+  "generated_at": "2026-07-26 14:48",
   "window_start": "2026-06-26",
   "window_end": "2026-07-26",
-  "games_processed": 362,
+  "games_processed": 367,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 687515,
-      "name": "Colby Thomas",
-      "team": "ATH",
-      "teamId": 133,
-      "teamName": "Athletics",
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
       "games": 9,
-      "started": 11,
-      "pctStarted": 50,
-      "hits": 7,
+      "started": 18,
+      "pctStarted": 75,
+      "hits": 25,
       "rank": 5
     }
   ],
