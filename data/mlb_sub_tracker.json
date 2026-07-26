@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 18:04",
+  "generated_at": "2026-07-26 22:03",
   "window_start": "2026-06-26",
   "window_end": "2026-07-26",
-  "games_processed": 367,
+  "games_processed": 380,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -10,11 +10,23 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 75,
+      "games": 12,
+      "started": 19,
+      "pctStarted": 76,
       "hits": 13,
       "rank": 1
+    },
+    {
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 10,
+      "started": 23,
+      "pctStarted": 85,
+      "hits": 15,
+      "rank": 2
     },
     {
       "playerId": 690993,
@@ -23,49 +35,49 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 16,
-      "rank": 2
-    },
-    {
-      "playerId": 699013,
-      "name": "Esmerlyn Valdez",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 9,
-      "started": 23,
-      "pctStarted": 85,
-      "hits": 33,
+      "started": 19,
+      "pctStarted": 76,
+      "hits": 17,
       "rank": 3
     },
     {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 9,
-      "started": 22,
-      "pctStarted": 85,
-      "hits": 14,
+      "playerId": 687515,
+      "name": "Colby Thomas",
+      "team": "ATH",
+      "teamId": 133,
+      "teamName": "Athletics",
+      "games": 10,
+      "started": 12,
+      "pctStarted": 50,
+      "hits": 7,
       "rank": 4
     },
     {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 9,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 25,
+      "playerId": 665953,
+      "name": "Andr\u00e9s Chaparro",
+      "team": "WSH",
+      "teamId": 120,
+      "teamName": "Washington Nationals",
+      "games": 10,
+      "started": 11,
+      "pctStarted": 46,
+      "hits": 10,
       "rank": 5
     }
   ],
   "subbed_in": [
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 15,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 4,
+      "rank": 1
+    },
     {
       "playerId": 664702,
       "name": "Myles Straw",
@@ -74,21 +86,33 @@
       "teamName": "Toronto Blue Jays",
       "games": 14,
       "started": 8,
-      "pctStarted": 33,
-      "hits": 4,
-      "rank": 1
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 14,
-      "started": 6,
-      "pctStarted": 23,
+      "pctStarted": 32,
       "hits": 4,
       "rank": 2
+    },
+    {
+      "playerId": 695257,
+      "name": "Billy Cook",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 14,
+      "started": 5,
+      "pctStarted": 18,
+      "hits": 5,
+      "rank": 3
+    },
+    {
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 14,
+      "started": 3,
+      "pctStarted": 12,
+      "hits": 4,
+      "rank": 4
     },
     {
       "playerId": 642350,
@@ -100,30 +124,6 @@
       "started": 6,
       "pctStarted": 26,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 695257,
-      "name": "Billy Cook",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 5,
-      "rank": 4
-    },
-    {
-      "playerId": 678489,
-      "name": "Jorge Barrosa",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 13,
-      "started": 3,
-      "pctStarted": 12,
-      "hits": 4,
       "rank": 5
     }
   ]
