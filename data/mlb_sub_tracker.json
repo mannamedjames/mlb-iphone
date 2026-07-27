@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27 01:51",
+  "generated_at": "2026-07-27 15:58",
   "window_start": "2026-06-27",
   "window_end": "2026-07-27",
-  "games_processed": 366,
+  "games_processed": 367,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 664774,
-      "name": "LaMonte Wade Jr.",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
+      "playerId": 687282,
+      "name": "Gabriel Rincones Jr.",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
       "games": 9,
-      "started": 14,
-      "pctStarted": 61,
-      "hits": 6,
+      "started": 16,
+      "pctStarted": 67,
+      "hits": 10,
       "rank": 5
     }
   ],
