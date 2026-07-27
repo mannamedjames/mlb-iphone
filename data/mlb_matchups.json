@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27 15:58",
+  "generated_at": "2026-07-27 18:26",
   "date": "2026-07-27",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Roof Closed",
-        "temp": "71",
+        "temp": "74",
         "wind": "0 mph, None"
       },
       "home": {
@@ -230,20 +230,20 @@
         "teamName": "Washington Nationals",
         "starter": {
           "confirmed": true,
-          "name": "Andrew Alvarez",
-          "hand": "L",
-          "era": "4.22",
-          "ipDisplay": "53.1",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 4.4,
+          "name": "Eddy Yean",
+          "hand": "R",
+          "era": "0.00",
+          "ipDisplay": "5.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.285,
-            "woba30Rank": 3,
+            "woba30": 0.281,
+            "woba30Rank": 2,
             "woba7": 0.281,
-            "woba7Rank": 11,
-            "kPct30": 23.3,
-            "kPct30Rank": 14
+            "woba7Rank": 5,
+            "kPct30": 18.1,
+            "kPct30Rank": 29
           }
         }
       },
