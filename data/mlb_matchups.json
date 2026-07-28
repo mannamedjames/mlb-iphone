@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 18:18",
+  "generated_at": "2026-07-28 22:11",
   "date": "2026-07-28",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Chase Burns",
           "hand": "R",
-          "era": "2.39",
-          "ipDisplay": "109.0",
+          "era": "2.40",
+          "ipDisplay": "112.2",
           "gamesStarted": 20,
-          "avgIpPerOuting": 5.4,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.323,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Slade Cecconi",
           "hand": "R",
-          "era": "4.56",
-          "ipDisplay": "104.2",
+          "era": "4.78",
+          "ipDisplay": "107.1",
           "gamesStarted": 21,
-          "avgIpPerOuting": 5.0,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.318,
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-28T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "75",
+        "wind": "17 mph, Out To RF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -117,7 +121,11 @@
       "gameTime": "2026-07-28T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -170,7 +178,11 @@
       "gameTime": "2026-07-28T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -199,7 +211,22 @@
         "teamAbbr": "TEX",
         "teamName": "Texas Rangers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Cal Quantrill",
+          "hand": "R",
+          "era": "4.05",
+          "ipDisplay": "53.1",
+          "gamesStarted": 5,
+          "avgIpPerOuting": 4.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.335,
+            "woba30Rank": 19,
+            "woba7": 0.339,
+            "woba7Rank": 22,
+            "kPct30": 19.9,
+            "kPct30Rank": 27
+          }
         }
       }
     },
@@ -208,7 +235,11 @@
       "gameTime": "2026-07-28T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -261,7 +292,11 @@
       "gameTime": "2026-07-28T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "85",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -314,13 +349,32 @@
       "gameTime": "2026-07-28T23:10:00Z",
       "doubleHeader": "S",
       "gameNumber": 2,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
         "teamName": "Cincinnati Reds",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Caleb Ferguson",
+          "hand": "L",
+          "era": "3.86",
+          "ipDisplay": "21.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.304,
+            "woba30Rank": 7,
+            "woba7": 0.226,
+            "woba7Rank": 6,
+            "kPct30": 25.1,
+            "kPct30Rank": 6
+          }
         }
       },
       "away": {
@@ -405,7 +459,11 @@
       "gameTime": "2026-07-28T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "89",
+        "wind": "5 mph, Out To CF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -458,7 +516,11 @@
       "gameTime": "2026-07-28T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "72",
+        "wind": "17 mph, Out To RF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -511,13 +573,32 @@
       "gameTime": "2026-07-28T23:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
         "teamName": "St. Louis Cardinals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Michael McGreevy",
+          "hand": "R",
+          "era": "3.07",
+          "ipDisplay": "114.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.345,
+            "woba30Rank": 24,
+            "woba7": 0.338,
+            "woba7Rank": 19,
+            "kPct30": 24.2,
+            "kPct30Rank": 5
+          }
         }
       },
       "away": {
@@ -602,7 +683,11 @@
       "gameTime": "2026-07-29T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "94",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -655,7 +740,11 @@
       "gameTime": "2026-07-29T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "74",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -708,7 +797,11 @@
       "gameTime": "2026-07-29T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "66",
+        "wind": "11 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -761,13 +854,32 @@
       "gameTime": "2026-07-29T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
         "teamName": "Los Angeles Dodgers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Justin Wrobleski",
+          "hand": "L",
+          "era": "2.62",
+          "ipDisplay": "106.2",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 6.4,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.35,
+            "woba30Rank": 22,
+            "woba7": 0.339,
+            "woba7Rank": 19,
+            "kPct30": 26.3,
+            "kPct30Rank": 4
+          }
         }
       },
       "away": {
