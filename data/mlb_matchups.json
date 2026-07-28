@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 15:42",
+  "generated_at": "2026-07-28 18:18",
   "date": "2026-07-28",
   "games": [
     {
@@ -8,8 +8,8 @@
       "doubleHeader": "S",
       "gameNumber": 1,
       "weather": {
-        "condition": "Cloudy",
-        "temp": "81",
+        "condition": "Partly Cloudy",
+        "temp": "84",
         "wind": "10 mph, Varies"
       },
       "home": {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Chase Burns",
           "hand": "R",
-          "era": "2.42",
-          "ipDisplay": "107.2",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.7,
+          "era": "2.39",
+          "ipDisplay": "109.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.323,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Slade Cecconi",
           "hand": "R",
-          "era": "4.60",
-          "ipDisplay": "103.2",
-          "gamesStarted": 20,
-          "avgIpPerOuting": 5.2,
+          "era": "4.56",
+          "ipDisplay": "104.2",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.318,
