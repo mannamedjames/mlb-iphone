@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27 22:12",
-  "window_start": "2026-06-27",
-  "window_end": "2026-07-27",
-  "games_processed": 368,
+  "generated_at": "2026-07-28 01:27",
+  "window_start": "2026-06-28",
+  "window_end": "2026-07-28",
+  "games_processed": 354,
   "subbed_out": [
     {
       "playerId": 681481,
@@ -10,35 +10,11 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 12,
+      "games": 10,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 10,
       "rank": 1
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 16,
-      "rank": 2
-    },
-    {
-      "playerId": 687515,
-      "name": "Colby Thomas",
-      "team": "ATH",
-      "teamId": 133,
-      "teamName": "Athletics",
-      "games": 10,
-      "started": 12,
-      "pctStarted": 52,
-      "hits": 7,
-      "rank": 3
     },
     {
       "playerId": 657757,
@@ -47,10 +23,22 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 9,
-      "started": 22,
-      "pctStarted": 85,
-      "hits": 14,
-      "rank": 4
+      "started": 21,
+      "pctStarted": 84,
+      "hits": 11,
+      "rank": 2
+    },
+    {
+      "playerId": 690993,
+      "name": "Colt Keith",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 9,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 16,
+      "rank": 3
     },
     {
       "playerId": 687282,
@@ -59,9 +47,21 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 9,
-      "started": 16,
-      "pctStarted": 67,
+      "started": 15,
+      "pctStarted": 65,
       "hits": 10,
+      "rank": 4
+    },
+    {
+      "playerId": 664774,
+      "name": "LaMonte Wade Jr.",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 9,
+      "started": 14,
+      "pctStarted": 64,
+      "hits": 6,
       "rank": 5
     }
   ],
@@ -72,47 +72,11 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 14,
+      "games": 13,
       "started": 6,
-      "pctStarted": 23,
+      "pctStarted": 24,
       "hits": 4,
       "rank": 1
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 13,
-      "started": 8,
-      "pctStarted": 33,
-      "hits": 4,
-      "rank": 2
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 13,
-      "started": 7,
-      "pctStarted": 30,
-      "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 695257,
-      "name": "Billy Cook",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 5,
-      "rank": 4
     },
     {
       "playerId": 678489,
@@ -124,6 +88,42 @@
       "started": 3,
       "pctStarted": 12,
       "hits": 4,
+      "rank": 2
+    },
+    {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 12,
+      "started": 8,
+      "pctStarted": 35,
+      "hits": 4,
+      "rank": 3
+    },
+    {
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "games": 12,
+      "started": 7,
+      "pctStarted": 32,
+      "hits": 8,
+      "rank": 4
+    },
+    {
+      "playerId": 695257,
+      "name": "Billy Cook",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 12,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 5,
       "rank": 5
     }
   ]
