@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 18:10",
+  "generated_at": "2026-07-29 22:04",
   "window_start": "2026-06-29",
   "window_end": "2026-07-29",
-  "games_processed": 365,
+  "games_processed": 370,
   "subbed_out": [
     {
       "playerId": 687282,
@@ -12,7 +12,7 @@
       "teamName": "Philadelphia Phillies",
       "games": 10,
       "started": 16,
-      "pctStarted": 67,
+      "pctStarted": 64,
       "hits": 10,
       "rank": 1
     },
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 682818,
+      "name": "Yohendrick Pi\u00f1ango",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 10,
+      "started": 11,
+      "pctStarted": 44,
+      "hits": 7,
+      "rank": 3
+    },
+    {
       "playerId": 641343,
       "name": "Jake Bauers",
       "team": "MIL",
@@ -38,7 +50,7 @@
       "started": 23,
       "pctStarted": 85,
       "hits": 23,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 657757,
@@ -50,18 +62,6 @@
       "started": 21,
       "pctStarted": 84,
       "hits": 12,
-      "rank": 4
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 9,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 19,
       "rank": 5
     }
   ],
@@ -73,8 +73,8 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 15,
-      "started": 3,
-      "pctStarted": 12,
+      "started": 4,
+      "pctStarted": 15,
       "hits": 4,
       "rank": 1
     },
@@ -84,9 +84,9 @@
       "team": "TOR",
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
-      "games": 13,
+      "games": 14,
       "started": 9,
-      "pctStarted": 38,
+      "pctStarted": 36,
       "hits": 6,
       "rank": 2
     },
