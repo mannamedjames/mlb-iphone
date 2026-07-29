@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 01:27",
+  "generated_at": "2026-07-29 15:26",
   "window_start": "2026-06-29",
   "window_end": "2026-07-29",
-  "games_processed": 354,
+  "games_processed": 365,
   "subbed_out": [
     {
       "playerId": 687282,
@@ -24,7 +24,7 @@
       "teamName": "Houston Astros",
       "games": 10,
       "started": 15,
-      "pctStarted": 68,
+      "pctStarted": 65,
       "hits": 6,
       "rank": 2
     },
@@ -36,9 +36,21 @@
       "teamName": "Milwaukee Brewers",
       "games": 9,
       "started": 23,
-      "pctStarted": 88,
+      "pctStarted": 85,
       "hits": 23,
       "rank": 3
+    },
+    {
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 9,
+      "started": 21,
+      "pctStarted": 84,
+      "hits": 12,
+      "rank": 4
     },
     {
       "playerId": 690993,
@@ -50,18 +62,6 @@
       "started": 18,
       "pctStarted": 75,
       "hits": 19,
-      "rank": 4
-    },
-    {
-      "playerId": 681481,
-      "name": "Kerry Carpenter",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 9,
-      "started": 16,
-      "pctStarted": 67,
-      "hits": 8,
       "rank": 5
     }
   ],
@@ -72,11 +72,47 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 14,
+      "games": 15,
       "started": 3,
       "pctStarted": 12,
       "hits": 4,
       "rank": 1
+    },
+    {
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 38,
+      "hits": 6,
+      "rank": 2
+    },
+    {
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "games": 13,
+      "started": 7,
+      "pctStarted": 30,
+      "hits": 8,
+      "rank": 3
+    },
+    {
+      "playerId": 663494,
+      "name": "Bryan Torres",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 23,
+      "hits": 7,
+      "rank": 4
     },
     {
       "playerId": 687749,
@@ -86,44 +122,8 @@
       "teamName": "San Diego Padres",
       "games": 13,
       "started": 6,
-      "pctStarted": 25,
-      "hits": 4,
-      "rank": 2
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 12,
-      "started": 9,
-      "pctStarted": 39,
-      "hits": 6,
-      "rank": 3
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 12,
-      "started": 7,
-      "pctStarted": 32,
-      "hits": 8,
-      "rank": 4
-    },
-    {
-      "playerId": 663494,
-      "name": "Bryan Torres",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 12,
-      "started": 6,
       "pctStarted": 24,
-      "hits": 6,
+      "hits": 4,
       "rank": 5
     }
   ]
