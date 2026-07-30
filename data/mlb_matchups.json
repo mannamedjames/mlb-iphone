@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30 18:19",
+  "generated_at": "2026-07-30 22:12",
   "date": "2026-07-30",
   "games": [
     {
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Bailey Ober",
           "hand": "R",
-          "era": "4.61",
-          "ipDisplay": "84.0",
+          "era": "4.45",
+          "ipDisplay": "87.0",
           "gamesStarted": 16,
-          "avgIpPerOuting": 5.2,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.333,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Noah Cameron",
           "hand": "L",
-          "era": "4.84",
-          "ipDisplay": "109.2",
+          "era": "4.59",
+          "ipDisplay": "115.2",
           "gamesStarted": 20,
-          "avgIpPerOuting": 5.1,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -134,10 +134,10 @@
           "confirmed": true,
           "name": "Sean Burke",
           "hand": "R",
-          "era": "3.19",
-          "ipDisplay": "118.1",
+          "era": "3.04",
+          "ipDisplay": "124.1",
           "gamesStarted": 18,
-          "avgIpPerOuting": 5.2,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.306,
@@ -157,10 +157,10 @@
           "confirmed": true,
           "name": "Ryan Weathers",
           "hand": "L",
-          "era": "4.25",
-          "ipDisplay": "108.0",
-          "gamesStarted": 20,
-          "avgIpPerOuting": 5.4,
+          "era": "3.99",
+          "ipDisplay": "115.0",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.28,
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Andre Pallante",
           "hand": "R",
-          "era": "3.75",
-          "ipDisplay": "112.2",
+          "era": "3.72",
+          "ipDisplay": "118.2",
           "gamesStarted": 21,
-          "avgIpPerOuting": 5.6,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.352,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Javier Assad",
           "hand": "R",
-          "era": "3.86",
-          "ipDisplay": "65.1",
-          "gamesStarted": 8,
-          "avgIpPerOuting": 5.2,
+          "era": "3.75",
+          "ipDisplay": "69.2",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.277,
@@ -235,7 +235,11 @@
       "gameTime": "2026-07-30T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "4 mph, L To R"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -288,7 +292,11 @@
       "gameTime": "2026-07-30T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "6 mph, In From LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -341,7 +349,11 @@
       "gameTime": "2026-07-30T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "87",
+        "wind": "8 mph, Out To LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -394,7 +406,11 @@
       "gameTime": "2026-07-31T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "90",
+        "wind": "3 mph, Out To RF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -447,7 +463,11 @@
       "gameTime": "2026-07-31T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "75",
+        "wind": "8 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -485,7 +505,11 @@
       "gameTime": "2026-07-31T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "83",
+        "wind": "8 mph, L To R"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",

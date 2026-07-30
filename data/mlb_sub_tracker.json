@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30 18:19",
+  "generated_at": "2026-07-30 22:12",
   "window_start": "2026-06-30",
   "window_end": "2026-07-30",
-  "games_processed": 368,
+  "games_processed": 372,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -60,7 +60,7 @@
       "teamName": "Minnesota Twins",
       "games": 9,
       "started": 16,
-      "pctStarted": 70,
+      "pctStarted": 67,
       "hits": 18,
       "rank": 5
     }
@@ -85,9 +85,9 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 14,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 7,
+      "started": 7,
+      "pctStarted": 25,
+      "hits": 9,
       "rank": 2
     },
     {
