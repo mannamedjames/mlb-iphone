@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30 15:30",
+  "generated_at": "2026-07-30 18:19",
   "date": "2026-07-30",
   "games": [
     {
@@ -21,9 +21,9 @@
           "name": "Shane McClanahan",
           "hand": "L",
           "era": "3.09",
-          "ipDisplay": "96.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.1,
+          "ipDisplay": "99.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.37,
@@ -43,11 +43,11 @@
           "confirmed": true,
           "name": "Cole Winn",
           "hand": "R",
-          "era": "6.11",
-          "ipDisplay": "35.1",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
+          "era": "5.94",
+          "ipDisplay": "36.1",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.326,
             "woba30Rank": 15,
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "85",
-        "wind": "9 mph, Out To LF"
+        "temp": "84",
+        "wind": "10 mph, Out To LF"
       },
       "home": {
         "teamId": 142,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Bailey Ober",
           "hand": "R",
-          "era": "4.56",
-          "ipDisplay": "81.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 5.4,
+          "era": "4.61",
+          "ipDisplay": "84.0",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.333,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Noah Cameron",
           "hand": "L",
-          "era": "4.93",
-          "ipDisplay": "107.2",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.3,
+          "era": "4.84",
+          "ipDisplay": "109.2",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -123,8 +123,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "79",
-        "wind": "5 mph, In From CF"
+        "temp": "84",
+        "wind": "4 mph, L To R"
       },
       "home": {
         "teamId": 145,
@@ -136,8 +136,8 @@
           "hand": "R",
           "era": "3.19",
           "ipDisplay": "118.1",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 5.5,
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.306,
@@ -178,7 +178,11 @@
       "gameTime": "2026-07-30T18:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "4 mph, In From CF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -187,9 +191,9 @@
           "confirmed": true,
           "name": "Andre Pallante",
           "hand": "R",
-          "era": "3.77",
-          "ipDisplay": "112.1",
-          "gamesStarted": 20,
+          "era": "3.75",
+          "ipDisplay": "112.2",
+          "gamesStarted": 21,
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
