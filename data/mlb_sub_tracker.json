@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30 01:19",
+  "generated_at": "2026-07-30 15:30",
   "window_start": "2026-06-30",
   "window_end": "2026-07-30",
-  "games_processed": 360,
+  "games_processed": 368,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -12,7 +12,7 @@
       "teamName": "Houston Astros",
       "games": 10,
       "started": 15,
-      "pctStarted": 68,
+      "pctStarted": 65,
       "hits": 6,
       "rank": 1
     },
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 681481,
-      "name": "Kerry Carpenter",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
       "games": 9,
       "started": 16,
-      "pctStarted": 67,
-      "hits": 7,
+      "pctStarted": 70,
+      "hits": 18,
       "rank": 5
     }
   ],
@@ -79,6 +79,18 @@
       "rank": 1
     },
     {
+      "playerId": 663494,
+      "name": "Bryan Torres",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 14,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 7,
+      "rank": 2
+    },
+    {
       "playerId": 678489,
       "name": "Jorge Barrosa",
       "team": "AZ",
@@ -88,19 +100,19 @@
       "started": 4,
       "pctStarted": 16,
       "hits": 4,
-      "rank": 2
+      "rank": 3
     },
     {
-      "playerId": 663494,
-      "name": "Bryan Torres",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
       "games": 13,
-      "started": 6,
-      "pctStarted": 23,
-      "hits": 7,
-      "rank": 3
+      "started": 7,
+      "pctStarted": 30,
+      "hits": 8,
+      "rank": 4
     },
     {
       "playerId": 687749,
@@ -112,18 +124,6 @@
       "started": 6,
       "pctStarted": 24,
       "hits": 4,
-      "rank": 4
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 12,
-      "started": 7,
-      "pctStarted": 32,
-      "hits": 8,
       "rank": 5
     }
   ]
