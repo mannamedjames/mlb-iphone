@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 18:23",
+  "generated_at": "2026-07-31 22:10",
   "date": "2026-07-31",
   "games": [
     {
@@ -20,8 +20,8 @@
           "confirmed": true,
           "name": "Shota Imanaga",
           "hand": "L",
-          "era": "3.71",
-          "ipDisplay": "121.1",
+          "era": "3.67",
+          "ipDisplay": "127.2",
           "gamesStarted": 22,
           "avgIpPerOuting": 5.8,
           "isOpener": false,
@@ -43,9 +43,9 @@
           "confirmed": true,
           "name": "Will Warren",
           "hand": "R",
-          "era": "4.41",
-          "ipDisplay": "102.0",
-          "gamesStarted": 20,
+          "era": "4.14",
+          "ipDisplay": "108.2",
+          "gamesStarted": 21,
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
@@ -66,7 +66,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "80",
+        "temp": "84",
         "wind": "1 mph, Calm"
       },
       "home": {
@@ -121,7 +121,11 @@
       "gameTime": "2026-07-31T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "7 mph, R To L"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -150,7 +154,22 @@
         "teamAbbr": "PHI",
         "teamName": "Philadelphia Phillies",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Andrew Painter",
+          "hand": "R",
+          "era": "7.06",
+          "ipDisplay": "65.0",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 4.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.309,
+            "woba30Rank": 7,
+            "woba7": 0.309,
+            "woba7Rank": 14,
+            "kPct30": 22.9,
+            "kPct30Rank": 10
+          }
         }
       }
     },
@@ -159,7 +178,11 @@
       "gameTime": "2026-07-31T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "82",
+        "wind": "6 mph, Out To CF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -212,7 +235,11 @@
       "gameTime": "2026-07-31T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "2 mph, In From CF"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -265,7 +292,11 @@
       "gameTime": "2026-07-31T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -318,13 +349,32 @@
       "gameTime": "2026-07-31T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "7 mph, Out To LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
         "teamName": "New York Mets",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Kodai Senga",
+          "hand": "R",
+          "era": "8.85",
+          "ipDisplay": "40.2",
+          "gamesStarted": 7,
+          "avgIpPerOuting": 4.0,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.357,
+            "woba30Rank": 27,
+            "woba7": 0.381,
+            "woba7Rank": 29,
+            "kPct30": 21.6,
+            "kPct30Rank": 19
+          }
         }
       },
       "away": {
@@ -356,7 +406,11 @@
       "gameTime": "2026-07-31T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "89",
+        "wind": "3 mph, R To L"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -409,7 +463,11 @@
       "gameTime": "2026-08-01T00:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -462,7 +520,11 @@
       "gameTime": "2026-08-01T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "6 mph, In From RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -515,7 +577,11 @@
       "gameTime": "2026-08-01T01:38:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "87",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
@@ -606,7 +672,11 @@
       "gameTime": "2026-08-01T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "9 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -659,7 +729,11 @@
       "gameTime": "2026-08-01T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "86",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
