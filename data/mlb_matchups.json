@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 15:35",
+  "generated_at": "2026-07-31 18:23",
   "date": "2026-07-31",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Cloudy",
-        "temp": "79",
-        "wind": "12 mph, L To R"
+        "temp": "77",
+        "wind": "11 mph, R To L"
       },
       "home": {
         "teamId": 112,
@@ -20,9 +20,9 @@
           "confirmed": true,
           "name": "Shota Imanaga",
           "hand": "L",
-          "era": "3.72",
-          "ipDisplay": "121.0",
-          "gamesStarted": 21,
+          "era": "3.71",
+          "ipDisplay": "121.1",
+          "gamesStarted": 22,
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
@@ -64,7 +64,11 @@
       "gameTime": "2026-07-31T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "1 mph, Calm"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -320,22 +324,7 @@
         "teamAbbr": "NYM",
         "teamName": "New York Mets",
         "starter": {
-          "confirmed": true,
-          "name": "Freddy Peralta",
-          "hand": "R",
-          "era": "4.99",
-          "ipDisplay": "113.2",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.2,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.357,
-            "woba30Rank": 27,
-            "woba7": 0.381,
-            "woba7Rank": 29,
-            "kPct30": 21.6,
-            "kPct30Rank": 19
-          }
+          "confirmed": false
         }
       },
       "away": {
