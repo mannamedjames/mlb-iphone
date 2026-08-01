@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01 18:03",
+  "generated_at": "2026-08-01 22:01",
   "date": "2026-08-01",
   "games": [
     {
@@ -8,8 +8,8 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Sunny",
-        "temp": "78",
+        "condition": "Partly Cloudy",
+        "temp": "77",
         "wind": "6 mph, R To L"
       },
       "home": {
@@ -20,9 +20,9 @@
           "confirmed": true,
           "name": "Kevin Gausman",
           "hand": "R",
-          "era": "4.51",
-          "ipDisplay": "121.2",
-          "gamesStarted": 22,
+          "era": "4.38",
+          "ipDisplay": "127.1",
+          "gamesStarted": 23,
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Quinn Mathews",
           "hand": "L",
-          "era": null,
-          "ipDisplay": null,
-          "gamesStarted": null,
-          "avgIpPerOuting": null,
+          "era": "3.60",
+          "ipDisplay": "5.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.265,
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "70",
-        "wind": "14 mph, Out To CF"
+        "temp": "73",
+        "wind": "8 mph, Out To LF"
       },
       "home": {
         "teamId": 136,
@@ -77,9 +77,9 @@
           "confirmed": true,
           "name": "Logan Gilbert",
           "hand": "R",
-          "era": "3.44",
-          "ipDisplay": "125.2",
-          "gamesStarted": 21,
+          "era": "3.42",
+          "ipDisplay": "131.2",
+          "gamesStarted": 22,
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
@@ -100,9 +100,9 @@
           "confirmed": true,
           "name": "Connor Prielipp",
           "hand": "L",
-          "era": "4.73",
-          "ipDisplay": "72.1",
-          "gamesStarted": 14,
+          "era": "4.75",
+          "ipDisplay": "77.2",
+          "gamesStarted": 15,
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
@@ -122,9 +122,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "84",
-        "wind": "14 mph, Out To RF"
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
       },
       "home": {
         "teamId": 139,
@@ -134,9 +134,9 @@
           "confirmed": true,
           "name": "Drew Rasmussen",
           "hand": "R",
-          "era": "3.07",
-          "ipDisplay": "111.1",
-          "gamesStarted": 20,
+          "era": "2.91",
+          "ipDisplay": "117.1",
+          "gamesStarted": 21,
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
@@ -157,11 +157,11 @@
           "confirmed": true,
           "name": "Jordan Hicks",
           "hand": "R",
-          "era": "3.19",
-          "ipDisplay": "31.0",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
+          "era": "3.09",
+          "ipDisplay": "32.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.32,
             "woba30Rank": 12,
@@ -179,9 +179,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "82",
-        "wind": "13 mph, Out To LF"
+        "condition": "Sunny",
+        "temp": "87",
+        "wind": "4 mph, Out To LF"
       },
       "home": {
         "teamId": 121,
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Zac Thornton",
           "hand": "L",
-          "era": "2.43",
-          "ipDisplay": "29.2",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 5.9,
+          "era": "2.88",
+          "ipDisplay": "34.1",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.305,
@@ -214,9 +214,9 @@
           "confirmed": true,
           "name": "Tyler Phillips",
           "hand": "R",
-          "era": "3.52",
-          "ipDisplay": "84.1",
-          "gamesStarted": 11,
+          "era": "3.57",
+          "ipDisplay": "88.1",
+          "gamesStarted": 12,
           "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
@@ -235,7 +235,11 @@
       "gameTime": "2026-08-01T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "78",
+        "wind": "10 mph, In From CF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -288,7 +292,11 @@
       "gameTime": "2026-08-01T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "11 mph, Out To LF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -341,7 +349,11 @@
       "gameTime": "2026-08-01T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "73",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -451,7 +463,11 @@
       "gameTime": "2026-08-01T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "8 mph, In From LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -504,7 +520,11 @@
       "gameTime": "2026-08-01T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "70",
+        "wind": "28 mph, In From CF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -557,7 +577,11 @@
       "gameTime": "2026-08-02T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "92",
+        "wind": "7 mph, R To L"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -610,7 +634,11 @@
       "gameTime": "2026-08-02T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -663,7 +691,11 @@
       "gameTime": "2026-08-02T01:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "83",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
@@ -723,20 +755,20 @@
         "teamName": "Los Angeles Angels",
         "starter": {
           "confirmed": true,
-          "name": "Jos\u00e9 Soriano",
-          "hand": "R",
-          "era": "3.29",
-          "ipDisplay": "123.0",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.6,
-          "isOpener": false,
+          "name": "Brent Suter",
+          "hand": "L",
+          "era": "4.26",
+          "ipDisplay": "61.1",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 1.8,
+          "isOpener": true,
           "oppSplits": {
-            "woba30": 0.342,
-            "woba30Rank": 24,
-            "woba7": 0.381,
-            "woba7Rank": 29,
-            "kPct30": 21.2,
-            "kPct30Rank": 22
+            "woba30": 0.319,
+            "woba30Rank": 14,
+            "woba7": 0.357,
+            "woba7Rank": 20,
+            "kPct30": 15.0,
+            "kPct30Rank": 30
           }
         }
       },
@@ -769,7 +801,11 @@
       "gameTime": "2026-08-02T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "6 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",

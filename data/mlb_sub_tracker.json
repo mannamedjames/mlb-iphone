@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 18:03",
+  "generated_at": "2026-08-01 22:01",
   "window_start": "2026-07-02",
   "window_end": "2026-08-01",
-  "games_processed": 364,
+  "games_processed": 365,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -67,6 +67,18 @@
   ],
   "subbed_in": [
     {
+      "playerId": 663494,
+      "name": "Bryan Torres",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 15,
+      "started": 7,
+      "pctStarted": 25,
+      "hits": 9,
+      "rank": 1
+    },
+    {
       "playerId": 678489,
       "name": "Jorge Barrosa",
       "team": "AZ",
@@ -76,19 +88,19 @@
       "started": 3,
       "pctStarted": 12,
       "hits": 3,
-      "rank": 1
+      "rank": 2
     },
     {
-      "playerId": 663494,
-      "name": "Bryan Torres",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 14,
-      "started": 7,
-      "pctStarted": 26,
-      "hits": 9,
-      "rank": 2
+      "playerId": 664702,
+      "name": "Myles Straw",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 38,
+      "hits": 6,
+      "rank": 3
     },
     {
       "playerId": 642350,
@@ -100,18 +112,6 @@
       "started": 8,
       "pctStarted": 35,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 664702,
-      "name": "Myles Straw",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 13,
-      "started": 8,
-      "pctStarted": 35,
-      "hits": 5,
       "rank": 4
     },
     {
