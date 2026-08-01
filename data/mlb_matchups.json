@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01 14:44",
+  "generated_at": "2026-08-01 18:03",
   "date": "2026-08-01",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-01T19:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "78",
+        "wind": "6 mph, R To L"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-01T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "70",
+        "wind": "14 mph, Out To CF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-01T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "14 mph, Out To RF"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -166,7 +178,11 @@
       "gameTime": "2026-08-01T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "13 mph, Out To LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -378,7 +394,11 @@
       "gameTime": "2026-08-01T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "6 mph, R To L"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
