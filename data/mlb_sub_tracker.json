@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 22:01",
-  "window_start": "2026-07-02",
-  "window_end": "2026-08-01",
-  "games_processed": 365,
+  "generated_at": "2026-08-02 01:44",
+  "window_start": "2026-07-03",
+  "window_end": "2026-08-02",
+  "games_processed": 360,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -25,7 +25,7 @@
       "games": 10,
       "started": 15,
       "pctStarted": 56,
-      "hits": 11,
+      "hits": 12,
       "rank": 2
     },
     {
@@ -35,22 +35,10 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 9,
-      "started": 23,
+      "started": 22,
       "pctStarted": 88,
       "hits": 23,
       "rank": 3
-    },
-    {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 9,
-      "started": 21,
-      "pctStarted": 84,
-      "hits": 10,
-      "rank": 4
     },
     {
       "playerId": 663616,
@@ -59,25 +47,25 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 9,
-      "started": 15,
-      "pctStarted": 65,
-      "hits": 15,
+      "started": 16,
+      "pctStarted": 67,
+      "hits": 16,
+      "rank": 4
+    },
+    {
+      "playerId": 514888,
+      "name": "Jose Altuve",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 8,
+      "started": 21,
+      "pctStarted": 95,
+      "hits": 20,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 663494,
-      "name": "Bryan Torres",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 15,
-      "started": 7,
-      "pctStarted": 25,
-      "hits": 9,
-      "rank": 1
-    },
     {
       "playerId": 678489,
       "name": "Jorge Barrosa",
@@ -88,6 +76,18 @@
       "started": 3,
       "pctStarted": 12,
       "hits": 3,
+      "rank": 1
+    },
+    {
+      "playerId": 663494,
+      "name": "Bryan Torres",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 14,
+      "started": 7,
+      "pctStarted": 26,
+      "hits": 9,
       "rank": 2
     },
     {
@@ -103,27 +103,27 @@
       "rank": 3
     },
     {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 12,
+      "started": 10,
+      "pctStarted": 42,
+      "hits": 8,
+      "rank": 4
+    },
+    {
       "playerId": 642350,
       "name": "Jose Siri",
       "team": "LAA",
       "teamId": 108,
       "teamName": "Los Angeles Angels",
-      "games": 13,
+      "games": 12,
       "started": 8,
-      "pctStarted": 35,
+      "pctStarted": 36,
       "hits": 8,
-      "rank": 4
-    },
-    {
-      "playerId": 695257,
-      "name": "Billy Cook",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 13,
-      "started": 4,
-      "pctStarted": 15,
-      "hits": 4,
       "rank": 5
     }
   ]
