@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02 01:44",
+  "generated_at": "2026-08-02 14:46",
   "window_start": "2026-07-03",
   "window_end": "2026-08-02",
-  "games_processed": 360,
+  "games_processed": 370,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -10,10 +10,10 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 11,
-      "started": 16,
-      "pctStarted": 73,
-      "hits": 7,
+      "games": 12,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 8,
       "rank": 1
     },
     {
@@ -35,22 +35,10 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 9,
-      "started": 22,
+      "started": 23,
       "pctStarted": 88,
-      "hits": 23,
+      "hits": 24,
       "rank": 3
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 9,
-      "started": 16,
-      "pctStarted": 67,
-      "hits": 16,
-      "rank": 4
     },
     {
       "playerId": 514888,
@@ -58,10 +46,22 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 8,
-      "started": 21,
-      "pctStarted": 95,
+      "games": 9,
+      "started": 22,
+      "pctStarted": 96,
       "hits": 20,
+      "rank": 4
+    },
+    {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 9,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 19,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 15,
+      "games": 16,
       "started": 3,
       "pctStarted": 12,
       "hits": 3,
@@ -103,27 +103,27 @@
       "rank": 3
     },
     {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 10,
-      "pctStarted": 42,
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 13,
+      "started": 7,
+      "pctStarted": 30,
       "hits": 8,
       "rank": 4
     },
     {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 12,
-      "started": 8,
-      "pctStarted": 36,
-      "hits": 8,
+      "playerId": 695257,
+      "name": "Billy Cook",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 13,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 4,
       "rank": 5
     }
   ]
