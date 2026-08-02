@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-08-01 13:04",
+  "generated_at": "2026-08-02 13:06",
   "team": "CIN",
-  "window_start": "2026-07-02",
-  "window_end": "2026-08-01",
+  "window_start": "2026-07-03",
+  "window_end": "2026-08-02",
   "homers": [
+    {
+      "batter": "Jose Trevino",
+      "batterId": 624431,
+      "pitcher": "Braxton Ashcraft",
+      "pitcherHand": "R",
+      "count": "1-1",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 97.8,
+      "rbi": 1,
+      "inning": 5,
+      "halfInning": "Bot",
+      "outs": 0,
+      "date": "2026-08-01",
+      "away": "PIT",
+      "home": "CIN",
+      "opponent": "PIT",
+      "opponentId": 134,
+      "distanceFt": 350,
+      "exitVeloMph": 97.9,
+      "field": "RF",
+      "desc": "Jose Trevino homers (4) on a fly ball to right field."
+    },
     {
       "batter": "Sal Stewart",
       "batterId": 701398,
@@ -201,28 +223,6 @@
       "exitVeloMph": 104.9,
       "field": "RF",
       "desc": "JJ Bleday homers (17) on a fly ball to right field."
-    },
-    {
-      "batter": "Nathaniel Lowe",
-      "batterId": 663993,
-      "pitcher": "Michael Rucker",
-      "pitcherHand": "R",
-      "count": "2-1",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 96.0,
-      "rbi": 1,
-      "inning": 9,
-      "halfInning": "Top",
-      "outs": 0,
-      "date": "2026-07-21",
-      "away": "CIN",
-      "home": "SEA",
-      "opponent": "SEA",
-      "opponentId": 136,
-      "distanceFt": 362,
-      "exitVeloMph": 100.3,
-      "field": "LF",
-      "desc": "Nathaniel Lowe homers (12) on a fly ball to left field."
     }
   ]
 }
