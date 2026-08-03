@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03 16:01",
+  "generated_at": "2026-08-03 18:53",
   "date": "2026-08-03",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-03T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "82",
+        "wind": "5 mph, Out To CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-03T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "81",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
