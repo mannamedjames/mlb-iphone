@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03 22:12",
-  "window_start": "2026-07-04",
-  "window_end": "2026-08-03",
-  "games_processed": 372,
+  "generated_at": "2026-08-04 01:23",
+  "window_start": "2026-07-05",
+  "window_end": "2026-08-04",
+  "games_processed": 358,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -10,9 +10,9 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 12,
-      "started": 17,
-      "pctStarted": 74,
+      "games": 11,
+      "started": 16,
+      "pctStarted": 73,
       "hits": 9,
       "rank": 1
     },
@@ -24,8 +24,8 @@
       "teamName": "Atlanta Braves",
       "games": 11,
       "started": 15,
-      "pctStarted": 56,
-      "hits": 13,
+      "pctStarted": 58,
+      "hits": 11,
       "rank": 2
     },
     {
@@ -35,33 +35,33 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 19,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 18,
       "rank": 3
     },
     {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 10,
-      "started": 16,
-      "pctStarted": 67,
-      "hits": 18,
+      "playerId": 514888,
+      "name": "Jose Altuve",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 9,
+      "started": 21,
+      "pctStarted": 95,
+      "hits": 20,
       "rank": 4
     },
     {
-      "playerId": 641343,
-      "name": "Jake Bauers",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
       "games": 9,
-      "started": 23,
-      "pctStarted": 88,
-      "hits": 22,
+      "started": 19,
+      "pctStarted": 79,
+      "hits": 8,
       "rank": 5
     }
   ],
@@ -72,23 +72,11 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 16,
+      "games": 15,
       "started": 3,
       "pctStarted": 12,
       "hits": 3,
       "rank": 1
-    },
-    {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 13,
-      "started": 10,
-      "pctStarted": 42,
-      "hits": 8,
-      "rank": 2
     },
     {
       "playerId": 663494,
@@ -98,21 +86,9 @@
       "teamName": "St. Louis Cardinals",
       "games": 13,
       "started": 8,
-      "pctStarted": 30,
+      "pctStarted": 31,
       "hits": 9,
-      "rank": 3
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 13,
-      "started": 8,
-      "pctStarted": 35,
-      "hits": 8,
-      "rank": 4
+      "rank": 2
     },
     {
       "playerId": 687749,
@@ -122,8 +98,32 @@
       "teamName": "San Diego Padres",
       "games": 13,
       "started": 8,
-      "pctStarted": 32,
+      "pctStarted": 33,
       "hits": 6,
+      "rank": 3
+    },
+    {
+      "playerId": 679822,
+      "name": "Justin Foscue",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 26,
+      "hits": 8,
+      "rank": 4
+    },
+    {
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 13,
+      "started": 6,
+      "pctStarted": 27,
+      "hits": 7,
       "rank": 5
     }
   ]
