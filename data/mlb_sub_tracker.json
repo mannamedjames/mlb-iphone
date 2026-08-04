@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04 01:23",
+  "generated_at": "2026-08-04 15:46",
   "window_start": "2026-07-05",
   "window_end": "2026-08-04",
-  "games_processed": 358,
+  "games_processed": 365,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -12,7 +12,7 @@
       "teamName": "Houston Astros",
       "games": 11,
       "started": 16,
-      "pctStarted": 73,
+      "pctStarted": 70,
       "hits": 9,
       "rank": 1
     },
@@ -35,9 +35,9 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 10,
-      "started": 17,
-      "pctStarted": 74,
-      "hits": 18,
+      "started": 18,
+      "pctStarted": 75,
+      "hits": 19,
       "rank": 3
     },
     {
@@ -47,9 +47,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 9,
-      "started": 21,
-      "pctStarted": 95,
-      "hits": 20,
+      "started": 22,
+      "pctStarted": 96,
+      "hits": 22,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "San Diego Padres",
       "games": 9,
       "started": 19,
-      "pctStarted": 79,
+      "pctStarted": 76,
       "hits": 8,
       "rank": 5
     }
@@ -72,7 +72,7 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 15,
+      "games": 16,
       "started": 3,
       "pctStarted": 12,
       "hits": 3,
@@ -85,9 +85,9 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 13,
-      "started": 8,
-      "pctStarted": 31,
-      "hits": 9,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 10,
       "rank": 2
     },
     {
@@ -98,7 +98,7 @@
       "teamName": "San Diego Padres",
       "games": 13,
       "started": 8,
-      "pctStarted": 33,
+      "pctStarted": 32,
       "hits": 6,
       "rank": 3
     },
@@ -110,7 +110,7 @@
       "teamName": "Texas Rangers",
       "games": 13,
       "started": 6,
-      "pctStarted": 26,
+      "pctStarted": 25,
       "hits": 8,
       "rank": 4
     },
@@ -122,7 +122,7 @@
       "teamName": "Houston Astros",
       "games": 13,
       "started": 6,
-      "pctStarted": 27,
+      "pctStarted": 26,
       "hits": 7,
       "rank": 5
     }
