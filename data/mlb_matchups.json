@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05 15:36",
+  "generated_at": "2026-08-05 18:24",
   "date": "2026-08-05",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-05T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "73",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -16,10 +20,10 @@
           "confirmed": true,
           "name": "Hunter Brown",
           "hand": "R",
-          "era": "3.42",
-          "ipDisplay": "52.2",
-          "gamesStarted": 10,
-          "avgIpPerOuting": 5.3,
+          "era": "3.35",
+          "ipDisplay": "53.2",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.31,
@@ -39,10 +43,10 @@
           "confirmed": true,
           "name": "Jameson Taillon",
           "hand": "R",
-          "era": "5.92",
-          "ipDisplay": "76.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 5.1,
+          "era": "5.90",
+          "ipDisplay": "76.1",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.375,
@@ -62,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Overcast",
-        "temp": "78",
-        "wind": "9 mph, Varies"
+        "temp": "80",
+        "wind": "9 mph, Out To CF"
       },
       "home": {
         "teamId": 112,
@@ -174,7 +178,11 @@
       "gameTime": "2026-08-05T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "77",
+        "wind": "7 mph, Varies"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
