@@ -1,33 +1,9 @@
 {
-  "generated_at": "2026-08-04 22:18",
-  "window_start": "2026-07-05",
-  "window_end": "2026-08-04",
-  "games_processed": 365,
+  "generated_at": "2026-08-05 01:28",
+  "window_start": "2026-07-06",
+  "window_end": "2026-08-05",
+  "games_processed": 354,
   "subbed_out": [
-    {
-      "playerId": 664774,
-      "name": "LaMonte Wade Jr.",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 11,
-      "started": 16,
-      "pctStarted": 70,
-      "hits": 9,
-      "rank": 1
-    },
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 11,
-      "started": 15,
-      "pctStarted": 58,
-      "hits": 11,
-      "rank": 2
-    },
     {
       "playerId": 592626,
       "name": "Joc Pederson",
@@ -35,9 +11,33 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 19,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 18,
+      "rank": 1
+    },
+    {
+      "playerId": 664774,
+      "name": "LaMonte Wade Jr.",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 10,
+      "started": 15,
+      "pctStarted": 68,
+      "hits": 9,
+      "rank": 2
+    },
+    {
+      "playerId": 573262,
+      "name": "Mike Yastrzemski",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 10,
+      "started": 14,
+      "pctStarted": 56,
+      "hits": 11,
       "rank": 3
     },
     {
@@ -47,21 +47,21 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 9,
-      "started": 22,
-      "pctStarted": 96,
-      "hits": 22,
+      "started": 21,
+      "pctStarted": 95,
+      "hits": 21,
       "rank": 4
     },
     {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
       "games": 9,
-      "started": 19,
-      "pctStarted": 76,
-      "hits": 8,
+      "started": 15,
+      "pctStarted": 68,
+      "hits": 16,
       "rank": 5
     }
   ],
@@ -85,22 +85,10 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 13,
-      "started": 9,
-      "pctStarted": 33,
+      "started": 8,
+      "pctStarted": 31,
       "hits": 10,
       "rank": 2
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 13,
-      "started": 8,
-      "pctStarted": 32,
-      "hits": 6,
-      "rank": 3
     },
     {
       "playerId": 679822,
@@ -110,9 +98,9 @@
       "teamName": "Texas Rangers",
       "games": 13,
       "started": 6,
-      "pctStarted": 25,
+      "pctStarted": 26,
       "hits": 8,
-      "rank": 4
+      "rank": 3
     },
     {
       "playerId": 669397,
@@ -121,9 +109,21 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 13,
-      "started": 6,
-      "pctStarted": 26,
+      "started": 5,
+      "pctStarted": 23,
       "hits": 7,
+      "rank": 4
+    },
+    {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 12,
+      "started": 9,
+      "pctStarted": 41,
+      "hits": 6,
       "rank": 5
     }
   ]
