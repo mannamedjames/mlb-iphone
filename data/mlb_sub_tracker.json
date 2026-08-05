@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05 18:24",
+  "generated_at": "2026-08-05 22:16",
   "window_start": "2026-07-06",
   "window_end": "2026-08-05",
-  "games_processed": 365,
+  "games_processed": 369,
   "subbed_out": [
     {
       "playerId": 592626,
@@ -12,9 +12,21 @@
       "teamName": "Texas Rangers",
       "games": 11,
       "started": 18,
-      "pctStarted": 75,
-      "hits": 18,
+      "pctStarted": 72,
+      "hits": 19,
       "rank": 1
+    },
+    {
+      "playerId": 664774,
+      "name": "LaMonte Wade Jr.",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 11,
+      "started": 16,
+      "pctStarted": 67,
+      "hits": 12,
+      "rank": 2
     },
     {
       "playerId": 573262,
@@ -26,7 +38,7 @@
       "started": 15,
       "pctStarted": 58,
       "hits": 11,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 514888,
@@ -35,21 +47,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 10,
-      "started": 22,
+      "started": 23,
       "pctStarted": 96,
-      "hits": 24,
-      "rank": 3
-    },
-    {
-      "playerId": 664774,
-      "name": "LaMonte Wade Jr.",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 10,
-      "started": 15,
-      "pctStarted": 65,
-      "hits": 9,
+      "hits": 26,
       "rank": 4
     },
     {
@@ -85,9 +85,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 14,
-      "started": 5,
-      "pctStarted": 22,
-      "hits": 7,
+      "started": 6,
+      "pctStarted": 25,
+      "hits": 8,
       "rank": 2
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 7,
-      "pctStarted": 29,
-      "hits": 8,
+      "started": 8,
+      "pctStarted": 32,
+      "hits": 9,
       "rank": 5
     }
   ]
