@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05 01:28",
+  "generated_at": "2026-08-05 15:36",
   "window_start": "2026-07-06",
   "window_end": "2026-08-05",
-  "games_processed": 354,
+  "games_processed": 365,
   "subbed_out": [
     {
       "playerId": 592626,
@@ -10,11 +10,35 @@
       "team": "TEX",
       "teamId": 140,
       "teamName": "Texas Rangers",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 74,
+      "games": 11,
+      "started": 18,
+      "pctStarted": 75,
       "hits": 18,
       "rank": 1
+    },
+    {
+      "playerId": 573262,
+      "name": "Mike Yastrzemski",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 11,
+      "started": 15,
+      "pctStarted": 58,
+      "hits": 11,
+      "rank": 2
+    },
+    {
+      "playerId": 514888,
+      "name": "Jose Altuve",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 10,
+      "started": 22,
+      "pctStarted": 96,
+      "hits": 24,
+      "rank": 3
     },
     {
       "playerId": 664774,
@@ -24,32 +48,8 @@
       "teamName": "Houston Astros",
       "games": 10,
       "started": 15,
-      "pctStarted": 68,
+      "pctStarted": 65,
       "hits": 9,
-      "rank": 2
-    },
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 10,
-      "started": 14,
-      "pctStarted": 56,
-      "hits": 11,
-      "rank": 3
-    },
-    {
-      "playerId": 514888,
-      "name": "Jose Altuve",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 9,
-      "started": 21,
-      "pctStarted": 95,
-      "hits": 21,
       "rank": 4
     },
     {
@@ -59,8 +59,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 9,
-      "started": 15,
-      "pctStarted": 68,
+      "started": 16,
+      "pctStarted": 70,
       "hits": 16,
       "rank": 5
     }
@@ -72,11 +72,23 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 16,
+      "games": 17,
       "started": 3,
       "pctStarted": 12,
-      "hits": 3,
+      "hits": 4,
       "rank": 1
+    },
+    {
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 14,
+      "started": 5,
+      "pctStarted": 22,
+      "hits": 7,
+      "rank": 2
     },
     {
       "playerId": 663494,
@@ -85,10 +97,22 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 13,
-      "started": 8,
-      "pctStarted": 31,
+      "started": 9,
+      "pctStarted": 33,
       "hits": 10,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 39,
+      "hits": 6,
+      "rank": 4
     },
     {
       "playerId": 679822,
@@ -97,33 +121,9 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 6,
-      "pctStarted": 26,
+      "started": 7,
+      "pctStarted": 29,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 669397,
-      "name": "Nick Allen",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 23,
-      "hits": 7,
-      "rank": 4
-    },
-    {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 9,
-      "pctStarted": 41,
-      "hits": 6,
       "rank": 5
     }
   ]
