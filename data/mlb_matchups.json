@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06 01:24",
+  "generated_at": "2026-08-06 13:45",
   "date": "2026-08-06",
   "games": [
     {
@@ -66,7 +66,22 @@
         "teamAbbr": "CIN",
         "teamName": "Cincinnati Reds",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Andrew Abbott",
+          "hand": "L",
+          "era": "3.91",
+          "ipDisplay": "122.0",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.3,
+            "woba30Rank": 7,
+            "woba7": 0.316,
+            "woba7Rank": 17,
+            "kPct30": 25.0,
+            "kPct30Rank": 6
+          }
         }
       },
       "away": {

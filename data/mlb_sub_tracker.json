@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06 01:24",
+  "generated_at": "2026-08-06 13:45",
   "window_start": "2026-07-07",
   "window_end": "2026-08-06",
-  "games_processed": 363,
+  "games_processed": 372,
   "subbed_out": [
     {
       "playerId": 592626,
@@ -48,7 +48,7 @@
       "teamName": "Atlanta Braves",
       "games": 10,
       "started": 14,
-      "pctStarted": 56,
+      "pctStarted": 54,
       "hits": 10,
       "rank": 4
     },
@@ -59,8 +59,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 9,
-      "started": 16,
-      "pctStarted": 70,
+      "started": 17,
+      "pctStarted": 71,
       "hits": 16,
       "rank": 5
     }
@@ -72,10 +72,10 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 16,
+      "games": 17,
       "started": 3,
       "pctStarted": 12,
-      "hits": 4,
+      "hits": 5,
       "rank": 1
     },
     {
@@ -97,8 +97,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 9,
-      "pctStarted": 39,
+      "started": 10,
+      "pctStarted": 42,
       "hits": 6,
       "rank": 3
     },
@@ -121,8 +121,8 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 12,
-      "started": 9,
-      "pctStarted": 35,
+      "started": 10,
+      "pctStarted": 37,
       "hits": 10,
       "rank": 5
     }
