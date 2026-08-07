@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 17:51",
+  "generated_at": "2026-08-07 21:45",
   "date": "2026-08-07",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-07T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-07T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "13 mph, Out To CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-07T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "88",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -166,7 +178,11 @@
       "gameTime": "2026-08-07T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "6 mph, In From RF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -219,7 +235,11 @@
       "gameTime": "2026-08-07T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "3 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -272,7 +292,11 @@
       "gameTime": "2026-08-07T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -325,7 +349,11 @@
       "gameTime": "2026-08-07T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "8 mph, In From RF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -378,7 +406,11 @@
       "gameTime": "2026-08-07T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "6 mph, In From RF"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -431,7 +463,11 @@
       "gameTime": "2026-08-08T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "86",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -460,7 +496,22 @@
         "teamAbbr": "CHC",
         "teamName": "Chicago Cubs",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Kevin Gausman",
+          "hand": "R",
+          "era": "4.38",
+          "ipDisplay": "127.1",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 5.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.31,
+            "woba30Rank": 11,
+            "woba7": 0.308,
+            "woba7Rank": 14,
+            "kPct30": 19.7,
+            "kPct30Rank": 23
+          }
         }
       }
     },
@@ -469,7 +520,11 @@
       "gameTime": "2026-08-08T00:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "5 mph, Out To CF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -522,7 +577,11 @@
       "gameTime": "2026-08-08T00:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -575,7 +634,11 @@
       "gameTime": "2026-08-08T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
