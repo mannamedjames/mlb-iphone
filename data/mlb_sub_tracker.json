@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 02:03",
+  "generated_at": "2026-08-07 14:31",
   "window_start": "2026-07-08",
   "window_end": "2026-08-07",
-  "games_processed": 363,
+  "games_processed": 367,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -17,6 +17,30 @@
       "rank": 1
     },
     {
+      "playerId": 573262,
+      "name": "Mike Yastrzemski",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 11,
+      "started": 14,
+      "pctStarted": 54,
+      "hits": 9,
+      "rank": 2
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 10,
+      "started": 18,
+      "pctStarted": 75,
+      "hits": 17,
+      "rank": 3
+    },
+    {
       "playerId": 592626,
       "name": "Joc Pederson",
       "team": "TEX",
@@ -26,19 +50,7 @@
       "started": 17,
       "pctStarted": 71,
       "hits": 19,
-      "rank": 2
-    },
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 10,
-      "started": 13,
-      "pctStarted": 52,
-      "hits": 9,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 514888,
@@ -50,18 +62,6 @@
       "started": 21,
       "pctStarted": 95,
       "hits": 24,
-      "rank": 4
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 9,
-      "started": 17,
-      "pctStarted": 74,
-      "hits": 16,
       "rank": 5
     }
   ],
@@ -79,6 +79,18 @@
       "rank": 1
     },
     {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 14,
+      "started": 9,
+      "pctStarted": 38,
+      "hits": 6,
+      "rank": 2
+    },
+    {
       "playerId": 669397,
       "name": "Nick Allen",
       "team": "HOU",
@@ -88,19 +100,19 @@
       "started": 5,
       "pctStarted": 23,
       "hits": 7,
-      "rank": 2
+      "rank": 3
     },
     {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
+      "playerId": 642201,
+      "name": "Eli White",
+      "team": "BOS",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
       "games": 13,
-      "started": 9,
-      "pctStarted": 39,
-      "hits": 5,
-      "rank": 3
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 8,
+      "rank": 4
     },
     {
       "playerId": 679822,
@@ -112,18 +124,6 @@
       "started": 8,
       "pctStarted": 33,
       "hits": 7,
-      "rank": 4
-    },
-    {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "games": 12,
-      "started": 5,
-      "pctStarted": 20,
-      "hits": 8,
       "rank": 5
     }
   ]
