@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 14:31",
+  "generated_at": "2026-08-07 17:51",
   "date": "2026-08-07",
   "games": [
     {
@@ -142,7 +142,22 @@
         "teamAbbr": "CIN",
         "teamName": "Cincinnati Reds",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Chase Petty",
+          "hand": "R",
+          "era": "4.50",
+          "ipDisplay": "30.0",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.355,
+            "woba30Rank": 26,
+            "woba7": 0.304,
+            "woba7Rank": 13,
+            "kPct30": 19.6,
+            "kPct30Rank": 24
+          }
         }
       }
     },
@@ -725,7 +740,22 @@
         "teamAbbr": "SF",
         "teamName": "San Francisco Giants",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "JT Brubaker",
+          "hand": "R",
+          "era": "3.17",
+          "ipDisplay": "54.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.379,
+            "woba30Rank": 30,
+            "woba7": 0.42,
+            "woba7Rank": 28,
+            "kPct30": 20.8,
+            "kPct30Rank": 18
+          }
         }
       },
       "away": {
