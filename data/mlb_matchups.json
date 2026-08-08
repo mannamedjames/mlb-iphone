@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08 14:05",
+  "generated_at": "2026-08-08 17:35",
   "date": "2026-08-08",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-08T19:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "11 mph, Out To LF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-08T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "11 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-08T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
