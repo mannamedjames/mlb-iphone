@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 21:45",
-  "window_start": "2026-07-08",
-  "window_end": "2026-08-07",
-  "games_processed": 367,
+  "generated_at": "2026-08-08 00:48",
+  "window_start": "2026-07-09",
+  "window_end": "2026-08-08",
+  "games_processed": 352,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -12,7 +12,7 @@
       "teamName": "Houston Astros",
       "games": 11,
       "started": 15,
-      "pctStarted": 68,
+      "pctStarted": 71,
       "hits": 12,
       "rank": 1
     },
@@ -23,34 +23,10 @@
       "teamId": 144,
       "teamName": "Atlanta Braves",
       "games": 11,
-      "started": 14,
-      "pctStarted": 54,
-      "hits": 9,
+      "started": 13,
+      "pctStarted": 52,
+      "hits": 8,
       "rank": 2
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 10,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 17,
-      "rank": 3
-    },
-    {
-      "playerId": 592626,
-      "name": "Joc Pederson",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 71,
-      "hits": 19,
-      "rank": 4
     },
     {
       "playerId": 514888,
@@ -59,9 +35,33 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 9,
-      "started": 21,
+      "started": 20,
       "pctStarted": 95,
       "hits": 24,
+      "rank": 3
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 9,
+      "started": 17,
+      "pctStarted": 74,
+      "hits": 17,
+      "rank": 4
+    },
+    {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 9,
+      "started": 16,
+      "pctStarted": 70,
+      "hits": 19,
       "rank": 5
     }
   ],
@@ -79,27 +79,27 @@
       "rank": 1
     },
     {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 14,
-      "started": 9,
-      "pctStarted": 38,
-      "hits": 6,
-      "rank": 2
-    },
-    {
       "playerId": 669397,
       "name": "Nick Allen",
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 14,
-      "started": 5,
-      "pctStarted": 23,
-      "hits": 7,
+      "started": 4,
+      "pctStarted": 19,
+      "hits": 6,
+      "rank": 2
+    },
+    {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 39,
+      "hits": 6,
       "rank": 3
     },
     {
@@ -110,20 +110,20 @@
       "teamName": "Boston Red Sox",
       "games": 13,
       "started": 5,
-      "pctStarted": 19,
+      "pctStarted": 20,
       "hits": 8,
       "rank": 4
     },
     {
-      "playerId": 679822,
-      "name": "Justin Foscue",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 12,
-      "started": 8,
-      "pctStarted": 33,
-      "hits": 7,
+      "playerId": 663494,
+      "name": "Bryan Torres",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 11,
+      "started": 9,
+      "pctStarted": 38,
+      "hits": 10,
       "rank": 5
     }
   ]
