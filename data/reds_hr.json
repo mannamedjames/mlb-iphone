@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-08-08 12:33",
+  "generated_at": "2026-08-09 12:36",
   "team": "CIN",
-  "window_start": "2026-07-09",
-  "window_end": "2026-08-08",
+  "window_start": "2026-07-10",
+  "window_end": "2026-08-09",
   "homers": [
+    {
+      "batter": "Eugenio Su\u00e1rez",
+      "batterId": 553993,
+      "pitcher": "Max Kranick",
+      "pitcherHand": "R",
+      "count": "2-2",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 94.9,
+      "rbi": 2,
+      "inning": 6,
+      "halfInning": "Top",
+      "outs": 2,
+      "date": "2026-08-08",
+      "away": "CIN",
+      "home": "WSH",
+      "opponent": "WSH",
+      "opponentId": 120,
+      "distanceFt": 415,
+      "exitVeloMph": 105.4,
+      "field": "LF",
+      "desc": "Eugenio Su\u00e1rez homers (16) on a fly ball to left center field. Sal Stewart scores."
+    },
     {
       "batter": "Elly De La Cruz",
       "batterId": 682829,
@@ -201,28 +223,6 @@
       "exitVeloMph": 101.4,
       "field": "RF",
       "desc": "Tyler Stephenson homers (9) on a fly ball to right field."
-    },
-    {
-      "batter": "Ke'Bryan Hayes",
-      "batterId": 663647,
-      "pitcher": "Mitch Keller",
-      "pitcherHand": "R",
-      "count": "1-0",
-      "pitch": "Sinker",
-      "pitchSpeed": 91.6,
-      "rbi": 1,
-      "inning": 2,
-      "halfInning": "Bot",
-      "outs": 1,
-      "date": "2026-08-02",
-      "away": "PIT",
-      "home": "CIN",
-      "opponent": "PIT",
-      "opponentId": 134,
-      "distanceFt": 429,
-      "exitVeloMph": 106.9,
-      "field": "LCF",
-      "desc": "Ke'Bryan Hayes homers (4) on a fly ball to center field."
     }
   ]
 }
