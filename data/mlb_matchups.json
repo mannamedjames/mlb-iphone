@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09 00:51",
+  "generated_at": "2026-08-09 14:04",
   "date": "2026-08-09",
   "games": [
     {
@@ -7,13 +7,32 @@
       "gameTime": "2026-08-09T16:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "8 mph, L To R"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
         "teamName": "Washington Nationals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Brad Lord",
+          "hand": "R",
+          "era": "3.81",
+          "ipDisplay": "59.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 2.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.333,
+            "woba30Rank": 21,
+            "woba7": 0.381,
+            "woba7Rank": 29,
+            "kPct30": 26.1,
+            "kPct30Rank": 3
+          }
         }
       },
       "away": {
@@ -31,11 +50,11 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.35,
-            "woba30Rank": 25,
-            "woba7": 0.305,
-            "woba7Rank": 15,
-            "kPct30": 21.1,
-            "kPct30Rank": 18
+            "woba30Rank": 26,
+            "woba7": 0.312,
+            "woba7Rank": 14,
+            "kPct30": 21.0,
+            "kPct30Rank": 17
           }
         }
       }
@@ -45,7 +64,11 @@
       "gameTime": "2026-08-09T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "89",
+        "wind": "11 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -68,11 +91,11 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.366,
-            "woba30Rank": 27,
-            "woba7": 0.447,
+            "woba30": 0.37,
+            "woba30Rank": 28,
+            "woba7": 0.47,
             "woba7Rank": 30,
-            "kPct30": 19.7,
+            "kPct30": 19.9,
             "kPct30Rank": 23
           }
         }
@@ -98,12 +121,12 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.319,
-            "woba30Rank": 16,
-            "woba7": 0.333,
-            "woba7Rank": 17,
-            "kPct30": 24.7,
-            "kPct30Rank": 7
+            "woba30": 0.304,
+            "woba30Rank": 7,
+            "woba7": 0.312,
+            "woba7Rank": 13,
+            "kPct30": 25.3,
+            "kPct30Rank": 5
           }
         }
       },
@@ -121,12 +144,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.309,
-            "woba30Rank": 11,
-            "woba7": 0.257,
-            "woba7Rank": 5,
-            "kPct30": 23.5,
-            "kPct30Rank": 15
+            "woba30": 0.312,
+            "woba30Rank": 13,
+            "woba7": 0.255,
+            "woba7Rank": 4,
+            "kPct30": 23.7,
+            "kPct30Rank": 14
           }
         }
       }
@@ -151,12 +174,12 @@
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.259,
-            "woba30Rank": 1,
-            "woba7": 0.234,
-            "woba7Rank": 4,
-            "kPct30": 21.4,
-            "kPct30Rank": 24
+            "woba30": 0.264,
+            "woba30Rank": 2,
+            "woba7": 0.225,
+            "woba7Rank": 3,
+            "kPct30": 21.5,
+            "kPct30Rank": 22
           }
         }
       },
@@ -174,12 +197,12 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.303,
-            "woba30Rank": 6,
-            "woba7": 0.359,
-            "woba7Rank": 23,
-            "kPct30": 21.7,
-            "kPct30Rank": 14
+            "woba30": 0.306,
+            "woba30Rank": 8,
+            "woba7": 0.355,
+            "woba7Rank": 26,
+            "kPct30": 21.6,
+            "kPct30Rank": 15
           }
         }
       }
@@ -204,12 +227,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.361,
-            "woba30Rank": 26,
-            "woba7": 0.371,
-            "woba7Rank": 25,
-            "kPct30": 22.0,
-            "kPct30Rank": 12
+            "woba30": 0.347,
+            "woba30Rank": 25,
+            "woba7": 0.327,
+            "woba7Rank": 20,
+            "kPct30": 22.3,
+            "kPct30Rank": 14
           }
         }
       },
@@ -227,12 +250,12 @@
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.311,
-            "woba30Rank": 11,
-            "woba7": 0.308,
-            "woba7Rank": 16,
-            "kPct30": 25.4,
-            "kPct30Rank": 4
+            "woba30": 0.3,
+            "woba30Rank": 5,
+            "woba7": 0.313,
+            "woba7Rank": 15,
+            "kPct30": 26.4,
+            "kPct30Rank": 1
           }
         }
       }
@@ -257,12 +280,12 @@
           "avgIpPerOuting": 4.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.289,
+            "woba30": 0.282,
             "woba30Rank": 2,
-            "woba7": 0.263,
-            "woba7Rank": 3,
-            "kPct30": 25.0,
-            "kPct30Rank": 5
+            "woba7": 0.259,
+            "woba7Rank": 4,
+            "kPct30": 25.2,
+            "kPct30Rank": 6
           }
         }
       },
@@ -280,12 +303,12 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.312,
-            "woba30Rank": 12,
-            "woba7": 0.271,
-            "woba7Rank": 4,
-            "kPct30": 21.5,
-            "kPct30Rank": 15
+            "woba30": 0.307,
+            "woba30Rank": 9,
+            "woba7": 0.284,
+            "woba7Rank": 8,
+            "kPct30": 22.4,
+            "kPct30Rank": 13
           }
         }
       }
@@ -310,11 +333,11 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.324,
-            "woba30Rank": 18,
-            "woba7": 0.296,
-            "woba7Rank": 10,
-            "kPct30": 24.1,
+            "woba30": 0.321,
+            "woba30Rank": 16,
+            "woba7": 0.278,
+            "woba7Rank": 7,
+            "kPct30": 24.5,
             "kPct30Rank": 8
           }
         }
@@ -333,12 +356,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.311,
-            "woba30Rank": 13,
+            "woba30": 0.307,
+            "woba30Rank": 9,
             "woba7": 0.295,
-            "woba7Rank": 13,
-            "kPct30": 23.9,
-            "kPct30Rank": 13
+            "woba7Rank": 10,
+            "kPct30": 24.1,
+            "kPct30Rank": 12
           }
         }
       }
@@ -363,11 +386,11 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 15,
-            "woba7": 0.338,
-            "woba7Rank": 18,
-            "kPct30": 21.4,
+            "woba30": 0.322,
+            "woba30Rank": 17,
+            "woba7": 0.339,
+            "woba7Rank": 22,
+            "kPct30": 21.1,
             "kPct30Rank": 16
           }
         }
@@ -386,12 +409,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.299,
+            "woba30": 0.304,
             "woba30Rank": 8,
-            "woba7": 0.304,
-            "woba7Rank": 16,
-            "kPct30": 24.8,
-            "kPct30Rank": 8
+            "woba7": 0.308,
+            "woba7Rank": 12,
+            "kPct30": 24.5,
+            "kPct30Rank": 10
           }
         }
       }
@@ -416,12 +439,12 @@
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.297,
-            "woba30Rank": 5,
-            "woba7": 0.303,
-            "woba7Rank": 14,
-            "kPct30": 19.3,
-            "kPct30Rank": 27
+            "woba30": 0.301,
+            "woba30Rank": 6,
+            "woba7": 0.284,
+            "woba7Rank": 9,
+            "kPct30": 17.8,
+            "kPct30Rank": 29
           }
         }
       },
@@ -439,12 +462,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.309,
+            "woba30": 0.307,
             "woba30Rank": 10,
-            "woba7": 0.3,
-            "woba7Rank": 15,
-            "kPct30": 23.8,
-            "kPct30Rank": 14
+            "woba7": 0.322,
+            "woba7Rank": 16,
+            "kPct30": 25.4,
+            "kPct30Rank": 6
           }
         }
       }
@@ -470,10 +493,10 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.323,
-            "woba30Rank": 17,
-            "woba7": 0.391,
-            "woba7Rank": 29,
-            "kPct30": 23.2,
+            "woba30Rank": 18,
+            "woba7": 0.348,
+            "woba7Rank": 23,
+            "kPct30": 22.8,
             "kPct30Rank": 10
           }
         }
@@ -492,12 +515,12 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.289,
-            "woba30Rank": 3,
-            "woba7": 0.348,
-            "woba7Rank": 20,
-            "kPct30": 20.0,
-            "kPct30Rank": 22
+            "woba30": 0.292,
+            "woba30Rank": 4,
+            "woba7": 0.35,
+            "woba7Rank": 24,
+            "kPct30": 19.8,
+            "kPct30Rank": 24
           }
         }
       }
@@ -522,11 +545,11 @@
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.293,
-            "woba30Rank": 4,
-            "woba7": 0.245,
-            "woba7Rank": 2,
-            "kPct30": 24.0,
+            "woba30": 0.292,
+            "woba30Rank": 3,
+            "woba7": 0.261,
+            "woba7Rank": 5,
+            "kPct30": 24.3,
             "kPct30Rank": 9
           }
         }
@@ -545,12 +568,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.354,
-            "woba30Rank": 27,
-            "woba7": 0.412,
-            "woba7Rank": 28,
-            "kPct30": 24.5,
-            "kPct30Rank": 9
+            "woba30": 0.342,
+            "woba30Rank": 23,
+            "woba7": 0.487,
+            "woba7Rank": 30,
+            "kPct30": 24.4,
+            "kPct30Rank": 11
           }
         }
       }
@@ -575,11 +598,11 @@
           "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.376,
+            "woba30": 0.374,
             "woba30Rank": 30,
-            "woba7": 0.385,
-            "woba7Rank": 26,
-            "kPct30": 20.7,
+            "woba7": 0.355,
+            "woba7Rank": 25,
+            "kPct30": 20.2,
             "kPct30Rank": 20
           }
         }
@@ -598,10 +621,10 @@
           "avgIpPerOuting": 6.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.343,
-            "woba30Rank": 24,
-            "woba7": 0.388,
-            "woba7Rank": 27,
+            "woba30": 0.326,
+            "woba30Rank": 20,
+            "woba7": 0.32,
+            "woba7Rank": 18,
             "kPct30": 19.6,
             "kPct30Rank": 25
           }
@@ -628,11 +651,11 @@
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 20,
-            "woba7": 0.381,
-            "woba7Rank": 24,
-            "kPct30": 18.6,
+            "woba30": 0.33,
+            "woba30Rank": 18,
+            "woba7": 0.382,
+            "woba7Rank": 25,
+            "kPct30": 18.5,
             "kPct30Rank": 29
           }
         }
@@ -653,9 +676,9 @@
           "oppSplits": {
             "woba30": 0.369,
             "woba30Rank": 29,
-            "woba7": 0.364,
-            "woba7Rank": 22,
-            "kPct30": 20.2,
+            "woba7": 0.322,
+            "woba7Rank": 14,
+            "kPct30": 20.0,
             "kPct30Rank": 26
           }
         }
@@ -682,10 +705,10 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.339,
-            "woba30Rank": 22,
-            "woba7": 0.367,
-            "woba7Rank": 24,
-            "kPct30": 20.8,
+            "woba30Rank": 23,
+            "woba7": 0.372,
+            "woba7Rank": 28,
+            "kPct30": 20.5,
             "kPct30Rank": 19
           }
         }
@@ -727,12 +750,12 @@
           "avgIpPerOuting": 3.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.366,
-            "woba30Rank": 28,
-            "woba7": 0.353,
-            "woba7Rank": 22,
-            "kPct30": 18.7,
-            "kPct30Rank": 29
+            "woba30": 0.37,
+            "woba30Rank": 29,
+            "woba7": 0.338,
+            "woba7Rank": 21,
+            "kPct30": 18.2,
+            "kPct30Rank": 28
           }
         }
       }
