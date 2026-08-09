@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09 17:36",
+  "generated_at": "2026-08-09 21:38",
   "window_start": "2026-07-10",
   "window_end": "2026-08-09",
-  "games_processed": 369,
+  "games_processed": 378,
   "subbed_out": [
     {
       "playerId": 664774,
@@ -23,9 +23,9 @@
       "teamId": 144,
       "teamName": "Atlanta Braves",
       "games": 11,
-      "started": 13,
-      "pctStarted": 50,
-      "hits": 8,
+      "started": 14,
+      "pctStarted": 52,
+      "hits": 9,
       "rank": 2
     },
     {
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 814439,
-      "name": "Ryan Waldschmidt",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 9,
-      "started": 18,
-      "pctStarted": 72,
-      "hits": 20,
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 10,
+      "started": 17,
+      "pctStarted": 68,
+      "hits": 17,
       "rank": 5
     }
   ],
@@ -91,27 +91,27 @@
       "rank": 2
     },
     {
+      "playerId": 668885,
+      "name": "Austin Martin",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 14,
+      "started": 11,
+      "pctStarted": 44,
+      "hits": 7,
+      "rank": 3
+    },
+    {
       "playerId": 642201,
       "name": "Eli White",
       "team": "BOS",
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "games": 14,
-      "started": 6,
-      "pctStarted": 23,
-      "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 668885,
-      "name": "Austin Martin",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 13,
-      "started": 11,
-      "pctStarted": 46,
-      "hits": 7,
+      "started": 7,
+      "pctStarted": 26,
+      "hits": 11,
       "rank": 4
     },
     {
