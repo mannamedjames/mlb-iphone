@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09 14:04",
+  "generated_at": "2026-08-09 17:36",
   "date": "2026-08-09",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "87",
-        "wind": "8 mph, L To R"
+        "temp": "92",
+        "wind": "3 mph, L To R"
       },
       "home": {
         "teamId": 120,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Brad Lord",
           "hand": "R",
-          "era": "3.81",
-          "ipDisplay": "59.0",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 2.3,
+          "era": "3.79",
+          "ipDisplay": "61.2",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 2.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.333,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Brady Singer",
           "hand": "R",
-          "era": "4.67",
-          "ipDisplay": "113.2",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.2,
+          "era": "4.74",
+          "ipDisplay": "117.2",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.35,
@@ -66,15 +66,30 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "89",
-        "wind": "11 mph, Out To RF"
+        "temp": "88",
+        "wind": "6 mph, Out To RF"
       },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
         "teamName": "Boston Red Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Erik Miller",
+          "hand": "L",
+          "era": "2.57",
+          "ipDisplay": "35.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.297,
+            "woba30Rank": 6,
+            "woba7": 0.266,
+            "woba7Rank": 5,
+            "kPct30": 24.8,
+            "kPct30Rank": 8
+          }
         }
       },
       "away": {
@@ -106,7 +121,11 @@
       "gameTime": "2026-08-09T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "83",
+        "wind": "7 mph, Calm"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -159,7 +178,11 @@
       "gameTime": "2026-08-09T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "90",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -212,7 +235,11 @@
       "gameTime": "2026-08-09T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "90",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -265,7 +292,11 @@
       "gameTime": "2026-08-09T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -318,7 +349,11 @@
       "gameTime": "2026-08-09T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "9 mph, R To L"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -371,7 +406,11 @@
       "gameTime": "2026-08-09T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "84",
+        "wind": "8 mph, R To L"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -424,7 +463,11 @@
       "gameTime": "2026-08-09T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -477,7 +520,11 @@
       "gameTime": "2026-08-09T18:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "10 mph, Out To LF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -530,7 +577,11 @@
       "gameTime": "2026-08-09T18:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -583,7 +634,11 @@
       "gameTime": "2026-08-09T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "70",
+        "wind": "6 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -636,7 +691,11 @@
       "gameTime": "2026-08-09T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -689,7 +748,11 @@
       "gameTime": "2026-08-09T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "75",
+        "wind": "5 mph, L To R"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -718,7 +781,22 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Ian Seymour",
+          "hand": "L",
+          "era": "4.27",
+          "ipDisplay": "84.1",
+          "gamesStarted": 8,
+          "avgIpPerOuting": 4.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.334,
+            "woba30Rank": 20,
+            "woba7": 0.333,
+            "woba7Rank": 18,
+            "kPct30": 24.1,
+            "kPct30Rank": 13
+          }
         }
       }
     },
