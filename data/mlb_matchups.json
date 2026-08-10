@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 17:54",
+  "generated_at": "2026-08-10 21:48",
   "date": "2026-08-10",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-10T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-10T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-10T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "3 mph, In From RF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -166,7 +178,11 @@
       "gameTime": "2026-08-10T23:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "96",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -272,7 +288,11 @@
       "gameTime": "2026-08-11T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -325,7 +345,11 @@
       "gameTime": "2026-08-11T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "93",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -378,7 +402,11 @@
       "gameTime": "2026-08-11T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
