@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 14:34",
+  "generated_at": "2026-08-11 18:00",
   "date": "2026-08-11",
   "games": [
     {
@@ -687,7 +687,22 @@
         "teamAbbr": "SF",
         "teamName": "San Francisco Giants",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Carson Whisenhunt",
+          "hand": "L",
+          "era": "7.25",
+          "ipDisplay": "22.1",
+          "gamesStarted": 5,
+          "avgIpPerOuting": 4.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.334,
+            "woba30Rank": 22,
+            "woba7": 0.352,
+            "woba7Rank": 21,
+            "kPct30": 22.4,
+            "kPct30Rank": 19
+          }
         }
       },
       "away": {
