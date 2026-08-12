@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 00:59",
+  "generated_at": "2026-08-12 14:35",
   "window_start": "2026-07-13",
   "window_end": "2026-08-12",
-  "games_processed": 349,
+  "games_processed": 363,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -10,9 +10,9 @@
       "team": "ATL",
       "teamId": 144,
       "teamName": "Atlanta Braves",
-      "games": 10,
-      "started": 13,
-      "pctStarted": 52,
+      "games": 11,
+      "started": 14,
+      "pctStarted": 54,
       "hits": 8,
       "rank": 1
     },
@@ -22,11 +22,23 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 9,
-      "started": 21,
-      "pctStarted": 95,
+      "games": 10,
+      "started": 22,
+      "pctStarted": 96,
       "hits": 22,
       "rank": 2
+    },
+    {
+      "playerId": 687093,
+      "name": "Vaughn Grissom",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "games": 9,
+      "started": 22,
+      "pctStarted": 96,
+      "hits": 22,
+      "rank": 3
     },
     {
       "playerId": 665052,
@@ -38,7 +50,7 @@
       "started": 20,
       "pctStarted": 87,
       "hits": 19,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 690993,
@@ -47,21 +59,9 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 9,
-      "started": 17,
-      "pctStarted": 77,
+      "started": 18,
+      "pctStarted": 78,
       "hits": 22,
-      "rank": 4
-    },
-    {
-      "playerId": 643217,
-      "name": "Andrew Benintendi",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 9,
-      "started": 16,
-      "pctStarted": 73,
-      "hits": 15,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 17,
+      "games": 18,
       "started": 3,
       "pctStarted": 12,
       "hits": 5,
@@ -84,9 +84,9 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 15,
+      "games": 16,
       "started": 4,
-      "pctStarted": 18,
+      "pctStarted": 17,
       "hits": 6,
       "rank": 2
     },
@@ -96,11 +96,23 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 13,
+      "games": 14,
       "started": 8,
-      "pctStarted": 33,
+      "pctStarted": 32,
       "hits": 6,
       "rank": 3
+    },
+    {
+      "playerId": 681546,
+      "name": "James Outman",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 13,
+      "started": 7,
+      "pctStarted": 30,
+      "hits": 8,
+      "rank": 4
     },
     {
       "playerId": 642201,
@@ -110,20 +122,8 @@
       "teamName": "Boston Red Sox",
       "games": 13,
       "started": 6,
-      "pctStarted": 24,
+      "pctStarted": 23,
       "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 681546,
-      "name": "James Outman",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 12,
-      "started": 7,
-      "pctStarted": 32,
-      "hits": 8,
       "rank": 5
     }
   ]
