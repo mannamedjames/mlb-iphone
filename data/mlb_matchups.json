@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 14:35",
+  "generated_at": "2026-08-12 18:00",
   "date": "2026-08-12",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "82",
-        "wind": "5 mph, In From CF"
+        "condition": "Sunny",
+        "temp": "86",
+        "wind": "7 mph, In From CF"
       },
       "home": {
         "teamId": 142,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Zebby Matthews",
           "hand": "R",
-          "era": "5.23",
-          "ipDisplay": "86.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 5.7,
+          "era": "5.28",
+          "ipDisplay": "87.0",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.295,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Shane Baz",
           "hand": "R",
-          "era": "3.76",
-          "ipDisplay": "136.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.9,
+          "era": "3.82",
+          "ipDisplay": "136.2",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.301,
@@ -64,7 +64,11 @@
       "gameTime": "2026-08-12T18:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "93",
+        "wind": "11 mph, Out To CF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -117,7 +121,11 @@
       "gameTime": "2026-08-12T19:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "5 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -170,7 +178,11 @@
       "gameTime": "2026-08-12T19:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -223,13 +235,32 @@
       "gameTime": "2026-08-12T19:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "64",
+        "wind": "6 mph, Out To LF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
         "teamName": "San Francisco Giants",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Adrian Houser",
+          "hand": "R",
+          "era": "4.55",
+          "ipDisplay": "97.0",
+          "gamesStarted": 14,
+          "avgIpPerOuting": 4.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.348,
+            "woba30Rank": 25,
+            "woba7": 0.26,
+            "woba7Rank": 3,
+            "kPct30": 20.1,
+            "kPct30Rank": 20
+          }
         }
       },
       "away": {
@@ -261,7 +292,11 @@
       "gameTime": "2026-08-12T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "74",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
