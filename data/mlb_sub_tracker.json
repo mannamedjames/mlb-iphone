@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13 18:00",
+  "generated_at": "2026-08-13 21:53",
   "window_start": "2026-07-14",
   "window_end": "2026-08-13",
-  "games_processed": 378,
+  "games_processed": 383,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -17,6 +17,18 @@
       "rank": 1
     },
     {
+      "playerId": 665052,
+      "name": "Griffin Conine",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 10,
+      "started": 22,
+      "pctStarted": 88,
+      "hits": 22,
+      "rank": 2
+    },
+    {
       "playerId": 514888,
       "name": "Jose Altuve",
       "team": "HOU",
@@ -26,7 +38,7 @@
       "started": 22,
       "pctStarted": 92,
       "hits": 22,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 592626,
@@ -38,7 +50,7 @@
       "started": 17,
       "pctStarted": 68,
       "hits": 20,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 643217,
@@ -48,20 +60,8 @@
       "teamName": "Chicago White Sox",
       "games": 10,
       "started": 17,
-      "pctStarted": 71,
-      "hits": 15,
-      "rank": 4
-    },
-    {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 65,
-      "hits": 8,
+      "pctStarted": 68,
+      "hits": 16,
       "rank": 5
     }
   ],
@@ -110,7 +110,7 @@
       "teamName": "Detroit Tigers",
       "games": 14,
       "started": 7,
-      "pctStarted": 29,
+      "pctStarted": 28,
       "hits": 8,
       "rank": 4
     },
@@ -122,7 +122,7 @@
       "teamName": "Boston Red Sox",
       "games": 13,
       "started": 6,
-      "pctStarted": 22,
+      "pctStarted": 21,
       "hits": 9,
       "rank": 5
     }
