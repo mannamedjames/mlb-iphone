@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 21:53",
-  "window_start": "2026-07-13",
-  "window_end": "2026-08-12",
-  "games_processed": 366,
+  "generated_at": "2026-08-13 01:01",
+  "window_start": "2026-07-14",
+  "window_end": "2026-08-13",
+  "games_processed": 369,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -24,9 +24,33 @@
       "teamName": "Houston Astros",
       "games": 10,
       "started": 22,
-      "pctStarted": 96,
+      "pctStarted": 92,
       "hits": 22,
       "rank": 2
+    },
+    {
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 10,
+      "started": 17,
+      "pctStarted": 65,
+      "hits": 8,
+      "rank": 3
+    },
+    {
+      "playerId": 664774,
+      "name": "LaMonte Wade Jr.",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 10,
+      "started": 14,
+      "pctStarted": 58,
+      "hits": 9,
+      "rank": 4
     },
     {
       "playerId": 687093,
@@ -37,30 +61,6 @@
       "games": 9,
       "started": 22,
       "pctStarted": 96,
-      "hits": 22,
-      "rank": 3
-    },
-    {
-      "playerId": 665052,
-      "name": "Griffin Conine",
-      "team": "MIA",
-      "teamId": 146,
-      "teamName": "Miami Marlins",
-      "games": 9,
-      "started": 20,
-      "pctStarted": 87,
-      "hits": 19,
-      "rank": 4
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 9,
-      "started": 18,
-      "pctStarted": 78,
       "hits": 22,
       "rank": 5
     }
@@ -85,9 +85,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 16,
-      "started": 4,
-      "pctStarted": 17,
-      "hits": 6,
+      "started": 5,
+      "pctStarted": 21,
+      "hits": 7,
       "rank": 2
     },
     {
@@ -96,9 +96,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 14,
+      "games": 15,
       "started": 8,
-      "pctStarted": 32,
+      "pctStarted": 31,
       "hits": 6,
       "rank": 3
     },
