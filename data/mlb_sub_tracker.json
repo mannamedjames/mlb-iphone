@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13 01:01",
+  "generated_at": "2026-08-13 14:35",
   "window_start": "2026-07-14",
   "window_end": "2026-08-13",
-  "games_processed": 369,
+  "games_processed": 378,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -12,8 +12,8 @@
       "teamName": "Atlanta Braves",
       "games": 11,
       "started": 14,
-      "pctStarted": 54,
-      "hits": 8,
+      "pctStarted": 52,
+      "hits": 10,
       "rank": 1
     },
     {
@@ -29,6 +29,30 @@
       "rank": 2
     },
     {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 10,
+      "started": 17,
+      "pctStarted": 68,
+      "hits": 20,
+      "rank": 3
+    },
+    {
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 10,
+      "started": 17,
+      "pctStarted": 71,
+      "hits": 15,
+      "rank": 4
+    },
+    {
       "playerId": 657757,
       "name": "Gavin Sheets",
       "team": "SD",
@@ -38,30 +62,6 @@
       "started": 17,
       "pctStarted": 65,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 664774,
-      "name": "LaMonte Wade Jr.",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 10,
-      "started": 14,
-      "pctStarted": 58,
-      "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 687093,
-      "name": "Vaughn Grissom",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 9,
-      "started": 22,
-      "pctStarted": 96,
-      "hits": 22,
       "rank": 5
     }
   ],
@@ -108,9 +108,9 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 13,
+      "games": 14,
       "started": 7,
-      "pctStarted": 30,
+      "pctStarted": 29,
       "hits": 8,
       "rank": 4
     },
@@ -122,7 +122,7 @@
       "teamName": "Boston Red Sox",
       "games": 13,
       "started": 6,
-      "pctStarted": 23,
+      "pctStarted": 22,
       "hits": 9,
       "rank": 5
     }
