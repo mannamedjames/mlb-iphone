@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 14:35",
+  "generated_at": "2026-08-13 18:00",
   "date": "2026-08-13",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "77",
-        "wind": "4 mph, L To R"
+        "condition": "Cloudy",
+        "temp": "81",
+        "wind": "2 mph, L To R"
       },
       "home": {
         "teamId": 116,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Keider Montero",
           "hand": "R",
-          "era": "3.38",
-          "ipDisplay": "122.1",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.7,
+          "era": "3.30",
+          "ipDisplay": "125.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.321,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Parker Messick",
           "hand": "L",
-          "era": "2.57",
-          "ipDisplay": "136.2",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.9,
+          "era": "2.58",
+          "ipDisplay": "139.2",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.309,
@@ -55,6 +55,63 @@
             "woba7Rank": 26,
             "kPct30": 22.3,
             "kPct30Rank": 19
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 824561,
+      "gameTime": "2026-08-13T17:10:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "78",
+        "wind": "5 mph, In From LF"
+      },
+      "home": {
+        "teamId": 145,
+        "teamAbbr": "CWS",
+        "teamName": "Chicago White Sox",
+        "starter": {
+          "confirmed": true,
+          "name": "Davis Martin",
+          "hand": "R",
+          "era": "4.32",
+          "ipDisplay": "125.0",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.312,
+            "woba30Rank": 11,
+            "woba7": 0.285,
+            "woba7Rank": 5,
+            "kPct30": 27.3,
+            "kPct30Rank": 1
+          }
+        }
+      },
+      "away": {
+        "teamId": 113,
+        "teamAbbr": "CIN",
+        "teamName": "Cincinnati Reds",
+        "starter": {
+          "confirmed": true,
+          "name": "Andrew Abbott",
+          "hand": "L",
+          "era": "4.13",
+          "ipDisplay": "130.2",
+          "gamesStarted": 25,
+          "avgIpPerOuting": 5.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.326,
+            "woba30Rank": 19,
+            "woba7": 0.358,
+            "woba7Rank": 22,
+            "kPct30": 24.8,
+            "kPct30Rank": 12
           }
         }
       }
@@ -77,9 +134,9 @@
           "confirmed": true,
           "name": "Tyler Phillips",
           "hand": "R",
-          "era": "3.47",
-          "ipDisplay": "93.1",
-          "gamesStarted": 13,
+          "era": "3.35",
+          "ipDisplay": "96.2",
+          "gamesStarted": 14,
           "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
@@ -100,10 +157,10 @@
           "confirmed": true,
           "name": "Braxton Ashcraft",
           "hand": "R",
-          "era": "4.08",
-          "ipDisplay": "132.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.8,
+          "era": "3.99",
+          "ipDisplay": "135.1",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.328,
@@ -121,7 +178,11 @@
       "gameTime": "2026-08-13T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -130,10 +191,10 @@
           "confirmed": true,
           "name": "Max Fried",
           "hand": "L",
-          "era": "2.88",
-          "ipDisplay": "81.1",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 5.8,
+          "era": "2.84",
+          "ipDisplay": "82.1",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.306,
@@ -153,10 +214,10 @@
           "confirmed": true,
           "name": "Logan Gilbert",
           "hand": "R",
-          "era": "3.42",
-          "ipDisplay": "139.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 6.1,
+          "era": "3.40",
+          "ipDisplay": "140.1",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.293,
@@ -170,68 +231,15 @@
       }
     },
     {
-      "gamePk": 824561,
-      "gameTime": "2026-08-13T18:10:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Cloudy",
-        "temp": "77",
-        "wind": "6 mph, In From LF"
-      },
-      "home": {
-        "teamId": 145,
-        "teamAbbr": "CWS",
-        "teamName": "Chicago White Sox",
-        "starter": {
-          "confirmed": true,
-          "name": "Davis Martin",
-          "hand": "R",
-          "era": "4.17",
-          "ipDisplay": "123.0",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.3,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.312,
-            "woba30Rank": 11,
-            "woba7": 0.285,
-            "woba7Rank": 5,
-            "kPct30": 27.3,
-            "kPct30Rank": 1
-          }
-        }
-      },
-      "away": {
-        "teamId": 113,
-        "teamAbbr": "CIN",
-        "teamName": "Cincinnati Reds",
-        "starter": {
-          "confirmed": true,
-          "name": "Andrew Abbott",
-          "hand": "L",
-          "era": "3.92",
-          "ipDisplay": "128.2",
-          "gamesStarted": 24,
-          "avgIpPerOuting": 5.4,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.326,
-            "woba30Rank": 19,
-            "woba7": 0.358,
-            "woba7Rank": 22,
-            "kPct30": 24.8,
-            "kPct30Rank": 12
-          }
-        }
-      }
-    },
-    {
       "gamePk": 822776,
       "gameTime": "2026-08-13T19:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "78",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
