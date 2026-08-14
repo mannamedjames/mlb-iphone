@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 17:55",
+  "generated_at": "2026-08-14 21:31",
   "date": "2026-08-14",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "74",
+        "temp": "76",
         "wind": "9 mph, In From CF"
       },
       "home": {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Clay Holmes",
           "hand": "R",
-          "era": "2.86",
-          "ipDisplay": "56.2",
-          "gamesStarted": 10,
-          "avgIpPerOuting": 5.7,
+          "era": "2.56",
+          "ipDisplay": "63.1",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.31,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Matthew Liberatore",
           "hand": "L",
-          "era": "5.15",
-          "ipDisplay": "113.2",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 4.9,
+          "era": "5.07",
+          "ipDisplay": "119.0",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.402,
@@ -121,7 +121,11 @@
       "gameTime": "2026-08-14T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "78",
+        "wind": "1 mph, R To L"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -174,7 +178,11 @@
       "gameTime": "2026-08-14T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "9 mph, In From LF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -227,7 +235,11 @@
       "gameTime": "2026-08-14T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "5 mph, L To R"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -280,7 +292,11 @@
       "gameTime": "2026-08-14T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "6 mph, In From RF"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -333,7 +349,11 @@
       "gameTime": "2026-08-14T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -386,7 +406,11 @@
       "gameTime": "2026-08-14T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "89",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -439,7 +463,11 @@
       "gameTime": "2026-08-14T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "75",
+        "wind": "6 mph, Out To CF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -492,7 +520,11 @@
       "gameTime": "2026-08-15T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -545,7 +577,11 @@
       "gameTime": "2026-08-15T01:38:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "78",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
@@ -689,7 +725,11 @@
       "gameTime": "2026-08-15T02:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "60",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
