@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-14 01:00",
+  "generated_at": "2026-08-14 14:30",
   "window_start": "2026-07-15",
   "window_end": "2026-08-14",
-  "games_processed": 384,
+  "games_processed": 387,
   "subbed_out": [
+    {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 11,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 20,
+      "rank": 1
+    },
     {
       "playerId": 573262,
       "name": "Mike Yastrzemski",
@@ -14,7 +26,7 @@
       "started": 14,
       "pctStarted": 52,
       "hits": 10,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 665052,
@@ -26,7 +38,7 @@
       "started": 22,
       "pctStarted": 88,
       "hits": 22,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 514888,
@@ -38,18 +50,6 @@
       "started": 22,
       "pctStarted": 92,
       "hits": 22,
-      "rank": 3
-    },
-    {
-      "playerId": 592626,
-      "name": "Joc Pederson",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 10,
-      "started": 17,
-      "pctStarted": 68,
-      "hits": 20,
       "rank": 4
     },
     {
