@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 14:30",
+  "generated_at": "2026-08-14 17:55",
   "date": "2026-08-14",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-14T18:20:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "74",
+        "wind": "9 mph, In From CF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-14T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "3 mph, Out To CF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -354,7 +362,22 @@
         "teamAbbr": "BAL",
         "teamName": "Baltimore Orioles",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Chris Bassitt",
+          "hand": "R",
+          "era": "5.27",
+          "ipDisplay": "56.1",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 4.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.362,
+            "woba30Rank": 27,
+            "woba7": 0.414,
+            "woba7Rank": 30,
+            "kPct30": 18.5,
+            "kPct30Rank": 26
+          }
         }
       }
     },
@@ -369,7 +392,22 @@
         "teamAbbr": "ATL",
         "teamName": "Atlanta Braves",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Chris Sale",
+          "hand": "L",
+          "era": "2.20",
+          "ipDisplay": "123.0",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 5.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.393,
+            "woba30Rank": 29,
+            "woba7": 0.446,
+            "woba7Rank": 29,
+            "kPct30": 18.2,
+            "kPct30Rank": 30
+          }
         }
       },
       "away": {
