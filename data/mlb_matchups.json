@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 17:24",
+  "generated_at": "2026-08-15 21:26",
   "date": "2026-08-15",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Troy Melton",
           "hand": "R",
-          "era": "1.56",
-          "ipDisplay": "80.2",
+          "era": "1.71",
+          "ipDisplay": "84.1",
           "gamesStarted": 14,
-          "avgIpPerOuting": 5.8,
+          "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.312,
@@ -43,9 +43,9 @@
           "confirmed": true,
           "name": "Anthony Kay",
           "hand": "L",
-          "era": "3.96",
-          "ipDisplay": "116.0",
-          "gamesStarted": 22,
+          "era": "4.01",
+          "ipDisplay": "121.1",
+          "gamesStarted": 23,
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
@@ -77,9 +77,9 @@
           "confirmed": true,
           "name": "Matthew Boyd",
           "hand": "L",
-          "era": "3.50",
-          "ipDisplay": "79.2",
-          "gamesStarted": 14,
+          "era": "4.02",
+          "ipDisplay": "85.0",
+          "gamesStarted": 15,
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
@@ -100,9 +100,9 @@
           "confirmed": true,
           "name": "Michael McGreevy",
           "hand": "R",
-          "era": "3.64",
-          "ipDisplay": "126.0",
-          "gamesStarted": 23,
+          "era": "3.48",
+          "ipDisplay": "132.0",
+          "gamesStarted": 24,
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
@@ -134,9 +134,9 @@
           "confirmed": true,
           "name": "Braydon Fisher",
           "hand": "R",
-          "era": "3.54",
-          "ipDisplay": "61.0",
-          "gamesStarted": 7,
+          "era": "3.48",
+          "ipDisplay": "62.0",
+          "gamesStarted": 8,
           "avgIpPerOuting": 1.1,
           "isOpener": true,
           "oppSplits": {
@@ -157,10 +157,10 @@
           "confirmed": true,
           "name": "Cam Schlittler",
           "hand": "R",
-          "era": "2.21",
-          "ipDisplay": "146.2",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 5.9,
+          "era": "2.19",
+          "ipDisplay": "152.0",
+          "gamesStarted": 26,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.31,
@@ -179,9 +179,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "81",
-        "wind": "8 mph, Out To LF"
+        "condition": "Cloudy",
+        "temp": "65",
+        "wind": "8 mph, Out To CF"
       },
       "home": {
         "teamId": 137,
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Logan Webb",
           "hand": "R",
-          "era": "3.59",
-          "ipDisplay": "133.0",
-          "gamesStarted": 21,
-          "avgIpPerOuting": 6.3,
+          "era": "3.55",
+          "ipDisplay": "137.0",
+          "gamesStarted": 22,
+          "avgIpPerOuting": 6.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.335,
@@ -214,9 +214,9 @@
           "confirmed": true,
           "name": "Michael Lorenzen",
           "hand": "R",
-          "era": "6.83",
-          "ipDisplay": "112.0",
-          "gamesStarted": 24,
+          "era": "6.93",
+          "ipDisplay": "115.2",
+          "gamesStarted": 25,
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
@@ -236,9 +236,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
+        "condition": "Sunny",
         "temp": "83",
-        "wind": "7 mph, In From RF"
+        "wind": "4 mph, Out To LF"
       },
       "home": {
         "teamId": 121,
@@ -248,10 +248,10 @@
           "confirmed": true,
           "name": "Sean Manaea",
           "hand": "L",
-          "era": "4.13",
-          "ipDisplay": "104.2",
-          "gamesStarted": 11,
-          "avgIpPerOuting": 5.6,
+          "era": "4.06",
+          "ipDisplay": "108.2",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.354,
@@ -271,11 +271,11 @@
           "confirmed": true,
           "name": "Brad Lord",
           "hand": "R",
-          "era": "3.79",
-          "ipDisplay": "61.2",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 2.5,
-          "isOpener": false,
+          "era": "4.04",
+          "ipDisplay": "62.1",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 1.9,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.327,
             "woba30Rank": 20,
@@ -292,7 +292,11 @@
       "gameTime": "2026-08-15T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -345,7 +349,11 @@
       "gameTime": "2026-08-15T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -398,7 +406,11 @@
       "gameTime": "2026-08-15T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "8 mph, L To R"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -427,7 +439,22 @@
         "teamAbbr": "SD",
         "teamName": "San Diego Padres",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Wandy Peralta",
+          "hand": "L",
+          "era": "3.39",
+          "ipDisplay": "61.0",
+          "gamesStarted": 4,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.316,
+            "woba30Rank": 16,
+            "woba7": 0.327,
+            "woba7Rank": 16,
+            "kPct30": 19.9,
+            "kPct30Rank": 25
+          }
         }
       }
     },
@@ -436,7 +463,11 @@
       "gameTime": "2026-08-15T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -489,7 +520,11 @@
       "gameTime": "2026-08-15T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "79",
+        "wind": "6 mph, Out To LF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -542,7 +577,11 @@
       "gameTime": "2026-08-15T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "84",
+        "wind": "2 mph, R To L"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -595,7 +634,11 @@
       "gameTime": "2026-08-15T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "92",
+        "wind": "6 mph, Out To RF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -648,7 +691,11 @@
       "gameTime": "2026-08-15T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "83",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",

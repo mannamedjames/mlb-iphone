@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15 17:24",
+  "generated_at": "2026-08-15 21:26",
   "window_start": "2026-07-16",
   "window_end": "2026-08-15",
-  "games_processed": 401,
+  "games_processed": 403,
   "subbed_out": [
     {
       "playerId": 592626,
@@ -110,20 +110,20 @@
       "teamName": "Detroit Tigers",
       "games": 14,
       "started": 7,
-      "pctStarted": 27,
+      "pctStarted": 26,
       "hits": 8,
       "rank": 4
     },
     {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 7,
-      "pctStarted": 24,
-      "hits": 10,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 16,
       "rank": 5
     }
   ]
