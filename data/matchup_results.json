@@ -96791,11 +96791,11 @@
   "opponent": "NYY",
   "isHome": true,
   "woba30Rank": 1,
-  "woba7Rank": 8,
+  "woba7Rank": 4,
   "kPct30Rank": 1,
-  "woba30": 0.285,
-  "woba7": 0.295,
-  "kPct30": 26.4
+  "woba30": 0.28,
+  "woba7": 0.268,
+  "kPct30": 26.6
  },
  {
   "ip": null,
@@ -96816,12 +96816,12 @@
   "team": "NYY",
   "opponent": "TOR",
   "isHome": false,
-  "woba30Rank": 2,
-  "woba7Rank": 6,
-  "kPct30Rank": 19,
-  "woba30": 0.261,
-  "woba7": 0.27,
-  "kPct30": 22.5
+  "woba30Rank": 3,
+  "woba7Rank": 10,
+  "kPct30Rank": 20,
+  "woba30": 0.271,
+  "woba7": 0.288,
+  "kPct30": 22.1
  },
  {
   "ip": null,
@@ -96843,11 +96843,11 @@
   "opponent": "BAL",
   "isHome": true,
   "woba30Rank": 6,
-  "woba7Rank": 29,
+  "woba7Rank": 27,
   "kPct30Rank": 8,
-  "woba30": 0.305,
-  "woba7": 0.37,
-  "kPct30": 24.0
+  "woba30": 0.304,
+  "woba7": 0.38,
+  "kPct30": 24.4
  },
  {
   "ip": null,
@@ -96869,10 +96869,10 @@
   "opponent": "TB",
   "isHome": false,
   "woba30Rank": 11,
-  "woba7Rank": 10,
+  "woba7Rank": 18,
   "kPct30Rank": 30,
-  "woba30": 0.306,
-  "woba7": 0.304,
+  "woba30": 0.305,
+  "woba7": 0.32,
   "kPct30": 18.7
  },
  {
@@ -96894,12 +96894,12 @@
   "team": "SF",
   "opponent": "COL",
   "isHome": true,
-  "woba30Rank": 21,
-  "woba7Rank": 22,
-  "kPct30Rank": 13,
-  "woba30": 0.335,
-  "woba7": 0.336,
-  "kPct30": 22.7
+  "woba30Rank": 20,
+  "woba7Rank": 15,
+  "kPct30Rank": 10,
+  "woba30": 0.326,
+  "woba7": 0.312,
+  "kPct30": 23.2
  },
  {
   "ip": null,
@@ -96920,12 +96920,12 @@
   "team": "COL",
   "opponent": "SF",
   "isHome": false,
-  "woba30Rank": 16,
-  "woba7Rank": 4,
-  "kPct30Rank": 15,
-  "woba30": 0.319,
-  "woba7": 0.265,
-  "kPct30": 21.4
+  "woba30Rank": 14,
+  "woba7Rank": 10,
+  "kPct30Rank": 16,
+  "woba30": 0.318,
+  "woba7": 0.296,
+  "kPct30": 21.1
  },
  {
   "ip": null,
@@ -96972,12 +96972,38 @@
   "team": "BOS",
   "opponent": "PIT",
   "isHome": false,
-  "woba30Rank": 8,
-  "woba7Rank": 22,
-  "kPct30Rank": 9,
-  "woba30": 0.296,
-  "woba7": 0.351,
-  "kPct30": 25.1
+  "woba30Rank": 5,
+  "woba7Rank": 19,
+  "kPct30Rank": 7,
+  "woba30": 0.291,
+  "woba7": 0.325,
+  "kPct30": 25.5
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 823344,
+  "date": "2026-08-16",
+  "pitcherId": "Lake Bachar|PIT",
+  "pitcherName": "Lake Bachar",
+  "hand": "R",
+  "team": "PIT",
+  "opponent": "BOS",
+  "isHome": true,
+  "woba30Rank": 28,
+  "woba7Rank": 19,
+  "kPct30Rank": 23,
+  "woba30": 0.361,
+  "woba7": 0.329,
+  "kPct30": 19.4
  },
  {
   "ip": null,
@@ -97000,10 +97026,10 @@
   "isHome": true,
   "woba30Rank": 26,
   "woba7Rank": 18,
-  "kPct30Rank": 16,
+  "kPct30Rank": 15,
   "woba30": 0.354,
-  "woba7": 0.327,
-  "kPct30": 21.2
+  "woba7": 0.322,
+  "kPct30": 21.3
  },
  {
   "ip": null,
@@ -97024,12 +97050,12 @@
   "team": "WSH",
   "opponent": "NYM",
   "isHome": false,
-  "woba30Rank": 20,
-  "woba7Rank": 27,
-  "kPct30Rank": 6,
-  "woba30": 0.327,
-  "woba7": 0.366,
-  "kPct30": 24.9
+  "woba30Rank": 21,
+  "woba7Rank": 30,
+  "kPct30Rank": 5,
+  "woba30": 0.329,
+  "woba7": 0.443,
+  "kPct30": 25.0
  },
  {
   "ip": null,
@@ -97050,12 +97076,12 @@
   "team": "MIN",
   "opponent": "PHI",
   "isHome": true,
-  "woba30Rank": 15,
-  "woba7Rank": 20,
-  "kPct30Rank": 18,
-  "woba30": 0.319,
-  "woba7": 0.331,
-  "kPct30": 20.3
+  "woba30Rank": 19,
+  "woba7Rank": 21,
+  "kPct30Rank": 20,
+  "woba30": 0.325,
+  "woba7": 0.34,
+  "kPct30": 19.9
  },
  {
   "ip": null,
@@ -97077,11 +97103,11 @@
   "opponent": "MIN",
   "isHome": false,
   "woba30Rank": 7,
-  "woba7Rank": 12,
-  "kPct30Rank": 20,
-  "woba30": 0.306,
-  "woba7": 0.309,
-  "kPct30": 19.8
+  "woba7Rank": 17,
+  "kPct30Rank": 18,
+  "woba30": 0.305,
+  "woba7": 0.321,
+  "kPct30": 20.2
  },
  {
   "ip": null,
@@ -97102,12 +97128,12 @@
   "team": "LAD",
   "opponent": "MIL",
   "isHome": true,
-  "woba30Rank": 14,
-  "woba7Rank": 18,
-  "kPct30Rank": 2,
-  "woba30": 0.314,
-  "woba7": 0.329,
-  "kPct30": 28.2
+  "woba30Rank": 15,
+  "woba7Rank": 20,
+  "kPct30Rank": 3,
+  "woba30": 0.313,
+  "woba7": 0.326,
+  "kPct30": 27.9
  },
  {
   "ip": null,
@@ -97128,11 +97154,11 @@
   "team": "MIL",
   "opponent": "LAD",
   "isHome": false,
-  "woba30Rank": 17,
-  "woba7Rank": 9,
+  "woba30Rank": 15,
+  "woba7Rank": 11,
   "kPct30Rank": 14,
-  "woba30": 0.324,
-  "woba7": 0.298,
+  "woba30": 0.32,
+  "woba7": 0.299,
   "kPct30": 22.3
  },
  {
@@ -97206,12 +97232,12 @@
   "team": "LAA",
   "opponent": "KC",
   "isHome": true,
-  "woba30Rank": 12,
-  "woba7Rank": 13,
-  "kPct30Rank": 27,
-  "woba30": 0.314,
-  "woba7": 0.312,
-  "kPct30": 18.1
+  "woba30Rank": 9,
+  "woba7Rank": 1,
+  "kPct30Rank": 26,
+  "woba30": 0.312,
+  "woba7": 0.225,
+  "kPct30": 18.3
  },
  {
   "ip": null,
@@ -97232,11 +97258,11 @@
   "team": "KC",
   "opponent": "LAA",
   "isHome": false,
-  "woba30Rank": 6,
-  "woba7Rank": 12,
-  "kPct30Rank": 7,
+  "woba30Rank": 7,
+  "woba7Rank": 14,
+  "kPct30Rank": 9,
   "woba30": 0.292,
-  "woba7": 0.309,
+  "woba7": 0.305,
   "kPct30": 25.4
  },
  {
@@ -97258,12 +97284,12 @@
   "team": "HOU",
   "opponent": "SEA",
   "isHome": true,
-  "woba30Rank": 3,
-  "woba7Rank": 17,
+  "woba30Rank": 5,
+  "woba7Rank": 28,
   "kPct30Rank": 17,
-  "woba30": 0.294,
-  "woba7": 0.326,
-  "kPct30": 20.4
+  "woba30": 0.303,
+  "woba7": 0.38,
+  "kPct30": 20.5
  },
  {
   "ip": null,
@@ -97285,11 +97311,11 @@
   "opponent": "HOU",
   "isHome": false,
   "woba30Rank": 25,
-  "woba7Rank": 5,
+  "woba7Rank": 6,
   "kPct30Rank": 19,
-  "woba30": 0.345,
-  "woba7": 0.267,
-  "kPct30": 19.8
+  "woba30": 0.343,
+  "woba7": 0.271,
+  "kPct30": 20.1
  },
  {
   "ip": null,
@@ -97310,12 +97336,12 @@
   "team": "DET",
   "opponent": "CWS",
   "isHome": true,
-  "woba30Rank": 10,
-  "woba7Rank": 25,
-  "kPct30Rank": 5,
-  "woba30": 0.312,
-  "woba7": 0.349,
-  "kPct30": 25.0
+  "woba30Rank": 12,
+  "woba7Rank": 23,
+  "kPct30Rank": 6,
+  "woba30": 0.314,
+  "woba7": 0.357,
+  "kPct30": 24.8
  },
  {
   "ip": null,
@@ -97338,10 +97364,10 @@
   "isHome": false,
   "woba30Rank": 29,
   "woba7Rank": 7,
-  "kPct30Rank": 23,
-  "woba30": 0.37,
-  "woba7": 0.29,
-  "kPct30": 19.2
+  "kPct30Rank": 22,
+  "woba30": 0.367,
+  "woba7": 0.273,
+  "kPct30": 19.5
  },
  {
   "ip": null,
@@ -97363,11 +97389,11 @@
   "opponent": "SD",
   "isHome": true,
   "woba30Rank": 30,
-  "woba7Rank": 26,
-  "kPct30Rank": 28,
-  "woba30": 0.377,
+  "woba7Rank": 24,
+  "kPct30Rank": 29,
+  "woba30": 0.374,
   "woba7": 0.36,
-  "kPct30": 17.6
+  "kPct30": 17.7
  },
  {
   "ip": null,
@@ -97388,12 +97414,12 @@
   "team": "SD",
   "opponent": "CLE",
   "isHome": false,
-  "woba30Rank": 14,
-  "woba7Rank": 15,
+  "woba30Rank": 13,
+  "woba7Rank": 13,
   "kPct30Rank": 21,
-  "woba30": 0.319,
-  "woba7": 0.321,
-  "kPct30": 19.4
+  "woba30": 0.318,
+  "woba7": 0.301,
+  "kPct30": 19.5
  },
  {
   "ip": null,
@@ -97414,12 +97440,12 @@
   "team": "CIN",
   "opponent": "MIA",
   "isHome": true,
-  "woba30Rank": 5,
-  "woba7Rank": 2,
-  "kPct30Rank": 17,
-  "woba30": 0.281,
-  "woba7": 0.191,
-  "kPct30": 23.1
+  "woba30Rank": 4,
+  "woba7Rank": 15,
+  "kPct30Rank": 19,
+  "woba30": 0.287,
+  "woba7": 0.307,
+  "kPct30": 22.8
  },
  {
   "ip": null,
@@ -97442,10 +97468,10 @@
   "isHome": false,
   "woba30Rank": 11,
   "woba7Rank": 3,
-  "kPct30Rank": 4,
+  "kPct30Rank": 2,
   "woba30": 0.314,
-  "woba7": 0.253,
-  "kPct30": 25.7
+  "woba7": 0.256,
+  "kPct30": 26.2
  },
  {
   "ip": null,
@@ -97467,10 +97493,10 @@
   "opponent": "STL",
   "isHome": true,
   "woba30Rank": 4,
-  "woba7Rank": 11,
-  "kPct30Rank": 24,
+  "woba7Rank": 12,
+  "kPct30Rank": 25,
   "woba30": 0.302,
-  "woba7": 0.303,
+  "woba7": 0.299,
   "kPct30": 19.2
  },
  {
@@ -97493,11 +97519,11 @@
   "opponent": "CHC",
   "isHome": false,
   "woba30Rank": 23,
-  "woba7Rank": 28,
-  "kPct30Rank": 11,
+  "woba7Rank": 26,
+  "kPct30Rank": 13,
   "woba30": 0.34,
-  "woba7": 0.367,
-  "kPct30": 22.8
+  "woba7": 0.376,
+  "kPct30": 22.6
  },
  {
   "ip": null,
@@ -97519,10 +97545,10 @@
   "opponent": "AZ",
   "isHome": true,
   "woba30Rank": 24,
-  "woba7Rank": 24,
+  "woba7Rank": 25,
   "kPct30Rank": 30,
-  "woba30": 0.341,
-  "woba7": 0.346,
+  "woba30": 0.343,
+  "woba7": 0.363,
   "kPct30": 17.4
  },
  {
@@ -97547,9 +97573,9 @@
   "woba30Rank": 22,
   "woba7Rank": 2,
   "kPct30Rank": 9,
-  "woba30": 0.338,
-  "woba7": 0.251,
-  "kPct30": 23.5
+  "woba30": 0.335,
+  "woba7": 0.242,
+  "kPct30": 23.3
  },
  {
   "ip": null,
@@ -97570,12 +97596,12 @@
   "team": "ATH",
   "opponent": "TEX",
   "isHome": true,
-  "woba30Rank": 15,
-  "woba7Rank": 14,
-  "kPct30Rank": 14,
-  "woba30": 0.314,
-  "woba7": 0.315,
-  "kPct30": 23.4
+  "woba30Rank": 14,
+  "woba7Rank": 11,
+  "kPct30Rank": 15,
+  "woba30": 0.311,
+  "woba7": 0.291,
+  "kPct30": 23.5
  },
  {
   "ip": null,
@@ -97596,12 +97622,12 @@
   "team": "TEX",
   "opponent": "ATH",
   "isHome": false,
-  "woba30Rank": 10,
-  "woba7Rank": 26,
-  "kPct30Rank": 4,
-  "woba30": 0.306,
-  "woba7": 0.383,
-  "kPct30": 26.0
+  "woba30Rank": 12,
+  "woba7Rank": 28,
+  "kPct30Rank": 5,
+  "woba30": 0.309,
+  "woba7": 0.392,
+  "kPct30": 25.7
  },
  {
   "ip": null,

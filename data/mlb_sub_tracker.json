@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 00:37",
+  "generated_at": "2026-08-16 13:51",
   "window_start": "2026-07-17",
   "window_end": "2026-08-16",
-  "games_processed": 405,
+  "games_processed": 415,
   "subbed_out": [
     {
       "playerId": 592626,
@@ -11,8 +11,8 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 11,
-      "started": 18,
-      "pctStarted": 67,
+      "started": 19,
+      "pctStarted": 68,
       "hits": 20,
       "rank": 1
     },
@@ -24,7 +24,7 @@
       "teamName": "San Diego Padres",
       "games": 11,
       "started": 18,
-      "pctStarted": 67,
+      "pctStarted": 64,
       "hits": 9,
       "rank": 2
     },
@@ -36,7 +36,7 @@
       "teamName": "Atlanta Braves",
       "games": 11,
       "started": 15,
-      "pctStarted": 54,
+      "pctStarted": 52,
       "hits": 10,
       "rank": 3
     },
@@ -47,9 +47,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 10,
-      "started": 23,
+      "started": 24,
       "pctStarted": 92,
-      "hits": 24,
+      "hits": 26,
       "rank": 4
     },
     {
@@ -59,9 +59,9 @@
       "teamId": 146,
       "teamName": "Miami Marlins",
       "games": 10,
-      "started": 23,
-      "pctStarted": 88,
-      "hits": 22,
+      "started": 24,
+      "pctStarted": 89,
+      "hits": 23,
       "rank": 5
     }
   ],
@@ -72,11 +72,23 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 19,
+      "games": 20,
       "started": 3,
       "pctStarted": 11,
       "hits": 5,
       "rank": 1
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 17,
+      "started": 8,
+      "pctStarted": 29,
+      "hits": 6,
+      "rank": 2
     },
     {
       "playerId": 669397,
@@ -86,20 +98,8 @@
       "teamName": "Houston Astros",
       "games": 17,
       "started": 5,
-      "pctStarted": 20,
+      "pctStarted": 19,
       "hits": 7,
-      "rank": 2
-    },
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 16,
-      "started": 8,
-      "pctStarted": 30,
-      "hits": 6,
       "rank": 3
     },
     {
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
       "games": 13,
-      "started": 9,
-      "pctStarted": 33,
-      "hits": 16,
+      "started": 13,
+      "pctStarted": 48,
+      "hits": 14,
       "rank": 5
     }
   ]
