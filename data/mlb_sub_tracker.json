@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-16 17:23",
+  "generated_at": "2026-08-16 21:26",
   "window_start": "2026-07-17",
   "window_end": "2026-08-16",
-  "games_processed": 415,
+  "games_processed": 422,
   "subbed_out": [
+    {
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 11,
+      "started": 20,
+      "pctStarted": 71,
+      "hits": 19,
+      "rank": 1
+    },
     {
       "playerId": 592626,
       "name": "Joc Pederson",
@@ -14,7 +26,7 @@
       "started": 19,
       "pctStarted": 68,
       "hits": 20,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 657757,
@@ -26,7 +38,7 @@
       "started": 18,
       "pctStarted": 64,
       "hits": 9,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 573262,
@@ -35,33 +47,21 @@
       "teamId": 144,
       "teamName": "Atlanta Braves",
       "games": 11,
-      "started": 15,
-      "pctStarted": 52,
+      "started": 16,
+      "pctStarted": 53,
       "hits": 10,
-      "rank": 3
-    },
-    {
-      "playerId": 514888,
-      "name": "Jose Altuve",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 10,
-      "started": 24,
-      "pctStarted": 92,
-      "hits": 26,
       "rank": 4
     },
     {
-      "playerId": 665052,
-      "name": "Griffin Conine",
-      "team": "MIA",
-      "teamId": 146,
-      "teamName": "Miami Marlins",
-      "games": 10,
-      "started": 24,
-      "pctStarted": 89,
-      "hits": 23,
+      "playerId": 665953,
+      "name": "Andr\u00e9s Chaparro",
+      "team": "WSH",
+      "teamId": 120,
+      "teamName": "Washington Nationals",
+      "games": 11,
+      "started": 15,
+      "pctStarted": 52,
+      "hits": 16,
       "rank": 5
     }
   ],
@@ -73,8 +73,8 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 20,
-      "started": 3,
-      "pctStarted": 11,
+      "started": 4,
+      "pctStarted": 14,
       "hits": 5,
       "rank": 1
     },
@@ -103,6 +103,18 @@
       "rank": 3
     },
     {
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 14,
+      "started": 9,
+      "pctStarted": 32,
+      "hits": 17,
+      "rank": 4
+    },
+    {
       "playerId": 681546,
       "name": "James Outman",
       "team": "DET",
@@ -110,20 +122,8 @@
       "teamName": "Detroit Tigers",
       "games": 14,
       "started": 7,
-      "pctStarted": 26,
+      "pctStarted": 25,
       "hits": 8,
-      "rank": 4
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 13,
-      "started": 13,
-      "pctStarted": 48,
-      "hits": 14,
       "rank": 5
     }
   ]
