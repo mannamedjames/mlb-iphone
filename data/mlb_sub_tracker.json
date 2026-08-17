@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 00:36",
+  "generated_at": "2026-08-17 13:59",
   "window_start": "2026-07-18",
   "window_end": "2026-08-17",
-  "games_processed": 414,
+  "games_processed": 415,
   "subbed_out": [
     {
       "playerId": 592626,
@@ -59,9 +59,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 10,
-      "started": 23,
+      "started": 24,
       "pctStarted": 92,
-      "hits": 26,
+      "hits": 27,
       "rank": 5
     }
   ],
@@ -97,9 +97,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 16,
-      "started": 5,
-      "pctStarted": 20,
-      "hits": 7,
+      "started": 6,
+      "pctStarted": 23,
+      "hits": 8,
       "rank": 3
     },
     {
