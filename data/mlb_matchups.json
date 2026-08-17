@@ -1,37 +1,56 @@
 {
-  "generated_at": "2026-08-16 21:26",
-  "date": "2026-08-16",
+  "generated_at": "2026-08-17 00:36",
+  "date": "2026-08-17",
   "games": [
     {
-      "gamePk": 822940,
-      "gameTime": "2026-08-16T16:15:00Z",
+      "gamePk": 824514,
+      "gameTime": "2026-08-17T17:40:00Z",
+      "doubleHeader": "S",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 113,
+        "teamAbbr": "CIN",
+        "teamName": "Cincinnati Reds",
+        "starter": {
+          "confirmed": false
+        }
+      },
+      "away": {
+        "teamId": 138,
+        "teamAbbr": "STL",
+        "teamName": "St. Louis Cardinals",
+        "starter": {
+          "confirmed": false
+        }
+      }
+    },
+    {
+      "gamePk": 822939,
+      "gameTime": "2026-08-17T22:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Dome",
-        "temp": "72",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
           "confirmed": true,
-          "name": "Freddy Peralta",
-          "hand": "R",
-          "era": "5.27",
-          "ipDisplay": "128.0",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 5.1,
+          "name": "Shane McClanahan",
+          "hand": "L",
+          "era": "3.09",
+          "ipDisplay": "99.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.304,
-            "woba30Rank": 6,
-            "woba7": 0.38,
-            "woba7Rank": 27,
-            "kPct30": 24.4,
-            "kPct30Rank": 8
+            "woba30": 0.351,
+            "woba30Rank": 26,
+            "woba7": 0.362,
+            "woba7Rank": 21,
+            "kPct30": 27.9,
+            "kPct30Rank": 2
           }
         }
       },
@@ -41,69 +60,156 @@
         "teamName": "Baltimore Orioles",
         "starter": {
           "confirmed": true,
-          "name": "Trevor Rogers",
-          "hand": "L",
-          "era": "4.15",
-          "ipDisplay": "125.2",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.5,
+          "name": "Brandon Young",
+          "hand": "R",
+          "era": "3.33",
+          "ipDisplay": "113.2",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.305,
-            "woba30Rank": 11,
-            "woba7": 0.32,
-            "woba7Rank": 18,
-            "kPct30": 18.7,
-            "kPct30Rank": 30
+            "woba30": 0.358,
+            "woba30Rank": 27,
+            "woba7": 0.405,
+            "woba7Rank": 29,
+            "kPct30": 17.8,
+            "kPct30Rank": 28
           }
         }
       }
     },
     {
-      "gamePk": 823344,
-      "gameTime": "2026-08-16T17:35:00Z",
+      "gamePk": 824478,
+      "gameTime": "2026-08-17T22:40:00Z",
+      "doubleHeader": "S",
+      "gameNumber": 2,
+      "weather": null,
+      "home": {
+        "teamId": 113,
+        "teamAbbr": "CIN",
+        "teamName": "Cincinnati Reds",
+        "starter": {
+          "confirmed": true,
+          "name": "Rhett Lowder",
+          "hand": "R",
+          "era": "5.15",
+          "ipDisplay": "94.1",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 4.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.302,
+            "woba30Rank": 4,
+            "woba7": 0.299,
+            "woba7Rank": 12,
+            "kPct30": 19.2,
+            "kPct30Rank": 25
+          }
+        }
+      },
+      "away": {
+        "teamId": 138,
+        "teamAbbr": "STL",
+        "teamName": "St. Louis Cardinals",
+        "starter": {
+          "confirmed": false
+        }
+      }
+    },
+    {
+      "gamePk": 823427,
+      "gameTime": "2026-08-17T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Overcast",
-        "temp": "81",
-        "wind": "10 mph, Out To CF"
+      "weather": null,
+      "home": {
+        "teamId": 143,
+        "teamAbbr": "PHI",
+        "teamName": "Philadelphia Phillies",
+        "starter": {
+          "confirmed": true,
+          "name": "Cristopher S\u00e1nchez",
+          "hand": "L",
+          "era": "2.54",
+          "ipDisplay": "155.2",
+          "gamesStarted": 25,
+          "avgIpPerOuting": 6.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.287,
+            "woba30Rank": 4,
+            "woba7": 0.307,
+            "woba7Rank": 15,
+            "kPct30": 22.8,
+            "kPct30Rank": 19
+          }
+        }
       },
+      "away": {
+        "teamId": 146,
+        "teamAbbr": "MIA",
+        "teamName": "Miami Marlins",
+        "starter": {
+          "confirmed": true,
+          "name": "Janson Junk",
+          "hand": "R",
+          "era": "4.41",
+          "ipDisplay": "87.2",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.325,
+            "woba30Rank": 19,
+            "woba7": 0.34,
+            "woba7Rank": 21,
+            "kPct30": 19.9,
+            "kPct30Rank": 20
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 823343,
+      "gameTime": "2026-08-17T23:05:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
         "teamName": "Pittsburgh Pirates",
         "starter": {
           "confirmed": true,
-          "name": "Lake Bachar",
+          "name": "Carmen Mlodzinski",
           "hand": "R",
-          "era": "3.80",
-          "ipDisplay": "68.2",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 2.4,
+          "era": "3.79",
+          "ipDisplay": "99.2",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.361,
-            "woba30Rank": 28,
-            "woba7": 0.329,
-            "woba7Rank": 19,
-            "kPct30": 19.4,
-            "kPct30Rank": 23
+            "woba30": 0.367,
+            "woba30Rank": 29,
+            "woba7": 0.273,
+            "woba7Rank": 7,
+            "kPct30": 19.5,
+            "kPct30Rank": 22
           }
         }
       },
       "away": {
-        "teamId": 111,
-        "teamAbbr": "BOS",
-        "teamName": "Boston Red Sox",
+        "teamId": 116,
+        "teamAbbr": "DET",
+        "teamName": "Detroit Tigers",
         "starter": {
           "confirmed": true,
-          "name": "Patrick Sandoval",
+          "name": "Framber Valdez",
           "hand": "L",
-          "era": "4.76",
-          "ipDisplay": "34.0",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 4.9,
+          "era": "4.26",
+          "ipDisplay": "133.0",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.291,
@@ -117,36 +223,17 @@
       }
     },
     {
-      "gamePk": 824880,
-      "gameTime": "2026-08-16T17:35:00Z",
+      "gamePk": 824725,
+      "gameTime": "2026-08-17T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "92",
-        "wind": "5 mph, Out To CF"
-      },
+      "weather": null,
       "home": {
-        "teamId": 144,
-        "teamAbbr": "ATL",
-        "teamName": "Atlanta Braves",
+        "teamId": 111,
+        "teamAbbr": "BOS",
+        "teamName": "Boston Red Sox",
         "starter": {
-          "confirmed": true,
-          "name": "Bryce Elder",
-          "hand": "R",
-          "era": "3.92",
-          "ipDisplay": "137.2",
-          "gamesStarted": 24,
-          "avgIpPerOuting": 5.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.343,
-            "woba30Rank": 24,
-            "woba7": 0.363,
-            "woba7Rank": 25,
-            "kPct30": 17.4,
-            "kPct30Rank": 30
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -155,159 +242,41 @@
         "teamName": "Arizona Diamondbacks",
         "starter": {
           "confirmed": true,
-          "name": "Michael Soroka",
-          "hand": "R",
-          "era": "2.93",
-          "ipDisplay": "92.0",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 5.4,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.335,
-            "woba30Rank": 22,
-            "woba7": 0.242,
-            "woba7Rank": 2,
-            "kPct30": 23.3,
-            "kPct30Rank": 9
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 822774,
-      "gameTime": "2026-08-16T17:37:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "74",
-        "wind": "10 mph, R To L"
-      },
-      "home": {
-        "teamId": 141,
-        "teamAbbr": "TOR",
-        "teamName": "Toronto Blue Jays",
-        "starter": {
-          "confirmed": true,
-          "name": "Dylan Cease",
-          "hand": "R",
-          "era": "2.42",
-          "ipDisplay": "137.2",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 6.0,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.28,
-            "woba30Rank": 1,
-            "woba7": 0.268,
-            "woba7Rank": 4,
-            "kPct30": 26.6,
-            "kPct30Rank": 1
-          }
-        }
-      },
-      "away": {
-        "teamId": 147,
-        "teamAbbr": "NYY",
-        "teamName": "New York Yankees",
-        "starter": {
-          "confirmed": true,
-          "name": "Ryan Weathers",
+          "name": "Mitch Bratt",
           "hand": "L",
-          "era": "3.56",
-          "ipDisplay": "134.0",
-          "gamesStarted": 24,
-          "avgIpPerOuting": 5.6,
+          "era": "3.74",
+          "ipDisplay": "33.2",
+          "gamesStarted": 7,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.271,
-            "woba30Rank": 3,
-            "woba7": 0.288,
-            "woba7Rank": 10,
-            "kPct30": 22.1,
-            "kPct30Rank": 20
+            "woba30": 0.338,
+            "woba30Rank": 23,
+            "woba7": 0.169,
+            "woba7Rank": 1,
+            "kPct30": 25.5,
+            "kPct30Rank": 6
           }
         }
       }
     },
     {
-      "gamePk": 823590,
-      "gameTime": "2026-08-16T17:40:00Z",
+      "gamePk": 823589,
+      "gameTime": "2026-08-17T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Cloudy",
-        "temp": "79",
-        "wind": "13 mph, Out To LF"
-      },
+      "weather": null,
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
         "teamName": "New York Mets",
         "starter": {
           "confirmed": true,
-          "name": "Christian Scott",
+          "name": "Nolan McLean",
           "hand": "R",
-          "era": "3.51",
-          "ipDisplay": "84.2",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 4.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.354,
-            "woba30Rank": 26,
-            "woba7": 0.322,
-            "woba7Rank": 18,
-            "kPct30": 21.3,
-            "kPct30Rank": 15
-          }
-        }
-      },
-      "away": {
-        "teamId": 120,
-        "teamAbbr": "WSH",
-        "teamName": "Washington Nationals",
-        "starter": {
-          "confirmed": true,
-          "name": "Jake Irvin",
-          "hand": "R",
-          "era": "5.80",
-          "ipDisplay": "71.1",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 4.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 21,
-            "woba7": 0.443,
-            "woba7Rank": 30,
-            "kPct30": 25.0,
-            "kPct30Rank": 5
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 824397,
-      "gameTime": "2026-08-16T17:40:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Overcast",
-        "temp": "78",
-        "wind": "9 mph, Out To RF"
-      },
-      "home": {
-        "teamId": 114,
-        "teamAbbr": "CLE",
-        "teamName": "Cleveland Guardians",
-        "starter": {
-          "confirmed": true,
-          "name": "Tanner Bibee",
-          "hand": "R",
-          "era": "4.05",
-          "ipDisplay": "146.2",
-          "gamesStarted": 26,
+          "era": "3.42",
+          "ipDisplay": "136.2",
+          "gamesStarted": 24,
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
@@ -326,54 +295,156 @@
         "teamName": "San Diego Padres",
         "starter": {
           "confirmed": true,
-          "name": "Casey Mize",
+          "name": "Walker Buehler",
           "hand": "R",
-          "era": "3.31",
-          "ipDisplay": "98.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.2,
+          "era": "4.88",
+          "ipDisplay": "114.1",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 13,
-            "woba7": 0.301,
-            "woba7Rank": 13,
-            "kPct30": 19.5,
-            "kPct30Rank": 21
+            "woba30": 0.329,
+            "woba30Rank": 21,
+            "woba7": 0.443,
+            "woba7Rank": 30,
+            "kPct30": 25.0,
+            "kPct30Rank": 5
           }
         }
       }
     },
     {
-      "gamePk": 824236,
-      "gameTime": "2026-08-16T17:40:00Z",
+      "gamePk": 824077,
+      "gameTime": "2026-08-17T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Overcast",
-        "temp": "80",
-        "wind": "5 mph, R To L"
-      },
+      "weather": null,
       "home": {
-        "teamId": 116,
-        "teamAbbr": "DET",
-        "teamName": "Detroit Tigers",
+        "teamId": 118,
+        "teamAbbr": "KC",
+        "teamName": "Kansas City Royals",
         "starter": {
           "confirmed": true,
-          "name": "Drew Anderson",
+          "name": "Michael Wacha",
           "hand": "R",
-          "era": "4.01",
-          "ipDisplay": "76.1",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 4.0,
+          "era": "3.46",
+          "ipDisplay": "150.2",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.314,
-            "woba30Rank": 12,
-            "woba7": 0.357,
-            "woba7Rank": 23,
-            "kPct30": 24.8,
-            "kPct30Rank": 6
+            "woba30": 0.325,
+            "woba30Rank": 18,
+            "woba7": 0.308,
+            "woba7Rank": 14,
+            "kPct30": 19.2,
+            "kPct30Rank": 24
+          }
+        }
+      },
+      "away": {
+        "teamId": 133,
+        "teamAbbr": "ATH",
+        "teamName": "Athletics",
+        "starter": {
+          "confirmed": true,
+          "name": "Mason Barnett",
+          "hand": "R",
+          "era": "6.16",
+          "ipDisplay": "38.0",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 4.4,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.312,
+            "woba30Rank": 9,
+            "woba7": 0.225,
+            "woba7Rank": 1,
+            "kPct30": 18.3,
+            "kPct30Rank": 26
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 823668,
+      "gameTime": "2026-08-17T23:40:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 142,
+        "teamAbbr": "MIN",
+        "teamName": "Minnesota Twins",
+        "starter": {
+          "confirmed": true,
+          "name": "Bailey Ober",
+          "hand": "R",
+          "era": "4.64",
+          "ipDisplay": "99.0",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.335,
+            "woba30Rank": 22,
+            "woba7": 0.242,
+            "woba7Rank": 2,
+            "kPct30": 23.3,
+            "kPct30Rank": 9
+          }
+        }
+      },
+      "away": {
+        "teamId": 144,
+        "teamAbbr": "ATL",
+        "teamName": "Atlanta Braves",
+        "starter": {
+          "confirmed": true,
+          "name": "Mart\u00edn P\u00e9rez",
+          "hand": "L",
+          "era": "2.96",
+          "ipDisplay": "106.1",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.1,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.321,
+            "woba30Rank": 16,
+            "woba7": 0.381,
+            "woba7Rank": 27,
+            "kPct30": 23.1,
+            "kPct30Rank": 17
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 824641,
+      "gameTime": "2026-08-18T00:05:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 112,
+        "teamAbbr": "CHC",
+        "teamName": "Chicago Cubs",
+        "starter": {
+          "confirmed": true,
+          "name": "Shota Imanaga",
+          "hand": "L",
+          "era": "3.74",
+          "ipDisplay": "137.1",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.342,
+            "woba30Rank": 25,
+            "woba7": 0.428,
+            "woba7Rank": 30,
+            "kPct30": 23.9,
+            "kPct30Rank": 13
           }
         }
       },
@@ -383,183 +454,12 @@
         "teamName": "Chicago White Sox",
         "starter": {
           "confirmed": true,
-          "name": "Sean Burke",
+          "name": "Luis Castillo",
           "hand": "R",
-          "era": "3.15",
-          "ipDisplay": "140.0",
-          "gamesStarted": 21,
-          "avgIpPerOuting": 5.5,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.367,
-            "woba30Rank": 29,
-            "woba7": 0.273,
-            "woba7Rank": 7,
-            "kPct30": 19.5,
-            "kPct30Rank": 22
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 824477,
-      "gameTime": "2026-08-16T17:40:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Overcast",
-        "temp": "87",
-        "wind": "9 mph, Out To LF"
-      },
-      "home": {
-        "teamId": 113,
-        "teamAbbr": "CIN",
-        "teamName": "Cincinnati Reds",
-        "starter": {
-          "confirmed": true,
-          "name": "Nick Lodolo",
-          "hand": "L",
-          "era": "4.52",
-          "ipDisplay": "71.2",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 5.1,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.287,
-            "woba30Rank": 4,
-            "woba7": 0.307,
-            "woba7Rank": 15,
-            "kPct30": 22.8,
-            "kPct30Rank": 19
-          }
-        }
-      },
-      "away": {
-        "teamId": 146,
-        "teamAbbr": "MIA",
-        "teamName": "Miami Marlins",
-        "starter": {
-          "confirmed": true,
-          "name": "Eury P\u00e9rez",
-          "hand": "R",
-          "era": "3.23",
-          "ipDisplay": "122.2",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.6,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.314,
-            "woba30Rank": 11,
-            "woba7": 0.256,
-            "woba7Rank": 3,
-            "kPct30": 26.2,
-            "kPct30Rank": 2
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 823670,
-      "gameTime": "2026-08-16T18:10:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "79",
-        "wind": "12 mph, Out To CF"
-      },
-      "home": {
-        "teamId": 142,
-        "teamAbbr": "MIN",
-        "teamName": "Minnesota Twins",
-        "starter": {
-          "confirmed": true,
-          "name": "Dean Kremer",
-          "hand": "R",
-          "era": "5.40",
-          "ipDisplay": "53.1",
-          "gamesStarted": 10,
-          "avgIpPerOuting": 5.3,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.325,
-            "woba30Rank": 19,
-            "woba7": 0.34,
-            "woba7Rank": 21,
-            "kPct30": 19.9,
-            "kPct30Rank": 20
-          }
-        }
-      },
-      "away": {
-        "teamId": 143,
-        "teamAbbr": "PHI",
-        "teamName": "Philadelphia Phillies",
-        "starter": {
-          "confirmed": true,
-          "name": "Andrew Painter",
-          "hand": "R",
-          "era": "6.43",
-          "ipDisplay": "85.1",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 4.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.305,
-            "woba30Rank": 7,
-            "woba7": 0.321,
-            "woba7Rank": 17,
-            "kPct30": 20.2,
-            "kPct30Rank": 18
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 824642,
-      "gameTime": "2026-08-16T19:15:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Cloudy",
-        "temp": "86",
-        "wind": "4 mph, Out To RF"
-      },
-      "home": {
-        "teamId": 112,
-        "teamAbbr": "CHC",
-        "teamName": "Chicago Cubs",
-        "starter": {
-          "confirmed": true,
-          "name": "Edward Cabrera",
-          "hand": "R",
-          "era": "5.68",
-          "ipDisplay": "76.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 5.1,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.302,
-            "woba30Rank": 4,
-            "woba7": 0.299,
-            "woba7Rank": 12,
-            "kPct30": 19.2,
-            "kPct30Rank": 25
-          }
-        }
-      },
-      "away": {
-        "teamId": 138,
-        "teamAbbr": "STL",
-        "teamName": "St. Louis Cardinals",
-        "starter": {
-          "confirmed": true,
-          "name": "Hunter Dobbins",
-          "hand": "R",
-          "era": "3.42",
-          "ipDisplay": "50.0",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 5.1,
+          "era": "4.96",
+          "ipDisplay": "110.2",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.34,
@@ -573,221 +473,23 @@
       }
     },
     {
-      "gamePk": 823182,
-      "gameTime": "2026-08-16T20:05:00Z",
+      "gamePk": 824320,
+      "gameTime": "2026-08-18T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "66",
-        "wind": "16 mph, Varies"
-      },
+      "weather": null,
       "home": {
-        "teamId": 137,
-        "teamAbbr": "SF",
-        "teamName": "San Francisco Giants",
-        "starter": {
-          "confirmed": true,
-          "name": "Blade Tidwell",
-          "hand": "R",
-          "era": "3.67",
-          "ipDisplay": "27.0",
-          "gamesStarted": 3,
-          "avgIpPerOuting": 5.0,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.326,
-            "woba30Rank": 20,
-            "woba7": 0.312,
-            "woba7Rank": 15,
-            "kPct30": 23.2,
-            "kPct30Rank": 10
-          }
-        }
-      },
-      "away": {
         "teamId": 115,
         "teamAbbr": "COL",
         "teamName": "Colorado Rockies",
         "starter": {
           "confirmed": true,
-          "name": "Gabriel Hughes",
+          "name": "Tomoyuki Sugano",
           "hand": "R",
-          "era": "6.45",
-          "ipDisplay": "37.2",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 5.0,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 14,
-            "woba7": 0.296,
-            "woba7Rank": 10,
-            "kPct30": 21.1,
-            "kPct30Rank": 16
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 824965,
-      "gameTime": "2026-08-16T20:05:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "85",
-        "wind": "4 mph, L To R"
-      },
-      "home": {
-        "teamId": 133,
-        "teamAbbr": "ATH",
-        "teamName": "Athletics",
-        "starter": {
-          "confirmed": true,
-          "name": "Jacob Lopez",
-          "hand": "L",
-          "era": "5.34",
-          "ipDisplay": "86.0",
-          "gamesStarted": 17,
-          "avgIpPerOuting": 4.5,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.311,
-            "woba30Rank": 14,
-            "woba7": 0.291,
-            "woba7Rank": 11,
-            "kPct30": 23.5,
-            "kPct30Rank": 15
-          }
-        }
-      },
-      "away": {
-        "teamId": 140,
-        "teamAbbr": "TEX",
-        "teamName": "Texas Rangers",
-        "starter": {
-          "confirmed": true,
-          "name": "Cody Bradford",
-          "hand": "L",
-          "era": "3.00",
-          "ipDisplay": "15.0",
-          "gamesStarted": 3,
-          "avgIpPerOuting": 5.1,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.309,
-            "woba30Rank": 12,
-            "woba7": 0.392,
-            "woba7Rank": 28,
-            "kPct30": 25.7,
-            "kPct30Rank": 5
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 823991,
-      "gameTime": "2026-08-16T20:07:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "84",
-        "wind": "8 mph, R To L"
-      },
-      "home": {
-        "teamId": 108,
-        "teamAbbr": "LAA",
-        "teamName": "Los Angeles Angels",
-        "starter": {
-          "confirmed": true,
-          "name": "Ryan Johnson",
-          "hand": "R",
-          "era": "6.41",
-          "ipDisplay": "60.1",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 4.6,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.312,
-            "woba30Rank": 9,
-            "woba7": 0.225,
-            "woba7Rank": 1,
-            "kPct30": 18.3,
-            "kPct30Rank": 26
-          }
-        }
-      },
-      "away": {
-        "teamId": 118,
-        "teamAbbr": "KC",
-        "teamName": "Kansas City Royals",
-        "starter": {
-          "confirmed": true,
-          "name": "Noah Cameron",
-          "hand": "L",
-          "era": "4.29",
-          "ipDisplay": "134.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.5,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.292,
-            "woba30Rank": 7,
-            "woba7": 0.305,
-            "woba7Rank": 14,
-            "kPct30": 25.4,
-            "kPct30Rank": 9
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 823912,
-      "gameTime": "2026-08-16T20:10:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "83",
-        "wind": "7 mph, Out To CF"
-      },
-      "home": {
-        "teamId": 119,
-        "teamAbbr": "LAD",
-        "teamName": "Los Angeles Dodgers",
-        "starter": {
-          "confirmed": true,
-          "name": "Tarik Skubal",
-          "hand": "L",
-          "era": "2.80",
-          "ipDisplay": "112.1",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.9,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.313,
-            "woba30Rank": 15,
-            "woba7": 0.326,
-            "woba7Rank": 20,
-            "kPct30": 27.9,
-            "kPct30Rank": 3
-          }
-        }
-      },
-      "away": {
-        "teamId": 158,
-        "teamAbbr": "MIL",
-        "teamName": "Milwaukee Brewers",
-        "starter": {
-          "confirmed": true,
-          "name": "Logan Henderson",
-          "hand": "R",
-          "era": "2.83",
-          "ipDisplay": "60.1",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 5.0,
+          "era": "4.43",
+          "ipDisplay": "113.2",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.32,
@@ -798,61 +500,27 @@
             "kPct30Rank": 14
           }
         }
-      }
-    },
-    {
-      "gamePk": 824156,
-      "gameTime": "2026-08-16T23:20:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Roof Closed",
-        "temp": "76",
-        "wind": "0 mph, None"
-      },
-      "home": {
-        "teamId": 117,
-        "teamAbbr": "HOU",
-        "teamName": "Houston Astros",
-        "starter": {
-          "confirmed": true,
-          "name": "Hunter Brown",
-          "hand": "R",
-          "era": "3.68",
-          "ipDisplay": "63.2",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 5.3,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.303,
-            "woba30Rank": 5,
-            "woba7": 0.38,
-            "woba7Rank": 28,
-            "kPct30": 20.5,
-            "kPct30Rank": 17
-          }
-        }
       },
       "away": {
-        "teamId": 136,
-        "teamAbbr": "SEA",
-        "teamName": "Seattle Mariners",
+        "teamId": 119,
+        "teamAbbr": "LAD",
+        "teamName": "Los Angeles Dodgers",
         "starter": {
           "confirmed": true,
-          "name": "Bryan Woo",
-          "hand": "R",
-          "era": "4.15",
-          "ipDisplay": "132.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.8,
+          "name": "Blake Snell",
+          "hand": "L",
+          "era": "5.00",
+          "ipDisplay": "9.0",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.343,
-            "woba30Rank": 25,
-            "woba7": 0.271,
-            "woba7Rank": 6,
-            "kPct30": 20.1,
-            "kPct30Rank": 19
+            "woba30": 0.324,
+            "woba30Rank": 18,
+            "woba7": 0.223,
+            "woba7Rank": 2,
+            "kPct30": 19.7,
+            "kPct30Rank": 27
           }
         }
       }
