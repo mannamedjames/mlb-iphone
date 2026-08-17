@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 13:59",
+  "generated_at": "2026-08-17 17:31",
   "date": "2026-08-17",
   "games": [
     {
@@ -7,13 +7,32 @@
       "gameTime": "2026-08-17T17:40:00Z",
       "doubleHeader": "S",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "81",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
         "teamName": "Cincinnati Reds",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Kent Emanuel",
+          "hand": "L",
+          "era": null,
+          "ipDisplay": null,
+          "gamesStarted": null,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.306,
+            "woba30Rank": 10,
+            "woba7": 0.379,
+            "woba7Rank": 27,
+            "kPct30": 20.8,
+            "kPct30Rank": 22
+          }
         }
       },
       "away": {
@@ -263,7 +282,22 @@
         "teamAbbr": "BOS",
         "teamName": "Boston Red Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Alec Gamboa",
+          "hand": "L",
+          "era": "1.59",
+          "ipDisplay": "17.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.385,
+            "woba30Rank": 30,
+            "woba7": 0.366,
+            "woba7Rank": 22,
+            "kPct30": 19.6,
+            "kPct30Rank": 27
+          }
         }
       },
       "away": {
