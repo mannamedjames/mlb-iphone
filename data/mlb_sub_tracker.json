@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-08-17 21:30",
-  "window_start": "2026-07-18",
-  "window_end": "2026-08-17",
-  "games_processed": 416,
+  "generated_at": "2026-08-18 00:36",
+  "window_start": "2026-07-19",
+  "window_end": "2026-08-18",
+  "games_processed": 400,
   "subbed_out": [
-    {
-      "playerId": 592626,
-      "name": "Joc Pederson",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 11,
-      "started": 19,
-      "pctStarted": 68,
-      "hits": 20,
-      "rank": 1
-    },
     {
       "playerId": 657757,
       "name": "Gavin Sheets",
@@ -23,10 +11,10 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 11,
-      "started": 18,
-      "pctStarted": 64,
+      "started": 17,
+      "pctStarted": 63,
       "hits": 10,
-      "rank": 2
+      "rank": 1
     },
     {
       "playerId": 573262,
@@ -36,9 +24,9 @@
       "teamName": "Atlanta Braves",
       "games": 11,
       "started": 16,
-      "pctStarted": 55,
+      "pctStarted": 57,
       "hits": 10,
-      "rank": 3
+      "rank": 2
     },
     {
       "playerId": 665953,
@@ -48,9 +36,9 @@
       "teamName": "Washington Nationals",
       "games": 11,
       "started": 14,
-      "pctStarted": 50,
+      "pctStarted": 52,
       "hits": 12,
-      "rank": 4
+      "rank": 3
     },
     {
       "playerId": 514888,
@@ -59,9 +47,21 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 10,
-      "started": 24,
+      "started": 23,
       "pctStarted": 92,
-      "hits": 27,
+      "hits": 26,
+      "rank": 4
+    },
+    {
+      "playerId": 690993,
+      "name": "Colt Keith",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 10,
+      "started": 19,
+      "pctStarted": 73,
+      "hits": 21,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 19,
+      "games": 18,
       "started": 4,
-      "pctStarted": 14,
+      "pctStarted": 15,
       "hits": 5,
       "rank": 1
     },
@@ -86,7 +86,7 @@
       "teamName": "San Diego Padres",
       "games": 17,
       "started": 8,
-      "pctStarted": 29,
+      "pctStarted": 30,
       "hits": 7,
       "rank": 2
     },
@@ -96,10 +96,10 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 16,
+      "games": 15,
       "started": 6,
-      "pctStarted": 23,
-      "hits": 8,
+      "pctStarted": 24,
+      "hits": 7,
       "rank": 3
     },
     {
@@ -109,9 +109,9 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "games": 14,
-      "started": 7,
-      "pctStarted": 24,
-      "hits": 10,
+      "started": 6,
+      "pctStarted": 21,
+      "hits": 9,
       "rank": 4
     },
     {
@@ -122,7 +122,7 @@
       "teamName": "Chicago White Sox",
       "games": 13,
       "started": 9,
-      "pctStarted": 33,
+      "pctStarted": 35,
       "hits": 17,
       "rank": 5
     }
