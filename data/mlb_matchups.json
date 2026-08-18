@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 17:31",
+  "generated_at": "2026-08-18 21:30",
   "date": "2026-08-18",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-18T22:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "6 mph, L To R"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "78",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "6 mph, In From LF"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -166,7 +178,11 @@
       "gameTime": "2026-08-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "79",
+        "wind": "3 mph, Out To CF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -219,7 +235,11 @@
       "gameTime": "2026-08-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -272,7 +292,11 @@
       "gameTime": "2026-08-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "9 mph, In From LF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -325,7 +349,11 @@
       "gameTime": "2026-08-18T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "5 mph, In From RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -378,7 +406,11 @@
       "gameTime": "2026-08-18T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "3 mph, Out To CF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -431,13 +463,32 @@
       "gameTime": "2026-08-18T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "7 mph, R To L"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
         "teamName": "Kansas City Royals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Daniel Lynch IV",
+          "hand": "L",
+          "era": "2.88",
+          "ipDisplay": "50.0",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 2.0,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.314,
+            "woba30Rank": 12,
+            "woba7": 0.42,
+            "woba7Rank": 30,
+            "kPct30": 25.3,
+            "kPct30Rank": 8
+          }
         }
       },
       "away": {
@@ -446,20 +497,20 @@
         "teamName": "Athletics",
         "starter": {
           "confirmed": true,
-          "name": "Jack Perkins",
-          "hand": "R",
-          "era": "7.27",
-          "ipDisplay": "81.2",
-          "gamesStarted": 11,
-          "avgIpPerOuting": 4.6,
+          "name": "Brady Basso",
+          "hand": "L",
+          "era": "4.35",
+          "ipDisplay": "20.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 2.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.312,
-            "woba30Rank": 9,
-            "woba7": 0.324,
-            "woba7Rank": 13,
-            "kPct30": 17.6,
-            "kPct30Rank": 27
+            "woba30": 0.291,
+            "woba30Rank": 5,
+            "woba7": 0.246,
+            "woba7Rank": 3,
+            "kPct30": 26.0,
+            "kPct30Rank": 4
           }
         }
       }
@@ -469,7 +520,11 @@
       "gameTime": "2026-08-18T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "10 mph, Out To RF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -522,7 +577,11 @@
       "gameTime": "2026-08-18T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "11 mph, Out To LF"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -575,7 +634,11 @@
       "gameTime": "2026-08-19T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -628,7 +691,11 @@
       "gameTime": "2026-08-19T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -657,7 +724,22 @@
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Bryan Hudson",
+          "hand": "L",
+          "era": "3.14",
+          "ipDisplay": "51.2",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 1.2,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.392,
+            "woba30Rank": 30,
+            "woba7": 0.349,
+            "woba7Rank": 23,
+            "kPct30": 24.7,
+            "kPct30Rank": 11
+          }
         }
       }
     },
@@ -666,7 +748,11 @@
       "gameTime": "2026-08-19T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -719,7 +805,11 @@
       "gameTime": "2026-08-19T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "10 mph, In From RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
