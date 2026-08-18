@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-18 00:36",
+  "generated_at": "2026-08-18 14:04",
   "window_start": "2026-07-19",
   "window_end": "2026-08-18",
-  "games_processed": 400,
+  "games_processed": 410,
   "subbed_out": [
+    {
+      "playerId": 690993,
+      "name": "Colt Keith",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 11,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 22,
+      "rank": 1
+    },
     {
       "playerId": 657757,
       "name": "Gavin Sheets",
@@ -11,10 +23,10 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 11,
-      "started": 17,
-      "pctStarted": 63,
-      "hits": 10,
-      "rank": 1
+      "started": 18,
+      "pctStarted": 64,
+      "hits": 11,
+      "rank": 2
     },
     {
       "playerId": 573262,
@@ -23,10 +35,10 @@
       "teamId": 144,
       "teamName": "Atlanta Braves",
       "games": 11,
-      "started": 16,
-      "pctStarted": 57,
+      "started": 17,
+      "pctStarted": 59,
       "hits": 10,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 665953,
@@ -38,7 +50,7 @@
       "started": 14,
       "pctStarted": 52,
       "hits": 12,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 514888,
@@ -50,18 +62,6 @@
       "started": 23,
       "pctStarted": 92,
       "hits": 26,
-      "rank": 4
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 10,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 21,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 18,
+      "games": 19,
       "started": 4,
-      "pctStarted": 15,
+      "pctStarted": 14,
       "hits": 5,
       "rank": 1
     },
@@ -86,7 +86,7 @@
       "teamName": "San Diego Padres",
       "games": 17,
       "started": 8,
-      "pctStarted": 30,
+      "pctStarted": 29,
       "hits": 7,
       "rank": 2
     },
@@ -109,9 +109,9 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "games": 14,
-      "started": 6,
-      "pctStarted": 21,
-      "hits": 9,
+      "started": 7,
+      "pctStarted": 24,
+      "hits": 10,
       "rank": 4
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 9,
-      "pctStarted": 35,
-      "hits": 17,
+      "started": 10,
+      "pctStarted": 37,
+      "hits": 18,
       "rank": 5
     }
   ]
