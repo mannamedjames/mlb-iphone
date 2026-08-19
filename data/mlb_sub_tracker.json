@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 17:31",
+  "generated_at": "2026-08-19 21:31",
   "window_start": "2026-07-20",
   "window_end": "2026-08-19",
-  "games_processed": 409,
+  "games_processed": 413,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -10,10 +10,10 @@
       "team": "ATL",
       "teamId": 144,
       "teamName": "Atlanta Braves",
-      "games": 12,
-      "started": 18,
-      "pctStarted": 62,
-      "hits": 10,
+      "games": 13,
+      "started": 19,
+      "pctStarted": 63,
+      "hits": 11,
       "rank": 1
     },
     {
@@ -22,11 +22,35 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 11,
-      "started": 20,
-      "pctStarted": 74,
-      "hits": 23,
+      "games": 12,
+      "started": 21,
+      "pctStarted": 75,
+      "hits": 24,
       "rank": 2
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 12,
+      "started": 18,
+      "pctStarted": 64,
+      "hits": 15,
+      "rank": 3
+    },
+    {
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 11,
+      "started": 19,
+      "pctStarted": 68,
+      "hits": 19,
+      "rank": 4
     },
     {
       "playerId": 657757,
@@ -36,32 +60,8 @@
       "teamName": "San Diego Padres",
       "games": 11,
       "started": 18,
-      "pctStarted": 64,
-      "hits": 10,
-      "rank": 3
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 11,
-      "started": 17,
-      "pctStarted": 63,
-      "hits": 15,
-      "rank": 4
-    },
-    {
-      "playerId": 514888,
-      "name": "Jose Altuve",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 10,
-      "started": 23,
-      "pctStarted": 92,
-      "hits": 25,
+      "pctStarted": 62,
+      "hits": 11,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 18,
+      "games": 19,
       "started": 7,
-      "pctStarted": 25,
+      "pctStarted": 24,
       "hits": 6,
       "rank": 1
     },
@@ -91,6 +91,18 @@
       "rank": 2
     },
     {
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 15,
+      "started": 9,
+      "pctStarted": 32,
+      "hits": 18,
+      "rank": 3
+    },
+    {
       "playerId": 669397,
       "name": "Nick Allen",
       "team": "HOU",
@@ -100,18 +112,6 @@
       "started": 5,
       "pctStarted": 20,
       "hits": 7,
-      "rank": 3
-    },
-    {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 14,
-      "started": 9,
-      "pctStarted": 33,
-      "hits": 17,
       "rank": 4
     },
     {
