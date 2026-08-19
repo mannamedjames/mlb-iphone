@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-08-18 21:30",
-  "window_start": "2026-07-19",
-  "window_end": "2026-08-18",
-  "games_processed": 410,
+  "generated_at": "2026-08-19 00:35",
+  "window_start": "2026-07-20",
+  "window_end": "2026-08-19",
+  "games_processed": 394,
   "subbed_out": [
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 11,
-      "started": 20,
-      "pctStarted": 74,
-      "hits": 22,
-      "rank": 1
-    },
     {
       "playerId": 657757,
       "name": "Gavin Sheets",
@@ -24,9 +12,9 @@
       "teamName": "San Diego Padres",
       "games": 11,
       "started": 18,
-      "pctStarted": 64,
-      "hits": 11,
-      "rank": 2
+      "pctStarted": 67,
+      "hits": 10,
+      "rank": 1
     },
     {
       "playerId": 573262,
@@ -36,21 +24,9 @@
       "teamName": "Atlanta Braves",
       "games": 11,
       "started": 17,
-      "pctStarted": 59,
+      "pctStarted": 61,
       "hits": 10,
-      "rank": 3
-    },
-    {
-      "playerId": 665953,
-      "name": "Andr\u00e9s Chaparro",
-      "team": "WSH",
-      "teamId": 120,
-      "teamName": "Washington Nationals",
-      "games": 11,
-      "started": 14,
-      "pctStarted": 52,
-      "hits": 12,
-      "rank": 4
+      "rank": 2
     },
     {
       "playerId": 514888,
@@ -59,9 +35,33 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 10,
-      "started": 23,
+      "started": 22,
       "pctStarted": 92,
-      "hits": 26,
+      "hits": 24,
+      "rank": 3
+    },
+    {
+      "playerId": 690993,
+      "name": "Colt Keith",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 10,
+      "started": 19,
+      "pctStarted": 73,
+      "hits": 22,
+      "rank": 4
+    },
+    {
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 10,
+      "started": 17,
+      "pctStarted": 65,
+      "hits": 18,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 19,
+      "games": 18,
       "started": 4,
-      "pctStarted": 14,
+      "pctStarted": 15,
       "hits": 5,
       "rank": 1
     },
@@ -85,9 +85,9 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 17,
-      "started": 8,
-      "pctStarted": 29,
-      "hits": 7,
+      "started": 7,
+      "pctStarted": 26,
+      "hits": 5,
       "rank": 2
     },
     {
@@ -97,22 +97,10 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 15,
-      "started": 6,
-      "pctStarted": 24,
+      "started": 5,
+      "pctStarted": 21,
       "hits": 7,
       "rank": 3
-    },
-    {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "games": 14,
-      "started": 7,
-      "pctStarted": 24,
-      "hits": 10,
-      "rank": 4
     },
     {
       "playerId": 545341,
@@ -121,9 +109,21 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 10,
-      "pctStarted": 37,
-      "hits": 18,
+      "started": 9,
+      "pctStarted": 35,
+      "hits": 17,
+      "rank": 4
+    },
+    {
+      "playerId": 642201,
+      "name": "Eli White",
+      "team": "BOS",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "games": 13,
+      "started": 7,
+      "pctStarted": 25,
+      "hits": 10,
       "rank": 5
     }
   ]
