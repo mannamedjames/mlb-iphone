@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 14:05",
+  "generated_at": "2026-08-19 17:31",
   "date": "2026-08-19",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "77",
-        "wind": "9 mph, Out To LF"
+        "temp": "75",
+        "wind": "10 mph, Out To LF"
       },
       "home": {
         "teamId": 134,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Paul Skenes",
           "hand": "R",
-          "era": "3.88",
-          "ipDisplay": "134.2",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 5.4,
+          "era": "3.86",
+          "ipDisplay": "137.2",
+          "gamesStarted": 26,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.37,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jackson Jobe",
           "hand": "R",
-          "era": "6.23",
-          "ipDisplay": "8.2",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 4.3,
+          "era": "5.91",
+          "ipDisplay": "10.2",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 3.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.297,
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "84",
-        "wind": "6 mph, Out To CF"
+        "temp": "85",
+        "wind": "7 mph, Out To RF"
       },
       "home": {
         "teamId": 121,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Robert Stock",
           "hand": "R",
-          "era": "6.57",
-          "ipDisplay": "12.1",
-          "gamesStarted": 3,
-          "avgIpPerOuting": 4.1,
+          "era": "6.08",
+          "ipDisplay": "13.1",
+          "gamesStarted": 4,
+          "avgIpPerOuting": 3.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.365,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Michael King",
           "hand": "R",
-          "era": "3.41",
-          "ipDisplay": "142.1",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 5.7,
+          "era": "3.39",
+          "ipDisplay": "143.1",
+          "gamesStarted": 26,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.327,
@@ -121,7 +121,11 @@
       "gameTime": "2026-08-19T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "4 mph, In From CF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -174,7 +178,11 @@
       "gameTime": "2026-08-19T18:20:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "72",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -227,7 +235,11 @@
       "gameTime": "2026-08-19T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "86",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
