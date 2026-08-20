@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 21:31",
-  "window_start": "2026-07-20",
-  "window_end": "2026-08-19",
-  "games_processed": 413,
+  "generated_at": "2026-08-20 00:35",
+  "window_start": "2026-07-21",
+  "window_end": "2026-08-20",
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -12,21 +12,9 @@
       "teamName": "Atlanta Braves",
       "games": 13,
       "started": 19,
-      "pctStarted": 63,
+      "pctStarted": 66,
       "hits": 11,
       "rank": 1
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 12,
-      "started": 21,
-      "pctStarted": 75,
-      "hits": 24,
-      "rank": 2
     },
     {
       "playerId": 663616,
@@ -35,9 +23,21 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 12,
-      "started": 18,
-      "pctStarted": 64,
-      "hits": 15,
+      "started": 17,
+      "pctStarted": 63,
+      "hits": 13,
+      "rank": 2
+    },
+    {
+      "playerId": 690993,
+      "name": "Colt Keith",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 11,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 23,
       "rank": 3
     },
     {
@@ -46,48 +46,48 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 11,
-      "started": 19,
-      "pctStarted": 68,
-      "hits": 19,
+      "games": 10,
+      "started": 18,
+      "pctStarted": 67,
+      "hits": 18,
       "rank": 4
     },
     {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 11,
+      "playerId": 669224,
+      "name": "Austin Wells",
+      "team": "NYY",
+      "teamId": 147,
+      "teamName": "New York Yankees",
+      "games": 10,
       "started": 18,
-      "pctStarted": 62,
-      "hits": 11,
+      "pctStarted": 69,
+      "hits": 12,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 19,
-      "started": 7,
-      "pctStarted": 24,
-      "hits": 6,
-      "rank": 1
-    },
     {
       "playerId": 678489,
       "name": "Jorge Barrosa",
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
+      "games": 19,
+      "started": 3,
+      "pctStarted": 11,
+      "hits": 4,
+      "rank": 1
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
       "games": 18,
-      "started": 4,
-      "pctStarted": 14,
-      "hits": 5,
+      "started": 7,
+      "pctStarted": 25,
+      "hits": 6,
       "rank": 2
     },
     {
@@ -96,10 +96,10 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 15,
+      "games": 14,
       "started": 9,
-      "pctStarted": 32,
-      "hits": 18,
+      "pctStarted": 33,
+      "hits": 17,
       "rank": 3
     },
     {
@@ -108,9 +108,9 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 15,
+      "games": 14,
       "started": 5,
-      "pctStarted": 20,
+      "pctStarted": 21,
       "hits": 7,
       "rank": 4
     },
@@ -121,8 +121,8 @@
       "teamId": 111,
       "teamName": "Boston Red Sox",
       "games": 13,
-      "started": 7,
-      "pctStarted": 24,
+      "started": 6,
+      "pctStarted": 21,
       "hits": 10,
       "rank": 5
     }
