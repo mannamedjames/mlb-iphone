@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-08-19 12:32",
+  "generated_at": "2026-08-20 12:33",
   "team": "CIN",
-  "window_start": "2026-07-20",
-  "window_end": "2026-08-19",
+  "window_start": "2026-07-21",
+  "window_end": "2026-08-20",
   "homers": [
+    {
+      "batter": "Sal Stewart",
+      "batterId": 701398,
+      "pitcher": "Matthew Liberatore",
+      "pitcherHand": "L",
+      "count": "1-2",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 94.1,
+      "rbi": 3,
+      "inning": 6,
+      "halfInning": "Bot",
+      "outs": 1,
+      "date": "2026-08-19",
+      "away": "STL",
+      "home": "CIN",
+      "opponent": "STL",
+      "opponentId": 138,
+      "distanceFt": 422,
+      "exitVeloMph": 108.2,
+      "field": "CF",
+      "desc": "Sal Stewart homers (27) on a fly ball to center field. Matt McLain scores. Elly De La Cruz scores."
+    },
     {
       "batter": "Dane Myers",
       "batterId": 667472,
@@ -201,28 +223,6 @@
       "exitVeloMph": 103.5,
       "field": "LF",
       "desc": "Eugenio Su\u00e1rez homers (17) on a fly ball to left center field."
-    },
-    {
-      "batter": "Eugenio Su\u00e1rez",
-      "batterId": 553993,
-      "pitcher": "Max Kranick",
-      "pitcherHand": "R",
-      "count": "2-2",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 94.9,
-      "rbi": 2,
-      "inning": 6,
-      "halfInning": "Top",
-      "outs": 2,
-      "date": "2026-08-08",
-      "away": "CIN",
-      "home": "WSH",
-      "opponent": "WSH",
-      "opponentId": 120,
-      "distanceFt": 415,
-      "exitVeloMph": 105.4,
-      "field": "LF",
-      "desc": "Eugenio Su\u00e1rez homers (16) on a fly ball to left center field. Sal Stewart scores."
     }
   ]
 }
