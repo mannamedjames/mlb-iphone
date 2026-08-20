@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 00:35",
+  "generated_at": "2026-08-20 14:07",
   "window_start": "2026-07-21",
   "window_end": "2026-08-20",
-  "games_processed": 399,
+  "games_processed": 409,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -41,15 +41,15 @@
       "rank": 3
     },
     {
-      "playerId": 643217,
-      "name": "Andrew Benintendi",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 10,
-      "started": 18,
-      "pctStarted": 67,
-      "hits": 18,
+      "playerId": 660821,
+      "name": "Jes\u00fas S\u00e1nchez",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 11,
+      "started": 12,
+      "pctStarted": 43,
+      "hits": 5,
       "rank": 4
     },
     {
@@ -59,8 +59,8 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "games": 10,
-      "started": 18,
-      "pctStarted": 69,
+      "started": 19,
+      "pctStarted": 70,
       "hits": 12,
       "rank": 5
     }
@@ -91,6 +91,18 @@
       "rank": 2
     },
     {
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 15,
+      "started": 5,
+      "pctStarted": 20,
+      "hits": 7,
+      "rank": 3
+    },
+    {
       "playerId": 545341,
       "name": "Randal Grichuk",
       "team": "CWS",
@@ -100,18 +112,6 @@
       "started": 9,
       "pctStarted": 33,
       "hits": 17,
-      "rank": 3
-    },
-    {
-      "playerId": 669397,
-      "name": "Nick Allen",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 14,
-      "started": 5,
-      "pctStarted": 21,
-      "hits": 7,
       "rank": 4
     },
     {
