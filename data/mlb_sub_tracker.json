@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 00:38",
+  "generated_at": "2026-08-21 14:06",
   "window_start": "2026-07-22",
   "window_end": "2026-08-21",
-  "games_processed": 400,
+  "games_processed": 403,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -59,9 +59,9 @@
       "teamId": 147,
       "teamName": "New York Yankees",
       "games": 10,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 12,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 13,
       "rank": 5
     }
   ],
@@ -109,21 +109,21 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 14,
-      "started": 5,
-      "pctStarted": 21,
-      "hits": 7,
+      "started": 6,
+      "pctStarted": 24,
+      "hits": 9,
       "rank": 4
     },
     {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
       "games": 13,
-      "started": 6,
-      "pctStarted": 21,
-      "hits": 10,
+      "started": 12,
+      "pctStarted": 46,
+      "hits": 11,
       "rank": 5
     }
   ]
