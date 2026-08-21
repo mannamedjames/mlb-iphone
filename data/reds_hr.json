@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-08-20 12:33",
+  "generated_at": "2026-08-21 12:32",
   "team": "CIN",
-  "window_start": "2026-07-21",
-  "window_end": "2026-08-20",
+  "window_start": "2026-07-22",
+  "window_end": "2026-08-21",
   "homers": [
+    {
+      "batter": "Matt Mclain",
+      "batterId": 680574,
+      "pitcher": "Ryne Stanek",
+      "pitcherHand": "R",
+      "count": "2-2",
+      "pitch": "Split-Finger",
+      "pitchSpeed": 91.5,
+      "rbi": 4,
+      "inning": 6,
+      "halfInning": "Bot",
+      "outs": 2,
+      "date": "2026-08-20",
+      "away": "STL",
+      "home": "CIN",
+      "opponent": "STL",
+      "opponentId": 138,
+      "distanceFt": 360,
+      "exitVeloMph": 102.0,
+      "field": "LF",
+      "desc": "Matt McLain hits a grand slam (12) to left field. Ke'Bryan Hayes scores. Sal Stewart scores. JJ Bleday scores."
+    },
     {
       "batter": "Sal Stewart",
       "batterId": 701398,
@@ -201,28 +223,6 @@
       "exitVeloMph": 110.2,
       "field": "LF",
       "desc": "Sal Stewart homers (26) on a fly ball to left field."
-    },
-    {
-      "batter": "Eugenio Su\u00e1rez",
-      "batterId": 553993,
-      "pitcher": "Sean Burke",
-      "pitcherHand": "R",
-      "count": "1-1",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 92.1,
-      "rbi": 1,
-      "inning": 5,
-      "halfInning": "Top",
-      "outs": 0,
-      "date": "2026-08-11",
-      "away": "CIN",
-      "home": "CWS",
-      "opponent": "CWS",
-      "opponentId": 145,
-      "distanceFt": 401,
-      "exitVeloMph": 103.5,
-      "field": "LF",
-      "desc": "Eugenio Su\u00e1rez homers (17) on a fly ball to left center field."
     }
   ]
 }
