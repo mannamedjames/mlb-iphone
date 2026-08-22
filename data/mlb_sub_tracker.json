@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 17:24",
+  "generated_at": "2026-08-22 21:27",
   "window_start": "2026-07-23",
   "window_end": "2026-08-22",
-  "games_processed": 401,
+  "games_processed": 403,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -10,9 +10,9 @@
       "team": "ATL",
       "teamId": 144,
       "teamName": "Atlanta Braves",
-      "games": 12,
-      "started": 18,
-      "pctStarted": 62,
+      "games": 13,
+      "started": 19,
+      "pctStarted": 63,
       "hits": 13,
       "rank": 1
     },
@@ -36,7 +36,7 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 46,
+      "pctStarted": 45,
       "hits": 7,
       "rank": 3
     },
