@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 00:35",
+  "generated_at": "2026-08-22 13:51",
   "window_start": "2026-07-23",
   "window_end": "2026-08-22",
-  "games_processed": 387,
+  "games_processed": 401,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -23,8 +23,8 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 11,
-      "started": 16,
-      "pctStarted": 64,
+      "started": 17,
+      "pctStarted": 65,
       "hits": 10,
       "rank": 2
     },
@@ -35,9 +35,9 @@
       "teamId": 141,
       "teamName": "Toronto Blue Jays",
       "games": 11,
-      "started": 12,
-      "pctStarted": 44,
-      "hits": 5,
+      "started": 13,
+      "pctStarted": 46,
+      "hits": 7,
       "rank": 3
     },
     {
@@ -48,8 +48,8 @@
       "teamName": "Detroit Tigers",
       "games": 10,
       "started": 19,
-      "pctStarted": 76,
-      "hits": 23,
+      "pctStarted": 73,
+      "hits": 24,
       "rank": 4
     },
     {
@@ -59,9 +59,9 @@
       "teamId": 113,
       "teamName": "Cincinnati Reds",
       "games": 10,
-      "started": 17,
-      "pctStarted": 61,
-      "hits": 8,
+      "started": 18,
+      "pctStarted": 62,
+      "hits": 9,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 18,
+      "games": 19,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 3,
       "rank": 1
     },
@@ -86,7 +86,7 @@
       "teamName": "San Diego Padres",
       "games": 17,
       "started": 6,
-      "pctStarted": 23,
+      "pctStarted": 22,
       "hits": 6,
       "rank": 2
     },
@@ -97,9 +97,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 14,
-      "started": 9,
-      "pctStarted": 35,
-      "hits": 17,
+      "started": 10,
+      "pctStarted": 37,
+      "hits": 19,
       "rank": 3
     },
     {
@@ -109,21 +109,21 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 14,
-      "started": 5,
-      "pctStarted": 21,
+      "started": 6,
+      "pctStarted": 24,
       "hits": 8,
       "rank": 4
     },
     {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 12,
-      "started": 12,
-      "pctStarted": 48,
-      "hits": 11,
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 13,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 4,
       "rank": 5
     }
   ]
