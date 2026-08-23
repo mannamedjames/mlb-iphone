@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 17:23",
+  "generated_at": "2026-08-23 21:28",
   "window_start": "2026-07-24",
   "window_end": "2026-08-23",
-  "games_processed": 411,
+  "games_processed": 418,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -36,32 +36,32 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 46,
+      "pctStarted": 45,
       "hits": 7,
       "rank": 3
     },
     {
-      "playerId": 663647,
-      "name": "Ke'Bryan Hayes",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
+      "playerId": 803011,
+      "name": "Sam Antonacci",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 10,
-      "started": 19,
-      "pctStarted": 63,
-      "hits": 9,
+      "started": 23,
+      "pctStarted": 79,
+      "hits": 22,
       "rank": 4
     },
     {
-      "playerId": 665966,
-      "name": "Carlos Narv\u00e1ez",
-      "team": "BAL",
-      "teamId": 110,
-      "teamName": "Baltimore Orioles",
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 10,
-      "started": 18,
-      "pctStarted": 67,
-      "hits": 3,
+      "started": 19,
+      "pctStarted": 66,
+      "hits": 18,
       "rank": 5
     }
   ],
@@ -98,7 +98,7 @@
       "teamName": "Chicago White Sox",
       "games": 15,
       "started": 10,
-      "pctStarted": 36,
+      "pctStarted": 34,
       "hits": 19,
       "rank": 3
     },
@@ -122,7 +122,7 @@
       "teamName": "Philadelphia Phillies",
       "games": 13,
       "started": 5,
-      "pctStarted": 19,
+      "pctStarted": 18,
       "hits": 5,
       "rank": 5
     }
