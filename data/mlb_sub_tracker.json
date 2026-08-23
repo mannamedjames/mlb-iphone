@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 21:27",
-  "window_start": "2026-07-23",
-  "window_end": "2026-08-22",
-  "games_processed": 403,
+  "generated_at": "2026-08-23 00:38",
+  "window_start": "2026-07-24",
+  "window_end": "2026-08-23",
+  "games_processed": 400,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -10,10 +10,10 @@
       "team": "ATL",
       "teamId": 144,
       "teamName": "Atlanta Braves",
-      "games": 13,
-      "started": 19,
-      "pctStarted": 63,
-      "hits": 13,
+      "games": 12,
+      "started": 18,
+      "pctStarted": 62,
+      "hits": 12,
       "rank": 1
     },
     {
@@ -24,8 +24,8 @@
       "teamName": "Minnesota Twins",
       "games": 11,
       "started": 17,
-      "pctStarted": 65,
-      "hits": 10,
+      "pctStarted": 68,
+      "hits": 9,
       "rank": 2
     },
     {
@@ -36,21 +36,9 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 45,
+      "pctStarted": 46,
       "hits": 7,
       "rank": 3
-    },
-    {
-      "playerId": 690993,
-      "name": "Colt Keith",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 10,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 24,
-      "rank": 4
     },
     {
       "playerId": 663647,
@@ -62,6 +50,18 @@
       "started": 18,
       "pctStarted": 62,
       "hits": 9,
+      "rank": 4
+    },
+    {
+      "playerId": 514888,
+      "name": "Jose Altuve",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 9,
+      "started": 24,
+      "pctStarted": 96,
+      "hits": 27,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 19,
       "started": 2,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 3,
       "rank": 1
     },
@@ -85,8 +85,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 17,
-      "started": 6,
-      "pctStarted": 22,
+      "started": 5,
+      "pctStarted": 19,
       "hits": 6,
       "rank": 2
     },
@@ -121,9 +121,9 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 4,
-      "pctStarted": 15,
-      "hits": 4,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 5,
       "rank": 5
     }
   ]
