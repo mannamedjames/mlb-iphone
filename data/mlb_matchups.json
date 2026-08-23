@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 13:52",
+  "generated_at": "2026-08-23 17:23",
   "date": "2026-08-23",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-23T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "78",
+        "wind": "8 mph, L To R"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-23T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "78",
+        "wind": "11 mph, Out To RF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-23T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "7 mph, R To L"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -166,7 +178,11 @@
       "gameTime": "2026-08-23T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -219,7 +235,11 @@
       "gameTime": "2026-08-23T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "79",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -248,7 +268,22 @@
         "teamAbbr": "DET",
         "teamName": "Detroit Tigers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Jacob Waguespack",
+          "hand": "R",
+          "era": "1.95",
+          "ipDisplay": "27.2",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.312,
+            "woba30Rank": 12,
+            "woba7": 0.375,
+            "woba7Rank": 27,
+            "kPct30": 17.0,
+            "kPct30Rank": 28
+          }
         }
       }
     },
@@ -257,7 +292,11 @@
       "gameTime": "2026-08-23T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "73",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -310,7 +349,11 @@
       "gameTime": "2026-08-23T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "73",
+        "wind": "11 mph, Out To RF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -363,7 +406,11 @@
       "gameTime": "2026-08-23T18:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -416,7 +463,11 @@
       "gameTime": "2026-08-23T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "91",
+        "wind": "5 mph, In From RF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -469,7 +520,11 @@
       "gameTime": "2026-08-23T19:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "3 mph, Out To RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -522,7 +577,11 @@
       "gameTime": "2026-08-23T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "94",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
@@ -575,7 +634,11 @@
       "gameTime": "2026-08-23T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "70",
+        "wind": "5 mph, Out To CF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -628,7 +691,11 @@
       "gameTime": "2026-08-23T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "78",
+        "wind": "9 mph, L To R"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -681,7 +748,11 @@
       "gameTime": "2026-08-23T20:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
