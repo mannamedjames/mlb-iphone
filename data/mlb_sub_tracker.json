@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 00:37",
+  "generated_at": "2026-08-24 14:09",
   "window_start": "2026-07-25",
   "window_end": "2026-08-24",
-  "games_processed": 410,
+  "games_processed": 411,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -12,7 +12,7 @@
       "teamName": "Atlanta Braves",
       "games": 12,
       "started": 18,
-      "pctStarted": 64,
+      "pctStarted": 62,
       "hits": 12,
       "rank": 1
     },
