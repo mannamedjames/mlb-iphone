@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 21:28",
-  "window_start": "2026-07-24",
-  "window_end": "2026-08-23",
-  "games_processed": 418,
+  "generated_at": "2026-08-24 00:37",
+  "window_start": "2026-07-25",
+  "window_end": "2026-08-24",
+  "games_processed": 410,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -12,7 +12,7 @@
       "teamName": "Atlanta Braves",
       "games": 12,
       "started": 18,
-      "pctStarted": 62,
+      "pctStarted": 64,
       "hits": 12,
       "rank": 1
     },
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 657757,
+      "name": "Gavin Sheets",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 11,
+      "started": 16,
+      "pctStarted": 59,
+      "hits": 9,
+      "rank": 3
+    },
+    {
       "playerId": 660821,
       "name": "Jes\u00fas S\u00e1nchez",
       "team": "TOR",
@@ -36,32 +48,20 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 45,
+      "pctStarted": 46,
       "hits": 7,
-      "rank": 3
-    },
-    {
-      "playerId": 803011,
-      "name": "Sam Antonacci",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 10,
-      "started": 23,
-      "pctStarted": 79,
-      "hits": 22,
       "rank": 4
     },
     {
-      "playerId": 643217,
-      "name": "Andrew Benintendi",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
+      "playerId": 650859,
+      "name": "Luis Rengifo",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
       "games": 10,
-      "started": 19,
-      "pctStarted": 66,
-      "hits": 18,
+      "started": 26,
+      "pctStarted": 96,
+      "hits": 26,
       "rank": 5
     }
   ],
@@ -96,9 +96,9 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 15,
+      "games": 14,
       "started": 10,
-      "pctStarted": 34,
+      "pctStarted": 36,
       "hits": 19,
       "rank": 3
     },
@@ -108,22 +108,22 @@
       "team": "HOU",
       "teamId": 117,
       "teamName": "Houston Astros",
-      "games": 14,
+      "games": 13,
       "started": 6,
       "pctStarted": 23,
       "hits": 8,
       "rank": 4
     },
     {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 18,
-      "hits": 5,
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "games": 12,
+      "started": 15,
+      "pctStarted": 56,
+      "hits": 14,
       "rank": 5
     }
   ]
