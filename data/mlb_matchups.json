@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 17:35",
+  "generated_at": "2026-08-24 21:35",
   "date": "2026-08-24",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-24T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "12 mph, Out To CF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -60,7 +64,11 @@
       "gameTime": "2026-08-24T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -113,7 +121,11 @@
       "gameTime": "2026-08-24T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -166,7 +178,11 @@
       "gameTime": "2026-08-24T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -378,7 +394,11 @@
       "gameTime": "2026-08-25T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "92",
+        "wind": "8 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -431,7 +451,11 @@
       "gameTime": "2026-08-25T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "10 mph, In From LF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
