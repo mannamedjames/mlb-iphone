@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 14:09",
+  "generated_at": "2026-08-24 17:35",
   "date": "2026-08-24",
   "games": [
     {
@@ -172,7 +172,22 @@
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Jos\u00e9 Urquidy",
+          "hand": "R",
+          "era": "5.06",
+          "ipDisplay": "16.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.282,
+            "woba30Rank": 1,
+            "woba7": 0.19,
+            "woba7Rank": 1,
+            "kPct30": 26.7,
+            "kPct30Rank": 3
+          }
         }
       },
       "away": {
@@ -475,7 +490,22 @@
         "teamAbbr": "SF",
         "teamName": "San Francisco Giants",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Carson Whisenhunt",
+          "hand": "L",
+          "era": "7.03",
+          "ipDisplay": "32.0",
+          "gamesStarted": 7,
+          "avgIpPerOuting": 4.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.288,
+            "woba30Rank": 5,
+            "woba7": 0.318,
+            "woba7Rank": 14,
+            "kPct30": 27.7,
+            "kPct30Rank": 1
+          }
         }
       },
       "away": {
