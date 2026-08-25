@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 17:36",
+  "generated_at": "2026-08-25 21:34",
   "date": "2026-08-25",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-25T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "8 mph, In From RF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -37,19 +41,19 @@
         "teamName": "Tampa Bay Rays",
         "starter": {
           "confirmed": true,
-          "name": "Ian Seymour",
-          "hand": "L",
-          "era": "4.17",
-          "ipDisplay": "101.1",
-          "gamesStarted": 11,
-          "avgIpPerOuting": 4.7,
-          "isOpener": false,
+          "name": "Casey Legumina",
+          "hand": "R",
+          "era": "3.99",
+          "ipDisplay": "56.1",
+          "gamesStarted": 5,
+          "avgIpPerOuting": 1.6,
+          "isOpener": true,
           "oppSplits": {
-            "woba30": 0.326,
-            "woba30Rank": 15,
-            "woba7": 0.247,
-            "woba7Rank": 5,
-            "kPct30": 21.5,
+            "woba30": 0.348,
+            "woba30Rank": 28,
+            "woba7": 0.268,
+            "woba7Rank": 2,
+            "kPct30": 19.3,
             "kPct30Rank": 20
           }
         }
@@ -60,13 +64,32 @@
       "gameTime": "2026-08-25T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
         "teamName": "Miami Marlins",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Tyler Phillips",
+          "hand": "R",
+          "era": "3.67",
+          "ipDisplay": "100.2",
+          "gamesStarted": 14,
+          "avgIpPerOuting": 4.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.376,
+            "woba30Rank": 30,
+            "woba7": 0.382,
+            "woba7Rank": 28,
+            "kPct30": 17.4,
+            "kPct30Rank": 26
+          }
         }
       },
       "away": {
@@ -98,7 +121,11 @@
       "gameTime": "2026-08-25T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -127,7 +154,22 @@
         "teamAbbr": "COL",
         "teamName": "Colorado Rockies",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Mason Adams",
+          "hand": "R",
+          "era": null,
+          "ipDisplay": null,
+          "gamesStarted": null,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.319,
+            "woba30Rank": 13,
+            "woba7": 0.289,
+            "woba7Rank": 8,
+            "kPct30": 21.1,
+            "kPct30Rank": 15
+          }
         }
       }
     },
@@ -136,7 +178,11 @@
       "gameTime": "2026-08-25T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -189,7 +235,11 @@
       "gameTime": "2026-08-25T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "72",
+        "wind": "5 mph, Out To CF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -242,7 +292,11 @@
       "gameTime": "2026-08-25T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -295,7 +349,11 @@
       "gameTime": "2026-08-25T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "89",
+        "wind": "3 mph, Out To CF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -348,7 +406,11 @@
       "gameTime": "2026-08-25T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "8 mph, In From RF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -401,13 +463,32 @@
       "gameTime": "2026-08-25T23:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "5 mph, L To R"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
         "teamName": "St. Louis Cardinals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Matthew Liberatore",
+          "hand": "L",
+          "era": "5.04",
+          "ipDisplay": "125.0",
+          "gamesStarted": 25,
+          "avgIpPerOuting": 5.0,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.307,
+            "woba30Rank": 10,
+            "woba7": 0.184,
+            "woba7Rank": 1,
+            "kPct30": 26.7,
+            "kPct30Rank": 3
+          }
         }
       },
       "away": {
@@ -439,7 +520,11 @@
       "gameTime": "2026-08-26T01:38:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "90",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
@@ -545,7 +630,11 @@
       "gameTime": "2026-08-26T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "6 mph, Out To RF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -598,7 +687,11 @@
       "gameTime": "2026-08-26T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "93",
+        "wind": "6 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -651,7 +744,11 @@
       "gameTime": "2026-08-26T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "84",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
