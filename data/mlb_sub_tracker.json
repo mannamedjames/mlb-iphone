@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 21:35",
-  "window_start": "2026-07-25",
-  "window_end": "2026-08-24",
-  "games_processed": 411,
+  "generated_at": "2026-08-25 00:36",
+  "window_start": "2026-07-26",
+  "window_end": "2026-08-25",
+  "games_processed": 396,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -10,10 +10,10 @@
       "team": "ATL",
       "teamId": 144,
       "teamName": "Atlanta Braves",
-      "games": 12,
-      "started": 18,
-      "pctStarted": 62,
-      "hits": 12,
+      "games": 11,
+      "started": 17,
+      "pctStarted": 61,
+      "hits": 11,
       "rank": 1
     },
     {
@@ -22,23 +22,11 @@
       "team": "MIN",
       "teamId": 142,
       "teamName": "Minnesota Twins",
-      "games": 12,
-      "started": 18,
-      "pctStarted": 69,
-      "hits": 9,
-      "rank": 2
-    },
-    {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
       "games": 11,
-      "started": 16,
-      "pctStarted": 59,
-      "hits": 9,
-      "rank": 3
+      "started": 17,
+      "pctStarted": 68,
+      "hits": 8,
+      "rank": 2
     },
     {
       "playerId": 660821,
@@ -48,9 +36,9 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 46,
+      "pctStarted": 48,
       "hits": 7,
-      "rank": 4
+      "rank": 3
     },
     {
       "playerId": 650859,
@@ -59,9 +47,21 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 10,
-      "started": 26,
+      "started": 25,
       "pctStarted": 96,
-      "hits": 26,
+      "hits": 25,
+      "rank": 4
+    },
+    {
+      "playerId": 663647,
+      "name": "Ke'Bryan Hayes",
+      "team": "CIN",
+      "teamId": 113,
+      "teamName": "Cincinnati Reds",
+      "games": 10,
+      "started": 18,
+      "pctStarted": 62,
+      "hits": 9,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 19,
       "started": 2,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 3,
       "rank": 1
     },
@@ -84,10 +84,10 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 17,
+      "games": 16,
       "started": 5,
       "pctStarted": 19,
-      "hits": 6,
+      "hits": 5,
       "rank": 2
     },
     {
@@ -96,23 +96,11 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 14,
+      "games": 13,
       "started": 10,
-      "pctStarted": 36,
+      "pctStarted": 37,
       "hits": 19,
       "rank": 3
-    },
-    {
-      "playerId": 669397,
-      "name": "Nick Allen",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 13,
-      "started": 6,
-      "pctStarted": 23,
-      "hits": 8,
-      "rank": 4
     },
     {
       "playerId": 642350,
@@ -121,9 +109,21 @@
       "teamId": 108,
       "teamName": "Los Angeles Angels",
       "games": 12,
-      "started": 15,
-      "pctStarted": 56,
-      "hits": 14,
+      "started": 14,
+      "pctStarted": 54,
+      "hits": 12,
+      "rank": 4
+    },
+    {
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
+      "games": 12,
+      "started": 6,
+      "pctStarted": 24,
+      "hits": 8,
       "rank": 5
     }
   ]
