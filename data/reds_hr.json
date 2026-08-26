@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-08-25 12:34",
+  "generated_at": "2026-08-26 12:38",
   "team": "CIN",
-  "window_start": "2026-07-26",
-  "window_end": "2026-08-25",
+  "window_start": "2026-07-27",
+  "window_end": "2026-08-26",
   "homers": [
+    {
+      "batter": "Sal Stewart",
+      "batterId": 701398,
+      "pitcher": "Carson Seymour",
+      "pitcherHand": "R",
+      "count": "1-0",
+      "pitch": "Sinker",
+      "pitchSpeed": 96.6,
+      "rbi": 1,
+      "inning": 9,
+      "halfInning": "Top",
+      "outs": 0,
+      "date": "2026-08-25",
+      "away": "CIN",
+      "home": "SF",
+      "opponent": "SF",
+      "opponentId": 137,
+      "distanceFt": 355,
+      "exitVeloMph": 103.2,
+      "field": "RF",
+      "desc": "Sal Stewart homers (28) on a fly ball to right field."
+    },
     {
       "batter": "Matt Mclain",
       "batterId": 680574,
@@ -201,28 +223,6 @@
       "exitVeloMph": 99.0,
       "field": "RCF",
       "desc": "Tyler Stephenson homers (12) on a fly ball to center field."
-    },
-    {
-      "batter": "Matt Mclain",
-      "batterId": 680574,
-      "pitcher": "Ryan Gusto",
-      "pitcherHand": "R",
-      "count": "1-2",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 95.7,
-      "rbi": 1,
-      "inning": 5,
-      "halfInning": "Bot",
-      "outs": 0,
-      "date": "2026-08-15",
-      "away": "MIA",
-      "home": "CIN",
-      "opponent": "MIA",
-      "opponentId": 146,
-      "distanceFt": 383,
-      "exitVeloMph": 103.2,
-      "field": "LF",
-      "desc": "Matt McLain homers (11) on a line drive to left field."
     }
   ]
 }
