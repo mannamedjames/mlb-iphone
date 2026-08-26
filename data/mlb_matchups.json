@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 14:11",
+  "generated_at": "2026-08-26 19:07",
   "date": "2026-08-26",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "75",
-        "wind": "14 mph, R To L"
+        "temp": "78",
+        "wind": "9 mph, R To L"
       },
       "home": {
         "teamId": 116,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Troy Melton",
           "hand": "R",
-          "era": "1.70",
-          "ipDisplay": "90.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 6.0,
+          "era": "1.86",
+          "ipDisplay": "97.0",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 6.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.343,
@@ -43,9 +43,9 @@
           "confirmed": true,
           "name": "Freddy Peralta",
           "hand": "R",
-          "era": "5.33",
-          "ipDisplay": "135.0",
-          "gamesStarted": 26,
+          "era": "5.11",
+          "ipDisplay": "141.0",
+          "gamesStarted": 27,
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
@@ -64,7 +64,11 @@
       "gameTime": "2026-08-26T19:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -117,19 +121,23 @@
       "gameTime": "2026-08-26T19:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "74",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
         "teamName": "San Francisco Giants",
         "starter": {
           "confirmed": true,
-          "name": "Landen Roupp",
+          "name": "Logan Webb",
           "hand": "R",
-          "era": "4.34",
-          "ipDisplay": "134.2",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 5.4,
+          "era": "3.75",
+          "ipDisplay": "141.2",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 6.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.298,
@@ -170,7 +178,11 @@
       "gameTime": "2026-08-26T20:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "95",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
@@ -223,7 +235,11 @@
       "gameTime": "2026-08-26T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -276,7 +292,11 @@
       "gameTime": "2026-08-26T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "74",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -329,7 +349,11 @@
       "gameTime": "2026-08-26T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -382,7 +406,11 @@
       "gameTime": "2026-08-26T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -441,7 +469,22 @@
         "teamAbbr": "NYY",
         "teamName": "New York Yankees",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Elmer Rodr\u00edguez",
+          "hand": "R",
+          "era": "4.76",
+          "ipDisplay": "17.0",
+          "gamesStarted": 4,
+          "avgIpPerOuting": 4.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.334,
+            "woba30Rank": 21,
+            "woba7": 0.334,
+            "woba7Rank": 19,
+            "kPct30": 21.8,
+            "kPct30Rank": 12
+          }
         }
       },
       "away": {
@@ -473,7 +516,11 @@
       "gameTime": "2026-08-26T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "72",
+        "wind": "10 mph, Out To LF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -579,7 +626,11 @@
       "gameTime": "2026-08-26T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "3 mph, In From LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
