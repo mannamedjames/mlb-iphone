@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-08-25 21:34",
-  "window_start": "2026-07-26",
-  "window_end": "2026-08-25",
-  "games_processed": 406,
+  "generated_at": "2026-08-26 00:37",
+  "window_start": "2026-07-27",
+  "window_end": "2026-08-26",
+  "games_processed": 391,
   "subbed_out": [
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 11,
-      "started": 17,
-      "pctStarted": 61,
-      "hits": 11,
-      "rank": 1
-    },
     {
       "playerId": 663616,
       "name": "Trevor Larnach",
@@ -24,21 +12,9 @@
       "teamName": "Minnesota Twins",
       "games": 11,
       "started": 17,
-      "pctStarted": 65,
+      "pctStarted": 68,
       "hits": 8,
-      "rank": 2
-    },
-    {
-      "playerId": 657757,
-      "name": "Gavin Sheets",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 11,
-      "started": 16,
-      "pctStarted": 59,
-      "hits": 9,
-      "rank": 3
+      "rank": 1
     },
     {
       "playerId": 660821,
@@ -48,9 +24,9 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 48,
+      "pctStarted": 50,
       "hits": 7,
-      "rank": 4
+      "rank": 2
     },
     {
       "playerId": 650859,
@@ -59,9 +35,33 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 10,
-      "started": 25,
-      "pctStarted": 93,
-      "hits": 25,
+      "started": 24,
+      "pctStarted": 92,
+      "hits": 23,
+      "rank": 3
+    },
+    {
+      "playerId": 665966,
+      "name": "Carlos Narv\u00e1ez",
+      "team": "BAL",
+      "teamId": 110,
+      "teamName": "Baltimore Orioles",
+      "games": 10,
+      "started": 17,
+      "pctStarted": 68,
+      "hits": 3,
+      "rank": 4
+    },
+    {
+      "playerId": 573262,
+      "name": "Mike Yastrzemski",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 10,
+      "started": 16,
+      "pctStarted": 59,
+      "hits": 11,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 19,
+      "games": 18,
       "started": 2,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 3,
       "rank": 1
     },
@@ -84,23 +84,11 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 16,
+      "games": 15,
       "started": 5,
       "pctStarted": 19,
       "hits": 5,
       "rank": 2
-    },
-    {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 13,
-      "started": 10,
-      "pctStarted": 36,
-      "hits": 19,
-      "rank": 3
     },
     {
       "playerId": 642350,
@@ -109,21 +97,33 @@
       "teamId": 108,
       "teamName": "Los Angeles Angels",
       "games": 12,
-      "started": 15,
-      "pctStarted": 56,
+      "started": 14,
+      "pctStarted": 54,
       "hits": 12,
+      "rank": 3
+    },
+    {
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 12,
+      "started": 10,
+      "pctStarted": 37,
+      "hits": 18,
       "rank": 4
     },
     {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
       "games": 12,
-      "started": 6,
-      "pctStarted": 21,
-      "hits": 10,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 5,
       "rank": 5
     }
   ]
