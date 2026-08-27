@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 05:36",
+  "generated_at": "2026-08-27 23:01",
   "date": "2026-08-27",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-08-27T17:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "9 mph, Out To LF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -16,18 +20,18 @@
           "confirmed": true,
           "name": "Jake Irvin",
           "hand": "R",
-          "era": "5.82",
-          "ipDisplay": "77.1",
-          "gamesStarted": 16,
+          "era": "5.62",
+          "ipDisplay": "81.2",
+          "gamesStarted": 17,
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.332,
-            "woba30Rank": 20,
-            "woba7": 0.298,
-            "woba7Rank": 6,
-            "kPct30": 23.2,
-            "kPct30Rank": 8
+            "woba30": 0.34,
+            "woba30Rank": 25,
+            "woba7": 0.341,
+            "woba7Rank": 18,
+            "kPct30": 22.5,
+            "kPct30Rank": 9
           }
         }
       },
@@ -39,18 +43,18 @@
           "confirmed": true,
           "name": "Gabriel Hughes",
           "hand": "R",
-          "era": "6.54",
-          "ipDisplay": "42.2",
-          "gamesStarted": 8,
+          "era": "6.61",
+          "ipDisplay": "47.2",
+          "gamesStarted": 9,
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.312,
-            "woba30Rank": 10,
-            "woba7": 0.301,
-            "woba7Rank": 10,
-            "kPct30": 21.4,
-            "kPct30Rank": 15
+            "woba30": 0.309,
+            "woba30Rank": 7,
+            "woba7": 0.279,
+            "woba7Rank": 5,
+            "kPct30": 20.8,
+            "kPct30Rank": 16
           }
         }
       }
@@ -60,13 +64,32 @@
       "gameTime": "2026-08-27T18:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "6 mph, Out To RF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
         "teamName": "St. Louis Cardinals",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Gordon Graceffo",
+          "hand": "R",
+          "era": "2.98",
+          "ipDisplay": "66.1",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 3.0,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.317,
+            "woba30Rank": 11,
+            "woba7": 0.34,
+            "woba7Rank": 17,
+            "kPct30": 23.3,
+            "kPct30Rank": 8
+          }
         }
       },
       "away": {
@@ -77,17 +100,17 @@
           "confirmed": true,
           "name": "Trevor Rogers",
           "hand": "L",
-          "era": "4.14",
-          "ipDisplay": "132.2",
-          "gamesStarted": 24,
+          "era": "4.38",
+          "ipDisplay": "137.2",
+          "gamesStarted": 25,
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.338,
-            "woba30Rank": 21,
-            "woba7": 0.383,
-            "woba7Rank": 27,
-            "kPct30": 20.8,
+            "woba30": 0.343,
+            "woba30Rank": 25,
+            "woba7": 0.38,
+            "woba7Rank": 26,
+            "kPct30": 20.7,
             "kPct30Rank": 24
           }
         }
@@ -98,7 +121,11 @@
       "gameTime": "2026-08-27T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Drizzle",
+        "temp": "76",
+        "wind": "9 mph, R To L"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -113,11 +140,11 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.334,
-            "woba30Rank": 21,
-            "woba7": 0.334,
-            "woba7Rank": 19,
-            "kPct30": 21.8,
+            "woba30": 0.332,
+            "woba30Rank": 19,
+            "woba7": 0.332,
+            "woba7Rank": 15,
+            "kPct30": 22.1,
             "kPct30Rank": 12
           }
         }
@@ -136,11 +163,11 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.3,
+            "woba30": 0.305,
             "woba30Rank": 5,
-            "woba7": 0.364,
-            "woba7Rank": 27,
-            "kPct30": 27.2,
+            "woba7": 0.369,
+            "woba7Rank": 25,
+            "kPct30": 26.9,
             "kPct30Rank": 3
           }
         }
@@ -151,7 +178,11 @@
       "gameTime": "2026-08-27T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "77",
+        "wind": "15 mph, R To L"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -166,12 +197,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.326,
-            "woba30Rank": 17,
-            "woba7": 0.394,
-            "woba7Rank": 30,
-            "kPct30": 17.1,
-            "kPct30Rank": 28
+            "woba30": 0.32,
+            "woba30Rank": 14,
+            "woba7": 0.355,
+            "woba7Rank": 23,
+            "kPct30": 17.5,
+            "kPct30Rank": 25
           }
         }
       },
@@ -189,12 +220,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.297,
-            "woba30Rank": 6,
-            "woba7": 0.373,
-            "woba7Rank": 26,
-            "kPct30": 19.1,
-            "kPct30Rank": 27
+            "woba30": 0.299,
+            "woba30Rank": 8,
+            "woba7": 0.376,
+            "woba7Rank": 25,
+            "kPct30": 19.5,
+            "kPct30Rank": 26
           }
         }
       }
@@ -204,7 +235,11 @@
       "gameTime": "2026-08-27T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "74",
+        "wind": "13 mph, Out To LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -219,11 +254,11 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.331,
-            "woba30Rank": 17,
-            "woba7": 0.305,
-            "woba7Rank": 17,
-            "kPct30": 27.8,
+            "woba30": 0.332,
+            "woba30Rank": 19,
+            "woba7": 0.293,
+            "woba7Rank": 13,
+            "kPct30": 27.4,
             "kPct30Rank": 2
           }
         }
@@ -242,11 +277,11 @@
           "avgIpPerOuting": 6.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.344,
-            "woba30Rank": 28,
-            "woba7": 0.393,
-            "woba7Rank": 29,
-            "kPct30": 22.5,
+            "woba30": 0.341,
+            "woba30Rank": 27,
+            "woba7": 0.388,
+            "woba7Rank": 28,
+            "kPct30": 22.3,
             "kPct30Rank": 10
           }
         }
@@ -257,7 +292,11 @@
       "gameTime": "2026-08-27T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "2 mph, In From RF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -272,11 +311,11 @@
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.348,
+            "woba30": 0.354,
             "woba30Rank": 27,
-            "woba7": 0.336,
-            "woba7Rank": 21,
-            "kPct30": 20.4,
+            "woba7": 0.361,
+            "woba7Rank": 22,
+            "kPct30": 19.9,
             "kPct30Rank": 25
           }
         }
@@ -295,11 +334,11 @@
           "avgIpPerOuting": 6.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.282,
-            "woba30Rank": 1,
-            "woba7": 0.253,
-            "woba7Rank": 1,
-            "kPct30": 24.7,
+            "woba30": 0.292,
+            "woba30Rank": 2,
+            "woba7": 0.309,
+            "woba7Rank": 8,
+            "kPct30": 24.0,
             "kPct30Rank": 6
           }
         }
@@ -310,7 +349,11 @@
       "gameTime": "2026-08-28T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "70",
+        "wind": "12 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -325,9 +368,9 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.316,
+            "woba30": 0.319,
             "woba30Rank": 12,
-            "woba7": 0.28,
+            "woba7": 0.273,
             "woba7Rank": 4,
             "kPct30": 17.3,
             "kPct30Rank": 26
@@ -348,12 +391,12 @@
           "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 19,
-            "woba7": 0.348,
-            "woba7Rank": 24,
-            "kPct30": 20.3,
-            "kPct30Rank": 19
+            "woba30": 0.336,
+            "woba30Rank": 23,
+            "woba7": 0.381,
+            "woba7Rank": 27,
+            "kPct30": 20.7,
+            "kPct30Rank": 17
           }
         }
       }
