@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-26 19:07",
-  "window_start": "2026-07-27",
-  "window_end": "2026-08-26",
-  "games_processed": 406,
+  "generated_at": "2026-08-27 00:36",
+  "window_start": "2026-07-28",
+  "window_end": "2026-08-27",
+  "games_processed": 400,
   "subbed_out": [
+    {
+      "playerId": 650859,
+      "name": "Luis Rengifo",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 11,
+      "started": 26,
+      "pctStarted": 93,
+      "hits": 24,
+      "rank": 1
+    },
     {
       "playerId": 573262,
       "name": "Mike Yastrzemski",
@@ -12,9 +24,9 @@
       "teamName": "Atlanta Braves",
       "games": 11,
       "started": 17,
-      "pctStarted": 61,
+      "pctStarted": 63,
       "hits": 11,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 663616,
@@ -26,7 +38,7 @@
       "started": 17,
       "pctStarted": 65,
       "hits": 8,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 660821,
@@ -36,20 +48,8 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 14,
-      "pctStarted": 52,
+      "pctStarted": 54,
       "hits": 7,
-      "rank": 3
-    },
-    {
-      "playerId": 650859,
-      "name": "Luis Rengifo",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 10,
-      "started": 25,
-      "pctStarted": 93,
-      "hits": 23,
       "rank": 4
     },
     {
@@ -59,9 +59,9 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 22,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 21,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 19,
+      "games": 18,
       "started": 2,
       "pctStarted": 7,
       "hits": 3,
@@ -84,11 +84,23 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 16,
+      "games": 17,
       "started": 5,
-      "pctStarted": 19,
+      "pctStarted": 18,
       "hits": 5,
       "rank": 2
+    },
+    {
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 13,
+      "started": 4,
+      "pctStarted": 15,
+      "hits": 5,
+      "rank": 3
     },
     {
       "playerId": 642350,
@@ -96,11 +108,11 @@
       "team": "LAA",
       "teamId": 108,
       "teamName": "Los Angeles Angels",
-      "games": 13,
-      "started": 14,
-      "pctStarted": 52,
+      "games": 12,
+      "started": 15,
+      "pctStarted": 56,
       "hits": 12,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 545341,
@@ -109,21 +121,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 12,
-      "started": 10,
-      "pctStarted": 36,
-      "hits": 18,
-      "rank": 4
-    },
-    {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "games": 12,
-      "started": 6,
-      "pctStarted": 21,
-      "hits": 10,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 17,
       "rank": 5
     }
   ]
