@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28 01:23",
+  "generated_at": "2026-08-28 05:11",
   "window_start": "2026-07-29",
   "window_end": "2026-08-28",
-  "games_processed": 395,
+  "games_processed": 400,
   "subbed_out": [
     {
       "playerId": 573262,
@@ -11,8 +11,8 @@
       "teamId": 144,
       "teamName": "Atlanta Braves",
       "games": 12,
-      "started": 18,
-      "pctStarted": 67,
+      "started": 19,
+      "pctStarted": 68,
       "hits": 12,
       "rank": 1
     },
@@ -24,7 +24,7 @@
       "teamName": "Toronto Blue Jays",
       "games": 12,
       "started": 15,
-      "pctStarted": 58,
+      "pctStarted": 56,
       "hits": 9,
       "rank": 2
     },
@@ -47,9 +47,9 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 21,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 23,
       "rank": 4
     },
     {
@@ -86,7 +86,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 17,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 3,
       "rank": 2
     },

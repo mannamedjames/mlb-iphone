@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 01:24",
+  "generated_at": "2026-08-28 05:11",
   "date": "2026-08-28",
   "games": [
     {
@@ -748,7 +748,22 @@
         "teamAbbr": "AZ",
         "teamName": "Arizona Diamondbacks",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Kohl Drake",
+          "hand": "L",
+          "era": "5.40",
+          "ipDisplay": "16.2",
+          "gamesStarted": 4,
+          "avgIpPerOuting": 4.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.27,
+            "woba30Rank": 2,
+            "woba7": 0.282,
+            "woba7Rank": 9,
+            "kPct30": 25.1,
+            "kPct30Rank": 9
+          }
         }
       }
     }
