@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 19:39",
+  "generated_at": "2026-08-29 23:11",
   "window_start": "2026-07-30",
   "window_end": "2026-08-29",
-  "games_processed": 399,
+  "games_processed": 410,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -12,7 +12,7 @@
       "teamName": "Toronto Blue Jays",
       "games": 13,
       "started": 16,
-      "pctStarted": 59,
+      "pctStarted": 57,
       "hits": 9,
       "rank": 1
     },
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 650859,
+      "name": "Luis Rengifo",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 11,
+      "started": 26,
+      "pctStarted": 93,
+      "hits": 24,
+      "rank": 3
+    },
+    {
       "playerId": 592626,
       "name": "Joc Pederson",
       "team": "TEX",
@@ -38,18 +50,6 @@
       "started": 16,
       "pctStarted": 59,
       "hits": 9,
-      "rank": 3
-    },
-    {
-      "playerId": 650859,
-      "name": "Luis Rengifo",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 10,
-      "started": 25,
-      "pctStarted": 93,
-      "hits": 24,
       "rank": 4
     },
     {
@@ -72,10 +72,10 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 18,
+      "games": 19,
       "started": 1,
       "pctStarted": 4,
-      "hits": 3,
+      "hits": 4,
       "rank": 1
     },
     {
@@ -84,9 +84,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 17,
+      "games": 18,
       "started": 5,
-      "pctStarted": 19,
+      "pctStarted": 18,
       "hits": 5,
       "rank": 2
     },
@@ -103,6 +103,18 @@
       "rank": 3
     },
     {
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 12,
+      "started": 10,
+      "pctStarted": 36,
+      "hits": 17,
+      "rank": 4
+    },
+    {
       "playerId": 657041,
       "name": "Lane Thomas",
       "team": "ATL",
@@ -112,18 +124,6 @@
       "started": 9,
       "pctStarted": 33,
       "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "games": 12,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 7,
       "rank": 5
     }
   ]
