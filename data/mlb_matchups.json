@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 00:54",
+  "generated_at": "2026-08-29 03:07",
   "date": "2026-08-29",
   "games": [
     {
@@ -13,7 +13,22 @@
         "teamAbbr": "NYY",
         "teamName": "New York Yankees",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Carlos Rod\u00f3n",
+          "hand": "L",
+          "era": "3.15",
+          "ipDisplay": "54.1",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 4.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.334,
+            "woba30Rank": 20,
+            "woba7": 0.411,
+            "woba7Rank": 29,
+            "kPct30": 22.1,
+            "kPct30Rank": 18
+          }
         }
       },
       "away": {
@@ -453,7 +468,22 @@
         "teamAbbr": "HOU",
         "teamName": "Houston Astros",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Bennett Sousa",
+          "hand": "L",
+          "era": "6.27",
+          "ipDisplay": "18.2",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.293,
+            "woba30Rank": 7,
+            "woba7": 0.27,
+            "woba7Rank": 6,
+            "kPct30": 26.4,
+            "kPct30Rank": 4
+          }
         }
       }
     },
@@ -574,7 +604,22 @@
         "teamAbbr": "NYY",
         "teamName": "New York Yankees",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Max Fried",
+          "hand": "L",
+          "era": "2.81",
+          "ipDisplay": "86.1",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.334,
+            "woba30Rank": 20,
+            "woba7": 0.411,
+            "woba7Rank": 29,
+            "kPct30": 22.1,
+            "kPct30Rank": 18
+          }
         }
       },
       "away": {
