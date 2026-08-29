@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 04:41",
+  "generated_at": "2026-08-29 17:16",
   "window_start": "2026-07-30",
   "window_end": "2026-08-29",
-  "games_processed": 398,
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -67,6 +67,18 @@
   ],
   "subbed_in": [
     {
+      "playerId": 678489,
+      "name": "Jorge Barrosa",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 18,
+      "started": 1,
+      "pctStarted": 4,
+      "hits": 3,
+      "rank": 1
+    },
+    {
       "playerId": 687749,
       "name": "Jase Bowen",
       "team": "SD",
@@ -76,18 +88,6 @@
       "started": 5,
       "pctStarted": 19,
       "hits": 5,
-      "rank": 1
-    },
-    {
-      "playerId": 678489,
-      "name": "Jorge Barrosa",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 17,
-      "started": 1,
-      "pctStarted": 4,
-      "hits": 3,
       "rank": 2
     },
     {
