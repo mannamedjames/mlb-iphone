@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 03:07",
+  "generated_at": "2026-08-29 04:41",
   "window_start": "2026-07-30",
   "window_end": "2026-08-29",
-  "games_processed": 395,
+  "games_processed": 398,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -97,9 +97,9 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 4,
-      "pctStarted": 16,
-      "hits": 5,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 6,
       "rank": 3
     },
     {

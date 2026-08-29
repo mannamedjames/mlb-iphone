@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 03:07",
+  "generated_at": "2026-08-29 04:41",
   "date": "2026-08-29",
   "games": [
     {
@@ -195,7 +195,22 @@
         "teamAbbr": "PIT",
         "teamName": "Pittsburgh Pirates",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Lake Bachar",
+          "hand": "R",
+          "era": "3.70",
+          "ipDisplay": "73.0",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 2.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.314,
+            "woba30Rank": 11,
+            "woba7": 0.276,
+            "woba7Rank": 5,
+            "kPct30": 22.8,
+            "kPct30Rank": 9
+          }
         }
       }
     },
