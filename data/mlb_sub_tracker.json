@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-08-28 23:07",
-  "window_start": "2026-07-29",
-  "window_end": "2026-08-28",
-  "games_processed": 401,
+  "generated_at": "2026-08-29 00:54",
+  "window_start": "2026-07-30",
+  "window_end": "2026-08-29",
+  "games_processed": 385,
   "subbed_out": [
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 12,
-      "started": 19,
-      "pctStarted": 68,
-      "hits": 12,
-      "rank": 1
-    },
     {
       "playerId": 660821,
       "name": "Jes\u00fas S\u00e1nchez",
@@ -24,8 +12,20 @@
       "teamName": "Toronto Blue Jays",
       "games": 12,
       "started": 15,
-      "pctStarted": 56,
+      "pctStarted": 58,
       "hits": 9,
+      "rank": 1
+    },
+    {
+      "playerId": 573262,
+      "name": "Mike Yastrzemski",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 11,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 12,
       "rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 11,
-      "started": 25,
-      "pctStarted": 93,
+      "games": 10,
+      "started": 24,
+      "pctStarted": 92,
       "hits": 24,
       "rank": 3
     },
@@ -48,36 +48,24 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 21,
-      "pctStarted": 78,
+      "pctStarted": 81,
       "hits": 23,
       "rank": 4
     },
     {
-      "playerId": 663647,
-      "name": "Ke'Bryan Hayes",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
       "games": 10,
-      "started": 18,
-      "pctStarted": 62,
+      "started": 15,
+      "pctStarted": 58,
       "hits": 9,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 17,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 5,
-      "rank": 1
-    },
     {
       "playerId": 678489,
       "name": "Jorge Barrosa",
@@ -85,9 +73,21 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 17,
-      "started": 2,
-      "pctStarted": 7,
+      "started": 1,
+      "pctStarted": 4,
       "hits": 3,
+      "rank": 1
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 16,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 5,
       "rank": 2
     },
     {
@@ -98,9 +98,21 @@
       "teamName": "Philadelphia Phillies",
       "games": 13,
       "started": 4,
-      "pctStarted": 15,
+      "pctStarted": 16,
       "hits": 5,
       "rank": 3
+    },
+    {
+      "playerId": 657041,
+      "name": "Lane Thomas",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 11,
+      "started": 9,
+      "pctStarted": 35,
+      "hits": 9,
+      "rank": 4
     },
     {
       "playerId": 642201,
@@ -108,22 +120,10 @@
       "team": "BOS",
       "teamId": 111,
       "teamName": "Boston Red Sox",
-      "games": 12,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
       "games": 11,
-      "started": 15,
-      "pctStarted": 58,
-      "hits": 12,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 6,
       "rank": 5
     }
   ]
