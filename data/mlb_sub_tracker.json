@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30 02:13",
+  "generated_at": "2026-08-30 17:39",
   "window_start": "2026-07-31",
   "window_end": "2026-08-30",
-  "games_processed": 402,
+  "games_processed": 406,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -74,7 +74,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 19,
       "started": 1,
-      "pctStarted": 4,
+      "pctStarted": 3,
       "hits": 4,
       "rank": 1
     },
@@ -96,7 +96,7 @@
       "team": "PHI",
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
-      "games": 13,
+      "games": 14,
       "started": 5,
       "pctStarted": 19,
       "hits": 6,
