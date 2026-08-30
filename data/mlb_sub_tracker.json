@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 23:11",
-  "window_start": "2026-07-30",
-  "window_end": "2026-08-29",
-  "games_processed": 410,
+  "generated_at": "2026-08-30 02:13",
+  "window_start": "2026-07-31",
+  "window_end": "2026-08-30",
+  "games_processed": 402,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -17,27 +17,27 @@
       "rank": 1
     },
     {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 12,
-      "started": 19,
-      "pctStarted": 70,
-      "hits": 13,
-      "rank": 2
-    },
-    {
       "playerId": 650859,
       "name": "Luis Rengifo",
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 11,
-      "started": 26,
+      "started": 25,
       "pctStarted": 93,
-      "hits": 24,
+      "hits": 22,
+      "rank": 2
+    },
+    {
+      "playerId": 573262,
+      "name": "Mike Yastrzemski",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
+      "games": 11,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 12,
       "rank": 3
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 10,
       "started": 21,
-      "pctStarted": 78,
+      "pctStarted": 75,
       "hits": 23,
       "rank": 5
     }
@@ -85,8 +85,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 18,
-      "started": 5,
-      "pctStarted": 18,
+      "started": 4,
+      "pctStarted": 15,
       "hits": 5,
       "rank": 2
     },
@@ -109,9 +109,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 12,
-      "started": 10,
-      "pctStarted": 36,
-      "hits": 17,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 15,
       "rank": 4
     },
     {
