@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01 00:30",
+  "generated_at": "2026-09-01 02:29",
   "window_start": "2026-08-02",
   "window_end": "2026-09-01",
-  "games_processed": 390,
+  "games_processed": 397,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -24,7 +24,7 @@
       "teamName": "San Diego Padres",
       "games": 11,
       "started": 23,
-      "pctStarted": 88,
+      "pctStarted": 85,
       "hits": 21,
       "rank": 2
     },
@@ -35,8 +35,8 @@
       "teamId": 144,
       "teamName": "Atlanta Braves",
       "games": 11,
-      "started": 18,
-      "pctStarted": 69,
+      "started": 19,
+      "pctStarted": 70,
       "hits": 10,
       "rank": 3
     },
@@ -59,9 +59,9 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 10,
-      "started": 17,
-      "pctStarted": 68,
-      "hits": 12,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 13,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "San Diego Padres",
       "games": 19,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 3,
       "rank": 1
     },
@@ -96,9 +96,9 @@
       "team": "BOS",
       "teamId": 111,
       "teamName": "Boston Red Sox",
-      "games": 12,
+      "games": 13,
       "started": 7,
-      "pctStarted": 26,
+      "pctStarted": 25,
       "hits": 7,
       "rank": 3
     },
@@ -110,7 +110,7 @@
       "teamName": "Atlanta Braves",
       "games": 12,
       "started": 7,
-      "pctStarted": 27,
+      "pctStarted": 26,
       "hits": 7,
       "rank": 4
     },
