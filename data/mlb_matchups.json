@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 17:22",
+  "generated_at": "2026-09-01 19:48",
   "date": "2026-09-01",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-09-01T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "94",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -60,7 +64,11 @@
       "gameTime": "2026-09-01T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "10 mph, Out To CF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -113,7 +121,11 @@
       "gameTime": "2026-09-01T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -166,7 +178,11 @@
       "gameTime": "2026-09-01T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "85",
+        "wind": "9 mph, L To R"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -219,7 +235,11 @@
       "gameTime": "2026-09-01T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "65",
+        "wind": "8 mph, In From RF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -272,7 +292,11 @@
       "gameTime": "2026-09-01T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "93",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -325,7 +349,11 @@
       "gameTime": "2026-09-01T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "86",
+        "wind": "6 mph, Out To CF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -378,7 +406,11 @@
       "gameTime": "2026-09-01T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "97",
+        "wind": "11 mph, Out To CF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -431,7 +463,11 @@
       "gameTime": "2026-09-01T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "90",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
