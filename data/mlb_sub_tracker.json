@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01 02:29",
+  "generated_at": "2026-09-01 17:22",
   "window_start": "2026-08-02",
   "window_end": "2026-09-01",
-  "games_processed": 397,
+  "games_processed": 402,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -47,9 +47,9 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 10,
-      "started": 26,
+      "started": 27,
       "pctStarted": 100,
-      "hits": 28,
+      "hits": 30,
       "rank": 4
     },
     {
@@ -103,27 +103,27 @@
       "rank": 3
     },
     {
-      "playerId": 657041,
-      "name": "Lane Thomas",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
       "games": 12,
-      "started": 7,
-      "pctStarted": 26,
-      "hits": 7,
+      "started": 15,
+      "pctStarted": 56,
+      "hits": 11,
       "rank": 4
     },
     {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
+      "playerId": 686668,
+      "name": "Brenton Doyle",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 12,
-      "started": 6,
-      "pctStarted": 23,
-      "hits": 7,
+      "started": 12,
+      "pctStarted": 44,
+      "hits": 11,
       "rank": 5
     }
   ]
