@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01 15:53",
+  "generated_at": "2026-09-02 15:46",
   "team": "CIN",
-  "window_start": "2026-08-02",
-  "window_end": "2026-09-01",
+  "window_start": "2026-08-03",
+  "window_end": "2026-09-02",
   "homers": [
     {
       "batter": "Sal Stewart",
@@ -71,7 +71,7 @@
       "desc": "Dane Myers homers (6) on a fly ball to left center field."
     },
     {
-      "batter": "#699302",
+      "batter": "H\u00e9ctor Rodr\u00edguez",
       "batterId": 699302,
       "pitcher": "Shota Imanaga",
       "pitcherHand": "L",
