@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02 01:50",
+  "generated_at": "2026-09-02 17:15",
   "window_start": "2026-08-03",
   "window_end": "2026-09-02",
-  "games_processed": 391,
+  "games_processed": 402,
   "subbed_out": [
     {
       "playerId": 660821,
@@ -35,22 +35,10 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 10,
-      "started": 26,
+      "started": 27,
       "pctStarted": 100,
-      "hits": 29,
+      "hits": 33,
       "rank": 3
-    },
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 10,
-      "started": 18,
-      "pctStarted": 67,
-      "hits": 9,
-      "rank": 4
     },
     {
       "playerId": 683734,
@@ -58,10 +46,22 @@
       "team": "MIL",
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
-      "games": 9,
-      "started": 19,
-      "pctStarted": 70,
-      "hits": 24,
+      "games": 10,
+      "started": 20,
+      "pctStarted": 71,
+      "hits": 25,
+      "rank": 4
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 10,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 12,
       "rank": 5
     }
   ],
@@ -96,23 +96,11 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 12,
+      "games": 13,
       "started": 12,
-      "pctStarted": 46,
+      "pctStarted": 44,
       "hits": 11,
       "rank": 3
-    },
-    {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 12,
-      "started": 9,
-      "pctStarted": 35,
-      "hits": 14,
-      "rank": 4
     },
     {
       "playerId": 642201,
@@ -120,10 +108,22 @@
       "team": "BOS",
       "teamId": 111,
       "teamName": "Boston Red Sox",
-      "games": 12,
+      "games": 13,
       "started": 7,
-      "pctStarted": 26,
-      "hits": 7,
+      "pctStarted": 25,
+      "hits": 8,
+      "rank": 4
+    },
+    {
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
+      "games": 12,
+      "started": 15,
+      "pctStarted": 56,
+      "hits": 11,
       "rank": 5
     }
   ]
