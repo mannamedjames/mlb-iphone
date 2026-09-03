@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 19:42",
+  "generated_at": "2026-09-03 23:08",
   "date": "2026-09-03",
   "games": [
     {
@@ -134,8 +134,8 @@
           "confirmed": true,
           "name": "Hunter Brown",
           "hand": "R",
-          "era": "3.36",
-          "ipDisplay": "85.2",
+          "era": "3.31",
+          "ipDisplay": "87.0",
           "gamesStarted": 16,
           "avgIpPerOuting": 5.4,
           "isOpener": false,
@@ -178,7 +178,11 @@
       "gameTime": "2026-09-03T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -231,7 +235,11 @@
       "gameTime": "2026-09-03T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "9 mph, In From RF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -284,7 +292,11 @@
       "gameTime": "2026-09-03T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "97",
+        "wind": "12 mph, Out To LF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -337,7 +349,11 @@
       "gameTime": "2026-09-04T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -390,7 +406,11 @@
       "gameTime": "2026-09-04T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "66",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -443,7 +463,11 @@
       "gameTime": "2026-09-04T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
