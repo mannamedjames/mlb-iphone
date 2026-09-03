@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-09-02 23:12",
-  "window_start": "2026-08-03",
-  "window_end": "2026-09-02",
-  "games_processed": 408,
+  "generated_at": "2026-09-03 01:56",
+  "window_start": "2026-08-04",
+  "window_end": "2026-09-03",
+  "games_processed": 403,
   "subbed_out": [
-    {
-      "playerId": 660821,
-      "name": "Jes\u00fas S\u00e1nchez",
-      "team": "TOR",
-      "teamId": 141,
-      "teamName": "Toronto Blue Jays",
-      "games": 12,
-      "started": 15,
-      "pctStarted": 56,
-      "hits": 9,
-      "rank": 1
-    },
     {
       "playerId": 547180,
       "name": "Bryce Harper",
@@ -23,10 +11,10 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 11,
-      "started": 28,
+      "started": 27,
       "pctStarted": 100,
-      "hits": 34,
-      "rank": 2
+      "hits": 33,
+      "rank": 1
     },
     {
       "playerId": 650859,
@@ -35,9 +23,21 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 11,
-      "started": 22,
-      "pctStarted": 79,
-      "hits": 20,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 19,
+      "rank": 2
+    },
+    {
+      "playerId": 660821,
+      "name": "Jes\u00fas S\u00e1nchez",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 11,
+      "started": 14,
+      "pctStarted": 52,
+      "hits": 8,
       "rank": 3
     },
     {
@@ -47,9 +47,9 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 10,
-      "started": 20,
-      "pctStarted": 71,
-      "hits": 25,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 24,
       "rank": 4
     },
     {
@@ -84,9 +84,9 @@
       "team": "AZ",
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
-      "games": 18,
+      "games": 17,
       "started": 1,
-      "pctStarted": 3,
+      "pctStarted": 4,
       "hits": 4,
       "rank": 2
     },
@@ -121,9 +121,9 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 7,
-      "pctStarted": 25,
-      "hits": 8,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 7,
       "rank": 5
     }
   ]
