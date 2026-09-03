@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03 01:56",
+  "generated_at": "2026-09-03 17:06",
   "window_start": "2026-08-04",
   "window_end": "2026-09-03",
-  "games_processed": 403,
+  "games_processed": 409,
   "subbed_out": [
     {
       "playerId": 547180,
@@ -29,6 +29,30 @@
       "rank": 2
     },
     {
+      "playerId": 683734,
+      "name": "Andrew Vaughn",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "games": 11,
+      "started": 20,
+      "pctStarted": 71,
+      "hits": 26,
+      "rank": 3
+    },
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 11,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 13,
+      "rank": 4
+    },
+    {
       "playerId": 660821,
       "name": "Jes\u00fas S\u00e1nchez",
       "team": "TOR",
@@ -38,30 +62,6 @@
       "started": 14,
       "pctStarted": 52,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 683734,
-      "name": "Andrew Vaughn",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "games": 10,
-      "started": 19,
-      "pctStarted": 70,
-      "hits": 24,
-      "rank": 4
-    },
-    {
-      "playerId": 573262,
-      "name": "Mike Yastrzemski",
-      "team": "ATL",
-      "teamId": 144,
-      "teamName": "Atlanta Braves",
-      "games": 10,
-      "started": 19,
-      "pctStarted": 68,
-      "hits": 11,
       "rank": 5
     }
   ],
@@ -110,20 +110,20 @@
       "teamName": "Chicago White Sox",
       "games": 13,
       "started": 12,
-      "pctStarted": 44,
+      "pctStarted": 43,
       "hits": 11,
       "rank": 4
     },
     {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 7,
+      "started": 10,
+      "pctStarted": 36,
+      "hits": 15,
       "rank": 5
     }
   ]
