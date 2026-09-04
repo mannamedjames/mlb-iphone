@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04 01:50",
+  "generated_at": "2026-09-04 16:56",
   "window_start": "2026-08-05",
   "window_end": "2026-09-04",
-  "games_processed": 398,
+  "games_processed": 403,
   "subbed_out": [
     {
       "playerId": 683734,
@@ -103,6 +103,18 @@
       "rank": 3
     },
     {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 13,
+      "started": 12,
+      "pctStarted": 44,
+      "hits": 9,
+      "rank": 4
+    },
+    {
       "playerId": 686668,
       "name": "Brenton Doyle",
       "team": "CWS",
@@ -112,18 +124,6 @@
       "started": 11,
       "pctStarted": 39,
       "hits": 10,
-      "rank": 4
-    },
-    {
-      "playerId": 642201,
-      "name": "Eli White",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "games": 13,
-      "started": 7,
-      "pctStarted": 25,
-      "hits": 9,
       "rank": 5
     }
   ]
