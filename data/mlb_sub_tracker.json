@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-05 01:50",
+  "generated_at": "2026-09-05 16:10",
   "window_start": "2026-08-06",
   "window_end": "2026-09-05",
-  "games_processed": 392,
+  "games_processed": 404,
   "subbed_out": [
+    {
+      "playerId": 663616,
+      "name": "Trevor Larnach",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 12,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 13,
+      "rank": 1
+    },
     {
       "playerId": 683734,
       "name": "Andrew Vaughn",
@@ -12,20 +24,8 @@
       "teamName": "Milwaukee Brewers",
       "games": 11,
       "started": 19,
-      "pctStarted": 70,
-      "hits": 25,
-      "rank": 1
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 11,
-      "started": 17,
       "pctStarted": 68,
-      "hits": 13,
+      "hits": 25,
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "Toronto Blue Jays",
       "games": 11,
       "started": 13,
-      "pctStarted": 50,
+      "pctStarted": 48,
       "hits": 8,
       "rank": 3
     },
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 650859,
-      "name": "Luis Rengifo",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
+      "playerId": 689414,
+      "name": "Liam Hicks",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
       "games": 10,
       "started": 19,
-      "pctStarted": 76,
-      "hits": 18,
+      "pctStarted": 70,
+      "hits": 21,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 18,
+      "games": 19,
       "started": 1,
       "pctStarted": 4,
       "hits": 3,
@@ -96,11 +96,23 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 13,
+      "games": 14,
       "started": 9,
-      "pctStarted": 33,
+      "pctStarted": 32,
       "hits": 14,
       "rank": 3
+    },
+    {
+      "playerId": 686668,
+      "name": "Brenton Doyle",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 13,
+      "started": 11,
+      "pctStarted": 39,
+      "hits": 10,
+      "rank": 4
     },
     {
       "playerId": 642201,
@@ -112,18 +124,6 @@
       "started": 9,
       "pctStarted": 31,
       "hits": 11,
-      "rank": 4
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 12,
-      "started": 15,
-      "pctStarted": 56,
-      "hits": 10,
       "rank": 5
     }
   ]
