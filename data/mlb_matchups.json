@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 01:45",
+  "generated_at": "2026-09-06 18:58",
   "date": "2026-09-06",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-09-06T16:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "77",
+        "wind": "10 mph, L To R"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -16,18 +20,18 @@
           "confirmed": true,
           "name": "Brady Singer",
           "hand": "R",
-          "era": "4.83",
-          "ipDisplay": "141.2",
-          "gamesStarted": 27,
+          "era": "5.03",
+          "ipDisplay": "146.2",
+          "gamesStarted": 28,
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.349,
-            "woba30Rank": 27,
+            "woba30": 0.352,
+            "woba30Rank": 29,
             "woba7": 0.361,
             "woba7Rank": 26,
-            "kPct30": 23.6,
-            "kPct30Rank": 6
+            "kPct30": 23.8,
+            "kPct30Rank": 5
           }
         }
       },
@@ -39,18 +43,18 @@
           "confirmed": true,
           "name": "Kyle Harrison",
           "hand": "L",
-          "era": "3.45",
-          "ipDisplay": "107.0",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 4.9,
+          "era": "3.66",
+          "ipDisplay": "110.2",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.297,
-            "woba30Rank": 5,
-            "woba7": 0.357,
-            "woba7Rank": 22,
-            "kPct30": 24.4,
-            "kPct30Rank": 8
+            "woba30": 0.314,
+            "woba30Rank": 9,
+            "woba7": 0.383,
+            "woba7Rank": 23,
+            "kPct30": 25.1,
+            "kPct30Rank": 6
           }
         }
       }
@@ -60,7 +64,11 @@
       "gameTime": "2026-09-06T17:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "77",
+        "wind": "8 mph, In From CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -69,17 +77,17 @@
           "confirmed": true,
           "name": "Aaron Nola",
           "hand": "R",
-          "era": "4.93",
-          "ipDisplay": "148.0",
-          "gamesStarted": 28,
+          "era": "4.78",
+          "ipDisplay": "154.1",
+          "gamesStarted": 29,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.306,
-            "woba30Rank": 6,
-            "woba7": 0.369,
-            "woba7Rank": 28,
-            "kPct30": 24.5,
+            "woba30": 0.298,
+            "woba30Rank": 4,
+            "woba7": 0.359,
+            "woba7Rank": 23,
+            "kPct30": 25.5,
             "kPct30Rank": 4
           }
         }
@@ -92,18 +100,18 @@
           "confirmed": true,
           "name": "Tyler Mahle",
           "hand": "R",
-          "era": "4.25",
-          "ipDisplay": "125.0",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.4,
+          "era": "4.05",
+          "ipDisplay": "131.0",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.33,
-            "woba30Rank": 18,
-            "woba7": 0.241,
+            "woba30": 0.32,
+            "woba30Rank": 15,
+            "woba7": 0.22,
             "woba7Rank": 1,
-            "kPct30": 17.2,
-            "kPct30Rank": 28
+            "kPct30": 17.7,
+            "kPct30Rank": 26
           }
         }
       }
@@ -113,7 +121,11 @@
       "gameTime": "2026-09-06T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "78",
+        "wind": "4 mph, In From CF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -122,18 +134,18 @@
           "confirmed": true,
           "name": "Kyle Bradish",
           "hand": "R",
-          "era": "4.01",
-          "ipDisplay": "148.0",
-          "gamesStarted": 27,
-          "avgIpPerOuting": 5.5,
+          "era": "3.91",
+          "ipDisplay": "152.0",
+          "gamesStarted": 28,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.355,
-            "woba30Rank": 29,
-            "woba7": 0.342,
-            "woba7Rank": 21,
-            "kPct30": 18.5,
-            "kPct30Rank": 25
+            "woba30": 0.345,
+            "woba30Rank": 25,
+            "woba7": 0.343,
+            "woba7Rank": 20,
+            "kPct30": 18.9,
+            "kPct30Rank": 24
           }
         }
       },
@@ -145,18 +157,18 @@
           "confirmed": true,
           "name": "Payton Tolle",
           "hand": "L",
-          "era": "3.23",
-          "ipDisplay": "131.0",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.7,
+          "era": "3.21",
+          "ipDisplay": "134.2",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.33,
-            "woba30Rank": 16,
-            "woba7": 0.314,
-            "woba7Rank": 11,
-            "kPct30": 25.9,
-            "kPct30Rank": 4
+            "woba30": 0.335,
+            "woba30Rank": 19,
+            "woba7": 0.309,
+            "woba7Rank": 10,
+            "kPct30": 25.4,
+            "kPct30Rank": 5
           }
         }
       }
@@ -166,7 +178,11 @@
       "gameTime": "2026-09-06T17:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "75",
+        "wind": "8 mph, In From LF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -175,18 +191,18 @@
           "confirmed": true,
           "name": "Paul Skenes",
           "hand": "R",
-          "era": "3.97",
-          "ipDisplay": "149.2",
-          "gamesStarted": 28,
+          "era": "3.84",
+          "ipDisplay": "154.2",
+          "gamesStarted": 29,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.301,
-            "woba30Rank": 4,
-            "woba7": 0.282,
-            "woba7Rank": 7,
-            "kPct30": 27.0,
-            "kPct30Rank": 2
+            "woba30": 0.302,
+            "woba30Rank": 5,
+            "woba7": 0.292,
+            "woba7Rank": 8,
+            "kPct30": 27.8,
+            "kPct30Rank": 1
           }
         }
       },
@@ -198,18 +214,18 @@
           "confirmed": true,
           "name": "Walbert Ure\u00f1a",
           "hand": "R",
-          "era": "2.85",
-          "ipDisplay": "123.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.3,
+          "era": "2.81",
+          "ipDisplay": "128.0",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.314,
+            "woba30": 0.316,
             "woba30Rank": 12,
-            "woba7": 0.335,
-            "woba7Rank": 20,
+            "woba7": 0.337,
+            "woba7Rank": 18,
             "kPct30": 22.9,
-            "kPct30Rank": 11
+            "kPct30Rank": 10
           }
         }
       }
@@ -219,7 +235,11 @@
       "gameTime": "2026-09-06T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "75",
+        "wind": "14 mph, In From RF"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -228,18 +248,18 @@
           "confirmed": true,
           "name": "Gavin Williams",
           "hand": "R",
-          "era": "3.81",
-          "ipDisplay": "163.0",
-          "gamesStarted": 28,
+          "era": "3.83",
+          "ipDisplay": "167.0",
+          "gamesStarted": 29,
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.285,
-            "woba30Rank": 2,
-            "woba7": 0.246,
-            "woba7Rank": 2,
-            "kPct30": 21.3,
-            "kPct30Rank": 16
+            "woba30": 0.278,
+            "woba30Rank": 1,
+            "woba7": 0.261,
+            "woba7Rank": 4,
+            "kPct30": 21.5,
+            "kPct30Rank": 15
           }
         }
       },
@@ -251,18 +271,18 @@
           "confirmed": true,
           "name": "Jackson Jobe",
           "hand": "R",
-          "era": "4.63",
-          "ipDisplay": "23.1",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 4.7,
+          "era": "4.28",
+          "ipDisplay": "27.1",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.323,
-            "woba30Rank": 15,
-            "woba7": 0.328,
-            "woba7Rank": 17,
-            "kPct30": 17.5,
-            "kPct30Rank": 26
+            "woba30": 0.319,
+            "woba30Rank": 14,
+            "woba7": 0.331,
+            "woba7Rank": 16,
+            "kPct30": 16.9,
+            "kPct30Rank": 28
           }
         }
       }
@@ -272,7 +292,11 @@
       "gameTime": "2026-09-06T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "74",
+        "wind": "8 mph, In From CF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -281,18 +305,18 @@
           "confirmed": true,
           "name": "Christian Scott",
           "hand": "R",
-          "era": "3.80",
-          "ipDisplay": "94.2",
-          "gamesStarted": 20,
+          "era": "3.81",
+          "ipDisplay": "99.1",
+          "gamesStarted": 21,
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.335,
-            "woba30Rank": 19,
-            "woba7": 0.35,
-            "woba7Rank": 24,
-            "kPct30": 22.2,
-            "kPct30Rank": 13
+            "woba30Rank": 20,
+            "woba7": 0.36,
+            "woba7Rank": 25,
+            "kPct30": 21.8,
+            "kPct30Rank": 14
           }
         }
       },
@@ -304,18 +328,18 @@
           "confirmed": true,
           "name": "Cesar Perdomo",
           "hand": "L",
-          "era": "2.25",
-          "ipDisplay": "4.0",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
+          "era": "1.13",
+          "ipDisplay": "8.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 4.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.305,
-            "woba30Rank": 8,
-            "woba7": 0.365,
-            "woba7Rank": 24,
-            "kPct30": 24.7,
-            "kPct30Rank": 7
+            "woba30": 0.287,
+            "woba30Rank": 4,
+            "woba7": 0.347,
+            "woba7Rank": 15,
+            "kPct30": 24.1,
+            "kPct30Rank": 12
           }
         }
       }
@@ -325,7 +349,11 @@
       "gameTime": "2026-09-06T17:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -334,18 +362,18 @@
           "confirmed": true,
           "name": "Tyler Phillips",
           "hand": "R",
-          "era": "3.43",
-          "ipDisplay": "110.1",
-          "gamesStarted": 16,
+          "era": "3.51",
+          "ipDisplay": "115.1",
+          "gamesStarted": 17,
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.36,
+            "woba30": 0.374,
             "woba30Rank": 30,
-            "woba7": 0.395,
-            "woba7Rank": 30,
-            "kPct30": 20.0,
-            "kPct30Rank": 21
+            "woba7": 0.382,
+            "woba7Rank": 29,
+            "kPct30": 19.4,
+            "kPct30Rank": 22
           }
         }
       },
@@ -357,18 +385,18 @@
           "confirmed": true,
           "name": "Clay Holmes",
           "hand": "R",
-          "era": "2.09",
-          "ipDisplay": "81.2",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 5.8,
+          "era": "2.31",
+          "ipDisplay": "85.2",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.347,
-            "woba30Rank": 26,
-            "woba7": 0.343,
-            "woba7Rank": 23,
-            "kPct30": 22.9,
-            "kPct30Rank": 10
+            "woba30": 0.35,
+            "woba30Rank": 28,
+            "woba7": 0.356,
+            "woba7Rank": 22,
+            "kPct30": 22.3,
+            "kPct30Rank": 13
           }
         }
       }
@@ -378,7 +406,11 @@
       "gameTime": "2026-09-06T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "73",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -387,17 +419,17 @@
           "confirmed": true,
           "name": "Peter Lambert",
           "hand": "R",
-          "era": "3.66",
-          "ipDisplay": "132.2",
-          "gamesStarted": 24,
-          "avgIpPerOuting": 5.5,
+          "era": "3.67",
+          "ipDisplay": "135.0",
+          "gamesStarted": 25,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.302,
-            "woba30Rank": 5,
-            "woba7": 0.247,
-            "woba7Rank": 3,
-            "kPct30": 19.4,
+            "woba30": 0.306,
+            "woba30Rank": 7,
+            "woba7": 0.249,
+            "woba7Rank": 2,
+            "kPct30": 19.3,
             "kPct30Rank": 23
           }
         }
@@ -410,18 +442,18 @@
           "confirmed": true,
           "name": "Eduardo Rodriguez",
           "hand": "L",
-          "era": "2.59",
-          "ipDisplay": "167.0",
-          "gamesStarted": 28,
-          "avgIpPerOuting": 6.0,
+          "era": "2.61",
+          "ipDisplay": "169.0",
+          "gamesStarted": 29,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.336,
-            "woba30Rank": 19,
-            "woba7": 0.339,
-            "woba7Rank": 16,
-            "kPct30": 20.0,
-            "kPct30Rank": 26
+            "woba30": 0.332,
+            "woba30Rank": 18,
+            "woba7": 0.325,
+            "woba7Rank": 11,
+            "kPct30": 20.6,
+            "kPct30Rank": 24
           }
         }
       }
@@ -431,7 +463,11 @@
       "gameTime": "2026-09-06T18:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "96",
+        "wind": "3 mph, R To L"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -440,18 +476,18 @@
           "confirmed": true,
           "name": "Randy Dobnak",
           "hand": "R",
-          "era": "2.65",
-          "ipDisplay": "57.2",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 5.3,
+          "era": "2.52",
+          "ipDisplay": "60.2",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.343,
-            "woba30Rank": 24,
-            "woba7": 0.323,
-            "woba7Rank": 15,
-            "kPct30": 19.3,
-            "kPct30Rank": 24
+            "woba30": 0.347,
+            "woba30Rank": 27,
+            "woba7": 0.35,
+            "woba7Rank": 21,
+            "kPct30": 18.8,
+            "kPct30Rank": 25
           }
         }
       },
@@ -460,7 +496,22 @@
         "teamAbbr": "TOR",
         "teamName": "Toronto Blue Jays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Spencer Arrighetti",
+          "hand": "R",
+          "era": "4.99",
+          "ipDisplay": "101.0",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 4.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.346,
+            "woba30Rank": 26,
+            "woba7": 0.323,
+            "woba7Rank": 14,
+            "kPct30": 16.7,
+            "kPct30Rank": 29
+          }
         }
       }
     },
@@ -469,7 +520,11 @@
       "gameTime": "2026-09-06T18:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -478,17 +533,17 @@
           "confirmed": true,
           "name": "MacKenzie Gore",
           "hand": "L",
-          "era": "4.31",
-          "ipDisplay": "154.2",
-          "gamesStarted": 29,
-          "avgIpPerOuting": 5.3,
+          "era": "4.28",
+          "ipDisplay": "155.2",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.317,
-            "woba30Rank": 10,
-            "woba7": 0.338,
-            "woba7Rank": 15,
-            "kPct30": 17.7,
+            "woba30": 0.322,
+            "woba30Rank": 11,
+            "woba7": 0.368,
+            "woba7Rank": 21,
+            "kPct30": 17.6,
             "kPct30Rank": 28
           }
         }
@@ -498,7 +553,22 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Ian Seymour",
+          "hand": "L",
+          "era": "4.20",
+          "ipDisplay": "113.2",
+          "gamesStarted": 13,
+          "avgIpPerOuting": 4.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.364,
+            "woba30Rank": 29,
+            "woba7": 0.437,
+            "woba7Rank": 30,
+            "kPct30": 20.3,
+            "kPct30Rank": 26
+          }
         }
       }
     },
@@ -507,7 +577,11 @@
       "gameTime": "2026-09-06T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "88",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -522,12 +596,12 @@
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.314,
-            "woba30Rank": 13,
-            "woba7": 0.318,
-            "woba7Rank": 12,
-            "kPct30": 22.0,
-            "kPct30Rank": 14
+            "woba30": 0.321,
+            "woba30Rank": 16,
+            "woba7": 0.362,
+            "woba7Rank": 27,
+            "kPct30": 22.5,
+            "kPct30Rank": 12
           }
         }
       },
@@ -545,12 +619,12 @@
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 17,
-            "woba7": 0.321,
-            "woba7Rank": 14,
-            "kPct30": 21.4,
-            "kPct30Rank": 15
+            "woba30": 0.332,
+            "woba30Rank": 18,
+            "woba7": 0.336,
+            "woba7Rank": 17,
+            "kPct30": 21.3,
+            "kPct30Rank": 17
           }
         }
       }
@@ -560,7 +634,11 @@
       "gameTime": "2026-09-06T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "67",
+        "wind": "8 mph, In From LF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -575,12 +653,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.337,
+            "woba30": 0.338,
             "woba30Rank": 21,
-            "woba7": 0.365,
-            "woba7Rank": 27,
-            "kPct30": 20.6,
-            "kPct30Rank": 19
+            "woba7": 0.36,
+            "woba7Rank": 24,
+            "kPct30": 20.5,
+            "kPct30Rank": 20
           }
         }
       },
@@ -598,11 +676,11 @@
           "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.279,
-            "woba30Rank": 3,
-            "woba7": 0.293,
-            "woba7Rank": 5,
-            "kPct30": 26.3,
+            "woba30": 0.273,
+            "woba30Rank": 2,
+            "woba7": 0.257,
+            "woba7Rank": 4,
+            "kPct30": 26.6,
             "kPct30Rank": 3
           }
         }
@@ -613,7 +691,11 @@
       "gameTime": "2026-09-06T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "14 mph, In From LF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -628,12 +710,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.308,
-            "woba30Rank": 7,
-            "woba7": 0.329,
-            "woba7Rank": 18,
-            "kPct30": 27.2,
-            "kPct30Rank": 1
+            "woba30": 0.305,
+            "woba30Rank": 6,
+            "woba7": 0.326,
+            "woba7Rank": 15,
+            "kPct30": 27.0,
+            "kPct30Rank": 2
           }
         }
       },
@@ -652,11 +734,11 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.326,
-            "woba30Rank": 16,
-            "woba7": 0.29,
-            "woba7Rank": 8,
+            "woba30Rank": 17,
+            "woba7": 0.285,
+            "woba7Rank": 6,
             "kPct30": 19.5,
-            "kPct30Rank": 22
+            "kPct30Rank": 21
           }
         }
       }
@@ -666,13 +748,32 @@
       "gameTime": "2026-09-06T22:20:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "74",
+        "wind": "11 mph, L To R"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Bryan Hudson",
+          "hand": "L",
+          "era": "3.03",
+          "ipDisplay": "59.1",
+          "gamesStarted": 7,
+          "avgIpPerOuting": 1.1,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.354,
+            "woba30Rank": 25,
+            "woba7": 0.388,
+            "woba7Rank": 26,
+            "kPct30": 21.2,
+            "kPct30Rank": 19
+          }
         }
       },
       "away": {
@@ -689,12 +790,12 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.32,
-            "woba30Rank": 14,
-            "woba7": 0.269,
+            "woba30": 0.318,
+            "woba30Rank": 13,
+            "woba7": 0.276,
             "woba7Rank": 5,
-            "kPct30": 23.2,
-            "kPct30Rank": 7
+            "kPct30": 23.3,
+            "kPct30Rank": 8
           }
         }
       }
@@ -710,7 +811,22 @@
         "teamAbbr": "LAD",
         "teamName": "Los Angeles Dodgers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Justin Wrobleski",
+          "hand": "L",
+          "era": "3.65",
+          "ipDisplay": "128.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 6.1,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.341,
+            "woba30Rank": 22,
+            "woba7": 0.329,
+            "woba7Rank": 12,
+            "kPct30": 28.2,
+            "kPct30Rank": 2
+          }
         }
       },
       "away": {
@@ -727,12 +843,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 14,
-            "woba7": 0.346,
-            "woba7Rank": 19,
+            "woba30": 0.33,
+            "woba30Rank": 17,
+            "woba7": 0.362,
+            "woba7Rank": 18,
             "kPct30": 21.4,
-            "kPct30Rank": 19
+            "kPct30Rank": 18
           }
         }
       }
