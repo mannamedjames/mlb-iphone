@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-09-06 14:44",
+  "generated_at": "2026-09-07 17:00",
   "team": "CIN",
-  "window_start": "2026-08-07",
-  "window_end": "2026-09-06",
+  "window_start": "2026-08-08",
+  "window_end": "2026-09-07",
   "homers": [
+    {
+      "batter": "Elly De La Cruz",
+      "batterId": 682829,
+      "pitcher": "Kyle Harrison",
+      "pitcherHand": "L",
+      "count": "1-1",
+      "pitch": "Changeup",
+      "pitchSpeed": 82.8,
+      "rbi": 2,
+      "inning": 4,
+      "halfInning": "Bot",
+      "outs": 0,
+      "date": "2026-09-06",
+      "away": "MIL",
+      "home": "CIN",
+      "opponent": "MIL",
+      "opponentId": 158,
+      "distanceFt": 402,
+      "exitVeloMph": 105.5,
+      "field": "RF",
+      "desc": "Elly De La Cruz homers (23) on a fly ball to right center field. Dane Myers scores."
+    },
     {
       "batter": "Matt Mclain",
       "batterId": 680574,
@@ -201,28 +223,6 @@
       "exitVeloMph": 101.7,
       "field": "CF",
       "desc": "Sal Stewart homers (31) on a fly ball to center field."
-    },
-    {
-      "batter": "Tyler Stephenson",
-      "batterId": 663886,
-      "pitcher": "Shota Imanaga",
-      "pitcherHand": "L",
-      "count": "3-1",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 91.1,
-      "rbi": 2,
-      "inning": 5,
-      "halfInning": "Top",
-      "outs": 1,
-      "date": "2026-08-30",
-      "away": "CIN",
-      "home": "CHC",
-      "opponent": "CHC",
-      "opponentId": 112,
-      "distanceFt": 394,
-      "exitVeloMph": 102.7,
-      "field": "LF",
-      "desc": "Tyler Stephenson homers (14) on a fly ball to left field. Elly De La Cruz scores."
     }
   ]
 }
