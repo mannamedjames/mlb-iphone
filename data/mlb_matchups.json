@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 17:13",
+  "generated_at": "2026-09-09 19:38",
   "date": "2026-09-09",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Cloudy",
-        "temp": "80",
-        "wind": "13 mph, R To L"
+        "temp": "79",
+        "wind": "10 mph, R To L"
       },
       "home": {
         "teamId": 116,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Keider Montero",
           "hand": "R",
-          "era": "3.52",
-          "ipDisplay": "143.0",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 5.6,
+          "era": "3.45",
+          "ipDisplay": "146.0",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.342,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Zebby Matthews",
           "hand": "R",
-          "era": "4.69",
-          "ipDisplay": "117.0",
-          "gamesStarted": 20,
-          "avgIpPerOuting": 5.8,
+          "era": "4.76",
+          "ipDisplay": "119.0",
+          "gamesStarted": 21,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.278,
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "92",
-        "wind": "8 mph, L To R"
+        "temp": "89",
+        "wind": "8 mph, Calm"
       },
       "home": {
         "teamId": 133,
@@ -77,9 +77,9 @@
           "confirmed": true,
           "name": "Brady Basso",
           "hand": "L",
-          "era": "4.32",
-          "ipDisplay": "33.1",
-          "gamesStarted": 4,
+          "era": "4.08",
+          "ipDisplay": "35.1",
+          "gamesStarted": 5,
           "avgIpPerOuting": 2.0,
           "isOpener": true,
           "oppSplits": {
@@ -100,9 +100,9 @@
           "confirmed": true,
           "name": "Braydon Fisher",
           "hand": "R",
-          "era": "3.20",
-          "ipDisplay": "70.1",
-          "gamesStarted": 8,
+          "era": "3.15",
+          "ipDisplay": "71.1",
+          "gamesStarted": 9,
           "avgIpPerOuting": 1.1,
           "isOpener": true,
           "oppSplits": {
@@ -123,8 +123,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "77",
-        "wind": "5 mph, Out To RF"
+        "temp": "80",
+        "wind": "5 mph, Varies"
       },
       "home": {
         "teamId": 137,
@@ -179,9 +179,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Sunny",
-        "temp": "86",
-        "wind": "10 mph, Out To RF"
+        "condition": "Partly Cloudy",
+        "temp": "96",
+        "wind": "5 mph, L To R"
       },
       "home": {
         "teamId": 135,
@@ -235,7 +235,11 @@
       "gameTime": "2026-09-09T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "69",
+        "wind": "4 mph, L To R"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -288,7 +292,11 @@
       "gameTime": "2026-09-09T22:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "87",
+        "wind": "14 mph, Out To LF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -341,7 +349,11 @@
       "gameTime": "2026-09-09T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "13 mph, Out To CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -394,7 +406,11 @@
       "gameTime": "2026-09-09T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -447,7 +463,11 @@
       "gameTime": "2026-09-09T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "14 mph, Out To CF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -553,13 +573,32 @@
       "gameTime": "2026-09-09T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "88",
+        "wind": "5 mph, In From LF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
         "teamName": "Atlanta Braves",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Reynaldo L\u00f3pez",
+          "hand": "R",
+          "era": "3.64",
+          "ipDisplay": "71.2",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 4.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.345,
+            "woba30Rank": 25,
+            "woba7": 0.334,
+            "woba7Rank": 18,
+            "kPct30": 15.4,
+            "kPct30Rank": 30
+          }
         }
       },
       "away": {
@@ -644,7 +683,11 @@
       "gameTime": "2026-09-09T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "79",
+        "wind": "8 mph, Out To LF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
