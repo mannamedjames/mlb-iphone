@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 01:56",
+  "generated_at": "2026-09-10 17:03",
   "date": "2026-09-10",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-09-10T16:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "83",
+        "wind": "3 mph, L To R"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -16,17 +20,17 @@
           "confirmed": true,
           "name": "Mart\u00edn P\u00e9rez",
           "hand": "L",
-          "era": "3.25",
-          "ipDisplay": "124.2",
-          "gamesStarted": 23,
+          "era": "3.16",
+          "ipDisplay": "128.1",
+          "gamesStarted": 24,
           "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.329,
-            "woba30Rank": 17,
-            "woba7": 0.34,
-            "woba7Rank": 18,
-            "kPct30": 17.0,
+            "woba30": 0.322,
+            "woba30Rank": 14,
+            "woba7": 0.317,
+            "woba7Rank": 15,
+            "kPct30": 16.6,
             "kPct30Rank": 28
           }
         }
@@ -39,18 +43,18 @@
           "confirmed": true,
           "name": "Nick Martinez",
           "hand": "R",
-          "era": "3.04",
-          "ipDisplay": "160.0",
-          "gamesStarted": 27,
-          "avgIpPerOuting": 5.9,
+          "era": "2.98",
+          "ipDisplay": "163.0",
+          "gamesStarted": 28,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.304,
-            "woba30Rank": 8,
-            "woba7": 0.308,
-            "woba7Rank": 13,
-            "kPct30": 23.5,
-            "kPct30Rank": 9
+            "woba30": 0.3,
+            "woba30Rank": 5,
+            "woba7": 0.258,
+            "woba7Rank": 1,
+            "kPct30": 23.0,
+            "kPct30Rank": 12
           }
         }
       }
@@ -60,7 +64,11 @@
       "gameTime": "2026-09-10T17:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "86",
+        "wind": "9 mph, Out To RF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -75,12 +83,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.299,
-            "woba30Rank": 3,
-            "woba7": 0.337,
-            "woba7Rank": 20,
-            "kPct30": 23.0,
-            "kPct30Rank": 12
+            "woba30": 0.297,
+            "woba30Rank": 2,
+            "woba7": 0.345,
+            "woba7Rank": 21,
+            "kPct30": 23.4,
+            "kPct30Rank": 11
           }
         }
       },
@@ -98,12 +106,12 @@
           "avgIpPerOuting": 4.0,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.311,
-            "woba30Rank": 11,
-            "woba7": 0.225,
-            "woba7Rank": 1,
-            "kPct30": 19.1,
-            "kPct30Rank": 24
+            "woba30": 0.314,
+            "woba30Rank": 12,
+            "woba7": 0.282,
+            "woba7Rank": 8,
+            "kPct30": 19.4,
+            "kPct30Rank": 23
           }
         }
       }
@@ -128,11 +136,11 @@
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.302,
-            "woba30Rank": 6,
-            "woba7": 0.324,
-            "woba7Rank": 16,
-            "kPct30": 23.9,
+            "woba30": 0.299,
+            "woba30Rank": 4,
+            "woba7": 0.319,
+            "woba7Rank": 14,
+            "kPct30": 24.3,
             "kPct30Rank": 5
           }
         }
@@ -153,8 +161,8 @@
           "oppSplits": {
             "woba30": 0.349,
             "woba30Rank": 26,
-            "woba7": 0.367,
-            "woba7Rank": 29,
+            "woba7": 0.347,
+            "woba7Rank": 22,
             "kPct30": 23.6,
             "kPct30Rank": 8
           }
@@ -182,11 +190,11 @@
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.307,
-            "woba30Rank": 9,
-            "woba7": 0.325,
-            "woba7Rank": 16,
+            "woba30Rank": 10,
+            "woba7": 0.328,
+            "woba7Rank": 20,
             "kPct30": 24.8,
-            "kPct30Rank": 7
+            "kPct30Rank": 8
           }
         }
       },
@@ -204,12 +212,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.303,
-            "woba30Rank": 7,
-            "woba7": 0.256,
-            "woba7Rank": 4,
-            "kPct30": 26.7,
-            "kPct30Rank": 2
+            "woba30": 0.306,
+            "woba30Rank": 10,
+            "woba7": 0.266,
+            "woba7Rank": 3,
+            "kPct30": 26.3,
+            "kPct30Rank": 3
           }
         }
       }
@@ -225,7 +233,22 @@
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Hagen Smith",
+          "hand": "L",
+          "era": "0.56",
+          "ipDisplay": "16.0",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.315,
+            "woba30Rank": 13,
+            "woba7": 0.357,
+            "woba7Rank": 23,
+            "kPct30": 26.8,
+            "kPct30Rank": 3
+          }
         }
       },
       "away": {
@@ -242,12 +265,12 @@
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.32,
-            "woba30Rank": 15,
-            "woba7": 0.306,
-            "woba7Rank": 12,
-            "kPct30": 23.6,
-            "kPct30Rank": 6
+            "woba30": 0.324,
+            "woba30Rank": 14,
+            "woba7": 0.339,
+            "woba7Rank": 19,
+            "kPct30": 23.5,
+            "kPct30Rank": 9
           }
         }
       }
