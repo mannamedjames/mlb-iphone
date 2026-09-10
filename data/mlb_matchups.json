@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 17:03",
+  "generated_at": "2026-09-10 19:30",
   "date": "2026-09-10",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Mart\u00edn P\u00e9rez",
           "hand": "L",
-          "era": "3.16",
-          "ipDisplay": "128.1",
+          "era": "3.08",
+          "ipDisplay": "131.2",
           "gamesStarted": 24,
-          "avgIpPerOuting": 5.0,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Nick Martinez",
           "hand": "R",
-          "era": "2.98",
-          "ipDisplay": "163.0",
+          "era": "2.92",
+          "ipDisplay": "166.1",
           "gamesStarted": 28,
-          "avgIpPerOuting": 5.8,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.3,
@@ -77,9 +77,9 @@
           "confirmed": true,
           "name": "Zack Wheeler",
           "hand": "R",
-          "era": "3.23",
-          "ipDisplay": "136.1",
-          "gamesStarted": 24,
+          "era": "3.14",
+          "ipDisplay": "143.1",
+          "gamesStarted": 25,
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Cristian Javier",
           "hand": "R",
-          "era": "5.98",
-          "ipDisplay": "49.2",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 4.0,
+          "era": "5.50",
+          "ipDisplay": "55.2",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.314,
@@ -121,7 +121,11 @@
       "gameTime": "2026-09-10T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "67",
+        "wind": "4 mph, In From LF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -174,7 +178,11 @@
       "gameTime": "2026-09-10T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "8 mph, In From RF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
