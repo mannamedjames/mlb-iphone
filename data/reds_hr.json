@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-09-09 15:44",
+  "generated_at": "2026-09-10 15:38",
   "team": "CIN",
-  "window_start": "2026-08-10",
-  "window_end": "2026-09-09",
+  "window_start": "2026-08-11",
+  "window_end": "2026-09-10",
   "homers": [
+    {
+      "batter": "Elly De La Cruz",
+      "batterId": 682829,
+      "pitcher": "Yoshinobu Yamamoto",
+      "pitcherHand": "R",
+      "count": "0-0",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 97.4,
+      "rbi": 1,
+      "inning": 4,
+      "halfInning": "Top",
+      "outs": 1,
+      "date": "2026-09-09",
+      "away": "CIN",
+      "home": "LAD",
+      "opponent": "LAD",
+      "opponentId": 119,
+      "distanceFt": 403,
+      "exitVeloMph": 106.7,
+      "field": "LCF",
+      "desc": "Elly De La Cruz homers (26) on a fly ball to center field."
+    },
     {
       "batter": "Elly De La Cruz",
       "batterId": 682829,
@@ -201,28 +223,6 @@
       "exitVeloMph": 102.4,
       "field": "LF",
       "desc": "Matt McLain homers (14) on a fly ball to left center field. Eugenio Su\u00e1rez scores."
-    },
-    {
-      "batter": "Jj Bleday",
-      "batterId": 668709,
-      "pitcher": "Jhony Brito",
-      "pitcherHand": "R",
-      "count": "1-1",
-      "pitch": "Changeup",
-      "pitchSpeed": 88.0,
-      "rbi": 2,
-      "inning": 7,
-      "halfInning": "Bot",
-      "outs": 2,
-      "date": "2026-09-02",
-      "away": "SD",
-      "home": "CIN",
-      "opponent": "SD",
-      "opponentId": 135,
-      "distanceFt": 416,
-      "exitVeloMph": 105.3,
-      "field": "RF",
-      "desc": "JJ Bleday homers (22) on a fly ball to right field. Elly De La Cruz scores."
     }
   ]
 }
