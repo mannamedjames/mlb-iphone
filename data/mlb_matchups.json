@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 19:30",
+  "generated_at": "2026-09-10 23:02",
   "date": "2026-09-10",
   "games": [
     {
@@ -123,8 +123,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Cloudy",
-        "temp": "67",
-        "wind": "4 mph, In From LF"
+        "temp": "68",
+        "wind": "3 mph, L To R"
       },
       "home": {
         "teamId": 136,
@@ -134,9 +134,9 @@
           "confirmed": true,
           "name": "Logan Gilbert",
           "hand": "R",
-          "era": "3.71",
-          "ipDisplay": "165.0",
-          "gamesStarted": 28,
+          "era": "3.72",
+          "ipDisplay": "172.0",
+          "gamesStarted": 29,
           "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
@@ -157,9 +157,9 @@
           "confirmed": true,
           "name": "Jacob deGrom",
           "hand": "R",
-          "era": "3.96",
-          "ipDisplay": "143.1",
-          "gamesStarted": 27,
+          "era": "3.80",
+          "ipDisplay": "149.1",
+          "gamesStarted": 28,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
@@ -214,7 +214,7 @@
           "confirmed": true,
           "name": "Ryan Feltner",
           "hand": "R",
-          "era": "5.91",
+          "era": "5.82",
           "ipDisplay": "106.2",
           "gamesStarted": 21,
           "avgIpPerOuting": 4.9,
@@ -235,7 +235,11 @@
       "gameTime": "2026-09-10T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "8 mph, R To L"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",

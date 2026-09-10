@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10 19:30",
+  "generated_at": "2026-09-10 23:02",
   "window_start": "2026-08-11",
   "window_end": "2026-09-10",
-  "games_processed": 410,
+  "games_processed": 412,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -109,9 +109,9 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 13,
-      "pctStarted": 48,
-      "hits": 8,
+      "started": 14,
+      "pctStarted": 50,
+      "hits": 9,
       "rank": 4
     },
     {
