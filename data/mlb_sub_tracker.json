@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-09 23:06",
-  "window_start": "2026-08-10",
-  "window_end": "2026-09-09",
-  "games_processed": 409,
+  "generated_at": "2026-09-10 01:56",
+  "window_start": "2026-08-11",
+  "window_end": "2026-09-10",
+  "games_processed": 404,
   "subbed_out": [
+    {
+      "playerId": 689414,
+      "name": "Liam Hicks",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 12,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 22,
+      "rank": 1
+    },
     {
       "playerId": 663616,
       "name": "Trevor Larnach",
@@ -12,20 +24,8 @@
       "teamName": "Minnesota Twins",
       "games": 12,
       "started": 20,
-      "pctStarted": 74,
+      "pctStarted": 77,
       "hits": 15,
-      "rank": 1
-    },
-    {
-      "playerId": 689414,
-      "name": "Liam Hicks",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 12,
-      "started": 19,
-      "pctStarted": 70,
-      "hits": 21,
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 12,
       "started": 14,
-      "pctStarted": 48,
+      "pctStarted": 50,
       "hits": 15,
       "rank": 3
     },
@@ -60,7 +60,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 11,
       "started": 20,
-      "pctStarted": 69,
+      "pctStarted": 71,
       "hits": 20,
       "rank": 5
     }
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 19,
+      "games": 18,
       "started": 2,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 3,
       "rank": 1
     },
@@ -91,30 +91,6 @@
       "rank": 2
     },
     {
-      "playerId": 592626,
-      "name": "Joc Pederson",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 14,
-      "started": 13,
-      "pctStarted": 46,
-      "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 670032,
-      "name": "Nicky Lopez",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 14,
-      "started": 6,
-      "pctStarted": 21,
-      "hits": 7,
-      "rank": 4
-    },
-    {
       "playerId": 642350,
       "name": "Jose Siri",
       "team": "LAA",
@@ -123,6 +99,30 @@
       "games": 13,
       "started": 14,
       "pctStarted": 52,
+      "hits": 9,
+      "rank": 3
+    },
+    {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 13,
+      "started": 13,
+      "pctStarted": 48,
+      "hits": 8,
+      "rank": 4
+    },
+    {
+      "playerId": 686668,
+      "name": "Brenton Doyle",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 13,
+      "started": 8,
+      "pctStarted": 30,
       "hits": 7,
       "rank": 5
     }
