@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10 23:02",
-  "window_start": "2026-08-11",
-  "window_end": "2026-09-10",
-  "games_processed": 412,
+  "generated_at": "2026-09-11 01:55",
+  "window_start": "2026-08-12",
+  "window_end": "2026-09-11",
+  "games_processed": 397,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -12,21 +12,9 @@
       "teamName": "Chicago White Sox",
       "games": 12,
       "started": 22,
-      "pctStarted": 79,
+      "pctStarted": 81,
       "hits": 17,
       "rank": 1
-    },
-    {
-      "playerId": 689414,
-      "name": "Liam Hicks",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 12,
-      "started": 20,
-      "pctStarted": 71,
-      "hits": 22,
-      "rank": 2
     },
     {
       "playerId": 663616,
@@ -35,10 +23,10 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 12,
-      "started": 20,
-      "pctStarted": 77,
+      "started": 19,
+      "pctStarted": 76,
       "hits": 15,
-      "rank": 3
+      "rank": 2
     },
     {
       "playerId": 663494,
@@ -48,9 +36,9 @@
       "teamName": "St. Louis Cardinals",
       "games": 12,
       "started": 14,
-      "pctStarted": 50,
+      "pctStarted": 52,
       "hits": 15,
-      "rank": 4
+      "rank": 3
     },
     {
       "playerId": 695491,
@@ -60,8 +48,20 @@
       "teamName": "St. Louis Cardinals",
       "games": 11,
       "started": 20,
-      "pctStarted": 71,
+      "pctStarted": 74,
       "hits": 20,
+      "rank": 4
+    },
+    {
+      "playerId": 683734,
+      "name": "Andrew Vaughn",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "games": 11,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 23,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 18,
+      "games": 17,
       "started": 2,
       "pctStarted": 8,
       "hits": 3,
@@ -85,9 +85,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 15,
-      "started": 7,
-      "pctStarted": 25,
-      "hits": 16,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 15,
       "rank": 2
     },
     {
@@ -97,8 +97,8 @@
       "teamId": 108,
       "teamName": "Los Angeles Angels",
       "games": 13,
-      "started": 14,
-      "pctStarted": 52,
+      "started": 13,
+      "pctStarted": 50,
       "hits": 9,
       "rank": 3
     },
@@ -109,9 +109,9 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 14,
-      "pctStarted": 50,
-      "hits": 9,
+      "started": 13,
+      "pctStarted": 48,
+      "hits": 8,
       "rank": 4
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 8,
-      "pctStarted": 29,
-      "hits": 7,
+      "started": 7,
+      "pctStarted": 26,
+      "hits": 6,
       "rank": 5
     }
   ]
