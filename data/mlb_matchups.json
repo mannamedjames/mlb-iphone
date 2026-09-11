@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 17:04",
+  "generated_at": "2026-09-11 19:30",
   "date": "2026-09-11",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "76",
-        "wind": "6 mph, In From RF"
+        "temp": "74",
+        "wind": "9 mph, R To L"
       },
       "home": {
         "teamId": 112,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Shota Imanaga",
           "hand": "L",
-          "era": "3.91",
-          "ipDisplay": "156.1",
-          "gamesStarted": 28,
-          "avgIpPerOuting": 5.6,
+          "era": "3.90",
+          "ipDisplay": "159.1",
+          "gamesStarted": 29,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.314,
@@ -43,11 +43,11 @@
           "confirmed": true,
           "name": "Wilber Dotel",
           "hand": "R",
-          "era": "4.41",
-          "ipDisplay": "32.2",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
+          "era": "4.93",
+          "ipDisplay": "34.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 2.0,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.363,
             "woba30Rank": 28,
@@ -64,7 +64,11 @@
       "gameTime": "2026-09-11T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "74",
+        "wind": "7 mph, In From CF"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -117,7 +121,11 @@
       "gameTime": "2026-09-11T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "5 mph, In From RF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -170,7 +178,11 @@
       "gameTime": "2026-09-11T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "77",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -223,7 +235,11 @@
       "gameTime": "2026-09-11T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "68",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -276,7 +292,11 @@
       "gameTime": "2026-09-11T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "71",
+        "wind": "6 mph, L To R"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -329,7 +349,11 @@
       "gameTime": "2026-09-11T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -382,7 +406,11 @@
       "gameTime": "2026-09-11T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -420,7 +448,11 @@
       "gameTime": "2026-09-11T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "79",
+        "wind": "9 mph, In From CF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -579,7 +611,11 @@
       "gameTime": "2026-09-12T00:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "78",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -699,7 +735,22 @@
         "teamAbbr": "TEX",
         "teamName": "Texas Rangers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "MacKenzie Gore",
+          "hand": "L",
+          "era": "4.51",
+          "ipDisplay": "157.2",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.337,
+            "woba30Rank": 19,
+            "woba7": 0.265,
+            "woba7Rank": 10,
+            "kPct30": 20.8,
+            "kPct30Rank": 23
+          }
         }
       }
     },

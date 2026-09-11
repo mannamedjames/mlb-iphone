@@ -115776,5 +115776,31 @@
   "woba30": 0.325,
   "woba7": 0.29,
   "kPct30": 20.9
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 825036,
+  "date": "2026-09-12",
+  "pitcherId": "MacKenzie Gore|TEX",
+  "pitcherName": "MacKenzie Gore",
+  "hand": "L",
+  "team": "TEX",
+  "opponent": "AZ",
+  "isHome": false,
+  "woba30Rank": 19,
+  "woba7Rank": 10,
+  "kPct30Rank": 23,
+  "woba30": 0.337,
+  "woba7": 0.265,
+  "kPct30": 20.8
  }
 ]
