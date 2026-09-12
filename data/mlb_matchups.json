@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 16:25",
+  "generated_at": "2026-09-12 19:05",
   "date": "2026-09-12",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "79",
-        "wind": "11 mph, In From RF"
+        "temp": "78",
+        "wind": "6 mph, In From RF"
       },
       "home": {
         "teamId": 116,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Andrew Sears",
           "hand": "L",
-          "era": "4.38",
-          "ipDisplay": "12.1",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 5.7,
+          "era": "5.40",
+          "ipDisplay": "16.2",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.316,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Tanner Gordon",
           "hand": "R",
-          "era": "5.40",
-          "ipDisplay": "93.1",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 5.0,
+          "era": "5.55",
+          "ipDisplay": "97.1",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.286,
@@ -65,9 +65,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "75",
-        "wind": "8 mph, R To L"
+        "condition": "Cloudy",
+        "temp": "78",
+        "wind": "10 mph, Out To LF"
       },
       "home": {
         "teamId": 147,
@@ -77,9 +77,9 @@
           "confirmed": true,
           "name": "Gerrit Cole",
           "hand": "R",
-          "era": "3.41",
-          "ipDisplay": "111.0",
-          "gamesStarted": 19,
+          "era": "3.67",
+          "ipDisplay": "115.1",
+          "gamesStarted": 20,
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
@@ -100,9 +100,9 @@
           "confirmed": true,
           "name": "Zac Thornton",
           "hand": "L",
-          "era": "3.53",
-          "ipDisplay": "66.1",
-          "gamesStarted": 12,
+          "era": "3.41",
+          "ipDisplay": "71.1",
+          "gamesStarted": 13,
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
@@ -124,7 +124,7 @@
       "weather": {
         "condition": "Partly Cloudy",
         "temp": "83",
-        "wind": "11 mph, Out To RF"
+        "wind": "9 mph, Out To CF"
       },
       "home": {
         "teamId": 112,
@@ -134,10 +134,10 @@
           "confirmed": true,
           "name": "Clay Holmes",
           "hand": "R",
-          "era": "2.83",
-          "ipDisplay": "86.0",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 5.7,
+          "era": "2.73",
+          "ipDisplay": "89.0",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.316,
@@ -157,9 +157,9 @@
           "confirmed": true,
           "name": "Paul Skenes",
           "hand": "R",
-          "era": "3.83",
-          "ipDisplay": "155.0",
-          "gamesStarted": 29,
+          "era": "3.88",
+          "ipDisplay": "157.2",
+          "gamesStarted": 30,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
@@ -180,8 +180,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "76",
-        "wind": "8 mph, Out To LF"
+        "temp": "74",
+        "wind": "7 mph, R To L"
       },
       "home": {
         "teamId": 141,
@@ -235,7 +235,11 @@
       "gameTime": "2026-09-12T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "81",
+        "wind": "6 mph, R To L"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -288,7 +292,11 @@
       "gameTime": "2026-09-12T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "62",
+        "wind": "22 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -398,7 +406,11 @@
       "gameTime": "2026-09-12T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "73",
+        "wind": "14 mph, Out To RF"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -451,7 +463,11 @@
       "gameTime": "2026-09-12T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 146,
         "teamAbbr": "MIA",
@@ -504,7 +520,11 @@
       "gameTime": "2026-09-12T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -563,7 +583,22 @@
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Shane Drohan",
+          "hand": "L",
+          "era": "4.09",
+          "ipDisplay": "114.1",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.352,
+            "woba30Rank": 25,
+            "woba7": 0.423,
+            "woba7Rank": 28,
+            "kPct30": 25.0,
+            "kPct30Rank": 7
+          }
         }
       },
       "away": {
