@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12 02:00",
+  "generated_at": "2026-09-12 16:25",
   "window_start": "2026-08-13",
   "window_end": "2026-09-12",
-  "games_processed": 389,
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -12,9 +12,21 @@
       "teamName": "Chicago White Sox",
       "games": 12,
       "started": 22,
-      "pctStarted": 81,
+      "pctStarted": 79,
       "hits": 17,
       "rank": 1
+    },
+    {
+      "playerId": 695491,
+      "name": "Joshua B\u00e1ez",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 12,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 23,
+      "rank": 2
     },
     {
       "playerId": 663494,
@@ -24,21 +36,21 @@
       "teamName": "St. Louis Cardinals",
       "games": 12,
       "started": 14,
-      "pctStarted": 54,
+      "pctStarted": 52,
       "hits": 15,
-      "rank": 2
+      "rank": 3
     },
     {
-      "playerId": 695491,
-      "name": "Joshua B\u00e1ez",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
+      "playerId": 683734,
+      "name": "Andrew Vaughn",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 11,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 20,
-      "rank": 3
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 25,
+      "rank": 4
     },
     {
       "playerId": 689414,
@@ -50,18 +62,6 @@
       "started": 19,
       "pctStarted": 70,
       "hits": 19,
-      "rank": 4
-    },
-    {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 75,
-      "hits": 14,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 16,
+      "games": 17,
       "started": 2,
       "pctStarted": 8,
       "hits": 3,
@@ -85,10 +85,22 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 15,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 16,
+      "started": 7,
+      "pctStarted": 25,
+      "hits": 18,
       "rank": 2
+    },
+    {
+      "playerId": 592626,
+      "name": "Joc Pederson",
+      "team": "TEX",
+      "teamId": 140,
+      "teamName": "Texas Rangers",
+      "games": 13,
+      "started": 13,
+      "pctStarted": 48,
+      "hits": 9,
+      "rank": 3
     },
     {
       "playerId": 642350,
@@ -100,18 +112,6 @@
       "started": 13,
       "pctStarted": 50,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 592626,
-      "name": "Joc Pederson",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
-      "games": 13,
-      "started": 12,
-      "pctStarted": 46,
-      "hits": 7,
       "rank": 4
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 5,
+      "started": 7,
+      "pctStarted": 25,
+      "hits": 6,
       "rank": 5
     }
   ]
