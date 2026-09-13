@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13 01:53",
+  "generated_at": "2026-09-13 17:00",
   "window_start": "2026-08-14",
   "window_end": "2026-09-13",
-  "games_processed": 400,
+  "games_processed": 405,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -10,9 +10,9 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 12,
-      "started": 22,
-      "pctStarted": 81,
+      "games": 13,
+      "started": 23,
+      "pctStarted": 82,
       "hits": 16,
       "rank": 1
     },
@@ -22,9 +22,9 @@
       "team": "STL",
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
-      "games": 12,
-      "started": 21,
-      "pctStarted": 78,
+      "games": 13,
+      "started": 22,
+      "pctStarted": 79,
       "hits": 23,
       "rank": 2
     },
@@ -48,20 +48,20 @@
       "teamName": "St. Louis Cardinals",
       "games": 12,
       "started": 14,
-      "pctStarted": 52,
+      "pctStarted": 50,
       "hits": 15,
       "rank": 4
     },
     {
-      "playerId": 683734,
-      "name": "Andrew Vaughn",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
+      "playerId": 803011,
+      "name": "Sam Antonacci",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
       "games": 11,
-      "started": 18,
-      "pctStarted": 69,
-      "hits": 23,
+      "started": 25,
+      "pctStarted": 89,
+      "hits": 21,
       "rank": 5
     }
   ],
@@ -84,11 +84,23 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 15,
+      "games": 16,
       "started": 6,
-      "pctStarted": 22,
-      "hits": 16,
+      "pctStarted": 21,
+      "hits": 17,
       "rank": 2
+    },
+    {
+      "playerId": 686668,
+      "name": "Brenton Doyle",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 14,
+      "started": 6,
+      "pctStarted": 21,
+      "hits": 5,
+      "rank": 3
     },
     {
       "playerId": 668952,
@@ -100,18 +112,6 @@
       "started": 4,
       "pctStarted": 16,
       "hits": 2,
-      "rank": 3
-    },
-    {
-      "playerId": 642350,
-      "name": "Jose Siri",
-      "team": "LAA",
-      "teamId": 108,
-      "teamName": "Los Angeles Angels",
-      "games": 13,
-      "started": 13,
-      "pctStarted": 50,
-      "hits": 8,
       "rank": 4
     },
     {
@@ -121,8 +121,8 @@
       "teamId": 140,
       "teamName": "Texas Rangers",
       "games": 13,
-      "started": 12,
-      "pctStarted": 46,
+      "started": 13,
+      "pctStarted": 48,
       "hits": 9,
       "rank": 5
     }
