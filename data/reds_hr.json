@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-09-13 15:26",
+  "generated_at": "2026-09-14 17:23",
   "team": "CIN",
-  "window_start": "2026-08-14",
-  "window_end": "2026-09-13",
+  "window_start": "2026-08-15",
+  "window_end": "2026-09-14",
   "homers": [
+    {
+      "batter": "Eugenio Su\u00e1rez",
+      "batterId": 553993,
+      "pitcher": "Antonio Senzatela",
+      "pitcherHand": "R",
+      "count": "0-1",
+      "pitch": "Sinker",
+      "pitchSpeed": 97.8,
+      "rbi": 3,
+      "inning": 6,
+      "halfInning": "Top",
+      "outs": 0,
+      "date": "2026-09-13",
+      "away": "CIN",
+      "home": "MIL",
+      "opponent": "MIL",
+      "opponentId": 158,
+      "distanceFt": 389,
+      "exitVeloMph": 105.3,
+      "field": "RCF",
+      "desc": "Eugenio Su\u00e1rez homers (24) on a fly ball to right center field. Elly De La Cruz scores. Sal Stewart scores."
+    },
     {
       "batter": "Juan Brito",
       "batterId": 682877,
@@ -201,28 +223,6 @@
       "exitVeloMph": 104.0,
       "field": "LF",
       "desc": "Tyler Stephenson homers (15) on a fly ball to left field."
-    },
-    {
-      "batter": "Elly De La Cruz",
-      "batterId": 682829,
-      "pitcher": "Dustin May",
-      "pitcherHand": "R",
-      "count": "0-2",
-      "pitch": "Sinker",
-      "pitchSpeed": 97.8,
-      "rbi": 1,
-      "inning": 1,
-      "halfInning": "Bot",
-      "outs": 1,
-      "date": "2026-09-05",
-      "away": "MIL",
-      "home": "CIN",
-      "opponent": "MIL",
-      "opponentId": 158,
-      "distanceFt": 438,
-      "exitVeloMph": 112.1,
-      "field": "CF",
-      "desc": "Elly De La Cruz homers (22) on a fly ball to center field."
     }
   ]
 }
