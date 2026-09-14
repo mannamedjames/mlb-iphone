@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 18:48",
+  "generated_at": "2026-09-14 20:49",
   "date": "2026-09-14",
   "games": [
     {
@@ -121,7 +121,11 @@
       "gameTime": "2026-09-14T23:07:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 141,
         "teamAbbr": "TOR",
@@ -174,7 +178,11 @@
       "gameTime": "2026-09-14T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "70",
+        "wind": "10 mph, In From LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -227,7 +235,11 @@
       "gameTime": "2026-09-14T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "14 mph, R To L"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -280,7 +292,11 @@
       "gameTime": "2026-09-14T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "61",
+        "wind": "18 mph, R To L"
+      },
       "home": {
         "teamId": 142,
         "teamAbbr": "MIN",
@@ -333,7 +349,11 @@
       "gameTime": "2026-09-14T23:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "86",
+        "wind": "12 mph, R To L"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -386,7 +406,11 @@
       "gameTime": "2026-09-15T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "84",
+        "wind": "9 mph, L To R"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
