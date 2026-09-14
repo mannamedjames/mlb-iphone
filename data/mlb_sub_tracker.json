@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14 02:11",
+  "generated_at": "2026-09-14 18:47",
   "window_start": "2026-08-15",
   "window_end": "2026-09-14",
-  "games_processed": 405,
+  "games_processed": 406,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 17,
+      "games": 18,
       "started": 2,
       "pctStarted": 8,
       "hits": 3,
