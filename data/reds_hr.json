@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-09-14 17:23",
+  "generated_at": "2026-09-15 16:01",
   "team": "CIN",
-  "window_start": "2026-08-15",
-  "window_end": "2026-09-14",
+  "window_start": "2026-08-16",
+  "window_end": "2026-09-15",
   "homers": [
+    {
+      "batter": "Elly De La Cruz",
+      "batterId": 682829,
+      "pitcher": "Evan Phillips",
+      "pitcherHand": "R",
+      "count": "3-2",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 98.2,
+      "rbi": 1,
+      "inning": 9,
+      "halfInning": "Bot",
+      "outs": 1,
+      "date": "2026-09-14",
+      "away": "LAD",
+      "home": "CIN",
+      "opponent": "LAD",
+      "opponentId": 119,
+      "distanceFt": 457,
+      "exitVeloMph": 114.1,
+      "field": "RCF",
+      "desc": "Elly De La Cruz homers (27) on a fly ball to center field."
+    },
     {
       "batter": "Eugenio Su\u00e1rez",
       "batterId": 553993,
@@ -201,28 +223,6 @@
       "exitVeloMph": 99.5,
       "field": "RF",
       "desc": "Matt McLain homers (15) on a fly ball to right field."
-    },
-    {
-      "batter": "Tyler Stephenson",
-      "batterId": 663886,
-      "pitcher": "Jojo Romero",
-      "pitcherHand": "L",
-      "count": "3-1",
-      "pitch": "Sinker",
-      "pitchSpeed": 91.6,
-      "rbi": 1,
-      "inning": 6,
-      "halfInning": "Bot",
-      "outs": 0,
-      "date": "2026-09-05",
-      "away": "MIL",
-      "home": "CIN",
-      "opponent": "MIL",
-      "opponentId": 158,
-      "distanceFt": 392,
-      "exitVeloMph": 104.0,
-      "field": "LF",
-      "desc": "Tyler Stephenson homers (15) on a fly ball to left field."
     }
   ]
 }
