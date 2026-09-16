@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-16 19:56",
+  "generated_at": "2026-09-16 23:37",
   "window_start": "2026-08-17",
   "window_end": "2026-09-16",
-  "games_processed": 402,
+  "games_processed": 405,
   "subbed_out": [
+    {
+      "playerId": 695491,
+      "name": "Joshua B\u00e1ez",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 14,
+      "started": 22,
+      "pctStarted": 76,
+      "hits": 20,
+      "rank": 1
+    },
     {
       "playerId": 643217,
       "name": "Andrew Benintendi",
@@ -14,18 +26,6 @@
       "started": 22,
       "pctStarted": 76,
       "hits": 18,
-      "rank": 1
-    },
-    {
-      "playerId": 695491,
-      "name": "Joshua B\u00e1ez",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 13,
-      "started": 21,
-      "pctStarted": 75,
-      "hits": 20,
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 13,
       "started": 15,
-      "pctStarted": 54,
+      "pctStarted": 52,
       "hits": 14,
       "rank": 3
     },
@@ -97,10 +97,22 @@
       "teamId": 142,
       "teamName": "Minnesota Twins",
       "games": 14,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 3,
+      "started": 6,
+      "pctStarted": 22,
+      "hits": 4,
       "rank": 3
+    },
+    {
+      "playerId": 687363,
+      "name": "Victor Scott II",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 14,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 1,
+      "rank": 4
     },
     {
       "playerId": 691728,
@@ -112,18 +124,6 @@
       "started": 11,
       "pctStarted": 41,
       "hits": 10,
-      "rank": 4
-    },
-    {
-      "playerId": 701162,
-      "name": "Ben Malgeri",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
-      "games": 13,
-      "started": 9,
-      "pctStarted": 33,
-      "hits": 9,
       "rank": 5
     }
   ]
