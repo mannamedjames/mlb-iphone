@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15 23:28",
-  "window_start": "2026-08-16",
-  "window_end": "2026-09-15",
-  "games_processed": 401,
+  "generated_at": "2026-09-16 02:11",
+  "window_start": "2026-08-17",
+  "window_end": "2026-09-16",
+  "games_processed": 392,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -10,9 +10,9 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 14,
-      "started": 23,
-      "pctStarted": 82,
+      "games": 13,
+      "started": 22,
+      "pctStarted": 79,
       "hits": 18,
       "rank": 1
     },
@@ -22,9 +22,9 @@
       "team": "STL",
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
-      "games": 14,
-      "started": 22,
-      "pctStarted": 79,
+      "games": 13,
+      "started": 21,
+      "pctStarted": 78,
       "hits": 20,
       "rank": 2
     },
@@ -36,7 +36,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 13,
       "started": 14,
-      "pctStarted": 50,
+      "pctStarted": 52,
       "hits": 14,
       "rank": 3
     },
@@ -46,22 +46,22 @@
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 67,
+      "games": 12,
+      "started": 19,
+      "pctStarted": 70,
       "hits": 19,
       "rank": 4
     },
     {
-      "playerId": 663616,
-      "name": "Trevor Larnach",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 69,
-      "hits": 15,
+      "playerId": 803011,
+      "name": "Sam Antonacci",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 10,
+      "started": 25,
+      "pctStarted": 89,
+      "hits": 24,
       "rank": 5
     }
   ],
@@ -72,10 +72,10 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 18,
+      "games": 17,
       "started": 2,
       "pctStarted": 8,
-      "hits": 3,
+      "hits": 2,
       "rank": 1
     },
     {
@@ -84,23 +84,11 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 16,
-      "started": 6,
-      "pctStarted": 21,
+      "games": 15,
+      "started": 7,
+      "pctStarted": 25,
       "hits": 16,
       "rank": 2
-    },
-    {
-      "playerId": 668952,
-      "name": "Ryan Kreidler",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 14,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 3,
-      "rank": 3
     },
     {
       "playerId": 691728,
@@ -109,10 +97,10 @@
       "teamId": 115,
       "teamName": "Colorado Rockies",
       "games": 13,
-      "started": 11,
-      "pctStarted": 41,
-      "hits": 10,
-      "rank": 4
+      "started": 10,
+      "pctStarted": 38,
+      "hits": 9,
+      "rank": 3
     },
     {
       "playerId": 701162,
@@ -123,7 +111,19 @@
       "games": 13,
       "started": 9,
       "pctStarted": 33,
-      "hits": 8,
+      "hits": 9,
+      "rank": 4
+    },
+    {
+      "playerId": 668952,
+      "name": "Ryan Kreidler",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 13,
+      "started": 5,
+      "pctStarted": 20,
+      "hits": 3,
       "rank": 5
     }
   ]
