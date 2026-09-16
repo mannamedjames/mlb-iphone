@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16 02:11",
+  "generated_at": "2026-09-16 17:41",
   "window_start": "2026-08-17",
   "window_end": "2026-09-16",
-  "games_processed": 392,
+  "games_processed": 401,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -24,7 +24,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 13,
       "started": 21,
-      "pctStarted": 78,
+      "pctStarted": 75,
       "hits": 20,
       "rank": 2
     },
@@ -35,8 +35,8 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 13,
-      "started": 14,
-      "pctStarted": 52,
+      "started": 15,
+      "pctStarted": 54,
       "hits": 14,
       "rank": 3
     },
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 803011,
-      "name": "Sam Antonacci",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 10,
-      "started": 25,
-      "pctStarted": 89,
-      "hits": 24,
+      "playerId": 681508,
+      "name": "Mickey Gasper",
+      "team": "BOS",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "games": 11,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 20,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 17,
+      "games": 18,
       "started": 2,
       "pctStarted": 8,
       "hits": 2,
@@ -91,16 +91,28 @@
       "rank": 2
     },
     {
+      "playerId": 668952,
+      "name": "Ryan Kreidler",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
+      "games": 14,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 3,
+      "rank": 3
+    },
+    {
       "playerId": 691728,
       "name": "Zac Veen",
       "team": "COL",
       "teamId": 115,
       "teamName": "Colorado Rockies",
       "games": 13,
-      "started": 10,
-      "pctStarted": 38,
-      "hits": 9,
-      "rank": 3
+      "started": 11,
+      "pctStarted": 41,
+      "hits": 10,
+      "rank": 4
     },
     {
       "playerId": 701162,
@@ -112,18 +124,6 @@
       "started": 9,
       "pctStarted": 33,
       "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 668952,
-      "name": "Ryan Kreidler",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 20,
-      "hits": 3,
       "rank": 5
     }
   ]
