@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16 17:41",
+  "generated_at": "2026-09-16 19:56",
   "date": "2026-09-16",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Parker Messick",
           "hand": "L",
-          "era": "2.48",
-          "ipDisplay": "174.1",
+          "era": "2.57",
+          "ipDisplay": "178.1",
           "gamesStarted": 30,
-          "avgIpPerOuting": 5.8,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.353,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Anthony Kay",
           "hand": "L",
-          "era": "4.47",
-          "ipDisplay": "147.0",
+          "era": "4.41",
+          "ipDisplay": "149.0",
           "gamesStarted": 29,
-          "avgIpPerOuting": 4.8,
+          "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.301,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Matthew Liberatore",
           "hand": "L",
-          "era": "5.45",
-          "ipDisplay": "145.1",
+          "era": "5.36",
+          "ipDisplay": "149.1",
           "gamesStarted": 30,
-          "avgIpPerOuting": 4.8,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.296,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Anthony Molina",
           "hand": "R",
-          "era": "5.01",
-          "ipDisplay": "23.1",
+          "era": "4.18",
+          "ipDisplay": "28.0",
           "gamesStarted": 4,
-          "avgIpPerOuting": 3.5,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.321,
@@ -134,9 +134,9 @@
           "confirmed": true,
           "name": "Zebby Matthews",
           "hand": "R",
-          "era": "4.98",
-          "ipDisplay": "119.1",
-          "gamesStarted": 21,
+          "era": "4.74",
+          "ipDisplay": "125.1",
+          "gamesStarted": 22,
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
@@ -157,10 +157,10 @@
           "confirmed": true,
           "name": "Carlos Rod\u00f3n",
           "hand": "L",
-          "era": "2.94",
-          "ipDisplay": "70.1",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 5.0,
+          "era": "2.95",
+          "ipDisplay": "76.1",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.284,
@@ -180,8 +180,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "75",
-        "wind": "3 mph, Out To LF"
+        "temp": "74",
+        "wind": "5 mph, Out To LF"
       },
       "home": {
         "teamId": 141,
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Max Scherzer",
           "hand": "R",
-          "era": "6.38",
-          "ipDisplay": "67.2",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 4.5,
+          "era": "6.33",
+          "ipDisplay": "69.2",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.303,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Keider Montero",
           "hand": "R",
-          "era": "3.55",
-          "ipDisplay": "147.0",
-          "gamesStarted": 24,
-          "avgIpPerOuting": 5.5,
+          "era": "3.50",
+          "ipDisplay": "149.0",
+          "gamesStarted": 25,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.355,
@@ -235,7 +235,11 @@
       "gameTime": "2026-09-16T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "7 mph, In From LF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -288,7 +292,11 @@
       "gameTime": "2026-09-16T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -341,7 +349,11 @@
       "gameTime": "2026-09-16T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "82",
+        "wind": "4 mph, Out To RF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -394,7 +406,11 @@
       "gameTime": "2026-09-16T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "83",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 120,
         "teamAbbr": "WSH",
@@ -454,12 +470,12 @@
         "teamName": "New York Mets",
         "starter": {
           "confirmed": true,
-          "name": "Robert Stock",
+          "name": "Xzavion Curry",
           "hand": "R",
-          "era": "5.93",
-          "ipDisplay": "30.1",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 4.3,
+          "era": "3.44",
+          "ipDisplay": "18.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.301,
