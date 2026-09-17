@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17 02:14",
+  "generated_at": "2026-09-17 17:42",
   "window_start": "2026-08-18",
   "window_end": "2026-09-17",
-  "games_processed": 399,
+  "games_processed": 405,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -48,7 +48,7 @@
       "teamName": "Boston Red Sox",
       "games": 11,
       "started": 20,
-      "pctStarted": 77,
+      "pctStarted": 74,
       "hits": 19,
       "rank": 4
     },
@@ -103,27 +103,27 @@
       "rank": 3
     },
     {
-      "playerId": 668952,
-      "name": "Ryan Kreidler",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
+      "playerId": 642350,
+      "name": "Jose Siri",
+      "team": "LAA",
+      "teamId": 108,
+      "teamName": "Los Angeles Angels",
       "games": 13,
-      "started": 6,
-      "pctStarted": 23,
-      "hits": 4,
+      "started": 14,
+      "pctStarted": 52,
+      "hits": 10,
       "rank": 4
     },
     {
-      "playerId": 670770,
-      "name": "TJ Friedl",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
+      "playerId": 691728,
+      "name": "Zac Veen",
+      "team": "COL",
+      "teamId": 115,
+      "teamName": "Colorado Rockies",
       "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 5,
+      "started": 11,
+      "pctStarted": 41,
+      "hits": 9,
       "rank": 5
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 02:15",
+  "generated_at": "2026-09-17 17:42",
   "date": "2026-09-17",
   "games": [
     {
@@ -7,13 +7,32 @@
       "gameTime": "2026-09-17T16:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
         "teamName": "Pittsburgh Pirates",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Wilber Dotel",
+          "hand": "R",
+          "era": "4.82",
+          "ipDisplay": "37.1",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 2.0,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.391,
+            "woba30Rank": 30,
+            "woba7": 0.405,
+            "woba7Rank": 30,
+            "kPct30": 23.2,
+            "kPct30Rank": 11
+          }
         }
       },
       "away": {
@@ -24,17 +43,17 @@
           "confirmed": true,
           "name": "Kyle Harrison",
           "hand": "L",
-          "era": "3.98",
-          "ipDisplay": "110.2",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 4.8,
+          "era": "4.25",
+          "ipDisplay": "112.1",
+          "gamesStarted": 24,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.299,
-            "woba30Rank": 6,
-            "woba7": 0.333,
-            "woba7Rank": 19,
-            "kPct30": 25.9,
+            "woba30": 0.311,
+            "woba30Rank": 10,
+            "woba7": 0.343,
+            "woba7Rank": 20,
+            "kPct30": 25.7,
             "kPct30Rank": 5
           }
         }
@@ -45,7 +64,11 @@
       "gameTime": "2026-09-17T16:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "90",
+        "wind": "7 mph, Out To LF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -54,18 +77,18 @@
           "confirmed": true,
           "name": "Brady Singer",
           "hand": "R",
-          "era": "5.38",
-          "ipDisplay": "150.2",
-          "gamesStarted": 29,
-          "avgIpPerOuting": 5.2,
+          "era": "5.49",
+          "ipDisplay": "154.0",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.338,
-            "woba30Rank": 19,
-            "woba7": 0.382,
-            "woba7Rank": 25,
-            "kPct30": 19.9,
-            "kPct30Rank": 22
+            "woba30": 0.328,
+            "woba30Rank": 18,
+            "woba7": 0.332,
+            "woba7Rank": 15,
+            "kPct30": 20.8,
+            "kPct30Rank": 19
           }
         }
       },
@@ -74,7 +97,22 @@
         "teamAbbr": "LAD",
         "teamName": "Los Angeles Dodgers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Justin Wrobleski",
+          "hand": "L",
+          "era": "3.70",
+          "ipDisplay": "136.1",
+          "gamesStarted": 22,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.342,
+            "woba30Rank": 20,
+            "woba7": 0.318,
+            "woba7Rank": 17,
+            "kPct30": 24.4,
+            "kPct30Rank": 9
+          }
         }
       }
     },
@@ -83,7 +121,11 @@
       "gameTime": "2026-09-17T17:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -92,17 +134,17 @@
           "confirmed": true,
           "name": "Drew Rasmussen",
           "hand": "R",
-          "era": "2.81",
-          "ipDisplay": "160.1",
-          "gamesStarted": 28,
-          "avgIpPerOuting": 5.7,
+          "era": "2.77",
+          "ipDisplay": "162.1",
+          "gamesStarted": 29,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
+            "woba30": 0.315,
             "woba30Rank": 12,
-            "woba7": 0.299,
-            "woba7Rank": 8,
-            "kPct30": 21.9,
+            "woba7": 0.312,
+            "woba7Rank": 12,
+            "kPct30": 22.5,
             "kPct30Rank": 14
           }
         }
@@ -115,17 +157,17 @@
           "confirmed": true,
           "name": "Jeffrey Springs",
           "hand": "L",
-          "era": "5.93",
-          "ipDisplay": "135.0",
-          "gamesStarted": 27,
-          "avgIpPerOuting": 5.0,
+          "era": "5.85",
+          "ipDisplay": "137.0",
+          "gamesStarted": 28,
+          "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.309,
-            "woba30Rank": 10,
-            "woba7": 0.182,
-            "woba7Rank": 1,
-            "kPct30": 14.8,
+            "woba30": 0.319,
+            "woba30Rank": 13,
+            "woba7": 0.296,
+            "woba7Rank": 14,
+            "kPct30": 14.3,
             "kPct30Rank": 30
           }
         }
@@ -136,7 +178,11 @@
       "gameTime": "2026-09-17T19:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "5 mph, Out To LF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -151,12 +197,12 @@
           "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.328,
-            "woba30Rank": 16,
-            "woba7": 0.392,
-            "woba7Rank": 27,
+            "woba30": 0.335,
+            "woba30Rank": 20,
+            "woba7": 0.384,
+            "woba7Rank": 26,
             "kPct30": 20.5,
-            "kPct30Rank": 19
+            "kPct30Rank": 21
           }
         }
       },
@@ -174,12 +220,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.331,
+            "woba30": 0.327,
             "woba30Rank": 17,
-            "woba7": 0.326,
-            "woba7Rank": 14,
-            "kPct30": 23.2,
-            "kPct30Rank": 10
+            "woba7": 0.333,
+            "woba7Rank": 16,
+            "kPct30": 23.5,
+            "kPct30Rank": 9
           }
         }
       }
@@ -212,12 +258,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.294,
-            "woba30Rank": 1,
-            "woba7": 0.274,
-            "woba7Rank": 3,
-            "kPct30": 23.6,
-            "kPct30Rank": 8
+            "woba30": 0.298,
+            "woba30Rank": 4,
+            "woba7": 0.294,
+            "woba7Rank": 7,
+            "kPct30": 23.5,
+            "kPct30Rank": 10
           }
         }
       }
@@ -242,11 +288,11 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.302,
-            "woba30Rank": 5,
-            "woba7": 0.307,
-            "woba7Rank": 9,
-            "kPct30": 19.2,
+            "woba30": 0.295,
+            "woba30Rank": 2,
+            "woba7": 0.278,
+            "woba7Rank": 3,
+            "kPct30": 19.7,
             "kPct30Rank": 23
           }
         }
@@ -265,11 +311,11 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.362,
+            "woba30": 0.36,
             "woba30Rank": 28,
-            "woba7": 0.407,
-            "woba7Rank": 29,
-            "kPct30": 19.1,
+            "woba7": 0.35,
+            "woba7Rank": 19,
+            "kPct30": 19.2,
             "kPct30Rank": 24
           }
         }
@@ -295,12 +341,12 @@
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.303,
-            "woba30Rank": 6,
-            "woba7": 0.399,
-            "woba7Rank": 28,
-            "kPct30": 23.3,
-            "kPct30Rank": 9
+            "woba30": 0.294,
+            "woba30Rank": 1,
+            "woba7": 0.384,
+            "woba7Rank": 25,
+            "kPct30": 23.8,
+            "kPct30Rank": 8
           }
         }
       },
@@ -318,12 +364,12 @@
           "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.353,
-            "woba30Rank": 27,
-            "woba7": 0.385,
-            "woba7Rank": 23,
-            "kPct30": 26.6,
-            "kPct30Rank": 3
+            "woba30": 0.366,
+            "woba30Rank": 28,
+            "woba7": 0.412,
+            "woba7Rank": 28,
+            "kPct30": 25.6,
+            "kPct30Rank": 6
           }
         }
       }
@@ -339,7 +385,22 @@
         "teamAbbr": "TEX",
         "teamName": "Texas Rangers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Tyler Alexander",
+          "hand": "L",
+          "era": "3.38",
+          "ipDisplay": "66.2",
+          "gamesStarted": 4,
+          "avgIpPerOuting": 1.2,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.303,
+            "woba30Rank": 7,
+            "woba7": 0.289,
+            "woba7Rank": 9,
+            "kPct30": 21.4,
+            "kPct30Rank": 19
+          }
         }
       },
       "away": {
@@ -356,10 +417,10 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.303,
+            "woba30": 0.302,
             "woba30Rank": 7,
-            "woba7": 0.287,
-            "woba7Rank": 6,
+            "woba7": 0.29,
+            "woba7Rank": 5,
             "kPct30": 24.1,
             "kPct30Rank": 7
           }
@@ -386,12 +447,12 @@
           "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.338,
-            "woba30Rank": 20,
-            "woba7": 0.319,
-            "woba7Rank": 12,
+            "woba30": 0.341,
+            "woba30Rank": 21,
+            "woba7": 0.315,
+            "woba7Rank": 13,
             "kPct30": 17.2,
-            "kPct30Rank": 29
+            "kPct30Rank": 30
           }
         }
       },
@@ -409,11 +470,11 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.294,
-            "woba30Rank": 2,
-            "woba7": 0.298,
-            "woba7Rank": 7,
-            "kPct30": 28.4,
+            "woba30": 0.297,
+            "woba30Rank": 3,
+            "woba7": 0.305,
+            "woba7Rank": 11,
+            "kPct30": 28.2,
             "kPct30Rank": 1
           }
         }
