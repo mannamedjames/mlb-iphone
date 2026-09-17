@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17 17:42",
+  "generated_at": "2026-09-17 20:05",
   "window_start": "2026-08-18",
   "window_end": "2026-09-17",
-  "games_processed": 405,
+  "games_processed": 408,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -59,9 +59,9 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 11,
-      "started": 18,
-      "pctStarted": 67,
-      "hits": 19,
+      "started": 19,
+      "pctStarted": 68,
+      "hits": 21,
       "rank": 5
     }
   ],

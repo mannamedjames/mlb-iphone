@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 17:42",
+  "generated_at": "2026-09-17 20:05",
   "date": "2026-09-17",
   "games": [
     {
@@ -77,7 +77,7 @@
           "confirmed": true,
           "name": "Brady Singer",
           "hand": "R",
-          "era": "5.49",
+          "era": "5.67",
           "ipDisplay": "154.0",
           "gamesStarted": 30,
           "avgIpPerOuting": 5.1,
@@ -134,10 +134,10 @@
           "confirmed": true,
           "name": "Drew Rasmussen",
           "hand": "R",
-          "era": "2.77",
-          "ipDisplay": "162.1",
+          "era": "2.72",
+          "ipDisplay": "165.1",
           "gamesStarted": 29,
-          "avgIpPerOuting": 5.6,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.315,
@@ -157,8 +157,8 @@
           "confirmed": true,
           "name": "Jeffrey Springs",
           "hand": "L",
-          "era": "5.85",
-          "ipDisplay": "137.0",
+          "era": "6.18",
+          "ipDisplay": "138.1",
           "gamesStarted": 28,
           "avgIpPerOuting": 4.9,
           "isOpener": false,
@@ -179,9 +179,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "77",
-        "wind": "5 mph, Out To LF"
+        "condition": "Cloudy",
+        "temp": "74",
+        "wind": "2 mph, In From LF"
       },
       "home": {
         "teamId": 115,
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Tanner Gordon",
           "hand": "R",
-          "era": "5.55",
-          "ipDisplay": "97.1",
-          "gamesStarted": 10,
-          "avgIpPerOuting": 4.9,
+          "era": "6.07",
+          "ipDisplay": "99.1",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.335,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Michael King",
           "hand": "R",
-          "era": "3.03",
-          "ipDisplay": "175.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.8,
+          "era": "3.05",
+          "ipDisplay": "177.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.327,
@@ -235,13 +235,32 @@
       "gameTime": "2026-09-17T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
         "teamName": "Houston Astros",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Miguel Ullola",
+          "hand": "R",
+          "era": "3.38",
+          "ipDisplay": "8.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.0,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.348,
+            "woba30Rank": 25,
+            "woba7": 0.291,
+            "woba7Rank": 6,
+            "kPct30": 17.7,
+            "kPct30Rank": 27
+          }
         }
       },
       "away": {
@@ -273,7 +292,11 @@
       "gameTime": "2026-09-17T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "11 mph, Out To LF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -326,7 +349,11 @@
       "gameTime": "2026-09-17T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "5 mph, R To L"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
