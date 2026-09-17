@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 20:05",
+  "generated_at": "2026-09-17 23:28",
   "date": "2026-09-17",
   "games": [
     {
@@ -191,10 +191,10 @@
           "confirmed": true,
           "name": "Tanner Gordon",
           "hand": "R",
-          "era": "6.07",
-          "ipDisplay": "99.1",
+          "era": "6.01",
+          "ipDisplay": "100.1",
           "gamesStarted": 11,
-          "avgIpPerOuting": 4.6,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.335,
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Michael King",
           "hand": "R",
-          "era": "3.05",
-          "ipDisplay": "177.0",
+          "era": "3.03",
+          "ipDisplay": "181.0",
           "gamesStarted": 31,
-          "avgIpPerOuting": 5.7,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.327,
@@ -248,10 +248,10 @@
           "confirmed": true,
           "name": "Miguel Ullola",
           "hand": "R",
-          "era": "3.38",
-          "ipDisplay": "8.0",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 1.0,
+          "era": "4.15",
+          "ipDisplay": "8.2",
+          "gamesStarted": 2,
+          "avgIpPerOuting": 0.8,
           "isOpener": true,
           "oppSplits": {
             "woba30": 0.348,
@@ -293,9 +293,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "77",
-        "wind": "11 mph, Out To LF"
+        "condition": "Cloudy",
+        "temp": "76",
+        "wind": "6 mph, Out To LF"
       },
       "home": {
         "teamId": 121,
@@ -305,10 +305,10 @@
           "confirmed": true,
           "name": "Nolan McLean",
           "hand": "R",
-          "era": "3.24",
-          "ipDisplay": "166.2",
-          "gamesStarted": 29,
-          "avgIpPerOuting": 5.7,
+          "era": "3.22",
+          "ipDisplay": "167.2",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.295,
@@ -328,10 +328,10 @@
           "confirmed": true,
           "name": "Aaron Nola",
           "hand": "R",
-          "era": "4.69",
-          "ipDisplay": "161.1",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.4,
+          "era": "4.68",
+          "ipDisplay": "161.2",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.36,
@@ -350,7 +350,7 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
+        "condition": "Overcast",
         "temp": "77",
         "wind": "5 mph, R To L"
       },
@@ -406,7 +406,11 @@
       "gameTime": "2026-09-18T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -459,7 +463,11 @@
       "gameTime": "2026-09-18T01:38:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "80",
+        "wind": "9 mph, Varies"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17 20:05",
+  "generated_at": "2026-09-17 23:28",
   "window_start": "2026-08-18",
   "window_end": "2026-09-17",
-  "games_processed": 408,
+  "games_processed": 409,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 18,
+      "games": 19,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 2,
       "rank": 1
     },
@@ -121,8 +121,8 @@
       "teamId": 115,
       "teamName": "Colorado Rockies",
       "games": 13,
-      "started": 11,
-      "pctStarted": 41,
+      "started": 12,
+      "pctStarted": 43,
       "hits": 9,
       "rank": 5
     }
