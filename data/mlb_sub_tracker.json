@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18 02:01",
+  "generated_at": "2026-09-18 17:09",
   "window_start": "2026-08-19",
   "window_end": "2026-09-18",
-  "games_processed": 396,
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -12,7 +12,7 @@
       "teamName": "Chicago White Sox",
       "games": 13,
       "started": 21,
-      "pctStarted": 78,
+      "pctStarted": 75,
       "hits": 17,
       "rank": 1
     },
@@ -48,7 +48,7 @@
       "teamName": "Boston Red Sox",
       "games": 11,
       "started": 19,
-      "pctStarted": 73,
+      "pctStarted": 70,
       "hits": 17,
       "rank": 4
     },
@@ -85,8 +85,8 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 14,
-      "started": 7,
-      "pctStarted": 26,
+      "started": 8,
+      "pctStarted": 29,
       "hits": 17,
       "rank": 2
     },
@@ -103,6 +103,18 @@
       "rank": 3
     },
     {
+      "playerId": 701162,
+      "name": "Ben Malgeri",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 33,
+      "hits": 9,
+      "rank": 4
+    },
+    {
       "playerId": 669397,
       "name": "Nick Allen",
       "team": "HOU",
@@ -112,18 +124,6 @@
       "started": 6,
       "pctStarted": 22,
       "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 670770,
-      "name": "TJ Friedl",
-      "team": "CIN",
-      "teamId": 113,
-      "teamName": "Cincinnati Reds",
-      "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 7,
       "rank": 5
     }
   ]
