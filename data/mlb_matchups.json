@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 19:30",
+  "generated_at": "2026-09-18 23:09",
   "date": "2026-09-18",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "80",
+        "temp": "76",
         "wind": "10 mph, L To R"
       },
       "home": {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Chase Burns",
           "hand": "R",
-          "era": "2.80",
-          "ipDisplay": "151.1",
-          "gamesStarted": 28,
-          "avgIpPerOuting": 5.4,
+          "era": "2.83",
+          "ipDisplay": "152.2",
+          "gamesStarted": 29,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.378,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Clay Holmes",
           "hand": "R",
-          "era": "2.85",
-          "ipDisplay": "91.2",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 5.7,
+          "era": "3.01",
+          "ipDisplay": "92.2",
+          "gamesStarted": 17,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.324,
@@ -65,9 +65,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
+        "condition": "Clear",
         "temp": "75",
-        "wind": "7 mph, L To R"
+        "wind": "8 mph, Calm"
       },
       "home": {
         "teamId": 134,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Paul Skenes",
           "hand": "R",
-          "era": "3.78",
-          "ipDisplay": "162.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.4,
+          "era": "3.79",
+          "ipDisplay": "164.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.345,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "Randy Dobnak",
           "hand": "R",
-          "era": "2.73",
-          "ipDisplay": "69.1",
-          "gamesStarted": 11,
-          "avgIpPerOuting": 5.4,
+          "era": "2.67",
+          "ipDisplay": "70.2",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.309,
@@ -121,7 +121,11 @@
       "gameTime": "2026-09-18T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "9 mph, In From LF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -132,7 +136,7 @@
           "hand": "L",
           "era": "4.05",
           "ipDisplay": "33.1",
-          "gamesStarted": 6,
+          "gamesStarted": 7,
           "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
@@ -176,7 +180,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "69",
+        "temp": "70",
         "wind": "10 mph, In From RF"
       },
       "home": {
@@ -288,7 +292,11 @@
       "gameTime": "2026-09-18T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "6 mph, In From CF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -317,7 +325,22 @@
         "teamAbbr": "PHI",
         "teamName": "Philadelphia Phillies",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Tim Mayza",
+          "hand": "L",
+          "era": "3.06",
+          "ipDisplay": "64.2",
+          "gamesStarted": 5,
+          "avgIpPerOuting": 1.9,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.257,
+            "woba30Rank": 1,
+            "woba7": 0.202,
+            "woba7Rank": 1,
+            "kPct30": 24.0,
+            "kPct30Rank": 11
+          }
         }
       }
     },
@@ -326,7 +349,11 @@
       "gameTime": "2026-09-18T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "69",
+        "wind": "9 mph, In From LF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -379,7 +406,11 @@
       "gameTime": "2026-09-19T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "74",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -432,7 +463,11 @@
       "gameTime": "2026-09-19T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "70",
+        "wind": "6 mph, In From LF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
@@ -485,7 +520,11 @@
       "gameTime": "2026-09-19T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
@@ -538,7 +577,11 @@
       "gameTime": "2026-09-19T00:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "93",
+        "wind": "2 mph, Out To LF"
+      },
       "home": {
         "teamId": 138,
         "teamAbbr": "STL",
@@ -591,7 +634,11 @@
       "gameTime": "2026-09-19T01:38:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "74",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 108,
         "teamAbbr": "LAA",
@@ -644,7 +691,11 @@
       "gameTime": "2026-09-19T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "71",
+        "wind": "11 mph, In From LF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -697,7 +748,11 @@
       "gameTime": "2026-09-19T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -750,7 +805,11 @@
       "gameTime": "2026-09-19T02:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "70",
+        "wind": "8 mph, Out To RF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
