@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 17:09",
+  "generated_at": "2026-09-18 19:30",
   "date": "2026-09-18",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-09-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "80",
+        "wind": "10 mph, L To R"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -60,7 +64,11 @@
       "gameTime": "2026-09-18T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "75",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -166,7 +174,11 @@
       "gameTime": "2026-09-18T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "69",
+        "wind": "10 mph, In From RF"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -219,7 +231,11 @@
       "gameTime": "2026-09-18T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
@@ -422,7 +438,22 @@
         "teamAbbr": "COL",
         "teamName": "Colorado Rockies",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Gabriel Hughes",
+          "hand": "R",
+          "era": "6.37",
+          "ipDisplay": "59.1",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 4.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.342,
+            "woba30Rank": 21,
+            "woba7": 0.379,
+            "woba7Rank": 24,
+            "kPct30": 24.3,
+            "kPct30Rank": 7
+          }
         }
       },
       "away": {
