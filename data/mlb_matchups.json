@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19 16:38",
+  "generated_at": "2026-09-19 19:16",
   "date": "2026-09-19",
   "games": [
     {
@@ -8,8 +8,8 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Rain",
-        "temp": "65",
+        "condition": "Overcast",
+        "temp": "69",
         "wind": "5 mph, Varies"
       },
       "home": {
@@ -20,9 +20,9 @@
           "confirmed": true,
           "name": "Sean Burke",
           "hand": "R",
-          "era": "3.47",
-          "ipDisplay": "161.0",
-          "gamesStarted": 25,
+          "era": "3.38",
+          "ipDisplay": "165.0",
+          "gamesStarted": 26,
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jackson Jobe",
           "hand": "R",
-          "era": "3.89",
-          "ipDisplay": "34.2",
-          "gamesStarted": 7,
-          "avgIpPerOuting": 5.0,
+          "era": "3.72",
+          "ipDisplay": "38.2",
+          "gamesStarted": 8,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.296,
@@ -64,7 +64,11 @@
       "gameTime": "2026-09-19T20:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "77",
+        "wind": "6 mph, In From RF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -174,7 +178,11 @@
       "gameTime": "2026-09-19T20:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "7 mph, In From RF"
+      },
       "home": {
         "teamId": 121,
         "teamAbbr": "NYM",
@@ -227,7 +235,11 @@
       "gameTime": "2026-09-19T22:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "11 mph, R To L"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -280,7 +292,11 @@
       "gameTime": "2026-09-19T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "87",
+        "wind": "6 mph, Out To LF"
+      },
       "home": {
         "teamId": 113,
         "teamAbbr": "CIN",
@@ -333,7 +349,11 @@
       "gameTime": "2026-09-19T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "4 mph, In From RF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -386,7 +406,11 @@
       "gameTime": "2026-09-19T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -598,7 +622,11 @@
       "gameTime": "2026-09-20T00:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 109,
         "teamAbbr": "AZ",
@@ -733,7 +761,22 @@
         "teamAbbr": "SF",
         "teamName": "San Francisco Giants",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Yunior Marte",
+          "hand": "R",
+          "era": "2.45",
+          "ipDisplay": "14.2",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 4.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.334,
+            "woba30Rank": 18,
+            "woba7": 0.353,
+            "woba7Rank": 21,
+            "kPct30": 20.3,
+            "kPct30Rank": 21
+          }
         }
       }
     },
