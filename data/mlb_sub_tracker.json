@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19 19:15",
+  "generated_at": "2026-09-19 22:53",
   "window_start": "2026-08-20",
   "window_end": "2026-09-19",
-  "games_processed": 399,
+  "games_processed": 402,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -11,8 +11,8 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 12,
-      "started": 20,
-      "pctStarted": 71,
+      "started": 21,
+      "pctStarted": 72,
       "hits": 16,
       "rank": 1
     },
@@ -34,10 +34,10 @@
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
-      "games": 11,
-      "started": 17,
-      "pctStarted": 63,
-      "hits": 18,
+      "games": 12,
+      "started": 18,
+      "pctStarted": 64,
+      "hits": 20,
       "rank": 3
     },
     {
@@ -96,9 +96,9 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 13,
+      "games": 14,
       "started": 9,
-      "pctStarted": 32,
+      "pctStarted": 31,
       "hits": 17,
       "rank": 3
     },
@@ -109,8 +109,8 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 13,
-      "started": 9,
-      "pctStarted": 33,
+      "started": 10,
+      "pctStarted": 36,
       "hits": 9,
       "rank": 4
     },
