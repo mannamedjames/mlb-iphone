@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20 02:11",
+  "generated_at": "2026-09-20 16:55",
   "window_start": "2026-08-21",
   "window_end": "2026-09-20",
-  "games_processed": 399,
+  "games_processed": 405,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -36,7 +36,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 11,
       "started": 18,
-      "pctStarted": 72,
+      "pctStarted": 69,
       "hits": 19,
       "rank": 3
     },
@@ -48,8 +48,8 @@
       "teamName": "Los Angeles Dodgers",
       "games": 11,
       "started": 12,
-      "pctStarted": 46,
-      "hits": 9,
+      "pctStarted": 44,
+      "hits": 10,
       "rank": 4
     },
     {
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 17,
+      "games": 18,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 1,
       "rank": 1
     },
@@ -85,8 +85,8 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 15,
-      "started": 0,
-      "pctStarted": 0,
+      "started": 1,
+      "pctStarted": 4,
       "hits": 1,
       "rank": 2
     },
