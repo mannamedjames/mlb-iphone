@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19 22:53",
-  "window_start": "2026-08-20",
-  "window_end": "2026-09-19",
-  "games_processed": 402,
+  "generated_at": "2026-09-20 02:11",
+  "window_start": "2026-08-21",
+  "window_end": "2026-09-20",
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -11,22 +11,10 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 12,
-      "started": 21,
-      "pctStarted": 72,
-      "hits": 16,
+      "started": 20,
+      "pctStarted": 71,
+      "hits": 15,
       "rank": 1
-    },
-    {
-      "playerId": 695491,
-      "name": "Joshua B\u00e1ez",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 12,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 19,
-      "rank": 2
     },
     {
       "playerId": 689414,
@@ -36,21 +24,21 @@
       "teamName": "Tampa Bay Rays",
       "games": 12,
       "started": 18,
-      "pctStarted": 64,
+      "pctStarted": 67,
       "hits": 20,
-      "rank": 3
+      "rank": 2
     },
     {
-      "playerId": 663494,
-      "name": "Bryan Torres",
+      "playerId": 695491,
+      "name": "Joshua B\u00e1ez",
       "team": "STL",
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 11,
-      "started": 14,
-      "pctStarted": 54,
-      "hits": 12,
-      "rank": 4
+      "started": 18,
+      "pctStarted": 72,
+      "hits": 19,
+      "rank": 3
     },
     {
       "playerId": 500743,
@@ -62,6 +50,18 @@
       "started": 12,
       "pctStarted": 46,
       "hits": 9,
+      "rank": 4
+    },
+    {
+      "playerId": 803011,
+      "name": "Sam Antonacci",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 10,
+      "started": 22,
+      "pctStarted": 79,
+      "hits": 23,
       "rank": 5
     }
   ],
@@ -91,18 +91,6 @@
       "rank": 2
     },
     {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 14,
-      "started": 9,
-      "pctStarted": 31,
-      "hits": 17,
-      "rank": 3
-    },
-    {
       "playerId": 701162,
       "name": "Ben Malgeri",
       "team": "DET",
@@ -112,18 +100,30 @@
       "started": 10,
       "pctStarted": 36,
       "hits": 9,
+      "rank": 3
+    },
+    {
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 13,
+      "started": 9,
+      "pctStarted": 32,
+      "hits": 17,
       "rank": 4
     },
     {
-      "playerId": 670032,
-      "name": "Nicky Lopez",
-      "team": "TEX",
-      "teamId": 140,
-      "teamName": "Texas Rangers",
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
       "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 9,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 7,
       "rank": 5
     }
   ]
