@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20 19:19",
+  "generated_at": "2026-09-20 23:06",
   "window_start": "2026-08-21",
   "window_end": "2026-09-20",
-  "games_processed": 405,
+  "games_processed": 418,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -24,21 +24,9 @@
       "teamName": "Tampa Bay Rays",
       "games": 12,
       "started": 18,
-      "pctStarted": 67,
+      "pctStarted": 64,
       "hits": 20,
       "rank": 2
-    },
-    {
-      "playerId": 695491,
-      "name": "Joshua B\u00e1ez",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 11,
-      "started": 18,
-      "pctStarted": 69,
-      "hits": 19,
-      "rank": 3
     },
     {
       "playerId": 500743,
@@ -46,22 +34,34 @@
       "team": "LAD",
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
+      "games": 12,
+      "started": 13,
+      "pctStarted": 46,
+      "hits": 11,
+      "rank": 3
+    },
+    {
+      "playerId": 663457,
+      "name": "Lars Nootbaar",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
       "games": 11,
-      "started": 12,
-      "pctStarted": 44,
-      "hits": 10,
+      "started": 20,
+      "pctStarted": 71,
+      "hits": 20,
       "rank": 4
     },
     {
-      "playerId": 803011,
-      "name": "Sam Antonacci",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 10,
-      "started": 22,
-      "pctStarted": 79,
-      "hits": 23,
+      "playerId": 681508,
+      "name": "Mickey Gasper",
+      "team": "BOS",
+      "teamId": 111,
+      "teamName": "Boston Red Sox",
+      "games": 11,
+      "started": 20,
+      "pctStarted": 69,
+      "hits": 17,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 18,
+      "games": 19,
       "started": 2,
       "pctStarted": 7,
       "hits": 1,
@@ -84,11 +84,23 @@
       "team": "STL",
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
-      "games": 15,
+      "games": 16,
       "started": 1,
       "pctStarted": 4,
       "hits": 1,
       "rank": 2
+    },
+    {
+      "playerId": 691728,
+      "name": "Zac Veen",
+      "team": "COL",
+      "teamId": 115,
+      "teamName": "Colorado Rockies",
+      "games": 13,
+      "started": 12,
+      "pctStarted": 41,
+      "hits": 9,
+      "rank": 3
     },
     {
       "playerId": 701162,
@@ -100,7 +112,7 @@
       "started": 10,
       "pctStarted": 36,
       "hits": 9,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 545341,
@@ -112,18 +124,6 @@
       "started": 9,
       "pctStarted": 32,
       "hits": 17,
-      "rank": 4
-    },
-    {
-      "playerId": 669397,
-      "name": "Nick Allen",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
-      "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 7,
       "rank": 5
     }
   ]
