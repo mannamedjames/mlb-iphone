@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 18:50",
+  "generated_at": "2026-09-21 20:54",
   "date": "2026-09-21",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-09-21T22:35:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "69",
+        "wind": "9 mph, In From CF"
+      },
       "home": {
         "teamId": 110,
         "teamAbbr": "BAL",
@@ -60,7 +64,11 @@
       "gameTime": "2026-09-21T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "61",
+        "wind": "12 mph, L To R"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
