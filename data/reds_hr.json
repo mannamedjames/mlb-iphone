@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-09-20 15:13",
+  "generated_at": "2026-09-21 17:37",
   "team": "CIN",
-  "window_start": "2026-08-21",
-  "window_end": "2026-09-20",
+  "window_start": "2026-08-22",
+  "window_end": "2026-09-21",
   "homers": [
+    {
+      "batter": "Jj Bleday",
+      "batterId": 668709,
+      "pitcher": "David Peterson",
+      "pitcherHand": "L",
+      "count": "0-0",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 95.6,
+      "rbi": 1,
+      "inning": 4,
+      "halfInning": "Bot",
+      "outs": 2,
+      "date": "2026-09-20",
+      "away": "CHC",
+      "home": "CIN",
+      "opponent": "CHC",
+      "opponentId": 112,
+      "distanceFt": 386,
+      "exitVeloMph": 103.4,
+      "field": "RF",
+      "desc": "JJ Bleday homers (23) on a fly ball to right center field."
+    },
     {
       "batter": "Sal Stewart",
       "batterId": 701398,
@@ -201,28 +223,6 @@
       "exitVeloMph": 109.4,
       "field": "LF",
       "desc": "Elly De La Cruz homers (25) on a fly ball to left center field. Dane Myers scores."
-    },
-    {
-      "batter": "Eugenio Su\u00e1rez",
-      "batterId": 553993,
-      "pitcher": "Seth Halvorsen",
-      "pitcherHand": "R",
-      "count": "2-0",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 98.7,
-      "rbi": 1,
-      "inning": 7,
-      "halfInning": "Top",
-      "outs": 1,
-      "date": "2026-09-07",
-      "away": "CIN",
-      "home": "LAD",
-      "opponent": "LAD",
-      "opponentId": 119,
-      "distanceFt": 403,
-      "exitVeloMph": 104.4,
-      "field": "CF",
-      "desc": "Eugenio Su\u00e1rez homers (22) on a fly ball to center field."
     }
   ]
 }
