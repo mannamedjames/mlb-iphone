@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20 23:06",
-  "window_start": "2026-08-21",
-  "window_end": "2026-09-20",
-  "games_processed": 418,
+  "generated_at": "2026-09-21 02:11",
+  "window_start": "2026-08-22",
+  "window_end": "2026-09-21",
+  "games_processed": 404,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -10,9 +10,9 @@
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 12,
-      "started": 20,
-      "pctStarted": 71,
+      "games": 13,
+      "started": 21,
+      "pctStarted": 75,
       "hits": 15,
       "rank": 1
     },
@@ -23,8 +23,8 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 12,
-      "started": 18,
-      "pctStarted": 64,
+      "started": 17,
+      "pctStarted": 63,
       "hits": 20,
       "rank": 2
     },
@@ -36,9 +36,21 @@
       "teamName": "Los Angeles Dodgers",
       "games": 12,
       "started": 13,
-      "pctStarted": 46,
+      "pctStarted": 48,
       "hits": 11,
       "rank": 3
+    },
+    {
+      "playerId": 803011,
+      "name": "Sam Antonacci",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 11,
+      "started": 23,
+      "pctStarted": 82,
+      "hits": 25,
+      "rank": 4
     },
     {
       "playerId": 663457,
@@ -48,20 +60,8 @@
       "teamName": "Arizona Diamondbacks",
       "games": 11,
       "started": 20,
-      "pctStarted": 71,
+      "pctStarted": 74,
       "hits": 20,
-      "rank": 4
-    },
-    {
-      "playerId": 681508,
-      "name": "Mickey Gasper",
-      "team": "BOS",
-      "teamId": 111,
-      "teamName": "Boston Red Sox",
-      "games": 11,
-      "started": 20,
-      "pctStarted": 69,
-      "hits": 17,
       "rank": 5
     }
   ],
@@ -91,15 +91,15 @@
       "rank": 2
     },
     {
-      "playerId": 691728,
-      "name": "Zac Veen",
-      "team": "COL",
-      "teamId": 115,
-      "teamName": "Colorado Rockies",
-      "games": 13,
-      "started": 12,
-      "pctStarted": 41,
-      "hits": 9,
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 14,
+      "started": 8,
+      "pctStarted": 29,
+      "hits": 15,
       "rank": 3
     },
     {
@@ -109,21 +109,21 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 13,
-      "started": 10,
-      "pctStarted": 36,
+      "started": 9,
+      "pctStarted": 32,
       "hits": 9,
       "rank": 4
     },
     {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
+      "playerId": 668952,
+      "name": "Ryan Kreidler",
+      "team": "MIN",
+      "teamId": 142,
+      "teamName": "Minnesota Twins",
       "games": 13,
-      "started": 9,
-      "pctStarted": 32,
-      "hits": 17,
+      "started": 7,
+      "pctStarted": 26,
+      "hits": 5,
       "rank": 5
     }
   ]
