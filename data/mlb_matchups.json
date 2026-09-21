@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 20:54",
+  "generated_at": "2026-09-21 23:59",
   "date": "2026-09-21",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "69",
-        "wind": "9 mph, In From CF"
+        "condition": "Overcast",
+        "temp": "65",
+        "wind": "3 mph, In From RF"
       },
       "home": {
         "teamId": 110,
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Shane Baz",
           "hand": "R",
-          "era": "4.11",
-          "ipDisplay": "173.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.8,
+          "era": "4.22",
+          "ipDisplay": "175.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.342,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Trey Yesavage",
           "hand": "R",
-          "era": "3.65",
-          "ipDisplay": "93.2",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.2,
+          "era": "3.71",
+          "ipDisplay": "94.2",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.308,
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "61",
-        "wind": "12 mph, L To R"
+        "temp": "60",
+        "wind": "11 mph, L To R"
       },
       "home": {
         "teamId": 116,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "River Ryan",
           "hand": "R",
-          "era": null,
-          "ipDisplay": null,
-          "gamesStarted": null,
-          "avgIpPerOuting": null,
+          "era": "0.00",
+          "ipDisplay": "3.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 3.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.311,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "DJ Herz",
           "hand": "L",
-          "era": null,
-          "ipDisplay": null,
-          "gamesStarted": null,
-          "avgIpPerOuting": null,
+          "era": "9.00",
+          "ipDisplay": "4.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 4.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.344,
@@ -121,7 +121,11 @@
       "gameTime": "2026-09-22T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "60",
+        "wind": "15 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
