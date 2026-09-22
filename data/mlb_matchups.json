@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 20:05",
+  "generated_at": "2026-09-22 23:33",
   "date": "2026-09-22",
   "games": [
     {
@@ -119,8 +119,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "63",
-        "wind": "14 mph, L To R"
+        "temp": "64",
+        "wind": "7 mph, L To R"
       },
       "home": {
         "teamId": 116,
@@ -130,10 +130,10 @@
           "confirmed": true,
           "name": "Drew Anderson",
           "hand": "R",
-          "era": "3.62",
-          "ipDisplay": "102.0",
-          "gamesStarted": 10,
-          "avgIpPerOuting": 4.6,
+          "era": "3.60",
+          "ipDisplay": "105.0",
+          "gamesStarted": 11,
+          "avgIpPerOuting": 4.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.312,
@@ -153,10 +153,10 @@
           "confirmed": true,
           "name": "Riley Cornelio",
           "hand": "R",
-          "era": "4.22",
-          "ipDisplay": "32.0",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 2.5,
+          "era": "3.89",
+          "ipDisplay": "34.2",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 2.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.309,
@@ -175,9 +175,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "59",
-        "wind": "14 mph, In From CF"
+        "condition": "Overcast",
+        "temp": "60",
+        "wind": "11 mph, In From CF"
       },
       "home": {
         "teamId": 134,
@@ -187,10 +187,10 @@
           "confirmed": true,
           "name": "Jared Jones",
           "hand": "R",
-          "era": "4.17",
-          "ipDisplay": "90.2",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 4.8,
+          "era": "3.99",
+          "ipDisplay": "94.2",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.319,
@@ -210,10 +210,10 @@
           "confirmed": true,
           "name": "Andre Pallante",
           "hand": "R",
-          "era": "3.70",
-          "ipDisplay": "151.0",
-          "gamesStarted": 27,
-          "avgIpPerOuting": 5.6,
+          "era": "3.62",
+          "ipDisplay": "154.0",
+          "gamesStarted": 28,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -232,9 +232,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "62",
-        "wind": "11 mph, In From CF"
+        "condition": "Overcast",
+        "temp": "63",
+        "wind": "9 mph, In From RF"
       },
       "home": {
         "teamId": 143,
@@ -244,10 +244,10 @@
           "confirmed": true,
           "name": "Zack Wheeler",
           "hand": "R",
-          "era": "2.99",
-          "ipDisplay": "150.1",
-          "gamesStarted": 26,
-          "avgIpPerOuting": 5.8,
+          "era": "2.93",
+          "ipDisplay": "153.1",
+          "gamesStarted": 27,
+          "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.375,
@@ -267,10 +267,10 @@
           "confirmed": true,
           "name": "Dustin May",
           "hand": "R",
-          "era": "4.61",
-          "ipDisplay": "140.2",
-          "gamesStarted": 29,
-          "avgIpPerOuting": 4.9,
+          "era": "4.67",
+          "ipDisplay": "142.2",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.282,
@@ -290,8 +290,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "59",
-        "wind": "12 mph, In From CF"
+        "temp": "62",
+        "wind": "5 mph, Varies"
       },
       "home": {
         "teamId": 111,
@@ -301,10 +301,10 @@
           "confirmed": true,
           "name": "Payton Tolle",
           "hand": "L",
-          "era": "3.02",
-          "ipDisplay": "143.0",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 5.7,
+          "era": "3.09",
+          "ipDisplay": "145.2",
+          "gamesStarted": 26,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.316,
@@ -324,10 +324,10 @@
           "confirmed": true,
           "name": "Parker Messick",
           "hand": "L",
-          "era": "2.57",
-          "ipDisplay": "178.1",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.9,
+          "era": "2.60",
+          "ipDisplay": "180.1",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.299,
@@ -345,7 +345,11 @@
       "gameTime": "2026-09-22T23:05:00Z",
       "doubleHeader": "S",
       "gameNumber": 2,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "65",
+        "wind": "13 mph, L To R"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -354,10 +358,10 @@
           "confirmed": true,
           "name": "Max Fried",
           "hand": "L",
-          "era": "2.63",
-          "ipDisplay": "106.0",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.6,
+          "era": "2.58",
+          "ipDisplay": "108.0",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.328,
@@ -377,10 +381,10 @@
           "confirmed": true,
           "name": "Drew Rasmussen",
           "hand": "R",
-          "era": "2.72",
-          "ipDisplay": "165.1",
-          "gamesStarted": 29,
-          "avgIpPerOuting": 5.7,
+          "era": "2.71",
+          "ipDisplay": "166.1",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.321,
@@ -400,7 +404,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Overcast",
-        "temp": "80",
+        "temp": "81",
         "wind": "5 mph, Out To RF"
       },
       "home": {
@@ -411,10 +415,10 @@
           "confirmed": true,
           "name": "JR Ritchie",
           "hand": "R",
-          "era": "5.03",
-          "ipDisplay": "62.2",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 4.9,
+          "era": "4.95",
+          "ipDisplay": "63.2",
+          "gamesStarted": 10,
+          "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.31,
@@ -437,7 +441,7 @@
           "era": "5.56",
           "ipDisplay": "43.2",
           "gamesStarted": 7,
-          "avgIpPerOuting": 4.8,
+          "avgIpPerOuting": 4.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.283,
@@ -458,7 +462,7 @@
       "weather": {
         "condition": "Partly Cloudy",
         "temp": "70",
-        "wind": "9 mph, In From CF"
+        "wind": "9 mph, L To R"
       },
       "home": {
         "teamId": 118,
@@ -571,7 +575,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Roof Closed",
-        "temp": "72",
+        "temp": "74",
         "wind": "0 mph, None"
       },
       "home": {
@@ -683,7 +687,11 @@
       "gameTime": "2026-09-23T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "81",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -736,7 +744,11 @@
       "gameTime": "2026-09-23T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "65",
+        "wind": "3 mph, Out To RF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -789,7 +801,11 @@
       "gameTime": "2026-09-23T01:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "61",
+        "wind": "14 mph, Out To CF"
+      },
       "home": {
         "teamId": 137,
         "teamAbbr": "SF",
@@ -842,13 +858,32 @@
       "gameTime": "2026-09-23T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "71",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
         "teamName": "Los Angeles Dodgers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Brock Stewart",
+          "hand": "R",
+          "era": "2.55",
+          "ipDisplay": "24.2",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.348,
+            "woba30Rank": 26,
+            "woba7": 0.394,
+            "woba7Rank": 28,
+            "kPct30": 20.3,
+            "kPct30Rank": 22
+          }
         }
       },
       "away": {
