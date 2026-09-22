@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21 23:59",
-  "window_start": "2026-08-22",
-  "window_end": "2026-09-21",
-  "games_processed": 405,
+  "generated_at": "2026-09-22 02:16",
+  "window_start": "2026-08-23",
+  "window_end": "2026-09-22",
+  "games_processed": 392,
   "subbed_out": [
     {
       "playerId": 643217,
@@ -11,22 +11,10 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 13,
-      "started": 21,
-      "pctStarted": 75,
-      "hits": 15,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 14,
       "rank": 1
-    },
-    {
-      "playerId": 689414,
-      "name": "Liam Hicks",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 12,
-      "started": 17,
-      "pctStarted": 63,
-      "hits": 20,
-      "rank": 2
     },
     {
       "playerId": 500743,
@@ -36,21 +24,9 @@
       "teamName": "Los Angeles Dodgers",
       "games": 12,
       "started": 13,
-      "pctStarted": 48,
+      "pctStarted": 50,
       "hits": 11,
-      "rank": 3
-    },
-    {
-      "playerId": 803011,
-      "name": "Sam Antonacci",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 11,
-      "started": 23,
-      "pctStarted": 82,
-      "hits": 25,
-      "rank": 4
+      "rank": 2
     },
     {
       "playerId": 663457,
@@ -59,9 +35,33 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 11,
-      "started": 20,
-      "pctStarted": 74,
-      "hits": 20,
+      "started": 19,
+      "pctStarted": 73,
+      "hits": 18,
+      "rank": 3
+    },
+    {
+      "playerId": 691788,
+      "name": "Joe Mack",
+      "team": "MIA",
+      "teamId": 146,
+      "teamName": "Miami Marlins",
+      "games": 11,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 14,
+      "rank": 4
+    },
+    {
+      "playerId": 687957,
+      "name": "Dustin Harris",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 11,
+      "started": 17,
+      "pctStarted": 65,
+      "hits": 24,
       "rank": 5
     }
   ],
@@ -74,7 +74,7 @@
       "teamName": "San Diego Padres",
       "games": 19,
       "started": 2,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 1,
       "rank": 1
     },
@@ -91,39 +91,39 @@
       "rank": 2
     },
     {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 14,
-      "started": 8,
-      "pctStarted": 29,
-      "hits": 15,
-      "rank": 3
-    },
-    {
       "playerId": 701162,
       "name": "Ben Malgeri",
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 13,
-      "started": 9,
-      "pctStarted": 32,
-      "hits": 9,
+      "started": 10,
+      "pctStarted": 36,
+      "hits": 11,
+      "rank": 3
+    },
+    {
+      "playerId": 545341,
+      "name": "Randal Grichuk",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 13,
+      "started": 8,
+      "pctStarted": 30,
+      "hits": 15,
       "rank": 4
     },
     {
-      "playerId": 668952,
-      "name": "Ryan Kreidler",
-      "team": "MIN",
-      "teamId": 142,
-      "teamName": "Minnesota Twins",
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
       "games": 13,
-      "started": 7,
-      "pctStarted": 26,
-      "hits": 5,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 7,
       "rank": 5
     }
   ]
