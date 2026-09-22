@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 17:42",
+  "generated_at": "2026-09-22 20:05",
   "date": "2026-09-22",
   "games": [
     {
@@ -20,10 +20,10 @@
           "confirmed": true,
           "name": "Carlos Rod\u00f3n",
           "hand": "L",
-          "era": "2.85",
-          "ipDisplay": "79.0",
+          "era": "2.67",
+          "ipDisplay": "84.1",
           "gamesStarted": 16,
-          "avgIpPerOuting": 4.9,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.328,
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Nick Martinez",
           "hand": "R",
-          "era": "2.91",
-          "ipDisplay": "173.1",
+          "era": "2.94",
+          "ipDisplay": "177.1",
           "gamesStarted": 30,
-          "avgIpPerOuting": 5.8,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.321,
@@ -117,7 +117,11 @@
       "gameTime": "2026-09-22T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "63",
+        "wind": "14 mph, L To R"
+      },
       "home": {
         "teamId": 116,
         "teamAbbr": "DET",
@@ -170,7 +174,11 @@
       "gameTime": "2026-09-22T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "59",
+        "wind": "14 mph, In From CF"
+      },
       "home": {
         "teamId": 134,
         "teamAbbr": "PIT",
@@ -223,7 +231,11 @@
       "gameTime": "2026-09-22T22:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "62",
+        "wind": "11 mph, In From CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -276,7 +288,11 @@
       "gameTime": "2026-09-22T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "59",
+        "wind": "12 mph, In From CF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -382,7 +398,11 @@
       "gameTime": "2026-09-22T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "80",
+        "wind": "5 mph, Out To RF"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
@@ -435,7 +455,11 @@
       "gameTime": "2026-09-22T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "70",
+        "wind": "9 mph, In From CF"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -488,7 +512,11 @@
       "gameTime": "2026-09-22T23:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "61",
+        "wind": "14 mph, In From CF"
+      },
       "home": {
         "teamId": 112,
         "teamAbbr": "CHC",
@@ -541,7 +569,11 @@
       "gameTime": "2026-09-23T00:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "72",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 140,
         "teamAbbr": "TEX",
@@ -594,7 +626,11 @@
       "gameTime": "2026-09-23T00:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "76",
+        "wind": "9 mph, Out To CF"
+      },
       "home": {
         "teamId": 115,
         "teamAbbr": "COL",
