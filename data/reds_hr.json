@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-09-23 15:54",
+  "generated_at": "2026-09-24 16:17",
   "team": "CIN",
-  "window_start": "2026-08-24",
-  "window_end": "2026-09-23",
+  "window_start": "2026-08-25",
+  "window_end": "2026-09-24",
   "homers": [
+    {
+      "batter": "Juan Brito",
+      "batterId": 682877,
+      "pitcher": "Chris Sale",
+      "pitcherHand": "L",
+      "count": "3-1",
+      "pitch": "4-Seam Fastball",
+      "pitchSpeed": 96.9,
+      "rbi": 1,
+      "inning": 1,
+      "halfInning": "Top",
+      "outs": 0,
+      "date": "2026-09-23",
+      "away": "CIN",
+      "home": "ATL",
+      "opponent": "ATL",
+      "opponentId": 144,
+      "distanceFt": 408,
+      "exitVeloMph": 102.3,
+      "field": "CF",
+      "desc": "Juan Brito homers (3) on a fly ball to center field."
+    },
     {
       "batter": "Eugenio Su\u00e1rez",
       "batterId": 553993,
@@ -201,28 +223,6 @@
       "exitVeloMph": 105.3,
       "field": "RCF",
       "desc": "Eugenio Su\u00e1rez homers (24) on a fly ball to right center field. Elly De La Cruz scores. Sal Stewart scores."
-    },
-    {
-      "batter": "Juan Brito",
-      "batterId": 682877,
-      "pitcher": "Shane Drohan",
-      "pitcherHand": "L",
-      "count": "0-2",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 93.6,
-      "rbi": 2,
-      "inning": 4,
-      "halfInning": "Top",
-      "outs": 1,
-      "date": "2026-09-12",
-      "away": "CIN",
-      "home": "MIL",
-      "opponent": "MIL",
-      "opponentId": 158,
-      "distanceFt": 409,
-      "exitVeloMph": 105.5,
-      "field": "LF",
-      "desc": "Juan Brito homers (2) on a fly ball to left center field. JJ Bleday scores."
     }
   ]
 }
