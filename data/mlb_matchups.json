@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 20:18",
+  "generated_at": "2026-09-24 23:50",
   "date": "2026-09-24",
   "games": [
     {
@@ -137,7 +137,7 @@
           "era": "3.91",
           "ipDisplay": "126.2",
           "gamesStarted": 22,
-          "avgIpPerOuting": 5.7,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.287,
@@ -248,8 +248,8 @@
           "confirmed": true,
           "name": "Tanner Gordon",
           "hand": "R",
-          "era": "6.53",
-          "ipDisplay": "103.1",
+          "era": "6.68",
+          "ipDisplay": "103.2",
           "gamesStarted": 12,
           "avgIpPerOuting": 4.6,
           "isOpener": false,
@@ -271,10 +271,10 @@
           "confirmed": true,
           "name": "Eduardo Rodriguez",
           "hand": "L",
-          "era": "2.84",
-          "ipDisplay": "186.2",
+          "era": "2.89",
+          "ipDisplay": "189.2",
           "gamesStarted": 32,
-          "avgIpPerOuting": 5.8,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.349,
@@ -293,9 +293,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "64",
-        "wind": "11 mph, In From CF"
+        "condition": "Overcast",
+        "temp": "66",
+        "wind": "11 mph, In From RF"
       },
       "home": {
         "teamId": 143,
@@ -305,10 +305,10 @@
           "confirmed": true,
           "name": "Andrew Painter",
           "hand": "R",
-          "era": "5.59",
-          "ipDisplay": "120.2",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.0,
+          "era": "5.40",
+          "ipDisplay": "126.2",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 5.1,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.366,
@@ -328,10 +328,10 @@
           "confirmed": true,
           "name": "Shane Drohan",
           "hand": "L",
-          "era": "4.26",
-          "ipDisplay": "120.1",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.1,
+          "era": "4.24",
+          "ipDisplay": "123.0",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.337,
@@ -351,8 +351,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "59",
-        "wind": "13 mph, In From CF"
+        "temp": "58",
+        "wind": "6 mph, In From CF"
       },
       "home": {
         "teamId": 111,
@@ -362,9 +362,9 @@
           "confirmed": true,
           "name": "Ranger Suarez",
           "hand": "L",
-          "era": "3.27",
-          "ipDisplay": "143.1",
-          "gamesStarted": 27,
+          "era": "3.24",
+          "ipDisplay": "147.1",
+          "gamesStarted": 28,
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
@@ -385,10 +385,10 @@
           "confirmed": true,
           "name": "Daniel Espino",
           "hand": "R",
-          "era": "4.73",
-          "ipDisplay": "13.1",
-          "gamesStarted": 2,
-          "avgIpPerOuting": 1.5,
+          "era": "4.40",
+          "ipDisplay": "14.1",
+          "gamesStarted": 3,
+          "avgIpPerOuting": 1.3,
           "isOpener": true,
           "oppSplits": {
             "woba30": 0.311,
@@ -419,10 +419,10 @@
           "confirmed": true,
           "name": "Cam Schlittler",
           "hand": "R",
-          "era": "1.94",
-          "ipDisplay": "190.2",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 6.0,
+          "era": "1.96",
+          "ipDisplay": "192.2",
+          "gamesStarted": 33,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.328,
@@ -442,10 +442,10 @@
           "confirmed": true,
           "name": "Ian Seymour",
           "hand": "L",
-          "era": "4.38",
-          "ipDisplay": "127.1",
-          "gamesStarted": 15,
-          "avgIpPerOuting": 4.8,
+          "era": "4.31",
+          "ipDisplay": "129.1",
+          "gamesStarted": 16,
+          "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.362,
@@ -464,9 +464,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "71",
-        "wind": "9 mph, L To R"
+        "condition": "Clear",
+        "temp": "70",
+        "wind": "8 mph, L To R"
       },
       "home": {
         "teamId": 144,
@@ -476,10 +476,10 @@
           "confirmed": true,
           "name": "Tyler Mahle",
           "hand": "R",
-          "era": "3.81",
-          "ipDisplay": "144.0",
-          "gamesStarted": 26,
-          "avgIpPerOuting": 5.5,
+          "era": "3.83",
+          "ipDisplay": "145.2",
+          "gamesStarted": 27,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.321,
@@ -499,10 +499,10 @@
           "confirmed": true,
           "name": "Brady Singer",
           "hand": "R",
-          "era": "5.67",
-          "ipDisplay": "154.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.1,
+          "era": "5.86",
+          "ipDisplay": "155.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.344,
@@ -520,7 +520,11 @@
       "gameTime": "2026-09-25T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "92",
+        "wind": "6 mph, Out To RF"
+      },
       "home": {
         "teamId": 133,
         "teamAbbr": "ATH",
@@ -573,7 +577,11 @@
       "gameTime": "2026-09-25T01:40:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "60",
+        "wind": "5 mph, In From CF"
+      },
       "home": {
         "teamId": 136,
         "teamAbbr": "SEA",
@@ -626,7 +634,11 @@
       "gameTime": "2026-09-25T02:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "82",
+        "wind": "7 mph, Out To RF"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
