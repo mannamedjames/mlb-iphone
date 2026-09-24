@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24 17:54",
+  "generated_at": "2026-09-24 20:18",
   "window_start": "2026-08-25",
   "window_end": "2026-09-24",
-  "games_processed": 400,
+  "games_processed": 401,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 663494,
+      "name": "Bryan Torres",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 12,
+      "started": 15,
+      "pctStarted": 56,
+      "hits": 10,
+      "rank": 3
+    },
+    {
       "playerId": 500743,
       "name": "Miguel Rojas",
       "team": "LAD",
@@ -38,7 +50,7 @@
       "started": 13,
       "pctStarted": 48,
       "hits": 11,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 663457,
@@ -50,18 +62,6 @@
       "started": 19,
       "pctStarted": 73,
       "hits": 18,
-      "rank": 4
-    },
-    {
-      "playerId": 663494,
-      "name": "Bryan Torres",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 11,
-      "started": 14,
-      "pctStarted": 54,
-      "hits": 10,
       "rank": 5
     }
   ],
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 686475,
-      "name": "Tyler Tolbert",
-      "team": "KC",
-      "teamId": 118,
-      "teamName": "Kansas City Royals",
+      "playerId": 669707,
+      "name": "Jared Triolo",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
       "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 7,
+      "started": 13,
+      "pctStarted": 50,
+      "hits": 12,
       "rank": 5
     }
   ]

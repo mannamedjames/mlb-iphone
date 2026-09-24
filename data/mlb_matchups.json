@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 17:54",
+  "generated_at": "2026-09-24 20:18",
   "date": "2026-09-24",
   "games": [
     {
@@ -20,8 +20,8 @@
           "confirmed": true,
           "name": "Paul Skenes",
           "hand": "R",
-          "era": "3.87",
-          "ipDisplay": "172.0",
+          "era": "3.82",
+          "ipDisplay": "174.1",
           "gamesStarted": 32,
           "avgIpPerOuting": 5.4,
           "isOpener": false,
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Partly Cloudy",
-        "temp": "74",
-        "wind": "6 mph, R To L"
+        "temp": "72",
+        "wind": "4 mph, In From RF"
       },
       "home": {
         "teamId": 118,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Randy Dobnak",
           "hand": "R",
-          "era": "3.08",
-          "ipDisplay": "73.0",
-          "gamesStarted": 12,
-          "avgIpPerOuting": 5.3,
+          "era": "3.51",
+          "ipDisplay": "74.1",
+          "gamesStarted": 13,
+          "avgIpPerOuting": 5.0,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.306,
@@ -100,10 +100,10 @@
           "confirmed": true,
           "name": "David Sandlin",
           "hand": "R",
-          "era": "6.29",
-          "ipDisplay": "34.1",
-          "gamesStarted": 5,
-          "avgIpPerOuting": 5.1,
+          "era": "5.58",
+          "ipDisplay": "40.1",
+          "gamesStarted": 6,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.338,
@@ -134,9 +134,9 @@
           "confirmed": true,
           "name": "Matthew Boyd",
           "hand": "L",
-          "era": "4.06",
-          "ipDisplay": "119.2",
-          "gamesStarted": 21,
+          "era": "3.91",
+          "ipDisplay": "126.2",
+          "gamesStarted": 22,
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
@@ -157,9 +157,9 @@
           "confirmed": true,
           "name": "Tyler Phillips",
           "hand": "R",
-          "era": "3.45",
-          "ipDisplay": "122.2",
-          "gamesStarted": 19,
+          "era": "3.34",
+          "ipDisplay": "126.2",
+          "gamesStarted": 20,
           "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
@@ -191,9 +191,9 @@
           "confirmed": true,
           "name": "Kumar Rocker",
           "hand": "R",
-          "era": "4.47",
-          "ipDisplay": "143.0",
-          "gamesStarted": 26,
+          "era": "4.38",
+          "ipDisplay": "148.0",
+          "gamesStarted": 27,
           "avgIpPerOuting": 4.8,
           "isOpener": false,
           "oppSplits": {
@@ -214,10 +214,10 @@
           "confirmed": true,
           "name": "Zac Thornton",
           "hand": "L",
-          "era": "3.40",
-          "ipDisplay": "79.1",
-          "gamesStarted": 14,
-          "avgIpPerOuting": 5.7,
+          "era": "3.42",
+          "ipDisplay": "84.1",
+          "gamesStarted": 15,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.377,
@@ -236,9 +236,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
+        "condition": "Cloudy",
         "temp": "70",
-        "wind": "8 mph, In From CF"
+        "wind": "8 mph, In From RF"
       },
       "home": {
         "teamId": 115,
@@ -248,10 +248,10 @@
           "confirmed": true,
           "name": "Tanner Gordon",
           "hand": "R",
-          "era": "6.01",
-          "ipDisplay": "100.1",
-          "gamesStarted": 11,
-          "avgIpPerOuting": 4.7,
+          "era": "6.53",
+          "ipDisplay": "103.1",
+          "gamesStarted": 12,
+          "avgIpPerOuting": 4.6,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.314,
@@ -271,10 +271,10 @@
           "confirmed": true,
           "name": "Eduardo Rodriguez",
           "hand": "L",
-          "era": "2.89",
-          "ipDisplay": "183.2",
-          "gamesStarted": 31,
-          "avgIpPerOuting": 5.9,
+          "era": "2.84",
+          "ipDisplay": "186.2",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.349,
@@ -292,7 +292,11 @@
       "gameTime": "2026-09-24T22:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "64",
+        "wind": "11 mph, In From CF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
@@ -345,7 +349,11 @@
       "gameTime": "2026-09-24T22:45:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "59",
+        "wind": "13 mph, In From CF"
+      },
       "home": {
         "teamId": 111,
         "teamAbbr": "BOS",
@@ -398,7 +406,11 @@
       "gameTime": "2026-09-24T23:05:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "64",
+        "wind": "13 mph, In From LF"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -451,7 +463,11 @@
       "gameTime": "2026-09-24T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "71",
+        "wind": "9 mph, L To R"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
