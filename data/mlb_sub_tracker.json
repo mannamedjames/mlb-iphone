@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-25 02:19",
+  "generated_at": "2026-09-25 18:02",
   "window_start": "2026-08-26",
   "window_end": "2026-09-25",
-  "games_processed": 394,
+  "games_processed": 397,
   "subbed_out": [
+    {
+      "playerId": 687957,
+      "name": "Dustin Harris",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 13,
+      "started": 18,
+      "pctStarted": 69,
+      "hits": 22,
+      "rank": 1
+    },
     {
       "playerId": 643217,
       "name": "Andrew Benintendi",
@@ -14,18 +26,6 @@
       "started": 20,
       "pctStarted": 74,
       "hits": 14,
-      "rank": 1
-    },
-    {
-      "playerId": 687957,
-      "name": "Dustin Harris",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 12,
-      "started": 17,
-      "pctStarted": 68,
-      "hits": 22,
       "rank": 2
     },
     {
@@ -48,7 +48,7 @@
       "teamName": "Los Angeles Dodgers",
       "games": 12,
       "started": 13,
-      "pctStarted": 50,
+      "pctStarted": 48,
       "hits": 11,
       "rank": 4
     },
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 19,
+      "games": 20,
       "started": 2,
       "pctStarted": 8,
       "hits": 1,
