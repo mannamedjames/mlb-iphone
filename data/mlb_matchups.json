@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 17:20",
+  "generated_at": "2026-09-26 19:38",
   "date": "2026-09-26",
   "games": [
     {
@@ -43,10 +43,10 @@
           "confirmed": true,
           "name": "Jonah Tong",
           "hand": "R",
-          "era": "3.90",
-          "ipDisplay": "27.2",
+          "era": "3.82",
+          "ipDisplay": "30.2",
           "gamesStarted": 4,
-          "avgIpPerOuting": 4.5,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.31,
@@ -77,10 +77,10 @@
           "confirmed": true,
           "name": "Justin Verlander",
           "hand": "R",
-          "era": "9.64",
-          "ipDisplay": "4.2",
+          "era": "7.00",
+          "ipDisplay": "9.0",
           "gamesStarted": 2,
-          "avgIpPerOuting": 2.3,
+          "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.319,
@@ -100,11 +100,11 @@
           "confirmed": true,
           "name": "Kirby Yates",
           "hand": "R",
-          "era": "3.32",
-          "ipDisplay": "40.2",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
+          "era": "3.19",
+          "ipDisplay": "42.1",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 1.7,
+          "isOpener": true,
           "oppSplits": {
             "woba30": 0.325,
             "woba30Rank": 16,
@@ -122,9 +122,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Roof Closed",
-        "temp": "72",
-        "wind": "0 mph, None"
+        "condition": "Sunny",
+        "temp": "71",
+        "wind": "5 mph, Out To CF"
       },
       "home": {
         "teamId": 141,
@@ -134,10 +134,10 @@
           "confirmed": true,
           "name": "Trey Yesavage",
           "hand": "R",
-          "era": "3.67",
-          "ipDisplay": "95.2",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 5.0,
+          "era": "3.69",
+          "ipDisplay": "97.2",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 4.9,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.322,
@@ -157,10 +157,10 @@
           "confirmed": true,
           "name": "Rhett Lowder",
           "hand": "R",
-          "era": "6.01",
-          "ipDisplay": "127.1",
-          "gamesStarted": 25,
-          "avgIpPerOuting": 4.8,
+          "era": "5.93",
+          "ipDisplay": "129.0",
+          "gamesStarted": 26,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.336,
@@ -179,9 +179,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "61",
-        "wind": "9 mph, Out To CF"
+        "condition": "Sunny",
+        "temp": "69",
+        "wind": "7 mph, Out To CF"
       },
       "home": {
         "teamId": 137,
@@ -236,9 +236,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Overcast",
-        "temp": "59",
-        "wind": "12 mph, In From RF"
+        "condition": "Drizzle",
+        "temp": "60",
+        "wind": "11 mph, In From RF"
       },
       "home": {
         "teamId": 142,
@@ -349,7 +349,11 @@
       "gameTime": "2026-09-26T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "75",
+        "wind": "8 mph, R To L"
+      },
       "home": {
         "teamId": 118,
         "teamAbbr": "KC",
@@ -402,7 +406,11 @@
       "gameTime": "2026-09-26T23:10:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "62",
+        "wind": "7 mph, L To R"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
@@ -508,7 +516,11 @@
       "gameTime": "2026-09-26T23:15:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Overcast",
+        "temp": "59",
+        "wind": "16 mph, In From LF"
+      },
       "home": {
         "teamId": 143,
         "teamAbbr": "PHI",
