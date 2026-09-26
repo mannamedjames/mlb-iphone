@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26 19:38",
+  "generated_at": "2026-09-26 23:28",
   "window_start": "2026-08-27",
   "window_end": "2026-09-26",
-  "games_processed": 400,
+  "games_processed": 404,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -47,9 +47,9 @@
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
       "games": 12,
-      "started": 13,
-      "pctStarted": 48,
-      "hits": 11,
+      "started": 14,
+      "pctStarted": 50,
+      "hits": 12,
       "rank": 4
     },
     {
@@ -91,6 +91,18 @@
       "rank": 2
     },
     {
+      "playerId": 669707,
+      "name": "Jared Triolo",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
+      "games": 14,
+      "started": 12,
+      "pctStarted": 46,
+      "hits": 10,
+      "rank": 3
+    },
+    {
       "playerId": 545341,
       "name": "Randal Grichuk",
       "team": "CWS",
@@ -100,30 +112,18 @@
       "started": 9,
       "pctStarted": 33,
       "hits": 20,
-      "rank": 3
-    },
-    {
-      "playerId": 669707,
-      "name": "Jared Triolo",
-      "team": "PIT",
-      "teamId": 134,
-      "teamName": "Pittsburgh Pirates",
-      "games": 13,
-      "started": 12,
-      "pctStarted": 48,
-      "hits": 10,
       "rank": 4
     },
     {
-      "playerId": 669397,
-      "name": "Nick Allen",
-      "team": "HOU",
-      "teamId": 117,
-      "teamName": "Houston Astros",
+      "playerId": 701162,
+      "name": "Ben Malgeri",
+      "team": "DET",
+      "teamId": 116,
+      "teamName": "Detroit Tigers",
       "games": 13,
-      "started": 6,
-      "pctStarted": 22,
-      "hits": 9,
+      "started": 11,
+      "pctStarted": 39,
+      "hits": 14,
       "rank": 5
     }
   ]
