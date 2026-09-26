@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26 02:25",
+  "generated_at": "2026-09-26 17:20",
   "window_start": "2026-08-27",
   "window_end": "2026-09-26",
-  "games_processed": 391,
+  "games_processed": 399,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -11,9 +11,9 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 13,
-      "started": 18,
-      "pctStarted": 72,
-      "hits": 22,
+      "started": 19,
+      "pctStarted": 73,
+      "hits": 23,
       "rank": 1
     },
     {
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 663457,
+      "name": "Lars Nootbaar",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 12,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 22,
+      "rank": 3
+    },
+    {
       "playerId": 500743,
       "name": "Miguel Rojas",
       "team": "LAD",
@@ -36,20 +48,8 @@
       "teamName": "Los Angeles Dodgers",
       "games": 12,
       "started": 13,
-      "pctStarted": 50,
+      "pctStarted": 48,
       "hits": 11,
-      "rank": 3
-    },
-    {
-      "playerId": 663457,
-      "name": "Lars Nootbaar",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 11,
-      "started": 19,
-      "pctStarted": 76,
-      "hits": 21,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 11,
       "started": 14,
-      "pctStarted": 56,
+      "pctStarted": 54,
       "hits": 7,
       "rank": 5
     }
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 19,
+      "games": 20,
       "started": 2,
       "pctStarted": 8,
       "hits": 1,
@@ -85,9 +85,9 @@
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
       "games": 17,
-      "started": 1,
-      "pctStarted": 4,
-      "hits": 1,
+      "started": 2,
+      "pctStarted": 8,
+      "hits": 2,
       "rank": 2
     },
     {
@@ -122,7 +122,7 @@
       "teamName": "Houston Astros",
       "games": 13,
       "started": 6,
-      "pctStarted": 23,
+      "pctStarted": 22,
       "hits": 9,
       "rank": 5
     }
