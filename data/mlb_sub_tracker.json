@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27 19:59",
+  "generated_at": "2026-09-27 23:43",
   "window_start": "2026-08-28",
   "window_end": "2026-09-27",
-  "games_processed": 405,
+  "games_processed": 420,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -11,10 +11,22 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 14,
-      "started": 20,
-      "pctStarted": 74,
-      "hits": 25,
+      "started": 21,
+      "pctStarted": 75,
+      "hits": 27,
       "rank": 1
+    },
+    {
+      "playerId": 663457,
+      "name": "Lars Nootbaar",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 13,
+      "started": 21,
+      "pctStarted": 78,
+      "hits": 22,
+      "rank": 2
     },
     {
       "playerId": 643217,
@@ -24,21 +36,21 @@
       "teamName": "Chicago White Sox",
       "games": 12,
       "started": 21,
-      "pctStarted": 75,
+      "pctStarted": 72,
       "hits": 15,
-      "rank": 2
+      "rank": 3
     },
     {
-      "playerId": 663457,
-      "name": "Lars Nootbaar",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 12,
+      "playerId": 666126,
+      "name": "Carlos Cortes",
+      "team": "ATH",
+      "teamId": 133,
+      "teamName": "Athletics",
+      "games": 11,
       "started": 20,
-      "pctStarted": 77,
-      "hits": 21,
-      "rank": 3
+      "pctStarted": 71,
+      "hits": 15,
+      "rank": 4
     },
     {
       "playerId": 663494,
@@ -48,20 +60,8 @@
       "teamName": "St. Louis Cardinals",
       "games": 11,
       "started": 15,
-      "pctStarted": 58,
+      "pctStarted": 56,
       "hits": 7,
-      "rank": 4
-    },
-    {
-      "playerId": 500743,
-      "name": "Miguel Rojas",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 11,
-      "started": 13,
-      "pctStarted": 48,
-      "hits": 11,
       "rank": 5
     }
   ],
@@ -73,8 +73,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 21,
-      "started": 2,
-      "pctStarted": 7,
+      "started": 3,
+      "pctStarted": 11,
       "hits": 1,
       "rank": 1
     },
@@ -86,7 +86,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 17,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 2,
       "rank": 2
     },
@@ -96,9 +96,9 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 14,
+      "games": 15,
       "started": 12,
-      "pctStarted": 46,
+      "pctStarted": 44,
       "hits": 10,
       "rank": 3
     },
@@ -109,9 +109,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 14,
-      "started": 10,
-      "pctStarted": 36,
-      "hits": 20,
+      "started": 11,
+      "pctStarted": 38,
+      "hits": 21,
       "rank": 4
     },
     {
@@ -120,9 +120,9 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 13,
+      "games": 14,
       "started": 11,
-      "pctStarted": 39,
+      "pctStarted": 38,
       "hits": 14,
       "rank": 5
     }
