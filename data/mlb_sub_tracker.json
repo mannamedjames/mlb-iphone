@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27 02:21",
+  "generated_at": "2026-09-27 17:53",
   "window_start": "2026-08-28",
   "window_end": "2026-09-27",
-  "games_processed": 401,
+  "games_processed": 405,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -10,10 +10,10 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 13,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 23,
+      "games": 14,
+      "started": 20,
+      "pctStarted": 74,
+      "hits": 25,
       "rank": 1
     },
     {
@@ -35,8 +35,8 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 12,
-      "started": 19,
-      "pctStarted": 76,
+      "started": 20,
+      "pctStarted": 77,
       "hits": 21,
       "rank": 3
     },
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 20,
+      "games": 21,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 7,
       "hits": 1,
       "rank": 1
     },
