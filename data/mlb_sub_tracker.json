@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28 22:28",
-  "window_start": "2026-08-29",
-  "window_end": "2026-09-28",
-  "games_processed": 405,
+  "generated_at": "2026-09-29 00:53",
+  "window_start": "2026-08-30",
+  "window_end": "2026-09-29",
+  "games_processed": 388,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -11,9 +11,9 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 14,
-      "started": 21,
-      "pctStarted": 78,
-      "hits": 27,
+      "started": 20,
+      "pctStarted": 77,
+      "hits": 24,
       "rank": 1
     },
     {
@@ -23,9 +23,9 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 12,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 19,
+      "started": 19,
+      "pctStarted": 79,
+      "hits": 17,
       "rank": 2
     },
     {
@@ -35,9 +35,9 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 11,
-      "started": 20,
-      "pctStarted": 71,
-      "hits": 13,
+      "started": 19,
+      "pctStarted": 70,
+      "hits": 10,
       "rank": 3
     },
     {
@@ -48,7 +48,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 11,
       "started": 15,
-      "pctStarted": 58,
+      "pctStarted": 60,
       "hits": 7,
       "rank": 4
     },
@@ -60,7 +60,7 @@
       "teamName": "Los Angeles Dodgers",
       "games": 11,
       "started": 13,
-      "pctStarted": 48,
+      "pctStarted": 50,
       "hits": 10,
       "rank": 5
     }
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 20,
+      "games": 19,
       "started": 3,
-      "pctStarted": 11,
+      "pctStarted": 12,
       "hits": 1,
       "rank": 1
     },
@@ -97,9 +97,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 15,
-      "started": 11,
-      "pctStarted": 42,
-      "hits": 8,
+      "started": 10,
+      "pctStarted": 40,
+      "hits": 7,
       "rank": 3
     },
     {
@@ -109,21 +109,21 @@
       "teamId": 116,
       "teamName": "Detroit Tigers",
       "games": 14,
-      "started": 10,
-      "pctStarted": 36,
+      "started": 9,
+      "pctStarted": 33,
       "hits": 14,
       "rank": 4
     },
     {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
+      "playerId": 669397,
+      "name": "Nick Allen",
+      "team": "HOU",
+      "teamId": 117,
+      "teamName": "Houston Astros",
       "games": 13,
-      "started": 11,
-      "pctStarted": 39,
-      "hits": 21,
+      "started": 5,
+      "pctStarted": 19,
+      "hits": 9,
       "rank": 5
     }
   ]
