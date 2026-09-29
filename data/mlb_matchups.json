@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29 18:47",
+  "generated_at": "2026-09-29 21:19",
   "date": "2026-09-29",
   "games": [
     {
@@ -66,7 +66,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Roof Closed",
-        "temp": "72",
+        "temp": "73",
         "wind": "0 mph, None"
       },
       "home": {
@@ -121,7 +121,11 @@
       "gameTime": "2026-09-30T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "68",
+        "wind": "4 mph, L To R"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
