@@ -1,37 +1,33 @@
 {
-  "generated_at": "2026-09-29 21:19",
-  "date": "2026-09-29",
+  "generated_at": "2026-09-30 00:13",
+  "date": "2026-09-30",
   "games": [
     {
-      "gamePk": 849845,
-      "gameTime": "2026-09-29T18:00:00Z",
+      "gamePk": 849841,
+      "gameTime": "2026-09-30T18:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "80",
-        "wind": "3 mph, Calm"
-      },
+      "weather": null,
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
         "teamName": "Atlanta Braves",
         "starter": {
           "confirmed": true,
-          "name": "Chris Sale",
-          "hand": "L",
-          "era": "2.16",
-          "ipDisplay": "162.2",
+          "name": "Tyler Mahle",
+          "hand": "R",
+          "era": "3.99",
+          "ipDisplay": "149.0",
           "gamesStarted": 27,
-          "avgIpPerOuting": 6.0,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.326,
-            "woba30Rank": 13,
-            "woba7": 0.265,
-            "woba7Rank": 6,
-            "kPct30": 19.2,
-            "kPct30Rank": 24
+            "woba30": 0.289,
+            "woba30Rank": 1,
+            "woba7": 0.316,
+            "woba7Rank": 13,
+            "kPct30": 18.7,
+            "kPct30Rank": 28
           }
         }
       },
@@ -41,12 +37,12 @@
         "teamName": "Philadelphia Phillies",
         "starter": {
           "confirmed": true,
-          "name": "Jes\u00fas Luzardo",
+          "name": "Cristopher S\u00e1nchez",
           "hand": "L",
-          "era": "2.86",
-          "ipDisplay": "179.2",
-          "gamesStarted": 29,
-          "avgIpPerOuting": 6.2,
+          "era": "2.91",
+          "ipDisplay": "207.0",
+          "gamesStarted": 33,
+          "avgIpPerOuting": 6.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.259,
@@ -60,27 +56,23 @@
       }
     },
     {
-      "gamePk": 849849,
-      "gameTime": "2026-09-29T21:00:00Z",
+      "gamePk": 849846,
+      "gameTime": "2026-09-30T21:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Roof Closed",
-        "temp": "73",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
         "teamId": 117,
         "teamAbbr": "HOU",
         "teamName": "Houston Astros",
         "starter": {
           "confirmed": true,
-          "name": "AJ Blubaugh",
+          "name": "Hunter Brown",
           "hand": "R",
-          "era": "3.66",
-          "ipDisplay": "96.0",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
+          "era": "3.19",
+          "ipDisplay": "107.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.4,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.305,
@@ -97,55 +89,36 @@
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": true,
-          "name": "Hagen Smith",
-          "hand": "L",
-          "era": "1.29",
-          "ipDisplay": "28.0",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 2.0,
-          "isOpener": true,
-          "oppSplits": {
-            "woba30": 0.325,
-            "woba30Rank": 12,
-            "woba7": 0.321,
-            "woba7Rank": 15,
-            "kPct30": 21.5,
-            "kPct30Rank": 17
-          }
+          "confirmed": false
         }
       }
     },
     {
-      "gamePk": 849851,
-      "gameTime": "2026-09-30T00:00:00Z",
+      "gamePk": 849848,
+      "gameTime": "2026-10-01T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Cloudy",
-        "temp": "68",
-        "wind": "4 mph, L To R"
-      },
+      "weather": null,
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
         "teamName": "New York Yankees",
         "starter": {
           "confirmed": true,
-          "name": "Cam Schlittler",
-          "hand": "R",
-          "era": "1.95",
-          "ipDisplay": "193.2",
-          "gamesStarted": 33,
-          "avgIpPerOuting": 5.9,
+          "name": "Max Fried",
+          "hand": "L",
+          "era": "2.80",
+          "ipDisplay": "112.2",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.318,
-            "woba30Rank": 9,
-            "woba7": 0.272,
-            "woba7Rank": 6,
-            "kPct30": 23.5,
-            "kPct30Rank": 12
+            "woba30": 0.28,
+            "woba30Rank": 3,
+            "woba7": 0.285,
+            "woba7Rank": 9,
+            "kPct30": 24.5,
+            "kPct30Rank": 6
           }
         }
       },
@@ -155,27 +128,27 @@
         "teamName": "Boston Red Sox",
         "starter": {
           "confirmed": true,
-          "name": "Payton Tolle",
-          "hand": "L",
-          "era": "3.03",
-          "ipDisplay": "148.2",
-          "gamesStarted": 26,
-          "avgIpPerOuting": 5.7,
+          "name": "Sonny Gray",
+          "hand": "R",
+          "era": "2.72",
+          "ipDisplay": "169.0",
+          "gamesStarted": 29,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.363,
-            "woba30Rank": 24,
-            "woba7": 0.251,
-            "woba7Rank": 4,
-            "kPct30": 20.9,
-            "kPct30Rank": 18
+            "woba30": 0.32,
+            "woba30Rank": 11,
+            "woba7": 0.324,
+            "woba7Rank": 17,
+            "kPct30": 25.5,
+            "kPct30Rank": 7
           }
         }
       }
     },
     {
-      "gamePk": 849843,
-      "gameTime": "2026-09-30T02:00:00Z",
+      "gamePk": 849842,
+      "gameTime": "2026-10-01T02:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": null,
@@ -184,22 +157,7 @@
         "teamAbbr": "SD",
         "teamName": "San Diego Padres",
         "starter": {
-          "confirmed": true,
-          "name": "Michael King",
-          "hand": "R",
-          "era": "3.21",
-          "ipDisplay": "185.0",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.347,
-            "woba30Rank": 24,
-            "woba7": 0.271,
-            "woba7Rank": 5,
-            "kPct30": 19.4,
-            "kPct30Rank": 27
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -207,22 +165,7 @@
         "teamAbbr": "CHC",
         "teamName": "Chicago Cubs",
         "starter": {
-          "confirmed": true,
-          "name": "Matthew Boyd",
-          "hand": "L",
-          "era": "3.91",
-          "ipDisplay": "126.2",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.365,
-            "woba30Rank": 25,
-            "woba7": 0.292,
-            "woba7Rank": 10,
-            "kPct30": 18.9,
-            "kPct30Rank": 25
-          }
+          "confirmed": false
         }
       }
     }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29 21:19",
-  "window_start": "2026-08-30",
-  "window_end": "2026-09-29",
-  "games_processed": 389,
+  "generated_at": "2026-09-30 00:13",
+  "window_start": "2026-08-31",
+  "window_end": "2026-09-30",
+  "games_processed": 375,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -10,10 +10,10 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 14,
-      "started": 20,
-      "pctStarted": 77,
-      "hits": 24,
+      "games": 13,
+      "started": 19,
+      "pctStarted": 76,
+      "hits": 23,
       "rank": 1
     },
     {
@@ -35,10 +35,22 @@
       "teamId": 145,
       "teamName": "Chicago White Sox",
       "games": 11,
-      "started": 19,
-      "pctStarted": 70,
+      "started": 18,
+      "pctStarted": 69,
       "hits": 10,
       "rank": 3
+    },
+    {
+      "playerId": 683953,
+      "name": "Travis Bazzana",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 10,
+      "started": 22,
+      "pctStarted": 88,
+      "hits": 21,
+      "rank": 4
     },
     {
       "playerId": 663494,
@@ -46,22 +58,10 @@
       "team": "STL",
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
-      "games": 11,
-      "started": 15,
-      "pctStarted": 60,
-      "hits": 7,
-      "rank": 4
-    },
-    {
-      "playerId": 500743,
-      "name": "Miguel Rojas",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 11,
-      "started": 13,
-      "pctStarted": 50,
-      "hits": 10,
+      "games": 10,
+      "started": 14,
+      "pctStarted": 58,
+      "hits": 5,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 19,
+      "games": 18,
       "started": 3,
       "pctStarted": 12,
       "hits": 1,
@@ -97,9 +97,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 15,
-      "started": 10,
-      "pctStarted": 40,
-      "hits": 7,
+      "started": 9,
+      "pctStarted": 38,
+      "hits": 6,
       "rank": 3
     },
     {
@@ -110,7 +110,7 @@
       "teamName": "Detroit Tigers",
       "games": 14,
       "started": 9,
-      "pctStarted": 33,
+      "pctStarted": 35,
       "hits": 14,
       "rank": 4
     },
@@ -121,9 +121,9 @@
       "teamId": 117,
       "teamName": "Houston Astros",
       "games": 13,
-      "started": 5,
-      "pctStarted": 19,
-      "hits": 9,
+      "started": 4,
+      "pctStarted": 16,
+      "hits": 6,
       "rank": 5
     }
   ]
