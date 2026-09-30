@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 18:31",
+  "generated_at": "2026-09-30 21:21",
   "date": "2026-09-30",
   "games": [
     {
@@ -121,7 +121,11 @@
       "gameTime": "2026-10-01T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Cloudy",
+        "temp": "73",
+        "wind": "3 mph, Varies"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
