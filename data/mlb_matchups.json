@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 00:13",
+  "generated_at": "2026-09-30 02:50",
   "date": "2026-09-30",
   "games": [
     {
@@ -89,7 +89,22 @@
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Sean Burke",
+          "hand": "R",
+          "era": "3.34",
+          "ipDisplay": "172.1",
+          "gamesStarted": 27,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.342,
+            "woba30Rank": 22,
+            "woba7": 0.436,
+            "woba7Rank": 30,
+            "kPct30": 24.3,
+            "kPct30Rank": 9
+          }
         }
       }
     },
@@ -157,7 +172,22 @@
         "teamAbbr": "SD",
         "teamName": "San Diego Padres",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Nick Pivetta",
+          "hand": "R",
+          "era": "2.86",
+          "ipDisplay": "34.2",
+          "gamesStarted": 8,
+          "avgIpPerOuting": 4.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.347,
+            "woba30Rank": 24,
+            "woba7": 0.271,
+            "woba7Rank": 5,
+            "kPct30": 19.4,
+            "kPct30Rank": 27
+          }
         }
       },
       "away": {
