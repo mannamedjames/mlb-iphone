@@ -127419,9 +127419,9 @@
   "opponent": "PHI",
   "isHome": true,
   "woba30Rank": 1,
-  "woba7Rank": 13,
-  "kPct30Rank": 28,
-  "woba30": 0.289,
+  "woba7Rank": 12,
+  "kPct30Rank": 29,
+  "woba30": 0.29,
   "woba7": 0.316,
   "kPct30": 18.7
  },
@@ -127445,11 +127445,11 @@
   "opponent": "ATL",
   "isHome": false,
   "woba30Rank": 1,
-  "woba7Rank": 8,
-  "kPct30Rank": 5,
-  "woba30": 0.259,
-  "woba7": 0.282,
-  "kPct30": 25.4
+  "woba7Rank": 10,
+  "kPct30Rank": 4,
+  "woba30": 0.26,
+  "woba7": 0.315,
+  "kPct30": 25.6
  },
  {
   "ip": null,
@@ -127523,11 +127523,11 @@
   "opponent": "CWS",
   "isHome": true,
   "woba30Rank": 5,
-  "woba7Rank": 26,
-  "kPct30Rank": 6,
-  "woba30": 0.305,
-  "woba7": 0.368,
-  "kPct30": 26.0
+  "woba7Rank": 18,
+  "kPct30Rank": 4,
+  "woba30": 0.309,
+  "woba7": 0.347,
+  "kPct30": 26.5
  },
  {
   "ip": null,
@@ -127548,12 +127548,12 @@
   "team": "CWS",
   "opponent": "HOU",
   "isHome": false,
-  "woba30Rank": 22,
+  "woba30Rank": 21,
   "woba7Rank": 30,
   "kPct30Rank": 9,
-  "woba30": 0.342,
-  "woba7": 0.436,
-  "kPct30": 24.3
+  "woba30": 0.338,
+  "woba7": 0.404,
+  "kPct30": 24.4
  },
  {
   "ip": null,
@@ -127626,12 +127626,38 @@
   "team": "SD",
   "opponent": "CHC",
   "isHome": true,
-  "woba30Rank": 24,
-  "woba7Rank": 5,
-  "kPct30Rank": 27,
-  "woba30": 0.347,
-  "woba7": 0.271,
-  "kPct30": 19.4
+  "woba30Rank": 23,
+  "woba7Rank": 6,
+  "kPct30Rank": 26,
+  "woba30": 0.341,
+  "woba7": 0.278,
+  "kPct30": 19.9
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849842,
+  "date": "2026-10-01",
+  "pitcherId": "Kevin Gausman|CHC",
+  "pitcherName": "Kevin Gausman",
+  "hand": "R",
+  "team": "CHC",
+  "opponent": "SD",
+  "isHome": false,
+  "woba30Rank": 29,
+  "woba7Rank": 19,
+  "kPct30Rank": 21,
+  "woba30": 0.36,
+  "woba7": 0.349,
+  "kPct30": 20.9
  },
  {
   "ip": null,
@@ -127653,11 +127679,11 @@
   "opponent": "BOS",
   "isHome": true,
   "woba30Rank": 3,
-  "woba7Rank": 9,
+  "woba7Rank": 5,
   "kPct30Rank": 6,
-  "woba30": 0.28,
-  "woba7": 0.285,
-  "kPct30": 24.5
+  "woba30": 0.282,
+  "woba7": 0.281,
+  "kPct30": 24.9
  },
  {
   "ip": null,
@@ -127678,11 +127704,11 @@
   "team": "BOS",
   "opponent": "NYY",
   "isHome": false,
-  "woba30Rank": 11,
-  "woba7Rank": 17,
+  "woba30Rank": 10,
+  "woba7Rank": 29,
   "kPct30Rank": 7,
-  "woba30": 0.32,
-  "woba7": 0.324,
-  "kPct30": 25.5
+  "woba30": 0.316,
+  "woba7": 0.403,
+  "kPct30": 25.3
  }
 ]
