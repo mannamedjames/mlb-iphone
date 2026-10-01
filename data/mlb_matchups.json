@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01 18:58",
+  "generated_at": "2026-10-01 21:41",
   "date": "2026-10-01",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-02T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "79",
+        "wind": "5 mph, L To R"
+      },
       "home": {
         "teamId": 144,
         "teamAbbr": "ATL",
