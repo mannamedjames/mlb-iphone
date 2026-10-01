@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30 21:21",
-  "window_start": "2026-08-31",
-  "window_end": "2026-09-30",
-  "games_processed": 378,
+  "generated_at": "2026-10-01 00:26",
+  "window_start": "2026-09-01",
+  "window_end": "2026-10-01",
+  "games_processed": 368,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -11,22 +11,10 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 13,
-      "started": 19,
-      "pctStarted": 73,
-      "hits": 24,
+      "started": 18,
+      "pctStarted": 72,
+      "hits": 22,
       "rank": 1
-    },
-    {
-      "playerId": 663457,
-      "name": "Lars Nootbaar",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 12,
-      "started": 19,
-      "pctStarted": 79,
-      "hits": 17,
-      "rank": 2
     },
     {
       "playerId": 643217,
@@ -37,7 +25,19 @@
       "games": 12,
       "started": 19,
       "pctStarted": 70,
-      "hits": 10,
+      "hits": 11,
+      "rank": 2
+    },
+    {
+      "playerId": 663457,
+      "name": "Lars Nootbaar",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 11,
+      "started": 18,
+      "pctStarted": 78,
+      "hits": 17,
       "rank": 3
     },
     {
@@ -108,22 +108,22 @@
       "team": "DET",
       "teamId": 116,
       "teamName": "Detroit Tigers",
-      "games": 14,
+      "games": 13,
       "started": 9,
-      "pctStarted": 35,
+      "pctStarted": 36,
       "hits": 14,
       "rank": 4
     },
     {
-      "playerId": 545341,
-      "name": "Randal Grichuk",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 11,
-      "pctStarted": 41,
-      "hits": 23,
+      "started": 7,
+      "pctStarted": 27,
+      "hits": 6,
       "rank": 5
     }
   ]
