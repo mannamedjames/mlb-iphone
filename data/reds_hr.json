@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01 17:50",
+  "generated_at": "2026-10-02 17:13",
   "team": "CIN",
-  "window_start": "2026-09-01",
-  "window_end": "2026-10-01",
+  "window_start": "2026-09-02",
+  "window_end": "2026-10-02",
   "homers": [
     {
       "batter": "Jj Bleday",
@@ -93,7 +93,7 @@
       "desc": "Elly De La Cruz homers (30) on a fly ball to right field."
     },
     {
-      "batter": "#699115",
+      "batter": "Carlos Jorge",
       "batterId": 699115,
       "pitcher": "Tyler Mahle",
       "pitcherHand": "R",
