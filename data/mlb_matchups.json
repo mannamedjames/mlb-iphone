@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 02:45",
+  "generated_at": "2026-10-03 17:29",
   "date": "2026-10-03",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-03T17:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "63",
+        "wind": "9 mph, R To L"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -22,11 +26,11 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.383,
+            "woba30": 0.387,
             "woba30Rank": 30,
-            "woba7": 0.441,
-            "woba7Rank": 28,
-            "kPct30": 23.3,
+            "woba7": 0.447,
+            "woba7Rank": 27,
+            "kPct30": 23.2,
             "kPct30Rank": 11
           }
         }
@@ -45,11 +49,11 @@
           "avgIpPerOuting": 2.0,
           "isOpener": true,
           "oppSplits": {
-            "woba30": 0.324,
+            "woba30": 0.327,
             "woba30Rank": 15,
-            "woba7": 0.437,
-            "woba7Rank": 27,
-            "kPct30": 17.6,
+            "woba7": 0.424,
+            "woba7Rank": 25,
+            "kPct30": 17.2,
             "kPct30Rank": 27
           }
         }
@@ -89,7 +93,22 @@
         "teamAbbr": "ATL",
         "teamName": "Atlanta Braves",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Dylan Dodd",
+          "hand": "L",
+          "era": "2.54",
+          "ipDisplay": "49.2",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.368,
+            "woba30Rank": 25,
+            "woba7": 0.369,
+            "woba7Rank": 17,
+            "kPct30": 18.6,
+            "kPct30Rank": 26
+          }
         }
       }
     },
@@ -113,12 +132,12 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.321,
+            "woba30": 0.319,
             "woba30Rank": 13,
-            "woba7": 0.347,
-            "woba7Rank": 18,
-            "kPct30": 24.8,
-            "kPct30Rank": 9
+            "woba7": 0.432,
+            "woba7Rank": 27,
+            "kPct30": 24.9,
+            "kPct30Rank": 10
           }
         }
       },
@@ -136,12 +155,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.333,
-            "woba30Rank": 19,
-            "woba7": 0.398,
+            "woba30": 0.337,
+            "woba30Rank": 22,
+            "woba7": 0.416,
             "woba7Rank": 26,
-            "kPct30": 22.3,
-            "kPct30Rank": 17
+            "kPct30": 22.6,
+            "kPct30Rank": 16
           }
         }
       }
@@ -166,12 +185,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.358,
+            "woba30": 0.363,
             "woba30Rank": 28,
-            "woba7": 0.386,
-            "woba7Rank": 22,
-            "kPct30": 20.4,
-            "kPct30Rank": 24
+            "woba7": 0.413,
+            "woba7Rank": 24,
+            "kPct30": 20.1,
+            "kPct30Rank": 23
           }
         }
       },
@@ -189,12 +208,12 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.336,
+            "woba30": 0.331,
             "woba30Rank": 18,
-            "woba7": 0.347,
-            "woba7Rank": 17,
-            "kPct30": 21.4,
-            "kPct30Rank": 17
+            "woba7": 0.317,
+            "woba7Rank": 11,
+            "kPct30": 21.3,
+            "kPct30Rank": 14
           }
         }
       }

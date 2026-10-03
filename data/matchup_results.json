@@ -127852,6 +127852,32 @@
   "battersFaced": null,
   "oppHandPctLeft": null,
   "final": false,
+  "gamePk": 849828,
+  "date": "2026-10-03",
+  "pitcherId": "Dylan Dodd|ATL",
+  "pitcherName": "Dylan Dodd",
+  "hand": "L",
+  "team": "ATL",
+  "opponent": "LAD",
+  "isHome": false,
+  "woba30Rank": 25,
+  "woba7Rank": 17,
+  "kPct30Rank": 26,
+  "woba30": 0.368,
+  "woba7": 0.369,
+  "kPct30": 18.6
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
   "gamePk": 849829,
   "date": "2026-10-03",
   "pitcherId": "Parker Messick|CLE",
@@ -127861,11 +127887,11 @@
   "opponent": "CWS",
   "isHome": true,
   "woba30Rank": 30,
-  "woba7Rank": 28,
+  "woba7Rank": 27,
   "kPct30Rank": 11,
-  "woba30": 0.383,
-  "woba7": 0.441,
-  "kPct30": 23.3
+  "woba30": 0.387,
+  "woba7": 0.447,
+  "kPct30": 23.2
  },
  {
   "ip": null,
@@ -127887,11 +127913,11 @@
   "opponent": "CLE",
   "isHome": false,
   "woba30Rank": 15,
-  "woba7Rank": 27,
+  "woba7Rank": 25,
   "kPct30Rank": 27,
-  "woba30": 0.324,
-  "woba7": 0.437,
-  "kPct30": 17.6
+  "woba30": 0.327,
+  "woba7": 0.424,
+  "kPct30": 17.2
  },
  {
   "ip": null,
@@ -127913,11 +127939,11 @@
   "opponent": "NYY",
   "isHome": true,
   "woba30Rank": 13,
-  "woba7Rank": 18,
-  "kPct30Rank": 9,
-  "woba30": 0.321,
-  "woba7": 0.347,
-  "kPct30": 24.8
+  "woba7Rank": 27,
+  "kPct30Rank": 10,
+  "woba30": 0.319,
+  "woba7": 0.432,
+  "kPct30": 24.9
  },
  {
   "ip": null,
@@ -127938,12 +127964,12 @@
   "team": "NYY",
   "opponent": "TB",
   "isHome": false,
-  "woba30Rank": 19,
+  "woba30Rank": 22,
   "woba7Rank": 26,
-  "kPct30Rank": 17,
-  "woba30": 0.333,
-  "woba7": 0.398,
-  "kPct30": 22.3
+  "kPct30Rank": 16,
+  "woba30": 0.337,
+  "woba7": 0.416,
+  "kPct30": 22.6
  },
  {
   "ip": null,
@@ -127965,11 +127991,11 @@
   "opponent": "SD",
   "isHome": true,
   "woba30Rank": 28,
-  "woba7Rank": 22,
-  "kPct30Rank": 24,
-  "woba30": 0.358,
-  "woba7": 0.386,
-  "kPct30": 20.4
+  "woba7Rank": 24,
+  "kPct30Rank": 23,
+  "woba30": 0.363,
+  "woba7": 0.413,
+  "kPct30": 20.1
  },
  {
   "ip": null,
@@ -127991,10 +128017,10 @@
   "opponent": "MIL",
   "isHome": false,
   "woba30Rank": 18,
-  "woba7Rank": 17,
-  "kPct30Rank": 17,
-  "woba30": 0.336,
-  "woba7": 0.347,
-  "kPct30": 21.4
+  "woba7Rank": 11,
+  "kPct30Rank": 14,
+  "woba30": 0.331,
+  "woba7": 0.317,
+  "kPct30": 21.3
  }
 ]
