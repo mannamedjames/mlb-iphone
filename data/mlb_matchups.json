@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 19:44",
+  "generated_at": "2026-10-03 23:41",
   "date": "2026-10-03",
   "games": [
     {
@@ -66,7 +66,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Sunny",
-        "temp": "94",
+        "temp": "100",
         "wind": "2 mph, Varies"
       },
       "home": {
@@ -123,7 +123,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Dome",
-        "temp": "70",
+        "temp": "72",
         "wind": "0 mph, None"
       },
       "home": {
@@ -178,7 +178,11 @@
       "gameTime": "2026-10-04T00:30:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "71",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
