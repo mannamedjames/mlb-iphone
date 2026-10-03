@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 17:29",
+  "generated_at": "2026-10-03 19:44",
   "date": "2026-10-03",
   "games": [
     {
@@ -64,7 +64,11 @@
       "gameTime": "2026-10-03T20:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "94",
+        "wind": "2 mph, Varies"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
@@ -117,7 +121,11 @@
       "gameTime": "2026-10-03T22:30:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "70",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
