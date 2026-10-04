@@ -1,200 +1,25 @@
 {
-  "generated_at": "2026-10-03 23:41",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-04 03:16",
+  "date": "2026-10-04",
   "games": [
     {
-      "gamePk": 849829,
-      "gameTime": "2026-10-03T17:00:00Z",
+      "gamePk": 849825,
+      "gameTime": "2026-10-04T20:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "63",
-        "wind": "9 mph, R To L"
-      },
-      "home": {
-        "teamId": 114,
-        "teamAbbr": "CLE",
-        "teamName": "Cleveland Guardians",
-        "starter": {
-          "confirmed": true,
-          "name": "Parker Messick",
-          "hand": "L",
-          "era": "2.56",
-          "ipDisplay": "186.1",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.387,
-            "woba30Rank": 30,
-            "woba7": 0.447,
-            "woba7Rank": 27,
-            "kPct30": 23.2,
-            "kPct30Rank": 11
-          }
-        }
-      },
-      "away": {
-        "teamId": 145,
-        "teamAbbr": "CWS",
-        "teamName": "Chicago White Sox",
-        "starter": {
-          "confirmed": true,
-          "name": "Hagen Smith",
-          "hand": "L",
-          "era": "1.29",
-          "ipDisplay": "28.0",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 2.0,
-          "isOpener": true,
-          "oppSplits": {
-            "woba30": 0.327,
-            "woba30Rank": 15,
-            "woba7": 0.424,
-            "woba7Rank": 25,
-            "kPct30": 17.2,
-            "kPct30Rank": 27
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 849828,
-      "gameTime": "2026-10-03T20:00:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "100",
-        "wind": "2 mph, Varies"
-      },
-      "home": {
-        "teamId": 119,
-        "teamAbbr": "LAD",
-        "teamName": "Los Angeles Dodgers",
-        "starter": {
-          "confirmed": true,
-          "name": "Tarik Skubal",
-          "hand": "L",
-          "era": "2.72",
-          "ipDisplay": "158.2",
-          "gamesStarted": 26,
-          "avgIpPerOuting": 6.1,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.279,
-            "woba30Rank": 4,
-            "woba7": 0.316,
-            "woba7Rank": 10,
-            "kPct30": 24.3,
-            "kPct30Rank": 7
-          }
-        }
-      },
-      "away": {
-        "teamId": 144,
-        "teamAbbr": "ATL",
-        "teamName": "Atlanta Braves",
-        "starter": {
-          "confirmed": true,
-          "name": "Dylan Dodd",
-          "hand": "L",
-          "era": "2.54",
-          "ipDisplay": "49.2",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.368,
-            "woba30Rank": 25,
-            "woba7": 0.369,
-            "woba7Rank": 17,
-            "kPct30": 18.6,
-            "kPct30Rank": 26
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 849835,
-      "gameTime": "2026-10-03T22:30:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Dome",
-        "temp": "72",
-        "wind": "0 mph, None"
-      },
-      "home": {
-        "teamId": 139,
-        "teamAbbr": "TB",
-        "teamName": "Tampa Bay Rays",
-        "starter": {
-          "confirmed": true,
-          "name": "Drew Rasmussen",
-          "hand": "R",
-          "era": "2.67",
-          "ipDisplay": "172.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.319,
-            "woba30Rank": 13,
-            "woba7": 0.432,
-            "woba7Rank": 27,
-            "kPct30": 24.9,
-            "kPct30Rank": 10
-          }
-        }
-      },
-      "away": {
-        "teamId": 147,
-        "teamAbbr": "NYY",
-        "teamName": "New York Yankees",
-        "starter": {
-          "confirmed": true,
-          "name": "Gerrit Cole",
-          "hand": "R",
-          "era": "3.61",
-          "ipDisplay": "127.0",
-          "gamesStarted": 22,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.337,
-            "woba30Rank": 22,
-            "woba7": 0.416,
-            "woba7Rank": 26,
-            "kPct30": 22.6,
-            "kPct30Rank": 16
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 849830,
-      "gameTime": "2026-10-04T00:30:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": {
-        "condition": "Roof Closed",
-        "temp": "71",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
           "confirmed": true,
-          "name": "Jacob Misiorowski",
+          "name": "Logan Henderson",
           "hand": "R",
-          "era": "1.80",
-          "ipDisplay": "174.2",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.8,
+          "era": "2.47",
+          "ipDisplay": "98.1",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.363,
@@ -212,21 +37,59 @@
         "teamName": "San Diego Padres",
         "starter": {
           "confirmed": true,
-          "name": "Robbie Ray",
-          "hand": "L",
-          "era": "3.59",
-          "ipDisplay": "165.2",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.3,
+          "name": "Michael King",
+          "hand": "R",
+          "era": "3.21",
+          "ipDisplay": "185.0",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.331,
-            "woba30Rank": 18,
-            "woba7": 0.317,
-            "woba7Rank": 11,
-            "kPct30": 21.3,
-            "kPct30Rank": 14
+            "woba30": 0.355,
+            "woba30Rank": 27,
+            "woba7": 0.379,
+            "woba7Rank": 22,
+            "kPct30": 27.0,
+            "kPct30Rank": 5
           }
+        }
+      }
+    },
+    {
+      "gamePk": 849823,
+      "gameTime": "2026-10-05T00:00:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 119,
+        "teamAbbr": "LAD",
+        "teamName": "Los Angeles Dodgers",
+        "starter": {
+          "confirmed": true,
+          "name": "Blake Snell",
+          "hand": "L",
+          "era": "1.90",
+          "ipDisplay": "42.2",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 4.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.279,
+            "woba30Rank": 4,
+            "woba7": 0.316,
+            "woba7Rank": 10,
+            "kPct30": 24.3,
+            "kPct30Rank": 7
+          }
+        }
+      },
+      "away": {
+        "teamId": 144,
+        "teamAbbr": "ATL",
+        "teamName": "Atlanta Braves",
+        "starter": {
+          "confirmed": false
         }
       }
     }
