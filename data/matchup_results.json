@@ -128100,5 +128100,31 @@
   "woba30": 0.276,
   "woba7": 0.288,
   "kPct30": 24.6
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849823,
+  "date": "2026-10-05",
+  "pitcherId": "Ray Kerr|ATL",
+  "pitcherName": "Ray Kerr",
+  "hand": "L",
+  "team": "ATL",
+  "opponent": "LAD",
+  "isHome": false,
+  "woba30Rank": 25,
+  "woba7Rank": 6,
+  "kPct30Rank": 23,
+  "woba30": 0.361,
+  "woba7": 0.266,
+  "kPct30": 19.9
  }
 ]

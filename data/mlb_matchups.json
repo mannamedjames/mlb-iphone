@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 17:44",
+  "generated_at": "2026-10-04 19:59",
   "date": "2026-10-04",
   "games": [
     {
@@ -8,9 +8,9 @@
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": {
-        "condition": "Roof Closed",
-        "temp": "69",
-        "wind": "0 mph, None"
+        "condition": "Sunny",
+        "temp": "68",
+        "wind": "11 mph, Out To CF"
       },
       "home": {
         "teamId": 158,
@@ -93,7 +93,22 @@
         "teamAbbr": "ATL",
         "teamName": "Atlanta Braves",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Ray Kerr",
+          "hand": "L",
+          "era": "1.47",
+          "ipDisplay": "18.1",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 3.0,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.361,
+            "woba30Rank": 25,
+            "woba7": 0.266,
+            "woba7Rank": 6,
+            "kPct30": 19.9,
+            "kPct30Rank": 23
+          }
         }
       }
     }
