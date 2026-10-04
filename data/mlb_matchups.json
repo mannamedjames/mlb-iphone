@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 03:16",
+  "generated_at": "2026-10-04 17:44",
   "date": "2026-10-04",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-04T20:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Roof Closed",
+        "temp": "69",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
@@ -22,12 +26,12 @@
           "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.363,
-            "woba30Rank": 28,
-            "woba7": 0.413,
-            "woba7Rank": 24,
-            "kPct30": 20.1,
-            "kPct30Rank": 23
+            "woba30": 0.364,
+            "woba30Rank": 29,
+            "woba7": 0.392,
+            "woba7Rank": 26,
+            "kPct30": 20.3,
+            "kPct30Rank": 22
           }
         }
       },
@@ -45,12 +49,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.355,
+            "woba30": 0.359,
             "woba30Rank": 27,
-            "woba7": 0.379,
-            "woba7Rank": 22,
-            "kPct30": 27.0,
-            "kPct30Rank": 5
+            "woba7": 0.33,
+            "woba7Rank": 20,
+            "kPct30": 26.6,
+            "kPct30Rank": 6
           }
         }
       }
@@ -75,12 +79,12 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.279,
+            "woba30": 0.276,
             "woba30Rank": 4,
-            "woba7": 0.316,
+            "woba7": 0.288,
             "woba7Rank": 10,
-            "kPct30": 24.3,
-            "kPct30Rank": 7
+            "kPct30": 24.6,
+            "kPct30Rank": 6
           }
         }
       },

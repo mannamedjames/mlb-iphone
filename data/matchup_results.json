@@ -127990,12 +127990,12 @@
   "team": "MIL",
   "opponent": "SD",
   "isHome": true,
-  "woba30Rank": 28,
-  "woba7Rank": 24,
-  "kPct30Rank": 23,
-  "woba30": 0.363,
-  "woba7": 0.413,
-  "kPct30": 20.1
+  "woba30Rank": 29,
+  "woba7Rank": 26,
+  "kPct30Rank": 22,
+  "woba30": 0.364,
+  "woba7": 0.392,
+  "kPct30": 20.3
  },
  {
   "ip": null,
@@ -128017,11 +128017,11 @@
   "opponent": "MIL",
   "isHome": false,
   "woba30Rank": 27,
-  "woba7Rank": 22,
-  "kPct30Rank": 5,
-  "woba30": 0.355,
-  "woba7": 0.379,
-  "kPct30": 27.0
+  "woba7Rank": 20,
+  "kPct30Rank": 6,
+  "woba30": 0.359,
+  "woba7": 0.33,
+  "kPct30": 26.6
  },
  {
   "ip": null,
@@ -128096,9 +128096,9 @@
   "isHome": true,
   "woba30Rank": 4,
   "woba7Rank": 10,
-  "kPct30Rank": 7,
-  "woba30": 0.279,
-  "woba7": 0.316,
-  "kPct30": 24.3
+  "kPct30Rank": 6,
+  "woba30": 0.276,
+  "woba7": 0.288,
+  "kPct30": 24.6
  }
 ]
