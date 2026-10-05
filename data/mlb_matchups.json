@@ -1,117 +1,109 @@
 {
-  "generated_at": "2026-10-04 23:54",
-  "date": "2026-10-04",
+  "generated_at": "2026-10-05 02:52",
+  "date": "2026-10-05",
   "games": [
     {
-      "gamePk": 849825,
-      "gameTime": "2026-10-04T20:00:00Z",
+      "gamePk": 849834,
+      "gameTime": "2026-10-05T21:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "68",
-        "wind": "11 mph, Out To CF"
-      },
+      "weather": null,
       "home": {
-        "teamId": 158,
-        "teamAbbr": "MIL",
-        "teamName": "Milwaukee Brewers",
+        "teamId": 114,
+        "teamAbbr": "CLE",
+        "teamName": "Cleveland Guardians",
         "starter": {
           "confirmed": true,
-          "name": "Logan Henderson",
+          "name": "Gavin Williams",
           "hand": "R",
-          "era": "2.47",
-          "ipDisplay": "98.1",
-          "gamesStarted": 18,
-          "avgIpPerOuting": 5.5,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.364,
-            "woba30Rank": 29,
-            "woba7": 0.392,
-            "woba7Rank": 26,
-            "kPct30": 20.3,
-            "kPct30Rank": 22
-          }
-        }
-      },
-      "away": {
-        "teamId": 135,
-        "teamAbbr": "SD",
-        "teamName": "San Diego Padres",
-        "starter": {
-          "confirmed": true,
-          "name": "Michael King",
-          "hand": "R",
-          "era": "3.21",
-          "ipDisplay": "185.0",
+          "era": "3.76",
+          "ipDisplay": "184.1",
           "gamesStarted": 32,
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.359,
-            "woba30Rank": 27,
-            "woba7": 0.33,
-            "woba7Rank": 20,
-            "kPct30": 26.6,
-            "kPct30Rank": 6
+            "woba30": 0.313,
+            "woba30Rank": 10,
+            "woba7": 0.256,
+            "woba7Rank": 11,
+            "kPct30": 27.7,
+            "kPct30Rank": 4
+          }
+        }
+      },
+      "away": {
+        "teamId": 145,
+        "teamAbbr": "CWS",
+        "teamName": "Chicago White Sox",
+        "starter": {
+          "confirmed": true,
+          "name": "Anthony Kay",
+          "hand": "L",
+          "era": "4.44",
+          "ipDisplay": "158.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 4.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.322,
+            "woba30Rank": 16,
+            "woba7": 0.306,
+            "woba7Rank": 11,
+            "kPct30": 17.4,
+            "kPct30Rank": 27
           }
         }
       }
     },
     {
-      "gamePk": 849823,
-      "gameTime": "2026-10-05T00:00:00Z",
+      "gamePk": 849839,
+      "gameTime": "2026-10-06T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "88",
-        "wind": "4 mph, Varies"
-      },
+      "weather": null,
       "home": {
-        "teamId": 119,
-        "teamAbbr": "LAD",
-        "teamName": "Los Angeles Dodgers",
+        "teamId": 139,
+        "teamAbbr": "TB",
+        "teamName": "Tampa Bay Rays",
         "starter": {
           "confirmed": true,
-          "name": "Blake Snell",
-          "hand": "L",
-          "era": "1.90",
-          "ipDisplay": "42.2",
-          "gamesStarted": 9,
-          "avgIpPerOuting": 4.7,
+          "name": "Freddy Peralta",
+          "hand": "R",
+          "era": "4.42",
+          "ipDisplay": "169.0",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.276,
-            "woba30Rank": 4,
-            "woba7": 0.288,
-            "woba7Rank": 10,
-            "kPct30": 24.6,
-            "kPct30Rank": 6
+            "woba30": 0.309,
+            "woba30Rank": 7,
+            "woba7": 0.289,
+            "woba7Rank": 16,
+            "kPct30": 25.6,
+            "kPct30Rank": 8
           }
         }
       },
       "away": {
-        "teamId": 144,
-        "teamAbbr": "ATL",
-        "teamName": "Atlanta Braves",
+        "teamId": 147,
+        "teamAbbr": "NYY",
+        "teamName": "New York Yankees",
         "starter": {
           "confirmed": true,
-          "name": "Ray Kerr",
-          "hand": "L",
-          "era": "1.47",
-          "ipDisplay": "18.1",
-          "gamesStarted": 1,
-          "avgIpPerOuting": 3.0,
+          "name": "Cam Schlittler",
+          "hand": "R",
+          "era": "1.95",
+          "ipDisplay": "193.2",
+          "gamesStarted": 33,
+          "avgIpPerOuting": 5.9,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.361,
-            "woba30Rank": 25,
-            "woba7": 0.266,
-            "woba7Rank": 6,
-            "kPct30": 19.9,
-            "kPct30Rank": 23
+            "woba30": 0.346,
+            "woba30Rank": 24,
+            "woba7": 0.314,
+            "woba7Rank": 18,
+            "kPct30": 22.7,
+            "kPct30Rank": 16
           }
         }
       }

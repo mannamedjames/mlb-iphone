@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04 23:54",
-  "window_start": "2026-09-04",
-  "window_end": "2026-10-04",
-  "games_processed": 337,
+  "generated_at": "2026-10-05 02:52",
+  "window_start": "2026-09-05",
+  "window_end": "2026-10-05",
+  "games_processed": 321,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -12,21 +12,9 @@
       "teamName": "San Diego Padres",
       "games": 15,
       "started": 21,
-      "pctStarted": 81,
+      "pctStarted": 84,
       "hits": 24,
       "rank": 1
-    },
-    {
-      "playerId": 643217,
-      "name": "Andrew Benintendi",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 11,
-      "started": 16,
-      "pctStarted": 64,
-      "hits": 10,
-      "rank": 2
     },
     {
       "playerId": 663457,
@@ -35,22 +23,22 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 10,
-      "started": 17,
-      "pctStarted": 81,
+      "started": 16,
+      "pctStarted": 80,
       "hits": 16,
-      "rank": 3
+      "rank": 2
     },
     {
-      "playerId": 803011,
-      "name": "Sam Antonacci",
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
       "team": "CWS",
       "teamId": 145,
       "teamName": "Chicago White Sox",
-      "games": 9,
-      "started": 19,
-      "pctStarted": 76,
-      "hits": 26,
-      "rank": 4
+      "games": 10,
+      "started": 15,
+      "pctStarted": 62,
+      "hits": 10,
+      "rank": 3
     },
     {
       "playerId": 669016,
@@ -60,8 +48,20 @@
       "teamName": "Philadelphia Phillies",
       "games": 9,
       "started": 17,
-      "pctStarted": 68,
+      "pctStarted": 71,
       "hits": 10,
+      "rank": 4
+    },
+    {
+      "playerId": 669701,
+      "name": "Josh Smith",
+      "team": "TOR",
+      "teamId": 141,
+      "teamName": "Toronto Blue Jays",
+      "games": 9,
+      "started": 14,
+      "pctStarted": 67,
+      "hits": 6,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 22,
+      "games": 21,
       "started": 2,
       "pctStarted": 8,
       "hits": 0,
@@ -84,23 +84,11 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 15,
+      "games": 14,
       "started": 6,
-      "pctStarted": 29,
+      "pctStarted": 30,
       "hits": 5,
       "rank": 2
-    },
-    {
-      "playerId": 687363,
-      "name": "Victor Scott II",
-      "team": "STL",
-      "teamId": 138,
-      "teamName": "St. Louis Cardinals",
-      "games": 14,
-      "started": 2,
-      "pctStarted": 10,
-      "hits": 1,
-      "rank": 3
     },
     {
       "playerId": 656537,
@@ -109,21 +97,33 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 6,
-      "pctStarted": 24,
+      "started": 5,
+      "pctStarted": 21,
       "hits": 6,
+      "rank": 3
+    },
+    {
+      "playerId": 687363,
+      "name": "Victor Scott II",
+      "team": "STL",
+      "teamId": 138,
+      "teamName": "St. Louis Cardinals",
+      "games": 13,
+      "started": 2,
+      "pctStarted": 10,
+      "hits": 1,
       "rank": 4
     },
     {
-      "playerId": 672016,
-      "name": "Denzel Clarke",
-      "team": "ATH",
-      "teamId": 133,
-      "teamName": "Athletics",
+      "playerId": 695257,
+      "name": "Billy Cook",
+      "team": "PIT",
+      "teamId": 134,
+      "teamName": "Pittsburgh Pirates",
       "games": 12,
-      "started": 4,
-      "pctStarted": 19,
-      "hits": 2,
+      "started": 1,
+      "pctStarted": 5,
+      "hits": 1,
       "rank": 5
     }
   ]
