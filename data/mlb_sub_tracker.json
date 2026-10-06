@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05 23:06",
-  "window_start": "2026-09-05",
-  "window_end": "2026-10-05",
-  "games_processed": 322,
+  "generated_at": "2026-10-06 01:42",
+  "window_start": "2026-09-06",
+  "window_end": "2026-10-06",
+  "games_processed": 308,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -12,21 +12,9 @@
       "teamName": "San Diego Padres",
       "games": 15,
       "started": 21,
-      "pctStarted": 84,
+      "pctStarted": 88,
       "hits": 24,
       "rank": 1
-    },
-    {
-      "playerId": 663457,
-      "name": "Lars Nootbaar",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 10,
-      "started": 16,
-      "pctStarted": 80,
-      "hits": 16,
-      "rank": 2
     },
     {
       "playerId": 643217,
@@ -38,7 +26,7 @@
       "started": 15,
       "pctStarted": 62,
       "hits": 10,
-      "rank": 3
+      "rank": 2
     },
     {
       "playerId": 669016,
@@ -48,8 +36,20 @@
       "teamName": "Philadelphia Phillies",
       "games": 9,
       "started": 17,
-      "pctStarted": 71,
+      "pctStarted": 74,
       "hits": 10,
+      "rank": 3
+    },
+    {
+      "playerId": 663457,
+      "name": "Lars Nootbaar",
+      "team": "AZ",
+      "teamId": 109,
+      "teamName": "Arizona Diamondbacks",
+      "games": 9,
+      "started": 15,
+      "pctStarted": 79,
+      "hits": 14,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Toronto Blue Jays",
       "games": 9,
       "started": 14,
-      "pctStarted": 67,
+      "pctStarted": 70,
       "hits": 6,
       "rank": 5
     }
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 21,
+      "games": 20,
       "started": 2,
       "pctStarted": 8,
       "hits": 0,
@@ -85,9 +85,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 14,
-      "started": 6,
-      "pctStarted": 30,
-      "hits": 5,
+      "started": 5,
+      "pctStarted": 26,
+      "hits": 4,
       "rank": 2
     },
     {
@@ -97,9 +97,9 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 13,
-      "started": 5,
-      "pctStarted": 21,
-      "hits": 6,
+      "started": 4,
+      "pctStarted": 17,
+      "hits": 4,
       "rank": 3
     },
     {
@@ -110,7 +110,7 @@
       "teamName": "St. Louis Cardinals",
       "games": 13,
       "started": 2,
-      "pctStarted": 10,
+      "pctStarted": 11,
       "hits": 1,
       "rank": 4
     },
