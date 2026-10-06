@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06 18:58",
+  "generated_at": "2026-10-06 21:30",
   "date": "2026-10-06",
   "games": [
     {
@@ -9,8 +9,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "76",
-        "wind": "8 mph, In From LF"
+        "temp": "77",
+        "wind": "8 mph, L To R"
       },
       "home": {
         "teamId": 144,
@@ -64,7 +64,11 @@
       "gameTime": "2026-10-07T01:30:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "83",
+        "wind": "9 mph, In From LF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
