@@ -128302,12 +128302,12 @@
   "team": "ATL",
   "opponent": "LAD",
   "isHome": true,
-  "woba30Rank": 28,
+  "woba30Rank": 26,
   "woba7Rank": 12,
   "kPct30Rank": 27,
-  "woba30": 0.36,
-  "woba7": 0.408,
-  "kPct30": 18.8
+  "woba30": 0.358,
+  "woba7": 0.386,
+  "kPct30": 19.4
  },
  {
   "ip": null,
@@ -128328,12 +128328,12 @@
   "team": "LAD",
   "opponent": "ATL",
   "isHome": false,
-  "woba30Rank": 18,
-  "woba7Rank": 10,
+  "woba30Rank": 12,
+  "woba7Rank": 6,
   "kPct30Rank": 26,
-  "woba30": 0.323,
-  "woba7": 0.332,
-  "kPct30": 18.9
+  "woba30": 0.315,
+  "woba7": 0.272,
+  "kPct30": 19.5
  },
  {
   "ip": null,
@@ -128406,12 +128406,12 @@
   "team": "CWS",
   "opponent": "CLE",
   "isHome": true,
-  "woba30Rank": 17,
-  "woba7Rank": 6,
+  "woba30Rank": 18,
+  "woba7Rank": 7,
   "kPct30Rank": 26,
-  "woba30": 0.334,
+  "woba30": 0.338,
   "woba7": 0.28,
-  "kPct30": 17.7
+  "kPct30": 17.6
  },
  {
   "ip": null,
@@ -128432,12 +128432,38 @@
   "team": "CLE",
   "opponent": "CWS",
   "isHome": false,
-  "woba30Rank": 10,
-  "woba7Rank": 5,
-  "kPct30Rank": 3,
-  "woba30": 0.308,
-  "woba7": 0.248,
-  "kPct30": 28.5
+  "woba30Rank": 5,
+  "woba7Rank": 4,
+  "kPct30Rank": 4,
+  "woba30": 0.296,
+  "woba7": 0.257,
+  "kPct30": 28.7
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849827,
+  "date": "2026-10-08",
+  "pitcherId": "Walker Buehler|SD",
+  "pitcherName": "Walker Buehler",
+  "hand": "R",
+  "team": "SD",
+  "opponent": "MIL",
+  "isHome": true,
+  "woba30Rank": 23,
+  "woba7Rank": 8,
+  "kPct30Rank": 5,
+  "woba30": 0.347,
+  "woba7": 0.286,
+  "kPct30": 27.2
  },
  {
   "ip": null,
@@ -128458,12 +128484,12 @@
   "team": "NYY",
   "opponent": "TB",
   "isHome": true,
-  "woba30Rank": 9,
-  "woba7Rank": 4,
+  "woba30Rank": 5,
+  "woba7Rank": 5,
   "kPct30Rank": 28,
-  "woba30": 0.294,
+  "woba30": 0.279,
   "woba7": 0.267,
-  "kPct30": 16.8
+  "kPct30": 17.4
  },
  {
   "ip": null,
@@ -128484,11 +128510,11 @@
   "team": "TB",
   "opponent": "NYY",
   "isHome": false,
-  "woba30Rank": 11,
-  "woba7Rank": 7,
+  "woba30Rank": 14,
+  "woba7Rank": 3,
   "kPct30Rank": 10,
-  "woba30": 0.313,
-  "woba7": 0.276,
+  "woba30": 0.317,
+  "woba7": 0.251,
   "kPct30": 24.7
  }
 ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07 03:09",
+  "generated_at": "2026-10-07 19:26",
   "window_start": "2026-09-07",
   "window_end": "2026-10-07",
-  "games_processed": 295,
+  "games_processed": 296,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -10,9 +10,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 14,
-      "started": 20,
-      "pctStarted": 87,
+      "games": 15,
+      "started": 21,
+      "pctStarted": 88,
       "hits": 23,
       "rank": 1
     },
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 19,
+      "games": 20,
       "started": 2,
-      "pctStarted": 9,
+      "pctStarted": 8,
       "hits": 0,
       "rank": 1
     },
