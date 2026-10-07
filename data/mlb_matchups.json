@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 19:26",
+  "generated_at": "2026-10-07 21:50",
   "date": "2026-10-07",
   "games": [
     {
@@ -66,8 +66,8 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "77",
-        "wind": "2 mph, L To R"
+        "temp": "80",
+        "wind": "4 mph, Varies"
       },
       "home": {
         "teamId": 144,
@@ -121,7 +121,11 @@
       "gameTime": "2026-10-08T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "67",
+        "wind": "15 mph, R To L"
+      },
       "home": {
         "teamId": 147,
         "teamAbbr": "NYY",
@@ -174,7 +178,11 @@
       "gameTime": "2026-10-08T02:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "78",
+        "wind": "6 mph, In From LF"
+      },
       "home": {
         "teamId": 135,
         "teamAbbr": "SD",
@@ -203,7 +211,22 @@
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Robert Gasser",
+          "hand": "L",
+          "era": "3.87",
+          "ipDisplay": "109.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.39,
+            "woba30Rank": 29,
+            "woba7": 0.261,
+            "woba7Rank": 4,
+            "kPct30": 17.6,
+            "kPct30Rank": 27
+          }
         }
       }
     }
