@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07 21:50",
-  "window_start": "2026-09-07",
-  "window_end": "2026-10-07",
-  "games_processed": 296,
+  "generated_at": "2026-10-08 00:52",
+  "window_start": "2026-09-08",
+  "window_end": "2026-10-08",
+  "games_processed": 286,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -10,9 +10,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 15,
-      "started": 21,
-      "pctStarted": 88,
+      "games": 14,
+      "started": 20,
+      "pctStarted": 87,
       "hits": 23,
       "rank": 1
     },
@@ -24,7 +24,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 9,
       "started": 15,
-      "pctStarted": 83,
+      "pctStarted": 88,
       "hits": 14,
       "rank": 2
     },
@@ -36,9 +36,21 @@
       "teamName": "Chicago White Sox",
       "games": 9,
       "started": 14,
-      "pctStarted": 61,
+      "pctStarted": 58,
       "hits": 10,
       "rank": 3
+    },
+    {
+      "playerId": 683953,
+      "name": "Travis Bazzana",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 8,
+      "started": 20,
+      "pctStarted": 100,
+      "hits": 16,
+      "rank": 4
     },
     {
       "playerId": 669016,
@@ -47,20 +59,8 @@
       "teamId": 143,
       "teamName": "Philadelphia Phillies",
       "games": 8,
-      "started": 16,
-      "pctStarted": 73,
-      "hits": 10,
-      "rank": 4
-    },
-    {
-      "playerId": 666126,
-      "name": "Carlos Cortes",
-      "team": "ATH",
-      "teamId": 133,
-      "teamName": "Athletics",
-      "games": 8,
-      "started": 14,
-      "pctStarted": 78,
+      "started": 15,
+      "pctStarted": 71,
       "hits": 9,
       "rank": 5
     }
@@ -72,9 +72,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 20,
+      "games": 19,
       "started": 2,
-      "pctStarted": 8,
+      "pctStarted": 9,
       "hits": 0,
       "rank": 1
     },
@@ -98,7 +98,7 @@
       "teamName": "Philadelphia Phillies",
       "games": 12,
       "started": 4,
-      "pctStarted": 18,
+      "pctStarted": 19,
       "hits": 3,
       "rank": 3
     },
@@ -108,22 +108,22 @@
       "team": "STL",
       "teamId": 138,
       "teamName": "St. Louis Cardinals",
-      "games": 12,
+      "games": 11,
       "started": 2,
-      "pctStarted": 11,
+      "pctStarted": 12,
       "hits": 1,
       "rank": 4
     },
     {
-      "playerId": 701162,
-      "name": "Ben Malgeri",
-      "team": "DET",
-      "teamId": 116,
-      "teamName": "Detroit Tigers",
+      "playerId": 823550,
+      "name": "Sung-Mun Song",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
       "games": 11,
-      "started": 5,
-      "pctStarted": 26,
-      "hits": 7,
+      "started": 1,
+      "pctStarted": 4,
+      "hits": 2,
       "rank": 5
     }
   ]
