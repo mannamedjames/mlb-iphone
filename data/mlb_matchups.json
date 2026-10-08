@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08 00:52",
+  "generated_at": "2026-10-08 03:24",
   "date": "2026-10-08",
   "games": [
     {
       "gamePk": 849832,
-      "gameTime": "2026-10-08T21:00:00Z",
+      "gameTime": "2026-10-09T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": null,
@@ -36,59 +36,6 @@
             "woba7Rank": 9,
             "kPct30": 23.2,
             "kPct30Rank": 11
-          }
-        }
-      }
-    },
-    {
-      "gamePk": 849837,
-      "gameTime": "2026-10-09T00:00:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": null,
-      "home": {
-        "teamId": 147,
-        "teamAbbr": "NYY",
-        "teamName": "New York Yankees",
-        "starter": {
-          "confirmed": true,
-          "name": "Carlos Rod\u00f3n",
-          "hand": "L",
-          "era": "2.67",
-          "ipDisplay": "84.1",
-          "gamesStarted": 16,
-          "avgIpPerOuting": 5.3,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.279,
-            "woba30Rank": 5,
-            "woba7": 0.267,
-            "woba7Rank": 5,
-            "kPct30": 17.4,
-            "kPct30Rank": 28
-          }
-        }
-      },
-      "away": {
-        "teamId": 139,
-        "teamAbbr": "TB",
-        "teamName": "Tampa Bay Rays",
-        "starter": {
-          "confirmed": true,
-          "name": "Drew Rasmussen",
-          "hand": "R",
-          "era": "2.67",
-          "ipDisplay": "172.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.317,
-            "woba30Rank": 14,
-            "woba7": 0.251,
-            "woba7Rank": 3,
-            "kPct30": 24.7,
-            "kPct30Rank": 10
           }
         }
       }
