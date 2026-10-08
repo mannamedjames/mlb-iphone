@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 03:24",
+  "generated_at": "2026-10-08 19:21",
   "date": "2026-10-08",
   "games": [
     {
@@ -13,7 +13,22 @@
         "teamAbbr": "CWS",
         "teamName": "Chicago White Sox",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Hagen Smith",
+          "hand": "L",
+          "era": "1.29",
+          "ipDisplay": "28.0",
+          "gamesStarted": 1,
+          "avgIpPerOuting": 2.0,
+          "isOpener": true,
+          "oppSplits": {
+            "woba30": 0.352,
+            "woba30Rank": 21,
+            "woba7": 0.334,
+            "woba7Rank": 7,
+            "kPct30": 16.6,
+            "kPct30Rank": 28
+          }
         }
       },
       "away": {
@@ -30,12 +45,12 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.386,
-            "woba30Rank": 28,
-            "woba7": 0.319,
-            "woba7Rank": 9,
-            "kPct30": 23.2,
-            "kPct30Rank": 11
+            "woba30": 0.378,
+            "woba30Rank": 27,
+            "woba7": 0.298,
+            "woba7Rank": 6,
+            "kPct30": 25.0,
+            "kPct30Rank": 6
           }
         }
       }
