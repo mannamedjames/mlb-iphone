@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 19:21",
+  "generated_at": "2026-10-08 21:54",
   "date": "2026-10-08",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-09T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "64",
+        "wind": "3 mph, In From CF"
+      },
       "home": {
         "teamId": 145,
         "teamAbbr": "CWS",
