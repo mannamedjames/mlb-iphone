@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09 03:30",
+  "generated_at": "2026-10-09 18:55",
   "window_start": "2026-09-09",
   "window_end": "2026-10-09",
-  "games_processed": 274,
+  "games_processed": 275,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -24,9 +24,21 @@
       "teamName": "Chicago White Sox",
       "games": 9,
       "started": 13,
-      "pctStarted": 57,
+      "pctStarted": 54,
       "hits": 8,
       "rank": 2
+    },
+    {
+      "playerId": 683953,
+      "name": "Travis Bazzana",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 8,
+      "started": 20,
+      "pctStarted": 100,
+      "hits": 16,
+      "rank": 3
     },
     {
       "playerId": 663457,
@@ -38,7 +50,7 @@
       "started": 14,
       "pctStarted": 88,
       "hits": 12,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 656976,
@@ -50,18 +62,6 @@
       "started": 11,
       "pctStarted": 69,
       "hits": 9,
-      "rank": 4
-    },
-    {
-      "playerId": 814154,
-      "name": "Scott Bandura",
-      "team": "SF",
-      "teamId": 137,
-      "teamName": "San Francisco Giants",
-      "games": 8,
-      "started": 10,
-      "pctStarted": 62,
-      "hits": 6,
       "rank": 5
     }
   ],
@@ -103,6 +103,18 @@
       "rank": 3
     },
     {
+      "playerId": 690984,
+      "name": "Petey Halpin",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 10,
+      "started": 5,
+      "pctStarted": 25,
+      "hits": 6,
+      "rank": 4
+    },
+    {
       "playerId": 545121,
       "name": "Ildemaro Vargas",
       "team": "AZ",
@@ -112,18 +124,6 @@
       "started": 3,
       "pctStarted": 19,
       "hits": 8,
-      "rank": 4
-    },
-    {
-      "playerId": 672016,
-      "name": "Denzel Clarke",
-      "team": "ATH",
-      "teamId": 133,
-      "teamName": "Athletics",
-      "games": 10,
-      "started": 3,
-      "pctStarted": 19,
-      "hits": 2,
       "rank": 5
     }
   ]
