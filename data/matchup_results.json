@@ -128666,12 +128666,12 @@
   "team": "CLE",
   "opponent": "CWS",
   "isHome": true,
-  "woba30Rank": 6,
+  "woba30Rank": 4,
   "woba7Rank": 3,
   "kPct30Rank": 3,
-  "woba30": 0.3,
+  "woba30": 0.292,
   "woba7": 0.255,
-  "kPct30": 29.0
+  "kPct30": 29.3
  },
  {
   "ip": null,
@@ -128692,11 +128692,11 @@
   "team": "CWS",
   "opponent": "CLE",
   "isHome": false,
-  "woba30Rank": 27,
+  "woba30Rank": 28,
   "woba7Rank": 7,
   "kPct30Rank": 29,
-  "woba30": 0.357,
+  "woba30": 0.356,
   "woba7": 0.327,
-  "kPct30": 18.2
+  "kPct30": 17.8
  }
 ]
