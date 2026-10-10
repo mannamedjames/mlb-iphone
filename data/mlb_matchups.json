@@ -1,5 +1,59 @@
 {
-  "generated_at": "2026-10-09 21:31",
-  "date": "2026-10-09",
-  "games": []
+  "generated_at": "2026-10-10 00:39",
+  "date": "2026-10-10",
+  "games": [
+    {
+      "gamePk": 849831,
+      "gameTime": "2026-10-11T00:00:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 114,
+        "teamAbbr": "CLE",
+        "teamName": "Cleveland Guardians",
+        "starter": {
+          "confirmed": true,
+          "name": "Gavin Williams",
+          "hand": "R",
+          "era": "3.76",
+          "ipDisplay": "184.1",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.3,
+            "woba30Rank": 6,
+            "woba7": 0.255,
+            "woba7Rank": 3,
+            "kPct30": 29.0,
+            "kPct30Rank": 3
+          }
+        }
+      },
+      "away": {
+        "teamId": 145,
+        "teamAbbr": "CWS",
+        "teamName": "Chicago White Sox",
+        "starter": {
+          "confirmed": true,
+          "name": "Sean Burke",
+          "hand": "R",
+          "era": "3.34",
+          "ipDisplay": "172.1",
+          "gamesStarted": 27,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.357,
+            "woba30Rank": 27,
+            "woba7": 0.327,
+            "woba7Rank": 7,
+            "kPct30": 18.2,
+            "kPct30Rank": 29
+          }
+        }
+      }
+    }
+  ]
 }

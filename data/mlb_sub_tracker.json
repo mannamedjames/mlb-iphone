@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09 21:31",
-  "window_start": "2026-09-09",
-  "window_end": "2026-10-09",
-  "games_processed": 275,
+  "generated_at": "2026-10-10 00:39",
+  "window_start": "2026-09-10",
+  "window_end": "2026-10-10",
+  "games_processed": 260,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -12,21 +12,9 @@
       "teamName": "San Diego Padres",
       "games": 13,
       "started": 19,
-      "pctStarted": 83,
+      "pctStarted": 86,
       "hits": 23,
       "rank": 1
-    },
-    {
-      "playerId": 643217,
-      "name": "Andrew Benintendi",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 9,
-      "started": 13,
-      "pctStarted": 54,
-      "hits": 8,
-      "rank": 2
     },
     {
       "playerId": 683953,
@@ -35,10 +23,10 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 8,
-      "started": 20,
+      "started": 19,
       "pctStarted": 100,
       "hits": 16,
-      "rank": 3
+      "rank": 2
     },
     {
       "playerId": 663457,
@@ -47,9 +35,21 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 8,
-      "started": 14,
-      "pctStarted": 88,
+      "started": 13,
+      "pctStarted": 87,
       "hits": 12,
+      "rank": 3
+    },
+    {
+      "playerId": 643217,
+      "name": "Andrew Benintendi",
+      "team": "CWS",
+      "teamId": 145,
+      "teamName": "Chicago White Sox",
+      "games": 8,
+      "started": 12,
+      "pctStarted": 52,
+      "hits": 7,
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 8,
       "started": 11,
-      "pctStarted": 69,
+      "pctStarted": 73,
       "hits": 9,
       "rank": 5
     }
@@ -73,8 +73,8 @@
       "teamId": 135,
       "teamName": "San Diego Padres",
       "games": 19,
-      "started": 2,
-      "pctStarted": 9,
+      "started": 1,
+      "pctStarted": 5,
       "hits": 0,
       "rank": 1
     },
@@ -84,23 +84,11 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 12,
-      "started": 5,
-      "pctStarted": 29,
-      "hits": 4,
-      "rank": 2
-    },
-    {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
       "games": 11,
-      "started": 4,
-      "pctStarted": 20,
+      "started": 5,
+      "pctStarted": 31,
       "hits": 3,
-      "rank": 3
+      "rank": 2
     },
     {
       "playerId": 690984,
@@ -110,8 +98,20 @@
       "teamName": "Cleveland Guardians",
       "games": 10,
       "started": 5,
-      "pctStarted": 25,
+      "pctStarted": 26,
       "hits": 6,
+      "rank": 3
+    },
+    {
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 10,
+      "started": 4,
+      "pctStarted": 21,
+      "hits": 3,
       "rank": 4
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 10,
-      "started": 3,
-      "pctStarted": 19,
-      "hits": 8,
+      "started": 2,
+      "pctStarted": 13,
+      "hits": 7,
       "rank": 5
     }
   ]
