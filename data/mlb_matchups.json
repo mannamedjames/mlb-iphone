@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 18:13",
+  "generated_at": "2026-10-11 20:51",
   "date": "2026-10-11",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-12T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "68",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
