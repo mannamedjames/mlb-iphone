@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10 20:32",
-  "window_start": "2026-09-10",
-  "window_end": "2026-10-10",
-  "games_processed": 260,
+  "generated_at": "2026-10-11 00:10",
+  "window_start": "2026-09-11",
+  "window_end": "2026-10-11",
+  "games_processed": 255,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -41,18 +41,6 @@
       "rank": 3
     },
     {
-      "playerId": 643217,
-      "name": "Andrew Benintendi",
-      "team": "CWS",
-      "teamId": 145,
-      "teamName": "Chicago White Sox",
-      "games": 8,
-      "started": 12,
-      "pctStarted": 52,
-      "hits": 7,
-      "rank": 4
-    },
-    {
       "playerId": 656976,
       "name": "Pavin Smith",
       "team": "AZ",
@@ -62,6 +50,18 @@
       "started": 11,
       "pctStarted": 73,
       "hits": 9,
+      "rank": 4
+    },
+    {
+      "playerId": 814154,
+      "name": "Scott Bandura",
+      "team": "SF",
+      "teamId": 137,
+      "teamName": "San Francisco Giants",
+      "games": 8,
+      "started": 10,
+      "pctStarted": 67,
+      "hits": 6,
       "rank": 5
     }
   ],
@@ -85,9 +85,9 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 11,
-      "started": 5,
-      "pctStarted": 31,
-      "hits": 3,
+      "started": 4,
+      "pctStarted": 27,
+      "hits": 2,
       "rank": 2
     },
     {
@@ -103,18 +103,6 @@
       "rank": 3
     },
     {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "games": 10,
-      "started": 4,
-      "pctStarted": 21,
-      "hits": 3,
-      "rank": 4
-    },
-    {
       "playerId": 545121,
       "name": "Ildemaro Vargas",
       "team": "AZ",
@@ -124,6 +112,18 @@
       "started": 2,
       "pctStarted": 13,
       "hits": 7,
+      "rank": 4
+    },
+    {
+      "playerId": 823550,
+      "name": "Sung-Mun Song",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 10,
+      "started": 1,
+      "pctStarted": 5,
+      "hits": 2,
       "rank": 5
     }
   ]
