@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11 02:43",
+  "generated_at": "2026-10-11 18:13",
   "window_start": "2026-09-11",
   "window_end": "2026-10-11",
-  "games_processed": 255,
+  "games_processed": 256,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -22,8 +22,8 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 8,
-      "started": 19,
+      "games": 9,
+      "started": 20,
       "pctStarted": 100,
       "hits": 16,
       "rank": 2
@@ -97,10 +97,22 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 10,
-      "started": 5,
-      "pctStarted": 26,
-      "hits": 6,
+      "started": 6,
+      "pctStarted": 30,
+      "hits": 8,
       "rank": 3
+    },
+    {
+      "playerId": 694197,
+      "name": "Angel Genao",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 10,
+      "started": 5,
+      "pctStarted": 25,
+      "hits": 2,
+      "rank": 4
     },
     {
       "playerId": 545121,
@@ -112,18 +124,6 @@
       "started": 2,
       "pctStarted": 13,
       "hits": 7,
-      "rank": 4
-    },
-    {
-      "playerId": 823550,
-      "name": "Sung-Mun Song",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 10,
-      "started": 1,
-      "pctStarted": 5,
-      "hits": 2,
       "rank": 5
     }
   ]
