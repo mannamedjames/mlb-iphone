@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11 20:51",
-  "window_start": "2026-09-11",
-  "window_end": "2026-10-11",
-  "games_processed": 256,
+  "generated_at": "2026-10-12 00:22",
+  "window_start": "2026-09-12",
+  "window_end": "2026-10-12",
+  "games_processed": 241,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -10,10 +10,10 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 13,
-      "started": 19,
+      "games": 12,
+      "started": 18,
       "pctStarted": 86,
-      "hits": 23,
+      "hits": 21,
       "rank": 1
     },
     {
@@ -22,10 +22,10 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 9,
-      "started": 20,
+      "games": 8,
+      "started": 19,
       "pctStarted": 100,
-      "hits": 16,
+      "hits": 14,
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 8,
       "started": 13,
-      "pctStarted": 87,
+      "pctStarted": 93,
       "hits": 12,
       "rank": 3
     },
@@ -48,7 +48,7 @@
       "teamName": "Arizona Diamondbacks",
       "games": 8,
       "started": 11,
-      "pctStarted": 73,
+      "pctStarted": 79,
       "hits": 9,
       "rank": 4
     },
@@ -60,7 +60,7 @@
       "teamName": "San Francisco Giants",
       "games": 8,
       "started": 10,
-      "pctStarted": 67,
+      "pctStarted": 71,
       "hits": 6,
       "rank": 5
     }
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 19,
+      "games": 18,
       "started": 1,
       "pctStarted": 5,
       "hits": 0,
@@ -85,34 +85,10 @@
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
       "games": 11,
-      "started": 4,
-      "pctStarted": 27,
+      "started": 3,
+      "pctStarted": 21,
       "hits": 2,
       "rank": 2
-    },
-    {
-      "playerId": 690984,
-      "name": "Petey Halpin",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 10,
-      "started": 6,
-      "pctStarted": 30,
-      "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 694197,
-      "name": "Angel Genao",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 10,
-      "started": 5,
-      "pctStarted": 25,
-      "hits": 2,
-      "rank": 4
     },
     {
       "playerId": 545121,
@@ -121,9 +97,33 @@
       "teamId": 109,
       "teamName": "Arizona Diamondbacks",
       "games": 10,
-      "started": 2,
-      "pctStarted": 13,
-      "hits": 7,
+      "started": 1,
+      "pctStarted": 7,
+      "hits": 5,
+      "rank": 3
+    },
+    {
+      "playerId": 690984,
+      "name": "Petey Halpin",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 9,
+      "started": 6,
+      "pctStarted": 32,
+      "hits": 8,
+      "rank": 4
+    },
+    {
+      "playerId": 694197,
+      "name": "Angel Genao",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 9,
+      "started": 5,
+      "pctStarted": 26,
+      "hits": 2,
       "rank": 5
     }
   ]

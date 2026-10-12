@@ -1,29 +1,25 @@
 {
-  "generated_at": "2026-10-11 20:51",
-  "date": "2026-10-11",
+  "generated_at": "2026-10-12 00:22",
+  "date": "2026-10-12",
   "games": [
     {
-      "gamePk": 849809,
-      "gameTime": "2026-10-12T00:00:00Z",
+      "gamePk": 849812,
+      "gameTime": "2026-10-12T21:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Dome",
-        "temp": "68",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
         "teamId": 158,
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
           "confirmed": true,
-          "name": "Jacob Misiorowski",
+          "name": "Logan Henderson",
           "hand": "R",
-          "era": "1.80",
-          "ipDisplay": "174.2",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.8,
+          "era": "2.47",
+          "ipDisplay": "98.1",
+          "gamesStarted": 18,
+          "avgIpPerOuting": 5.5,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.347,
@@ -41,20 +37,73 @@
         "teamName": "Los Angeles Dodgers",
         "starter": {
           "confirmed": true,
-          "name": "Tarik Skubal",
-          "hand": "L",
-          "era": "2.72",
-          "ipDisplay": "158.2",
-          "gamesStarted": 26,
-          "avgIpPerOuting": 6.1,
+          "name": "Yoshinobu Yamamoto",
+          "hand": "R",
+          "era": "2.53",
+          "ipDisplay": "185.0",
+          "gamesStarted": 28,
+          "avgIpPerOuting": 6.6,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.352,
-            "woba30Rank": 22,
-            "woba7": 0.366,
-            "woba7Rank": 8,
-            "kPct30": 17.4,
-            "kPct30Rank": 27
+            "woba30": 0.341,
+            "woba30Rank": 23,
+            "woba7": 0.3,
+            "woba7Rank": 6,
+            "kPct30": 25.5,
+            "kPct30Rank": 7
+          }
+        }
+      }
+    },
+    {
+      "gamePk": 849820,
+      "gameTime": "2026-10-13T00:00:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 139,
+        "teamAbbr": "TB",
+        "teamName": "Tampa Bay Rays",
+        "starter": {
+          "confirmed": true,
+          "name": "Drew Rasmussen",
+          "hand": "R",
+          "era": "2.67",
+          "ipDisplay": "172.0",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.356,
+            "woba30Rank": 28,
+            "woba7": 0.327,
+            "woba7Rank": 7,
+            "kPct30": 17.8,
+            "kPct30Rank": 29
+          }
+        }
+      },
+      "away": {
+        "teamId": 114,
+        "teamAbbr": "CLE",
+        "teamName": "Cleveland Guardians",
+        "starter": {
+          "confirmed": true,
+          "name": "Foster Griffin",
+          "hand": "L",
+          "era": "3.60",
+          "ipDisplay": "172.2",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.6,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.295,
+            "woba30Rank": 9,
+            "woba7": 0.344,
+            "woba7Rank": 7,
+            "kPct30": 19.0,
+            "kPct30Rank": 25
           }
         }
       }
