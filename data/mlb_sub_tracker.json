@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13 02:31",
+  "generated_at": "2026-10-13 04:22",
   "window_start": "2026-09-13",
   "window_end": "2026-10-13",
-  "games_processed": 228,
+  "games_processed": 229,
   "subbed_out": [
     {
       "playerId": 687957,
@@ -22,10 +22,10 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 8,
-      "started": 18,
+      "games": 9,
+      "started": 19,
       "pctStarted": 100,
-      "hits": 13,
+      "hits": 14,
       "rank": 2
     },
     {
@@ -79,6 +79,18 @@
       "rank": 1
     },
     {
+      "playerId": 694197,
+      "name": "Angel Genao",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 10,
+      "started": 5,
+      "pctStarted": 26,
+      "hits": 2,
+      "rank": 2
+    },
+    {
       "playerId": 669707,
       "name": "Jared Triolo",
       "team": "PIT",
@@ -88,7 +100,7 @@
       "started": 3,
       "pctStarted": 23,
       "hits": 2,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 690984,
@@ -97,21 +109,9 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 9,
-      "started": 6,
-      "pctStarted": 33,
+      "started": 7,
+      "pctStarted": 37,
       "hits": 8,
-      "rank": 3
-    },
-    {
-      "playerId": 694197,
-      "name": "Angel Genao",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 9,
-      "started": 5,
-      "pctStarted": 28,
-      "hits": 2,
       "rank": 4
     },
     {
