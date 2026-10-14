@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14 20:31",
+  "generated_at": "2026-10-14 23:48",
   "date": "2026-10-14",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-15T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Clear",
+        "temp": "84",
+        "wind": "1 mph, Varies"
+      },
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
