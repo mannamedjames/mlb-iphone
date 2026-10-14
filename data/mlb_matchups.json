@@ -1,60 +1,56 @@
 {
-  "generated_at": "2026-10-13 21:47",
-  "date": "2026-10-13",
+  "generated_at": "2026-10-14 00:12",
+  "date": "2026-10-14",
   "games": [
     {
-      "gamePk": 849813,
-      "gameTime": "2026-10-14T00:00:00Z",
+      "gamePk": 849811,
+      "gameTime": "2026-10-15T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Dome",
-        "temp": "72",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
-        "teamId": 139,
-        "teamAbbr": "TB",
-        "teamName": "Tampa Bay Rays",
+        "teamId": 119,
+        "teamAbbr": "LAD",
+        "teamName": "Los Angeles Dodgers",
         "starter": {
           "confirmed": true,
-          "name": "Freddy Peralta",
-          "hand": "R",
-          "era": "4.42",
-          "ipDisplay": "169.0",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.3,
+          "name": "Blake Snell",
+          "hand": "L",
+          "era": "1.90",
+          "ipDisplay": "42.2",
+          "gamesStarted": 9,
+          "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.369,
-            "woba30Rank": 30,
-            "woba7": 0.418,
-            "woba7Rank": 8,
-            "kPct30": 17.3,
-            "kPct30Rank": 28
+            "woba30": 0.334,
+            "woba30Rank": 17,
+            "woba7": 0.368,
+            "woba7Rank": 7,
+            "kPct30": 22.4,
+            "kPct30Rank": 12
           }
         }
       },
       "away": {
-        "teamId": 114,
-        "teamAbbr": "CLE",
-        "teamName": "Cleveland Guardians",
+        "teamId": 158,
+        "teamAbbr": "MIL",
+        "teamName": "Milwaukee Brewers",
         "starter": {
           "confirmed": true,
-          "name": "Parker Messick",
+          "name": "Robert Gasser",
           "hand": "L",
-          "era": "2.56",
-          "ipDisplay": "186.1",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.8,
+          "era": "3.87",
+          "ipDisplay": "109.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.313,
-            "woba30Rank": 11,
-            "woba7": 0.368,
-            "woba7Rank": 8,
-            "kPct30": 19.6,
-            "kPct30Rank": 23
+            "woba30": 0.327,
+            "woba30Rank": 15,
+            "woba7": 0.23,
+            "woba7Rank": 2,
+            "kPct30": 21.9,
+            "kPct30Rank": 15
           }
         }
       }
