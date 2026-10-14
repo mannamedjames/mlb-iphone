@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14 02:33",
+  "generated_at": "2026-10-14 18:05",
   "date": "2026-10-14",
   "games": [
     {
@@ -22,12 +22,12 @@
           "avgIpPerOuting": 4.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.334,
+            "woba30": 0.335,
             "woba30Rank": 17,
-            "woba7": 0.368,
-            "woba7Rank": 7,
-            "kPct30": 22.4,
-            "kPct30Rank": 12
+            "woba7": 0.373,
+            "woba7Rank": 8,
+            "kPct30": 23.2,
+            "kPct30Rank": 9
           }
         }
       },
@@ -45,12 +45,12 @@
           "avgIpPerOuting": 5.2,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.327,
-            "woba30Rank": 15,
-            "woba7": 0.23,
-            "woba7Rank": 2,
-            "kPct30": 21.9,
-            "kPct30Rank": 15
+            "woba30": 0.326,
+            "woba30Rank": 13,
+            "woba7": 0.037,
+            "woba7Rank": 1,
+            "kPct30": 21.8,
+            "kPct30Rank": 16
           }
         }
       }
