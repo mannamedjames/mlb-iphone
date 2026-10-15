@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15 17:49",
+  "generated_at": "2026-10-15 20:13",
   "window_start": "2026-09-15",
   "window_end": "2026-10-15",
-  "games_processed": 206,
+  "games_processed": 207,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -10,8 +10,8 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 9,
-      "started": 18,
+      "games": 10,
+      "started": 19,
       "pctStarted": 100,
       "hits": 12,
       "rank": 1
@@ -84,9 +84,9 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 10,
+      "games": 11,
       "started": 4,
-      "pctStarted": 22,
+      "pctStarted": 21,
       "hits": 2,
       "rank": 2
     },
@@ -121,9 +121,9 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 8,
-      "started": 8,
-      "pctStarted": 44,
-      "hits": 9,
+      "started": 9,
+      "pctStarted": 47,
+      "hits": 10,
       "rank": 5
     }
   ]
