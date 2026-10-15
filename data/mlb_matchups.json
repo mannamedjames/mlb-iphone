@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 02:13",
+  "generated_at": "2026-10-15 17:49",
   "date": "2026-10-15",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-15T17:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Sunny",
+        "temp": "62",
+        "wind": "7 mph, Out To CF"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
@@ -24,7 +28,7 @@
           "oppSplits": {
             "woba30": 0.281,
             "woba30Rank": 5,
-            "woba7": 0.083,
+            "woba7": 0.095,
             "woba7Rank": 1,
             "kPct30": 25.4,
             "kPct30Rank": 11
@@ -45,11 +49,11 @@
           "avgIpPerOuting": 4.5,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.345,
-            "woba30Rank": 26,
-            "woba7": 0.374,
-            "woba7Rank": 8,
-            "kPct30": 18.6,
+            "woba30": 0.344,
+            "woba30Rank": 25,
+            "woba7": 0.349,
+            "woba7Rank": 4,
+            "kPct30": 18.9,
             "kPct30Rank": 28
           }
         }
@@ -75,11 +79,11 @@
           "avgIpPerOuting": 5.7,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.319,
+            "woba30": 0.321,
             "woba30Rank": 17,
-            "woba7": 0.366,
-            "woba7Rank": 7,
-            "kPct30": 26.1,
+            "woba7": 0.409,
+            "woba7Rank": 5,
+            "kPct30": 25.8,
             "kPct30Rank": 10
           }
         }
@@ -89,7 +93,22 @@
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Shane Drohan",
+          "hand": "L",
+          "era": "4.19",
+          "ipDisplay": "124.2",
+          "gamesStarted": 19,
+          "avgIpPerOuting": 4.9,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.315,
+            "woba30Rank": 11,
+            "woba7": 0.13,
+            "woba7Rank": 1,
+            "kPct30": 22.1,
+            "kPct30Rank": 16
+          }
         }
       }
     }

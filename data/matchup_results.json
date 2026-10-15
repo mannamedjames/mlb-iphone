@@ -128982,7 +128982,7 @@
   "woba7Rank": 1,
   "kPct30Rank": 11,
   "woba30": 0.281,
-  "woba7": 0.083,
+  "woba7": 0.095,
   "kPct30": 25.4
  },
  {
@@ -129004,12 +129004,12 @@
   "team": "TB",
   "opponent": "CLE",
   "isHome": false,
-  "woba30Rank": 26,
-  "woba7Rank": 8,
+  "woba30Rank": 25,
+  "woba7Rank": 4,
   "kPct30Rank": 28,
-  "woba30": 0.345,
-  "woba7": 0.374,
-  "kPct30": 18.6
+  "woba30": 0.344,
+  "woba7": 0.349,
+  "kPct30": 18.9
  },
  {
   "ip": null,
@@ -129031,10 +129031,36 @@
   "opponent": "MIL",
   "isHome": true,
   "woba30Rank": 17,
-  "woba7Rank": 7,
+  "woba7Rank": 5,
   "kPct30Rank": 10,
-  "woba30": 0.319,
-  "woba7": 0.366,
-  "kPct30": 26.1
+  "woba30": 0.321,
+  "woba7": 0.409,
+  "kPct30": 25.8
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849810,
+  "date": "2026-10-16",
+  "pitcherId": "Shane Drohan|MIL",
+  "pitcherName": "Shane Drohan",
+  "hand": "L",
+  "team": "MIL",
+  "opponent": "LAD",
+  "isHome": false,
+  "woba30Rank": 11,
+  "woba7Rank": 1,
+  "kPct30Rank": 16,
+  "woba30": 0.315,
+  "woba7": 0.13,
+  "kPct30": 22.1
  }
 ]
