@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-16 02:04",
+  "generated_at": "2026-10-16 17:34",
   "date": "2026-10-16",
   "games": [
     {
       "gamePk": 849817,
-      "gameTime": "2026-10-16T22:00:00Z",
+      "gameTime": "2026-10-17T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": null,
@@ -13,7 +13,22 @@
         "teamAbbr": "CLE",
         "teamName": "Cleveland Guardians",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Shawn Armstrong",
+          "hand": "R",
+          "era": "4.58",
+          "ipDisplay": "35.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.274,
+            "woba30Rank": 4,
+            "woba7": 0.14,
+            "woba7Rank": 1,
+            "kPct30": 26.1,
+            "kPct30Rank": 11
+          }
         }
       },
       "away": {
@@ -30,36 +45,13 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.344,
+            "woba30": 0.347,
             "woba30Rank": 25,
-            "woba7": 0.349,
+            "woba7": 0.327,
             "woba7Rank": 4,
-            "kPct30": 18.9,
-            "kPct30Rank": 28
+            "kPct30": 20.1,
+            "kPct30Rank": 25
           }
-        }
-      }
-    },
-    {
-      "gamePk": 849808,
-      "gameTime": "2026-10-17T01:00:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": null,
-      "home": {
-        "teamId": 119,
-        "teamAbbr": "LAD",
-        "teamName": "Los Angeles Dodgers",
-        "starter": {
-          "confirmed": false
-        }
-      },
-      "away": {
-        "teamId": 158,
-        "teamAbbr": "MIL",
-        "teamName": "Milwaukee Brewers",
-        "starter": {
-          "confirmed": false
         }
       }
     }

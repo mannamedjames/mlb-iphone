@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16 02:04",
+  "generated_at": "2026-10-16 17:34",
   "window_start": "2026-09-16",
   "window_end": "2026-10-16",
-  "games_processed": 192,
+  "games_processed": 193,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 500743,
+      "name": "Miguel Rojas",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "games": 7,
+      "started": 9,
+      "pctStarted": 47,
+      "hits": 7,
+      "rank": 3
+    },
+    {
       "playerId": 682927,
       "name": "Ronny Simon",
       "team": "PIT",
@@ -38,7 +50,7 @@
       "started": 8,
       "pctStarted": 73,
       "hits": 6,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 814154,
@@ -50,18 +62,6 @@
       "started": 8,
       "pctStarted": 80,
       "hits": 5,
-      "rank": 4
-    },
-    {
-      "playerId": 606192,
-      "name": "Teoscar Hern\u00e1ndez",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 6,
-      "started": 18,
-      "pctStarted": 100,
-      "hits": 17,
       "rank": 5
     }
   ],
