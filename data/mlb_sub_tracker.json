@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15 23:37",
-  "window_start": "2026-09-15",
-  "window_end": "2026-10-15",
-  "games_processed": 207,
+  "generated_at": "2026-10-16 02:04",
+  "window_start": "2026-09-16",
+  "window_end": "2026-10-16",
+  "games_processed": 192,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -11,9 +11,9 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 10,
-      "started": 19,
+      "started": 18,
       "pctStarted": 100,
-      "hits": 12,
+      "hits": 10,
       "rank": 1
     },
     {
@@ -24,21 +24,9 @@
       "teamName": "San Diego Padres",
       "games": 9,
       "started": 15,
-      "pctStarted": 83,
-      "hits": 18,
+      "pctStarted": 88,
+      "hits": 17,
       "rank": 2
-    },
-    {
-      "playerId": 656976,
-      "name": "Pavin Smith",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 7,
-      "started": 9,
-      "pctStarted": 82,
-      "hits": 7,
-      "rank": 3
     },
     {
       "playerId": 682927,
@@ -48,9 +36,9 @@
       "teamName": "Pittsburgh Pirates",
       "games": 7,
       "started": 8,
-      "pctStarted": 67,
-      "hits": 7,
-      "rank": 4
+      "pctStarted": 73,
+      "hits": 6,
+      "rank": 3
     },
     {
       "playerId": 814154,
@@ -60,8 +48,20 @@
       "teamName": "San Francisco Giants",
       "games": 7,
       "started": 8,
-      "pctStarted": 73,
+      "pctStarted": 80,
       "hits": 5,
+      "rank": 4
+    },
+    {
+      "playerId": 606192,
+      "name": "Teoscar Hern\u00e1ndez",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "games": 6,
+      "started": 18,
+      "pctStarted": 100,
+      "hits": 17,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 15,
+      "games": 14,
       "started": 1,
       "pctStarted": 6,
       "hits": 0,
@@ -85,8 +85,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 11,
-      "started": 4,
-      "pctStarted": 21,
+      "started": 3,
+      "pctStarted": 17,
       "hits": 2,
       "rank": 2
     },
@@ -96,23 +96,11 @@
       "team": "PIT",
       "teamId": 134,
       "teamName": "Pittsburgh Pirates",
-      "games": 10,
+      "games": 9,
       "started": 2,
-      "pctStarted": 17,
+      "pctStarted": 18,
       "hits": 2,
       "rank": 3
-    },
-    {
-      "playerId": 545121,
-      "name": "Ildemaro Vargas",
-      "team": "AZ",
-      "teamId": 109,
-      "teamName": "Arizona Diamondbacks",
-      "games": 9,
-      "started": 1,
-      "pctStarted": 9,
-      "hits": 4,
-      "rank": 4
     },
     {
       "playerId": 690984,
@@ -121,9 +109,21 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 8,
-      "started": 9,
-      "pctStarted": 47,
+      "started": 8,
+      "pctStarted": 44,
       "hits": 10,
+      "rank": 4
+    },
+    {
+      "playerId": 656537,
+      "name": "Derek Hill",
+      "team": "PHI",
+      "teamId": 143,
+      "teamName": "Philadelphia Phillies",
+      "games": 8,
+      "started": 2,
+      "pctStarted": 14,
+      "hits": 2,
       "rank": 5
     }
   ]

@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-10-15 23:37",
-  "date": "2026-10-15",
+  "generated_at": "2026-10-16 02:04",
+  "date": "2026-10-16",
   "games": [
     {
-      "gamePk": 849818,
-      "gameTime": "2026-10-15T17:00:00Z",
+      "gamePk": 849817,
+      "gameTime": "2026-10-16T22:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Sunny",
-        "temp": "62",
-        "wind": "7 mph, Out To CF"
-      },
+      "weather": null,
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
         "teamName": "Cleveland Guardians",
         "starter": {
-          "confirmed": true,
-          "name": "Gavin Williams",
-          "hand": "R",
-          "era": "3.76",
-          "ipDisplay": "184.1",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.281,
-            "woba30Rank": 5,
-            "woba7": 0.095,
-            "woba7Rank": 1,
-            "kPct30": 25.4,
-            "kPct30Rank": 11
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -41,12 +22,12 @@
         "teamName": "Tampa Bay Rays",
         "starter": {
           "confirmed": true,
-          "name": "Griffin Jax",
+          "name": "Nick Martinez",
           "hand": "R",
-          "era": "3.53",
-          "ipDisplay": "112.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 4.5,
+          "era": "3.10",
+          "ipDisplay": "180.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.344,
@@ -60,36 +41,17 @@
       }
     },
     {
-      "gamePk": 849810,
-      "gameTime": "2026-10-16T00:00:00Z",
+      "gamePk": 849808,
+      "gameTime": "2026-10-17T01:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Clear",
-        "temp": "89",
-        "wind": "4 mph, Out To RF"
-      },
+      "weather": null,
       "home": {
         "teamId": 119,
         "teamAbbr": "LAD",
         "teamName": "Los Angeles Dodgers",
         "starter": {
-          "confirmed": true,
-          "name": "Tyler Glasnow",
-          "hand": "R",
-          "era": "3.53",
-          "ipDisplay": "74.0",
-          "gamesStarted": 13,
-          "avgIpPerOuting": 5.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.321,
-            "woba30Rank": 17,
-            "woba7": 0.409,
-            "woba7Rank": 5,
-            "kPct30": 25.8,
-            "kPct30Rank": 10
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -97,22 +59,7 @@
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
-          "confirmed": true,
-          "name": "Shane Drohan",
-          "hand": "L",
-          "era": "4.19",
-          "ipDisplay": "124.2",
-          "gamesStarted": 19,
-          "avgIpPerOuting": 4.9,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.315,
-            "woba30Rank": 11,
-            "woba7": 0.13,
-            "woba7Rank": 1,
-            "kPct30": 22.1,
-            "kPct30Rank": 16
-          }
+          "confirmed": false
         }
       }
     }
