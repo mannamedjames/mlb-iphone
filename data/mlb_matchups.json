@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17 19:07",
+  "generated_at": "2026-10-17 22:59",
   "date": "2026-10-17",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-18T00:08:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Partly Cloudy",
+        "temp": "51",
+        "wind": "9 mph, Varies"
+      },
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
