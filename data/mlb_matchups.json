@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17 01:59",
+  "generated_at": "2026-10-17 16:33",
   "date": "2026-10-17",
   "games": [
     {
       "gamePk": 849816,
-      "gameTime": "2026-10-18T00:00:00Z",
+      "gameTime": "2026-10-18T00:08:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
       "weather": null,
@@ -22,11 +22,11 @@
           "avgIpPerOuting": null,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.274,
-            "woba30Rank": 4,
+            "woba30": 0.282,
+            "woba30Rank": 5,
             "woba7": 0.14,
             "woba7Rank": 1,
-            "kPct30": 26.1,
+            "kPct30": 25.7,
             "kPct30Rank": 11
           }
         }
@@ -45,11 +45,11 @@
           "avgIpPerOuting": 5.8,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.347,
-            "woba30Rank": 25,
+            "woba30": 0.348,
+            "woba30Rank": 27,
             "woba7": 0.327,
             "woba7Rank": 4,
-            "kPct30": 20.1,
+            "kPct30": 19.9,
             "kPct30Rank": 25
           }
         }

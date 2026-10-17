@@ -129134,12 +129134,12 @@
   "team": "CLE",
   "opponent": "TB",
   "isHome": true,
-  "woba30Rank": 4,
+  "woba30Rank": 5,
   "woba7Rank": 1,
   "kPct30Rank": 11,
-  "woba30": 0.274,
+  "woba30": 0.282,
   "woba7": 0.14,
-  "kPct30": 26.1
+  "kPct30": 25.7
  },
  {
   "ip": null,
@@ -129160,11 +129160,11 @@
   "team": "TB",
   "opponent": "CLE",
   "isHome": false,
-  "woba30Rank": 25,
+  "woba30Rank": 27,
   "woba7Rank": 4,
   "kPct30Rank": 25,
-  "woba30": 0.347,
+  "woba30": 0.348,
   "woba7": 0.327,
-  "kPct30": 20.1
+  "kPct30": 19.9
  }
 ]
