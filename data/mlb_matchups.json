@@ -1,17 +1,13 @@
 {
-  "generated_at": "2026-10-16 23:22",
-  "date": "2026-10-16",
+  "generated_at": "2026-10-17 01:59",
+  "date": "2026-10-17",
   "games": [
     {
-      "gamePk": 849817,
-      "gameTime": "2026-10-17T00:00:00Z",
+      "gamePk": 849816,
+      "gameTime": "2026-10-18T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Cloudy",
-        "temp": "59",
-        "wind": "9 mph, Varies"
-      },
+      "weather": null,
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
