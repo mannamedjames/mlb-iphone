@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 01:57",
+  "generated_at": "2026-10-18 16:40",
   "date": "2026-10-18",
   "games": [
     {
@@ -13,7 +13,22 @@
         "teamAbbr": "CLE",
         "teamName": "Cleveland Guardians",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Parker Messick",
+          "hand": "L",
+          "era": "2.56",
+          "ipDisplay": "186.1",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.292,
+            "woba30Rank": 7,
+            "woba7": 0.324,
+            "woba7Rank": 3,
+            "kPct30": 21.4,
+            "kPct30Rank": 19
+          }
         }
       },
       "away": {
@@ -21,7 +36,22 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Drew Rasmussen",
+          "hand": "R",
+          "era": "2.67",
+          "ipDisplay": "172.0",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.7,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.339,
+            "woba30Rank": 25,
+            "woba7": 0.31,
+            "woba7Rank": 3,
+            "kPct30": 19.6,
+            "kPct30Rank": 26
+          }
         }
       }
     }
