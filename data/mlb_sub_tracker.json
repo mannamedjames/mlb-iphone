@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 16:40",
+  "generated_at": "2026-10-18 19:19",
   "window_start": "2026-09-18",
   "window_end": "2026-10-18",
   "games_processed": 171,
@@ -11,8 +11,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 10,
-      "started": 18,
-      "pctStarted": 95,
+      "started": 19,
+      "pctStarted": 100,
       "hits": 12,
       "rank": 1
     },
@@ -97,8 +97,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 8,
-      "started": 8,
-      "pctStarted": 42,
+      "started": 9,
+      "pctStarted": 47,
       "hits": 8,
       "rank": 3
     },
