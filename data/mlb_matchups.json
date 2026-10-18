@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-10-17 22:59",
-  "date": "2026-10-17",
+  "generated_at": "2026-10-18 01:57",
+  "date": "2026-10-18",
   "games": [
     {
-      "gamePk": 849816,
-      "gameTime": "2026-10-18T00:08:00Z",
+      "gamePk": 849817,
+      "gameTime": "2026-10-18T21:08:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Partly Cloudy",
-        "temp": "51",
-        "wind": "9 mph, Varies"
-      },
+      "weather": null,
       "home": {
         "teamId": 114,
         "teamAbbr": "CLE",
         "teamName": "Cleveland Guardians",
         "starter": {
-          "confirmed": true,
-          "name": "Shawn Armstrong",
-          "hand": "R",
-          "era": "4.58",
-          "ipDisplay": "35.1",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.282,
-            "woba30Rank": 5,
-            "woba7": 0.14,
-            "woba7Rank": 1,
-            "kPct30": 25.7,
-            "kPct30Rank": 11
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -40,22 +21,7 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": true,
-          "name": "Nick Martinez",
-          "hand": "R",
-          "era": "3.10",
-          "ipDisplay": "180.0",
-          "gamesStarted": 31,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.348,
-            "woba30Rank": 27,
-            "woba7": 0.327,
-            "woba7Rank": 4,
-            "kPct30": 19.9,
-            "kPct30Rank": 25
-          }
+          "confirmed": false
         }
       }
     }
