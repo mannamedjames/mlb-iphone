@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 19:19",
+  "generated_at": "2026-10-18 22:54",
   "date": "2026-10-18",
   "games": [
     {
@@ -9,7 +9,7 @@
       "gameNumber": 1,
       "weather": {
         "condition": "Clear",
-        "temp": "60",
+        "temp": "63",
         "wind": "8 mph, L To R"
       },
       "home": {
