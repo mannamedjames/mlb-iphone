@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 02:15",
+  "generated_at": "2026-10-19 19:24",
   "date": "2026-10-19",
   "games": [
     {
@@ -22,11 +22,11 @@
           "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
-            "woba30": 0.339,
-            "woba30Rank": 25,
-            "woba7": 0.31,
-            "woba7Rank": 3,
-            "kPct30": 19.6,
+            "woba30": 0.319,
+            "woba30Rank": 18,
+            "woba7": 0.281,
+            "woba7Rank": 2,
+            "kPct30": 19.5,
             "kPct30Rank": 26
           }
         }
@@ -36,7 +36,22 @@
         "teamAbbr": "CLE",
         "teamName": "Cleveland Guardians",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Shawn Armstrong",
+          "hand": "R",
+          "era": "4.58",
+          "ipDisplay": "35.1",
+          "gamesStarted": 0,
+          "avgIpPerOuting": null,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.291,
+            "woba30Rank": 9,
+            "woba7": 0.233,
+            "woba7Rank": 1,
+            "kPct30": 24.7,
+            "kPct30Rank": 14
+          }
         }
       }
     }
