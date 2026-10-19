@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 19:24",
+  "generated_at": "2026-10-19 21:23",
   "date": "2026-10-19",
   "games": [
     {
@@ -7,7 +7,11 @@
       "gameTime": "2026-10-20T00:08:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": null,
+      "weather": {
+        "condition": "Dome",
+        "temp": "71",
+        "wind": "0 mph, None"
+      },
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
