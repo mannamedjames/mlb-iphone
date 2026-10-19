@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-10-18 22:54",
-  "date": "2026-10-18",
+  "generated_at": "2026-10-19 02:15",
+  "date": "2026-10-19",
   "games": [
     {
-      "gamePk": 849817,
-      "gameTime": "2026-10-18T21:08:00Z",
+      "gamePk": 849815,
+      "gameTime": "2026-10-20T00:08:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Clear",
-        "temp": "63",
-        "wind": "8 mph, L To R"
-      },
+      "weather": null,
       "home": {
-        "teamId": 114,
-        "teamAbbr": "CLE",
-        "teamName": "Cleveland Guardians",
-        "starter": {
-          "confirmed": true,
-          "name": "Parker Messick",
-          "hand": "L",
-          "era": "2.56",
-          "ipDisplay": "186.1",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.8,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.292,
-            "woba30Rank": 7,
-            "woba7": 0.324,
-            "woba7Rank": 3,
-            "kPct30": 21.4,
-            "kPct30Rank": 19
-          }
-        }
-      },
-      "away": {
         "teamId": 139,
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
           "confirmed": true,
-          "name": "Drew Rasmussen",
+          "name": "Freddy Peralta",
           "hand": "R",
-          "era": "2.67",
-          "ipDisplay": "172.0",
-          "gamesStarted": 30,
-          "avgIpPerOuting": 5.7,
+          "era": "4.42",
+          "ipDisplay": "169.0",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.3,
           "isOpener": false,
           "oppSplits": {
             "woba30": 0.339,
@@ -56,6 +29,14 @@
             "kPct30": 19.6,
             "kPct30Rank": 26
           }
+        }
+      },
+      "away": {
+        "teamId": 114,
+        "teamAbbr": "CLE",
+        "teamName": "Cleveland Guardians",
+        "starter": {
+          "confirmed": false
         }
       }
     }
