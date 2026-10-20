@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-10-19 21:23",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-20 00:10",
+  "date": "2026-10-20",
   "games": [
     {
-      "gamePk": 849815,
-      "gameTime": "2026-10-20T00:08:00Z",
+      "gamePk": 849814,
+      "gameTime": "2026-10-21T00:08:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Dome",
-        "temp": "71",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": true,
-          "name": "Freddy Peralta",
-          "hand": "R",
-          "era": "4.42",
-          "ipDisplay": "169.0",
-          "gamesStarted": 32,
-          "avgIpPerOuting": 5.3,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.319,
-            "woba30Rank": 18,
-            "woba7": 0.281,
-            "woba7Rank": 2,
-            "kPct30": 19.5,
-            "kPct30Rank": 26
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -40,22 +21,7 @@
         "teamAbbr": "CLE",
         "teamName": "Cleveland Guardians",
         "starter": {
-          "confirmed": true,
-          "name": "Shawn Armstrong",
-          "hand": "R",
-          "era": "4.58",
-          "ipDisplay": "35.1",
-          "gamesStarted": 0,
-          "avgIpPerOuting": null,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.291,
-            "woba30Rank": 9,
-            "woba7": 0.233,
-            "woba7Rank": 1,
-            "kPct30": 24.7,
-            "kPct30Rank": 14
-          }
+          "confirmed": false
         }
       }
     }
