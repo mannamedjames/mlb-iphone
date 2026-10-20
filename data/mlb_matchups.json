@@ -1,29 +1,5 @@
 {
-  "generated_at": "2026-10-20 02:29",
+  "generated_at": "2026-10-20 18:03",
   "date": "2026-10-20",
-  "games": [
-    {
-      "gamePk": 849814,
-      "gameTime": "2026-10-21T00:08:00Z",
-      "doubleHeader": "N",
-      "gameNumber": 1,
-      "weather": null,
-      "home": {
-        "teamId": 139,
-        "teamAbbr": "TB",
-        "teamName": "Tampa Bay Rays",
-        "starter": {
-          "confirmed": false
-        }
-      },
-      "away": {
-        "teamId": 114,
-        "teamAbbr": "CLE",
-        "teamName": "Cleveland Guardians",
-        "starter": {
-          "confirmed": false
-        }
-      }
-    }
-  ]
+  "games": []
 }

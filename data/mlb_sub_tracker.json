@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20 02:29",
+  "generated_at": "2026-10-20 18:03",
   "window_start": "2026-09-20",
   "window_end": "2026-10-20",
-  "games_processed": 142,
+  "games_processed": 143,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -11,8 +11,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 10,
-      "started": 17,
-      "pctStarted": 94,
+      "started": 18,
+      "pctStarted": 95,
       "hits": 11,
       "rank": 1
     },
@@ -35,9 +35,9 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 5,
-      "started": 16,
+      "started": 17,
       "pctStarted": 94,
-      "hits": 15,
+      "hits": 17,
       "rank": 3
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Cleveland Guardians",
       "games": 5,
       "started": 10,
-      "pctStarted": 56,
+      "pctStarted": 53,
       "hits": 8,
       "rank": 5
     }
@@ -84,7 +84,7 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 10,
+      "games": 11,
       "started": 2,
       "pctStarted": 11,
       "hits": 2,
@@ -97,8 +97,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 7,
-      "started": 8,
-      "pctStarted": 44,
+      "started": 9,
+      "pctStarted": 47,
       "hits": 7,
       "rank": 3
     },
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 656775,
-      "name": "Cedric Mullins",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
+      "playerId": 682657,
+      "name": "Angel Mart\u00ednez",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
       "games": 6,
-      "started": 4,
-      "pctStarted": 24,
-      "hits": 6,
+      "started": 10,
+      "pctStarted": 53,
+      "hits": 8,
       "rank": 5
     }
   ]
