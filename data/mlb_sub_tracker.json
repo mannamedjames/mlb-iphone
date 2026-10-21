@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20 23:42",
-  "window_start": "2026-09-20",
-  "window_end": "2026-10-20",
-  "games_processed": 143,
+  "generated_at": "2026-10-21 02:23",
+  "window_start": "2026-09-21",
+  "window_end": "2026-10-21",
+  "games_processed": 128,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -11,8 +11,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 10,
-      "started": 18,
-      "pctStarted": 95,
+      "started": 17,
+      "pctStarted": 94,
       "hits": 11,
       "rank": 1
     },
@@ -22,10 +22,10 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 8,
-      "started": 11,
-      "pctStarted": 85,
-      "hits": 9,
+      "games": 7,
+      "started": 10,
+      "pctStarted": 83,
+      "hits": 8,
       "rank": 2
     },
     {
@@ -35,9 +35,9 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 5,
-      "started": 17,
+      "started": 16,
       "pctStarted": 94,
-      "hits": 17,
+      "hits": 16,
       "rank": 3
     },
     {
@@ -47,48 +47,10 @@
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
       "games": 5,
-      "started": 15,
+      "started": 14,
       "pctStarted": 100,
-      "hits": 14,
+      "hits": 12,
       "rank": 4
-    },
-    {
-      "playerId": 682657,
-      "name": "Angel Mart\u00ednez",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 5,
-      "started": 10,
-      "pctStarted": 53,
-      "hits": 8,
-      "rank": 5
-    }
-  ],
-  "subbed_in": [
-    {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 12,
-      "started": 1,
-      "pctStarted": 8,
-      "hits": 0,
-      "rank": 1
-    },
-    {
-      "playerId": 694197,
-      "name": "Angel Genao",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 11,
-      "started": 2,
-      "pctStarted": 11,
-      "hits": 2,
-      "rank": 2
     },
     {
       "playerId": 690984,
@@ -96,23 +58,37 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 7,
+      "games": 5,
       "started": 9,
-      "pctStarted": 47,
+      "pctStarted": 50,
       "hits": 7,
-      "rank": 3
+      "rank": 5
+    }
+  ],
+  "subbed_in": [
+    {
+      "playerId": 694197,
+      "name": "Angel Genao",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 11,
+      "started": 1,
+      "pctStarted": 6,
+      "hits": 2,
+      "rank": 1
     },
     {
-      "playerId": 656537,
-      "name": "Derek Hill",
-      "team": "PHI",
-      "teamId": 143,
-      "teamName": "Philadelphia Phillies",
-      "games": 7,
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 11,
       "started": 1,
-      "pctStarted": 10,
-      "hits": 1,
-      "rank": 4
+      "pctStarted": 8,
+      "hits": 0,
+      "rank": 2
     },
     {
       "playerId": 682657,
@@ -121,9 +97,33 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 6,
-      "started": 10,
-      "pctStarted": 53,
+      "started": 9,
+      "pctStarted": 50,
       "hits": 8,
+      "rank": 3
+    },
+    {
+      "playerId": 690984,
+      "name": "Petey Halpin",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 6,
+      "started": 9,
+      "pctStarted": 50,
+      "hits": 7,
+      "rank": 4
+    },
+    {
+      "playerId": 656775,
+      "name": "Cedric Mullins",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 6,
+      "started": 4,
+      "pctStarted": 24,
+      "hits": 6,
       "rank": 5
     }
   ]
