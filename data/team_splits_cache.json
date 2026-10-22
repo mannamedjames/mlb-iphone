@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21 16:25",
-  "window_30_start": "2026-09-21",
-  "window_30_end": "2026-10-21",
-  "window_7_start": "2026-10-14",
-  "window_7_end": "2026-10-21",
+  "generated_at": "2026-10-22 16:25",
+  "window_30_start": "2026-09-22",
+  "window_30_end": "2026-10-22",
+  "window_7_start": "2026-10-15",
+  "window_7_end": "2026-10-22",
   "teams_30": {
     "RHP": {
       "ARI": {
@@ -18,28 +18,28 @@
         "k_pct": 18.9,
         "pa": 169,
         "woba_rank": 22,
-        "k_pct_rank": 24
+        "k_pct_rank": 25
       },
       "ATL": {
         "woba": 0.283,
         "k_pct": 22.1,
         "pa": 294,
-        "woba_rank": 9,
+        "woba_rank": 8,
         "k_pct_rank": 19
       },
       "BAL": {
-        "woba": 0.354,
-        "k_pct": 29.1,
-        "pa": 148,
-        "woba_rank": 26,
+        "woba": 0.352,
+        "k_pct": 28.8,
+        "pa": 125,
+        "woba_rank": 25,
         "k_pct_rank": 5
       },
       "BOS": {
         "woba": 0.233,
         "k_pct": 27.0,
         "pa": 115,
-        "woba_rank": 1,
-        "k_pct_rank": 7
+        "woba_rank": 2,
+        "k_pct_rank": 8
       },
       "CHC": {
         "woba": 0.256,
@@ -53,13 +53,13 @@
         "k_pct": 25.0,
         "pa": 176,
         "woba_rank": 27,
-        "k_pct_rank": 14
+        "k_pct_rank": 13
       },
       "CLE": {
         "woba": 0.32,
         "k_pct": 18.7,
         "pa": 386,
-        "woba_rank": 17,
+        "woba_rank": 18,
         "k_pct_rank": 26
       },
       "COL": {
@@ -67,7 +67,7 @@
         "k_pct": 25.7,
         "pa": 136,
         "woba_rank": 10,
-        "k_pct_rank": 13
+        "k_pct_rank": 12
       },
       "CWS": {
         "woba": 0.302,
@@ -77,59 +77,59 @@
         "k_pct_rank": 2
       },
       "DET": {
-        "woba": 0.35,
-        "k_pct": 26.2,
-        "pa": 145,
-        "woba_rank": 24,
-        "k_pct_rank": 11
+        "woba": 0.318,
+        "k_pct": 28.0,
+        "pa": 125,
+        "woba_rank": 16,
+        "k_pct_rank": 6
       },
       "HOU": {
         "woba": 0.398,
         "k_pct": 28.0,
         "pa": 250,
         "woba_rank": 30,
-        "k_pct_rank": 6
+        "k_pct_rank": 7
       },
       "KC": {
         "woba": 0.374,
         "k_pct": 19.5,
         "pa": 159,
         "woba_rank": 28,
-        "k_pct_rank": 23
+        "k_pct_rank": 24
       },
       "LAA": {
         "woba": 0.311,
         "k_pct": 27.0,
         "pa": 159,
         "woba_rank": 15,
-        "k_pct_rank": 8
+        "k_pct_rank": 9
       },
       "LAD": {
         "woba": 0.318,
         "k_pct": 21.8,
         "pa": 317,
-        "woba_rank": 16,
+        "woba_rank": 17,
         "k_pct_rank": 20
       },
       "MIA": {
         "woba": 0.353,
         "k_pct": 17.5,
         "pa": 137,
-        "woba_rank": 25,
+        "woba_rank": 26,
         "k_pct_rank": 27
       },
       "MIL": {
         "woba": 0.321,
         "k_pct": 24.3,
         "pa": 350,
-        "woba_rank": 18,
-        "k_pct_rank": 16
+        "woba_rank": 19,
+        "k_pct_rank": 15
       },
       "MIN": {
-        "woba": 0.323,
-        "k_pct": 21.0,
-        "pa": 143,
-        "woba_rank": 20,
+        "woba": 0.351,
+        "k_pct": 20.9,
+        "pa": 115,
+        "woba_rank": 24,
         "k_pct_rank": 22
       },
       "NYM": {
@@ -137,7 +137,7 @@
         "k_pct": 25.0,
         "pa": 96,
         "woba_rank": 21,
-        "k_pct_rank": 15
+        "k_pct_rank": 14
       },
       "NYY": {
         "woba": 0.303,
@@ -157,14 +157,14 @@
         "woba": 0.269,
         "k_pct": 26.7,
         "pa": 146,
-        "woba_rank": 7,
-        "k_pct_rank": 9
+        "woba_rank": 6,
+        "k_pct_rank": 10
       },
       "SD": {
         "woba": 0.322,
         "k_pct": 21.7,
         "pa": 332,
-        "woba_rank": 19,
+        "woba_rank": 20,
         "k_pct_rank": 21
       },
       "SEA": {
@@ -175,17 +175,17 @@
         "k_pct_rank": 28
       },
       "SF": {
-        "woba": 0.263,
-        "k_pct": 37.6,
-        "pa": 101,
-        "woba_rank": 5,
+        "woba": 0.227,
+        "k_pct": 35.6,
+        "pa": 73,
+        "woba_rank": 1,
         "k_pct_rank": 1
       },
       "STL": {
         "woba": 0.275,
         "k_pct": 31.7,
         "pa": 139,
-        "woba_rank": 8,
+        "woba_rank": 7,
         "k_pct_rank": 3
       },
       "TB": {
@@ -199,22 +199,22 @@
         "woba": 0.266,
         "k_pct": 26.3,
         "pa": 137,
-        "woba_rank": 6,
-        "k_pct_rank": 10
+        "woba_rank": 5,
+        "k_pct_rank": 11
       },
       "TOR": {
-        "woba": 0.256,
-        "k_pct": 18.9,
-        "pa": 164,
+        "woba": 0.263,
+        "k_pct": 20.0,
+        "pa": 130,
         "woba_rank": 4,
-        "k_pct_rank": 25
+        "k_pct_rank": 23
       },
       "WSH": {
-        "woba": 0.254,
-        "k_pct": 25.8,
-        "pa": 128,
-        "woba_rank": 2,
-        "k_pct_rank": 12
+        "woba": 0.284,
+        "k_pct": 24.2,
+        "pa": 99,
+        "woba_rank": 9,
+        "k_pct_rank": 16
       }
     },
     "LHP": {
@@ -222,8 +222,8 @@
         "woba": 0.401,
         "k_pct": 20.0,
         "pa": 45,
-        "woba_rank": 26,
-        "k_pct_rank": 20
+        "woba_rank": 27,
+        "k_pct_rank": 19
       },
       "ATH": {
         "woba": 0.453,
@@ -240,11 +240,11 @@
         "k_pct_rank": 14
       },
       "BAL": {
-        "woba": 0.321,
-        "k_pct": 31.4,
-        "pa": 35,
-        "woba_rank": 15,
-        "k_pct_rank": 3
+        "woba": 0.331,
+        "k_pct": 29.6,
+        "pa": 27,
+        "woba_rank": 17,
+        "k_pct_rank": 4
       },
       "BOS": {
         "woba": 0.275,
@@ -272,14 +272,14 @@
         "k_pct": 18.1,
         "pa": 260,
         "woba_rank": 19,
-        "k_pct_rank": 26
+        "k_pct_rank": 25
       },
       "COL": {
         "woba": 0.356,
         "k_pct": 19.8,
         "pa": 86,
         "woba_rank": 22,
-        "k_pct_rank": 21
+        "k_pct_rank": 20
       },
       "CWS": {
         "woba": 0.384,
@@ -289,10 +289,10 @@
         "k_pct_rank": 11
       },
       "DET": {
-        "woba": 0.401,
-        "k_pct": 21.6,
-        "pa": 88,
-        "woba_rank": 27,
+        "woba": 0.394,
+        "k_pct": 21.7,
+        "pa": 69,
+        "woba_rank": 26,
         "k_pct_rank": 15
       },
       "HOU": {
@@ -300,21 +300,21 @@
         "k_pct": 17.1,
         "pa": 76,
         "woba_rank": 16,
-        "k_pct_rank": 28
+        "k_pct_rank": 27
       },
       "KC": {
         "woba": 0.38,
         "k_pct": 17.4,
         "pa": 69,
         "woba_rank": 24,
-        "k_pct_rank": 27
+        "k_pct_rank": 26
       },
       "LAA": {
         "woba": 0.411,
         "k_pct": 19.5,
         "pa": 82,
         "woba_rank": 28,
-        "k_pct_rank": 22
+        "k_pct_rank": 21
       },
       "LAD": {
         "woba": 0.265,
@@ -338,11 +338,11 @@
         "k_pct_rank": 7
       },
       "MIN": {
-        "woba": 0.315,
-        "k_pct": 18.3,
-        "pa": 71,
-        "woba_rank": 12,
-        "k_pct_rank": 25
+        "woba": 0.313,
+        "k_pct": 16.4,
+        "pa": 67,
+        "woba_rank": 13,
+        "k_pct_rank": 28
       },
       "NYM": {
         "woba": 0.34,
@@ -355,7 +355,7 @@
         "woba": 0.319,
         "k_pct": 25.0,
         "pa": 112,
-        "woba_rank": 14,
+        "woba_rank": 15,
         "k_pct_rank": 9
       },
       "PHI": {
@@ -383,15 +383,15 @@
         "woba": 0.316,
         "k_pct": 23.9,
         "pa": 109,
-        "woba_rank": 13,
+        "woba_rank": 14,
         "k_pct_rank": 10
       },
       "SF": {
-        "woba": 0.217,
-        "k_pct": 30.2,
-        "pa": 106,
+        "woba": 0.219,
+        "k_pct": 30.7,
+        "pa": 101,
         "woba_rank": 3,
-        "k_pct_rank": 4
+        "k_pct_rank": 3
       },
       "STL": {
         "woba": 0.14,
@@ -405,7 +405,7 @@
         "k_pct": 20.5,
         "pa": 263,
         "woba_rank": 11,
-        "k_pct_rank": 19
+        "k_pct_rank": 18
       },
       "TEX": {
         "woba": 0.306,
@@ -422,11 +422,11 @@
         "k_pct_rank": 30
       },
       "WSH": {
-        "woba": 0.327,
-        "k_pct": 20.7,
-        "pa": 82,
-        "woba_rank": 17,
-        "k_pct_rank": 18
+        "woba": 0.311,
+        "k_pct": 19.5,
+        "pa": 77,
+        "woba_rank": 12,
+        "k_pct_rank": 22
       }
     }
   },
@@ -439,15 +439,15 @@
         "woba_rank": 1
       },
       "LAD": {
-        "woba": 0.366,
-        "k_pct": 18.2,
-        "pa": 22,
+        "woba": 0.362,
+        "k_pct": 7.7,
+        "pa": 13,
         "woba_rank": 4
       },
       "MIL": {
-        "woba": 0.294,
-        "k_pct": 21.6,
-        "pa": 37,
+        "woba": 0.263,
+        "k_pct": 25.8,
+        "pa": 31,
         "woba_rank": 2
       },
       "TB": {
@@ -465,22 +465,22 @@
         "woba_rank": 2
       },
       "LAD": {
-        "woba": 0.225,
-        "k_pct": 23.5,
-        "pa": 51,
+        "woba": 0.284,
+        "k_pct": 30.4,
+        "pa": 23,
         "woba_rank": 1
       },
       "MIL": {
-        "woba": 0.346,
-        "k_pct": 37.8,
-        "pa": 37,
-        "woba_rank": 3
+        "woba": 0.45,
+        "k_pct": 33.3,
+        "pa": 6,
+        "woba_rank": 4
       },
       "TB": {
         "woba": 0.349,
         "k_pct": 21.5,
         "pa": 65,
-        "woba_rank": 4
+        "woba_rank": 3
       }
     }
   }
