@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22 23:56",
-  "window_start": "2026-09-22",
-  "window_end": "2026-10-22",
-  "games_processed": 125,
+  "generated_at": "2026-10-23 02:24",
+  "window_start": "2026-09-23",
+  "window_end": "2026-10-23",
+  "games_processed": 109,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -10,10 +10,10 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 10,
-      "started": 17,
+      "games": 9,
+      "started": 16,
       "pctStarted": 94,
-      "hits": 11,
+      "hits": 10,
       "rank": 1
     },
     {
@@ -22,9 +22,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 7,
-      "started": 10,
-      "pctStarted": 83,
+      "games": 6,
+      "started": 9,
+      "pctStarted": 82,
       "hits": 8,
       "rank": 2
     },
@@ -35,9 +35,9 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 5,
-      "started": 16,
-      "pctStarted": 94,
-      "hits": 16,
+      "started": 14,
+      "pctStarted": 93,
+      "hits": 15,
       "rank": 3
     },
     {
@@ -47,9 +47,9 @@
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
       "games": 5,
-      "started": 14,
+      "started": 13,
       "pctStarted": 100,
-      "hits": 12,
+      "hits": 11,
       "rank": 4
     },
     {
@@ -60,8 +60,8 @@
       "teamName": "Cleveland Guardians",
       "games": 5,
       "started": 9,
-      "pctStarted": 50,
-      "hits": 7,
+      "pctStarted": 53,
+      "hits": 6,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 11,
+      "games": 10,
       "started": 1,
       "pctStarted": 6,
       "hits": 2,
@@ -84,9 +84,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 11,
+      "games": 10,
       "started": 1,
-      "pctStarted": 8,
+      "pctStarted": 9,
       "hits": 0,
       "rank": 2
     },
@@ -97,33 +97,33 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 6,
-      "started": 9,
-      "pctStarted": 50,
-      "hits": 8,
+      "started": 8,
+      "pctStarted": 47,
+      "hits": 5,
       "rank": 3
     },
     {
-      "playerId": 690984,
-      "name": "Petey Halpin",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 6,
-      "started": 9,
-      "pctStarted": 50,
-      "hits": 7,
-      "rank": 4
-    },
-    {
-      "playerId": 656775,
-      "name": "Cedric Mullins",
+      "playerId": 622761,
+      "name": "Jorge Mateo",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 6,
-      "started": 4,
-      "pctStarted": 24,
-      "hits": 6,
+      "started": 3,
+      "pctStarted": 20,
+      "hits": 2,
+      "rank": 4
+    },
+    {
+      "playerId": 672275,
+      "name": "Patrick Bailey",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 5,
+      "started": 11,
+      "pctStarted": 65,
+      "hits": 12,
       "rank": 5
     }
   ]

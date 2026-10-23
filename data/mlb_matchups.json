@@ -1,5 +1,59 @@
 {
-  "generated_at": "2026-10-22 23:56",
-  "date": "2026-10-22",
-  "games": []
+  "generated_at": "2026-10-23 02:24",
+  "date": "2026-10-23",
+  "games": [
+    {
+      "gamePk": 849805,
+      "gameTime": "2026-10-24T00:00:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 158,
+        "teamAbbr": "MIL",
+        "teamName": "Milwaukee Brewers",
+        "starter": {
+          "confirmed": true,
+          "name": "Jacob Misiorowski",
+          "hand": "R",
+          "era": "1.80",
+          "ipDisplay": "174.2",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.301,
+            "woba30Rank": 11,
+            "woba7": 0.299,
+            "woba7Rank": 3,
+            "kPct30": 22.2,
+            "kPct30Rank": 18
+          }
+        }
+      },
+      "away": {
+        "teamId": 139,
+        "teamAbbr": "TB",
+        "teamName": "Tampa Bay Rays",
+        "starter": {
+          "confirmed": true,
+          "name": "Nick Martinez",
+          "hand": "R",
+          "era": "3.10",
+          "ipDisplay": "180.0",
+          "gamesStarted": 31,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.321,
+            "woba30Rank": 19,
+            "woba7": 0.263,
+            "woba7Rank": 2,
+            "kPct30": 24.3,
+            "kPct30Rank": 15
+          }
+        }
+      }
+    }
+  ]
 }
