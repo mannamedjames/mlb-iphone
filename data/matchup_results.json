@@ -129291,11 +129291,11 @@
   "opponent": "TB",
   "isHome": true,
   "woba30Rank": 11,
-  "woba7Rank": 3,
-  "kPct30Rank": 18,
+  "woba7Rank": 2,
+  "kPct30Rank": 16,
   "woba30": 0.301,
-  "woba7": 0.299,
-  "kPct30": 22.2
+  "woba7": 0.366,
+  "kPct30": 22.6
  },
  {
   "ip": null,
@@ -129316,11 +129316,11 @@
   "team": "TB",
   "opponent": "MIL",
   "isHome": false,
-  "woba30Rank": 19,
-  "woba7Rank": 2,
-  "kPct30Rank": 15,
-  "woba30": 0.321,
-  "woba7": 0.263,
-  "kPct30": 24.3
+  "woba30Rank": 22,
+  "woba7Rank": null,
+  "kPct30Rank": 18,
+  "woba30": 0.333,
+  "woba7": null,
+  "kPct30": 22.1
  }
 ]
