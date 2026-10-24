@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23 16:14",
+  "generated_at": "2026-10-24 15:12",
   "team": "CIN",
-  "window_start": "2026-09-23",
-  "window_end": "2026-10-23",
+  "window_start": "2026-09-24",
+  "window_end": "2026-10-24",
   "homers": [
     {
       "batter": "Jj Bleday",
@@ -113,28 +113,6 @@
       "exitVeloMph": 101.0,
       "field": "RF",
       "desc": "Carlos Jorge homers (1) on a fly ball to right field."
-    },
-    {
-      "batter": "Juan Brito",
-      "batterId": 682877,
-      "pitcher": "Chris Sale",
-      "pitcherHand": "L",
-      "count": "3-1",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 96.9,
-      "rbi": 1,
-      "inning": 1,
-      "halfInning": "Top",
-      "outs": 0,
-      "date": "2026-09-23",
-      "away": "CIN",
-      "home": "ATL",
-      "opponent": "ATL",
-      "opponentId": 144,
-      "distanceFt": 408,
-      "exitVeloMph": 102.3,
-      "field": "CF",
-      "desc": "Juan Brito homers (3) on a fly ball to center field."
     }
   ]
 }
