@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23 23:47",
-  "window_start": "2026-09-23",
-  "window_end": "2026-10-23",
-  "games_processed": 109,
+  "generated_at": "2026-10-24 02:21",
+  "window_start": "2026-09-24",
+  "window_end": "2026-10-24",
+  "games_processed": 93,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -10,35 +10,11 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 9,
-      "started": 16,
+      "games": 8,
+      "started": 15,
       "pctStarted": 94,
       "hits": 10,
       "rank": 1
-    },
-    {
-      "playerId": 687957,
-      "name": "Dustin Harris",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 6,
-      "started": 9,
-      "pctStarted": 82,
-      "hits": 8,
-      "rank": 2
-    },
-    {
-      "playerId": 691406,
-      "name": "Junior Caminero",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 5,
-      "started": 14,
-      "pctStarted": 93,
-      "hits": 15,
-      "rank": 3
     },
     {
       "playerId": 606192,
@@ -47,10 +23,22 @@
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
       "games": 5,
-      "started": 13,
+      "started": 12,
       "pctStarted": 100,
-      "hits": 11,
-      "rank": 4
+      "hits": 8,
+      "rank": 2
+    },
+    {
+      "playerId": 687957,
+      "name": "Dustin Harris",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 5,
+      "started": 8,
+      "pctStarted": 80,
+      "hits": 8,
+      "rank": 3
     },
     {
       "playerId": 690984,
@@ -59,9 +47,21 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 9,
-      "pctStarted": 53,
-      "hits": 6,
+      "started": 8,
+      "pctStarted": 50,
+      "hits": 5,
+      "rank": 4
+    },
+    {
+      "playerId": 595978,
+      "name": "Austin Hedges",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 5,
+      "started": 5,
+      "pctStarted": 31,
+      "hits": 1,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 10,
+      "games": 9,
       "started": 1,
       "pctStarted": 6,
       "hits": 2,
@@ -84,23 +84,11 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 10,
+      "games": 9,
       "started": 1,
-      "pctStarted": 9,
+      "pctStarted": 10,
       "hits": 0,
       "rank": 2
-    },
-    {
-      "playerId": 682657,
-      "name": "Angel Mart\u00ednez",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 6,
-      "started": 8,
-      "pctStarted": 47,
-      "hits": 5,
-      "rank": 3
     },
     {
       "playerId": 622761,
@@ -109,10 +97,10 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 6,
-      "started": 3,
-      "pctStarted": 20,
-      "hits": 2,
-      "rank": 4
+      "started": 2,
+      "pctStarted": 14,
+      "hits": 1,
+      "rank": 3
     },
     {
       "playerId": 672275,
@@ -121,9 +109,21 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 11,
-      "pctStarted": 65,
-      "hits": 12,
+      "started": 10,
+      "pctStarted": 62,
+      "hits": 11,
+      "rank": 4
+    },
+    {
+      "playerId": 690984,
+      "name": "Petey Halpin",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 5,
+      "started": 8,
+      "pctStarted": 50,
+      "hits": 5,
       "rank": 5
     }
   ]
