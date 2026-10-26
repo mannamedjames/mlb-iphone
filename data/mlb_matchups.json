@@ -1,5 +1,59 @@
 {
-  "generated_at": "2026-10-25 23:06",
-  "date": "2026-10-25",
-  "games": []
+  "generated_at": "2026-10-26 02:09",
+  "date": "2026-10-26",
+  "games": [
+    {
+      "gamePk": 849804,
+      "gameTime": "2026-10-27T00:00:00Z",
+      "doubleHeader": "N",
+      "gameNumber": 1,
+      "weather": null,
+      "home": {
+        "teamId": 139,
+        "teamAbbr": "TB",
+        "teamName": "Tampa Bay Rays",
+        "starter": {
+          "confirmed": true,
+          "name": "Freddy Peralta",
+          "hand": "R",
+          "era": "4.42",
+          "ipDisplay": "169.0",
+          "gamesStarted": 32,
+          "avgIpPerOuting": 5.3,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.346,
+            "woba30Rank": 21,
+            "woba7": 0.375,
+            "woba7Rank": 3,
+            "kPct30": 18.6,
+            "kPct30Rank": 24
+          }
+        }
+      },
+      "away": {
+        "teamId": 158,
+        "teamAbbr": "MIL",
+        "teamName": "Milwaukee Brewers",
+        "starter": {
+          "confirmed": true,
+          "name": "Robert Gasser",
+          "hand": "L",
+          "era": "3.87",
+          "ipDisplay": "109.1",
+          "gamesStarted": 20,
+          "avgIpPerOuting": 5.2,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.328,
+            "woba30Rank": 13,
+            "woba7": 0.354,
+            "woba7Rank": 3,
+            "kPct30": 22.6,
+            "kPct30Rank": 15
+          }
+        }
+      }
+    }
+  ]
 }

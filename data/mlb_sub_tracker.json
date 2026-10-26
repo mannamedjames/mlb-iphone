@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25 23:06",
-  "window_start": "2026-09-25",
-  "window_end": "2026-10-25",
-  "games_processed": 83,
+  "generated_at": "2026-10-26 02:09",
+  "window_start": "2026-09-26",
+  "window_end": "2026-10-26",
+  "games_processed": 66,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -10,10 +10,10 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 7,
-      "started": 14,
+      "games": 6,
+      "started": 13,
       "pctStarted": 93,
-      "hits": 10,
+      "hits": 9,
       "rank": 1
     },
     {
@@ -23,9 +23,9 @@
       "teamId": 119,
       "teamName": "Los Angeles Dodgers",
       "games": 5,
-      "started": 11,
+      "started": 10,
       "pctStarted": 100,
-      "hits": 8,
+      "hits": 7,
       "rank": 2
     },
     {
@@ -36,21 +36,9 @@
       "teamName": "Cleveland Guardians",
       "games": 5,
       "started": 8,
-      "pctStarted": 53,
+      "pctStarted": 57,
       "hits": 5,
       "rank": 3
-    },
-    {
-      "playerId": 595978,
-      "name": "Austin Hedges",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 5,
-      "started": 5,
-      "pctStarted": 33,
-      "hits": 1,
-      "rank": 4
     },
     {
       "playerId": 691406,
@@ -59,9 +47,21 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 4,
-      "started": 14,
+      "started": 13,
       "pctStarted": 93,
-      "hits": 15,
+      "hits": 14,
+      "rank": 4
+    },
+    {
+      "playerId": 687957,
+      "name": "Dustin Harris",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 4,
+      "started": 6,
+      "pctStarted": 75,
+      "hits": 7,
       "rank": 5
     }
   ],
@@ -72,7 +72,7 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 8,
+      "games": 7,
       "started": 1,
       "pctStarted": 7,
       "hits": 2,
@@ -84,9 +84,9 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 8,
+      "games": 7,
       "started": 1,
-      "pctStarted": 11,
+      "pctStarted": 12,
       "hits": 0,
       "rank": 2
     },
@@ -97,22 +97,10 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 6,
-      "started": 2,
-      "pctStarted": 13,
+      "started": 1,
+      "pctStarted": 7,
       "hits": 1,
       "rank": 3
-    },
-    {
-      "playerId": 672275,
-      "name": "Patrick Bailey",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 5,
-      "started": 9,
-      "pctStarted": 60,
-      "hits": 11,
-      "rank": 4
     },
     {
       "playerId": 682657,
@@ -121,9 +109,21 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 7,
-      "pctStarted": 47,
-      "hits": 4,
+      "started": 6,
+      "pctStarted": 43,
+      "hits": 2,
+      "rank": 4
+    },
+    {
+      "playerId": 672275,
+      "name": "Patrick Bailey",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 4,
+      "started": 9,
+      "pctStarted": 64,
+      "hits": 11,
       "rank": 5
     }
   ]
