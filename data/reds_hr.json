@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-10-26 18:03",
+  "generated_at": "2026-10-27 17:11",
   "team": "CIN",
-  "window_start": "2026-09-26",
-  "window_end": "2026-10-26",
-  "homers": [
-    {
-      "batter": "Jj Bleday",
-      "batterId": 668709,
-      "pitcher": "Trey Yesavage",
-      "pitcherHand": "R",
-      "count": "1-0",
-      "pitch": "4-Seam Fastball",
-      "pitchSpeed": 93.0,
-      "rbi": 1,
-      "inning": 2,
-      "halfInning": "Top",
-      "outs": 0,
-      "date": "2026-09-26",
-      "away": "CIN",
-      "home": "TOR",
-      "opponent": "TOR",
-      "opponentId": 141,
-      "distanceFt": 413,
-      "exitVeloMph": 103.3,
-      "field": "RCF",
-      "desc": "JJ Bleday homers (24) on a fly ball to center field."
-    }
-  ]
+  "window_start": "2026-09-27",
+  "window_end": "2026-10-27",
+  "homers": []
 }
