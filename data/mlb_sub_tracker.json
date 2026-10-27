@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26 21:29",
-  "window_start": "2026-09-26",
-  "window_end": "2026-10-26",
-  "games_processed": 66,
+  "generated_at": "2026-10-27 00:17",
+  "window_start": "2026-09-27",
+  "window_end": "2026-10-27",
+  "games_processed": 53,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -10,23 +10,11 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 6,
-      "started": 13,
-      "pctStarted": 93,
-      "hits": 9,
-      "rank": 1
-    },
-    {
-      "playerId": 606192,
-      "name": "Teoscar Hern\u00e1ndez",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
       "games": 5,
-      "started": 10,
-      "pctStarted": 100,
-      "hits": 7,
-      "rank": 2
+      "started": 12,
+      "pctStarted": 92,
+      "hits": 6,
+      "rank": 1
     },
     {
       "playerId": 690984,
@@ -36,32 +24,44 @@
       "teamName": "Cleveland Guardians",
       "games": 5,
       "started": 8,
-      "pctStarted": 57,
+      "pctStarted": 62,
       "hits": 5,
+      "rank": 2
+    },
+    {
+      "playerId": 606192,
+      "name": "Teoscar Hern\u00e1ndez",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
+      "games": 4,
+      "started": 9,
+      "pctStarted": 100,
+      "hits": 6,
       "rank": 3
     },
     {
-      "playerId": 691406,
-      "name": "Junior Caminero",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
+      "playerId": 673490,
+      "name": "Ha-Seong Kim",
+      "team": "ATL",
+      "teamId": 144,
+      "teamName": "Atlanta Braves",
       "games": 4,
-      "started": 13,
-      "pctStarted": 93,
-      "hits": 14,
+      "started": 5,
+      "pctStarted": 62,
+      "hits": 0,
       "rank": 4
     },
     {
-      "playerId": 687957,
-      "name": "Dustin Harris",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
+      "playerId": 500743,
+      "name": "Miguel Rojas",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
       "games": 4,
-      "started": 6,
-      "pctStarted": 75,
-      "hits": 7,
+      "started": 4,
+      "pctStarted": 44,
+      "hits": 2,
       "rank": 5
     }
   ],
@@ -72,9 +72,9 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 7,
+      "games": 6,
       "started": 1,
-      "pctStarted": 7,
+      "pctStarted": 8,
       "hits": 2,
       "rank": 1
     },
@@ -84,23 +84,11 @@
       "team": "SD",
       "teamId": 135,
       "teamName": "San Diego Padres",
-      "games": 7,
-      "started": 1,
-      "pctStarted": 12,
-      "hits": 0,
-      "rank": 2
-    },
-    {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
       "games": 6,
       "started": 1,
-      "pctStarted": 7,
-      "hits": 1,
-      "rank": 3
+      "pctStarted": 14,
+      "hits": 0,
+      "rank": 2
     },
     {
       "playerId": 682657,
@@ -109,9 +97,21 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 6,
-      "pctStarted": 43,
+      "started": 5,
+      "pctStarted": 38,
       "hits": 2,
+      "rank": 3
+    },
+    {
+      "playerId": 622761,
+      "name": "Jorge Mateo",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 5,
+      "started": 1,
+      "pctStarted": 8,
+      "hits": 1,
       "rank": 4
     },
     {
@@ -121,9 +121,9 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 4,
-      "started": 9,
-      "pctStarted": 64,
-      "hits": 11,
+      "started": 8,
+      "pctStarted": 62,
+      "hits": 9,
       "rank": 5
     }
   ]
