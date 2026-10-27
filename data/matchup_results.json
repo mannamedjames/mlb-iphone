@@ -129452,5 +129452,31 @@
   "woba30": 0.341,
   "woba7": 0.375,
   "kPct30": 18.9
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849803,
+  "date": "2026-10-28",
+  "pitcherId": "Dustin May|MIL",
+  "pitcherName": "Dustin May",
+  "hand": "R",
+  "team": "MIL",
+  "opponent": "TB",
+  "isHome": false,
+  "woba30Rank": 16,
+  "woba7Rank": 1,
+  "kPct30Rank": 17,
+  "woba30": 0.279,
+  "woba7": 0.291,
+  "kPct30": 21.7
  }
 ]
