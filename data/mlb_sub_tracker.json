@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27 02:46",
+  "generated_at": "2026-10-27 18:48",
   "window_start": "2026-09-27",
   "window_end": "2026-10-27",
-  "games_processed": 53,
+  "games_processed": 54,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -29,6 +29,18 @@
       "rank": 2
     },
     {
+      "playerId": 670764,
+      "name": "Taylor Walls",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 4,
+      "started": 12,
+      "pctStarted": 86,
+      "hits": 5,
+      "rank": 3
+    },
+    {
       "playerId": 606192,
       "name": "Teoscar Hern\u00e1ndez",
       "team": "LAD",
@@ -38,7 +50,7 @@
       "started": 9,
       "pctStarted": 100,
       "hits": 6,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 673490,
@@ -50,18 +62,6 @@
       "started": 5,
       "pctStarted": 62,
       "hits": 0,
-      "rank": 4
-    },
-    {
-      "playerId": 500743,
-      "name": "Miguel Rojas",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 4,
-      "started": 4,
-      "pctStarted": 44,
-      "hits": 2,
       "rank": 5
     }
   ],
@@ -79,6 +79,18 @@
       "rank": 1
     },
     {
+      "playerId": 622761,
+      "name": "Jorge Mateo",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 6,
+      "started": 1,
+      "pctStarted": 7,
+      "hits": 1,
+      "rank": 2
+    },
+    {
       "playerId": 687749,
       "name": "Jase Bowen",
       "team": "SD",
@@ -88,7 +100,7 @@
       "started": 1,
       "pctStarted": 14,
       "hits": 0,
-      "rank": 2
+      "rank": 3
     },
     {
       "playerId": 682657,
@@ -100,30 +112,18 @@
       "started": 5,
       "pctStarted": 38,
       "hits": 2,
-      "rank": 3
+      "rank": 4
     },
     {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
+      "playerId": 656775,
+      "name": "Cedric Mullins",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 5,
       "started": 1,
-      "pctStarted": 8,
-      "hits": 1,
-      "rank": 4
-    },
-    {
-      "playerId": 672275,
-      "name": "Patrick Bailey",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 4,
-      "started": 8,
-      "pctStarted": 62,
-      "hits": 9,
+      "pctStarted": 7,
+      "hits": 3,
       "rank": 5
     }
   ]

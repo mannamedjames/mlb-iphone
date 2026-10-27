@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27 02:46",
+  "generated_at": "2026-10-27 18:48",
   "date": "2026-10-27",
   "games": [
     {
@@ -13,7 +13,22 @@
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Griffin Jax",
+          "hand": "R",
+          "era": "3.53",
+          "ipDisplay": "112.1",
+          "gamesStarted": 23,
+          "avgIpPerOuting": 4.5,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.341,
+            "woba30Rank": 23,
+            "woba7": 0.375,
+            "woba7Rank": 2,
+            "kPct30": 18.9,
+            "kPct30Rank": 22
+          }
         }
       },
       "away": {

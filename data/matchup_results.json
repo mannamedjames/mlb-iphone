@@ -129426,5 +129426,31 @@
   "woba30": 0.338,
   "woba7": 0.297,
   "kPct30": 20.5
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849803,
+  "date": "2026-10-28",
+  "pitcherId": "Griffin Jax|TB",
+  "pitcherName": "Griffin Jax",
+  "hand": "R",
+  "team": "TB",
+  "opponent": "MIL",
+  "isHome": true,
+  "woba30Rank": 23,
+  "woba7Rank": 2,
+  "kPct30Rank": 22,
+  "woba30": 0.341,
+  "woba7": 0.375,
+  "kPct30": 18.9
  }
 ]
