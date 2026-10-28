@@ -1,38 +1,19 @@
 {
-  "generated_at": "2026-10-27 21:08",
-  "date": "2026-10-27",
+  "generated_at": "2026-10-28 00:21",
+  "date": "2026-10-28",
   "games": [
     {
-      "gamePk": 849803,
-      "gameTime": "2026-10-28T00:00:00Z",
+      "gamePk": 849799,
+      "gameTime": "2026-10-29T00:00:00Z",
       "doubleHeader": "N",
       "gameNumber": 1,
-      "weather": {
-        "condition": "Roof Closed",
-        "temp": "70",
-        "wind": "0 mph, None"
-      },
+      "weather": null,
       "home": {
         "teamId": 139,
         "teamAbbr": "TB",
         "teamName": "Tampa Bay Rays",
         "starter": {
-          "confirmed": true,
-          "name": "Griffin Jax",
-          "hand": "R",
-          "era": "3.53",
-          "ipDisplay": "112.1",
-          "gamesStarted": 23,
-          "avgIpPerOuting": 4.5,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.341,
-            "woba30Rank": 23,
-            "woba7": 0.375,
-            "woba7Rank": 2,
-            "kPct30": 18.9,
-            "kPct30Rank": 22
-          }
+          "confirmed": false
         }
       },
       "away": {
@@ -40,22 +21,7 @@
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
-          "confirmed": true,
-          "name": "Dustin May",
-          "hand": "R",
-          "era": "4.70",
-          "ipDisplay": "145.2",
-          "gamesStarted": 31,
-          "avgIpPerOuting": 4.7,
-          "isOpener": false,
-          "oppSplits": {
-            "woba30": 0.279,
-            "woba30Rank": 16,
-            "woba7": 0.291,
-            "woba7Rank": 1,
-            "kPct30": 21.7,
-            "kPct30Rank": 17
-          }
+          "confirmed": false
         }
       }
     }
