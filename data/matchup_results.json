@@ -129478,5 +129478,31 @@
   "woba30": 0.279,
   "woba7": 0.291,
   "kPct30": 21.7
+ },
+ {
+  "ip": null,
+  "hits": null,
+  "er": null,
+  "bb": null,
+  "k": null,
+  "hr": null,
+  "pitches": null,
+  "battersFaced": null,
+  "oppHandPctLeft": null,
+  "final": false,
+  "gamePk": 849799,
+  "date": "2026-10-29",
+  "pitcherId": "Jacob Misiorowski|MIL",
+  "pitcherName": "Jacob Misiorowski",
+  "hand": "R",
+  "team": "MIL",
+  "opponent": "TB",
+  "isHome": false,
+  "woba30Rank": 5,
+  "woba7Rank": 1,
+  "kPct30Rank": 7,
+  "woba30": 0.269,
+  "woba7": 0.277,
+  "kPct30": 22.1
  }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 02:54",
+  "generated_at": "2026-10-28 18:57",
   "date": "2026-10-28",
   "games": [
     {
@@ -21,7 +21,22 @@
         "teamAbbr": "MIL",
         "teamName": "Milwaukee Brewers",
         "starter": {
-          "confirmed": false
+          "confirmed": true,
+          "name": "Jacob Misiorowski",
+          "hand": "R",
+          "era": "1.80",
+          "ipDisplay": "174.2",
+          "gamesStarted": 30,
+          "avgIpPerOuting": 5.8,
+          "isOpener": false,
+          "oppSplits": {
+            "woba30": 0.269,
+            "woba30Rank": 5,
+            "woba7": 0.277,
+            "woba7Rank": 1,
+            "kPct30": 22.1,
+            "kPct30Rank": 7
+          }
         }
       }
     }

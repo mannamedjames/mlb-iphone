@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28 02:54",
+  "generated_at": "2026-10-28 18:57",
   "window_start": "2026-09-28",
   "window_end": "2026-10-28",
-  "games_processed": 39,
+  "games_processed": 40,
   "subbed_out": [
     {
       "playerId": 683953,
@@ -29,43 +29,67 @@
       "rank": 2
     },
     {
+      "playerId": 668723,
+      "name": "Ryan Vilade",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 5,
+      "started": 5,
+      "pctStarted": 36,
+      "hits": 1,
+      "rank": 3
+    },
+    {
       "playerId": 670764,
       "name": "Taylor Walls",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 4,
-      "started": 12,
-      "pctStarted": 92,
+      "started": 13,
+      "pctStarted": 93,
       "hits": 5,
-      "rank": 3
-    },
-    {
-      "playerId": 500743,
-      "name": "Miguel Rojas",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 4,
-      "started": 4,
-      "pctStarted": 50,
-      "hits": 2,
       "rank": 4
     },
     {
-      "playerId": 668723,
-      "name": "Ryan Vilade",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
+      "playerId": 666152,
+      "name": "David Hamilton",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 4,
-      "started": 4,
-      "pctStarted": 31,
-      "hits": 1,
+      "started": 7,
+      "pctStarted": 58,
+      "hits": 8,
       "rank": 5
     }
   ],
   "subbed_in": [
+    {
+      "playerId": 622761,
+      "name": "Jorge Mateo",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 7,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
+      "rank": 1
+    },
+    {
+      "playerId": 656775,
+      "name": "Cedric Mullins",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 6,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 2,
+      "rank": 2
+    },
     {
       "playerId": 694197,
       "name": "Angel Genao",
@@ -76,7 +100,7 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 1,
-      "rank": 1
+      "rank": 3
     },
     {
       "playerId": 687749,
@@ -88,19 +112,7 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 0,
-      "rank": 2
-    },
-    {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 6,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 3
+      "rank": 4
     },
     {
       "playerId": 682657,
@@ -111,18 +123,6 @@
       "games": 5,
       "started": 4,
       "pctStarted": 33,
-      "hits": 2,
-      "rank": 4
-    },
-    {
-      "playerId": 656775,
-      "name": "Cedric Mullins",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 5,
-      "started": 0,
-      "pctStarted": 0,
       "hits": 2,
       "rank": 5
     }
