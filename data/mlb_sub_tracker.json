@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-29 00:41",
+  "generated_at": "2026-10-29 03:19",
   "window_start": "2026-09-29",
   "window_end": "2026-10-29",
-  "games_processed": 40,
+  "games_processed": 41,
   "subbed_out": [
+    {
+      "playerId": 668723,
+      "name": "Ryan Vilade",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 6,
+      "started": 6,
+      "pctStarted": 40,
+      "hits": 1,
+      "rank": 1
+    },
     {
       "playerId": 683953,
       "name": "Travis Bazzana",
@@ -14,7 +26,7 @@
       "started": 11,
       "pctStarted": 92,
       "hits": 6,
-      "rank": 1
+      "rank": 2
     },
     {
       "playerId": 690984,
@@ -26,18 +38,6 @@
       "started": 7,
       "pctStarted": 58,
       "hits": 4,
-      "rank": 2
-    },
-    {
-      "playerId": 668723,
-      "name": "Ryan Vilade",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 5,
-      "started": 5,
-      "pctStarted": 36,
-      "hits": 1,
       "rank": 3
     },
     {
@@ -47,7 +47,7 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 4,
-      "started": 13,
+      "started": 14,
       "pctStarted": 93,
       "hits": 5,
       "rank": 4
@@ -59,9 +59,9 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 4,
-      "started": 7,
-      "pctStarted": 58,
-      "hits": 8,
+      "started": 8,
+      "pctStarted": 62,
+      "hits": 9,
       "rank": 5
     }
   ],
