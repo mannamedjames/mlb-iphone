@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29 21:40",
-  "window_start": "2026-09-29",
-  "window_end": "2026-10-29",
-  "games_processed": 41,
+  "generated_at": "2026-10-30 00:41",
+  "window_start": "2026-09-30",
+  "window_end": "2026-10-30",
+  "games_processed": 37,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -103,18 +103,6 @@
       "rank": 3
     },
     {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 6,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 4
-    },
-    {
       "playerId": 682657,
       "name": "Angel Mart\u00ednez",
       "team": "CLE",
@@ -124,6 +112,18 @@
       "started": 4,
       "pctStarted": 33,
       "hits": 2,
+      "rank": 4
+    },
+    {
+      "playerId": 687749,
+      "name": "Jase Bowen",
+      "team": "SD",
+      "teamId": 135,
+      "teamName": "San Diego Padres",
+      "games": 5,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
       "rank": 5
     }
   ]
