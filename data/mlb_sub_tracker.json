@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30 21:24",
-  "window_start": "2026-09-30",
-  "window_end": "2026-10-30",
-  "games_processed": 37,
+  "generated_at": "2026-10-31 00:34",
+  "window_start": "2026-10-01",
+  "window_end": "2026-10-31",
+  "games_processed": 33,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 687749,
-      "name": "Jase Bowen",
-      "team": "SD",
-      "teamId": 135,
-      "teamName": "San Diego Padres",
-      "games": 5,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
+      "playerId": 810938,
+      "name": "Ben Williamson",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 4,
+      "started": 6,
+      "pctStarted": 40,
+      "hits": 3,
       "rank": 5
     }
   ]
