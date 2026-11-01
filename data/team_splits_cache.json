@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-31 16:39",
-  "window_30_start": "2026-10-01",
-  "window_30_end": "2026-10-31",
-  "window_7_start": "2026-10-24",
-  "window_7_end": "2026-10-31",
+  "generated_at": "2026-11-01 17:29",
+  "window_30_start": "2026-10-02",
+  "window_30_end": "2026-11-01",
+  "window_7_start": "2026-10-25",
+  "window_7_end": "2026-11-01",
   "teams_30": {
     "RHP": {
       "ATL": {
-        "woba": 0.254,
-        "k_pct": 24.1,
-        "pa": 116,
-        "woba_rank": 3,
+        "woba": 0.201,
+        "k_pct": 26.8,
+        "pa": 82,
+        "woba_rank": 2,
         "k_pct_rank": 3
       },
       "CLE": {
         "woba": 0.296,
         "k_pct": 20.7,
         "pa": 290,
-        "woba_rank": 7,
+        "woba_rank": 6,
         "k_pct_rank": 6
       },
       "CWS": {
         "woba": 0.225,
         "k_pct": 43.2,
         "pa": 111,
-        "woba_rank": 2,
+        "woba_rank": 3,
         "k_pct_rank": 1
       },
       "LAD": {
         "woba": 0.322,
         "k_pct": 18.7,
         "pa": 150,
-        "woba_rank": 9,
+        "woba_rank": 8,
         "k_pct_rank": 8
       },
       "MIL": {
         "woba": 0.316,
         "k_pct": 19.7,
         "pa": 335,
-        "woba_rank": 8,
+        "woba_rank": 7,
         "k_pct_rank": 7
       },
       "NYY": {
@@ -48,18 +48,11 @@
         "woba_rank": 1,
         "k_pct_rank": 2
       },
-      "PHI": {
-        "woba": 0.268,
-        "k_pct": 7.1,
-        "pa": 14,
-        "woba_rank": 5,
-        "k_pct_rank": 9
-      },
       "SD": {
         "woba": 0.293,
         "k_pct": 21.1,
         "pa": 90,
-        "woba_rank": 6,
+        "woba_rank": 5,
         "k_pct_rank": 5
       },
       "TB": {
@@ -72,96 +65,89 @@
     },
     "LHP": {
       "ATL": {
-        "woba": 0.28,
-        "k_pct": 27.0,
-        "pa": 63,
-        "woba_rank": 5,
+        "woba": 0.285,
+        "k_pct": 27.4,
+        "pa": 62,
+        "woba_rank": 4,
         "k_pct_rank": 4
       },
       "CLE": {
         "woba": 0.318,
         "k_pct": 18.4,
         "pa": 114,
-        "woba_rank": 7,
-        "k_pct_rank": 9
+        "woba_rank": 6,
+        "k_pct_rank": 8
       },
       "CWS": {
         "woba": 0.32,
         "k_pct": 36.5,
         "pa": 74,
-        "woba_rank": 8,
+        "woba_rank": 7,
         "k_pct_rank": 1
       },
       "LAD": {
         "woba": 0.225,
         "k_pct": 29.0,
         "pa": 138,
-        "woba_rank": 2,
+        "woba_rank": 1,
         "k_pct_rank": 3
       },
       "MIL": {
         "woba": 0.375,
         "k_pct": 25.3,
         "pa": 174,
-        "woba_rank": 9,
+        "woba_rank": 8,
         "k_pct_rank": 5
       },
       "NYY": {
         "woba": 0.243,
         "k_pct": 30.0,
         "pa": 20,
-        "woba_rank": 3,
+        "woba_rank": 2,
         "k_pct_rank": 2
-      },
-      "PHI": {
-        "woba": 0.205,
-        "k_pct": 25.0,
-        "pa": 20,
-        "woba_rank": 1,
-        "k_pct_rank": 6
       },
       "SD": {
         "woba": 0.264,
         "k_pct": 23.2,
         "pa": 56,
-        "woba_rank": 4,
-        "k_pct_rank": 7
+        "woba_rank": 3,
+        "k_pct_rank": 6
       },
       "TB": {
         "woba": 0.31,
         "k_pct": 21.0,
         "pa": 210,
-        "woba_rank": 6,
-        "k_pct_rank": 8
+        "woba_rank": 5,
+        "k_pct_rank": 7
       }
     }
   },
   "teams_7": {
     "RHP": {
       "MIL": {
-        "woba": 0.305,
-        "k_pct": 20.0,
-        "pa": 130,
+        "woba": 0.281,
+        "k_pct": 22.0,
+        "pa": 100,
         "woba_rank": 2
       },
       "TB": {
-        "woba": 0.241,
-        "k_pct": 21.6,
-        "pa": 88,
+        "woba": 0.206,
+        "k_pct": 21.5,
+        "pa": 65,
         "woba_rank": 1
       }
     },
     "LHP": {
       "MIL": {
-        "woba": 0.445,
-        "k_pct": 19.5,
-        "pa": 41,
+        "woba": 0.465,
+        "k_pct": 20.0,
+        "pa": 30,
         "woba_rank": 2
       },
       "TB": {
-        "woba": 0.219,
-        "k_pct": 21.4,
-        "pa": 56,
+        "woba": 0.193,
+        "k_pct": 16.7,
+        "pa": 42,
         "woba_rank": 1
       }
     }
