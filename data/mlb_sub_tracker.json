@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02 23:48",
-  "window_start": "2026-10-03",
-  "window_end": "2026-11-02",
-  "games_processed": 32,
+  "generated_at": "2026-11-03 02:50",
+  "window_start": "2026-10-04",
+  "window_end": "2026-11-03",
+  "games_processed": 28,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -12,7 +12,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 6,
       "started": 6,
-      "pctStarted": 40,
+      "pctStarted": 43,
       "hits": 1,
       "rank": 1
     },
@@ -23,9 +23,9 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 11,
-      "pctStarted": 92,
-      "hits": 6,
+      "started": 10,
+      "pctStarted": 91,
+      "hits": 5,
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "teamName": "Cleveland Guardians",
       "games": 5,
       "started": 7,
-      "pctStarted": 58,
+      "pctStarted": 64,
       "hits": 4,
       "rank": 3
     },
@@ -47,7 +47,7 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 4,
-      "started": 14,
+      "started": 13,
       "pctStarted": 93,
       "hits": 5,
       "rank": 4
@@ -60,24 +60,12 @@
       "teamName": "Milwaukee Brewers",
       "games": 4,
       "started": 8,
-      "pctStarted": 62,
+      "pctStarted": 67,
       "hits": 9,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 7,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 1
-    },
     {
       "playerId": 656775,
       "name": "Cedric Mullins",
@@ -88,7 +76,7 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 2,
-      "rank": 2
+      "rank": 1
     },
     {
       "playerId": 694197,
@@ -100,6 +88,18 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 1,
+      "rank": 2
+    },
+    {
+      "playerId": 622761,
+      "name": "Jorge Mateo",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 6,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
       "rank": 3
     },
     {
@@ -109,21 +109,21 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 4,
-      "pctStarted": 33,
+      "started": 3,
+      "pctStarted": 27,
       "hits": 2,
       "rank": 4
     },
     {
-      "playerId": 810938,
-      "name": "Ben Williamson",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
+      "playerId": 687401,
+      "name": "Joey Ortiz",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 4,
-      "started": 6,
-      "pctStarted": 40,
-      "hits": 3,
+      "started": 4,
+      "pctStarted": 33,
+      "hits": 2,
       "rank": 5
     }
   ]
