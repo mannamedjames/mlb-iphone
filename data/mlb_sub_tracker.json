@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03 22:13",
-  "window_start": "2026-10-04",
-  "window_end": "2026-11-03",
-  "games_processed": 28,
+  "generated_at": "2026-11-04 01:07",
+  "window_start": "2026-10-05",
+  "window_end": "2026-11-04",
+  "games_processed": 26,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -53,15 +53,15 @@
       "rank": 4
     },
     {
-      "playerId": 666152,
-      "name": "David Hamilton",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "games": 4,
-      "started": 8,
-      "pctStarted": 67,
-      "hits": 9,
+      "playerId": 650490,
+      "name": "Yandy D\u00edaz",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 3,
+      "started": 13,
+      "pctStarted": 93,
+      "hits": 17,
       "rank": 5
     }
   ],
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 687401,
-      "name": "Joey Ortiz",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
+      "playerId": 669242,
+      "name": "Tommy Edman",
+      "team": "LAD",
+      "teamId": 119,
+      "teamName": "Los Angeles Dodgers",
       "games": 4,
-      "started": 4,
+      "started": 2,
       "pctStarted": 33,
-      "hits": 2,
+      "hits": 1,
       "rank": 5
     }
   ]
