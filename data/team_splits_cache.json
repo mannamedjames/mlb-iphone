@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-03 18:55",
-  "window_30_start": "2026-10-04",
-  "window_30_end": "2026-11-03",
-  "window_7_start": "2026-10-27",
-  "window_7_end": "2026-11-03",
+  "generated_at": "2026-11-04 19:13",
+  "window_30_start": "2026-10-05",
+  "window_30_end": "2026-11-04",
+  "window_7_start": "2026-10-28",
+  "window_7_end": "2026-11-04",
   "teams_30": {
     "RHP": {
       "ATL": {
-        "woba": 0.205,
-        "k_pct": 27.3,
-        "pa": 77,
+        "woba": 0.19,
+        "k_pct": 27.1,
+        "pa": 59,
         "woba_rank": 1,
         "k_pct_rank": 2
       },
@@ -24,22 +24,22 @@
         "woba": 0.225,
         "k_pct": 45.2,
         "pa": 104,
-        "woba_rank": 2,
+        "woba_rank": 3,
         "k_pct_rank": 1
       },
       "LAD": {
-        "woba": 0.289,
-        "k_pct": 19.5,
-        "pa": 133,
+        "woba": 0.293,
+        "k_pct": 19.6,
+        "pa": 112,
         "woba_rank": 6,
         "k_pct_rank": 6
       },
       "MIL": {
-        "woba": 0.321,
-        "k_pct": 19.6,
-        "pa": 326,
+        "woba": 0.329,
+        "k_pct": 19.0,
+        "pa": 295,
         "woba_rank": 8,
-        "k_pct_rank": 5
+        "k_pct_rank": 8
       },
       "NYY": {
         "woba": 0.254,
@@ -49,27 +49,27 @@
         "k_pct_rank": 3
       },
       "SD": {
-        "woba": 0.24,
-        "k_pct": 18.6,
-        "pa": 59,
-        "woba_rank": 3,
-        "k_pct_rank": 8
+        "woba": 0.219,
+        "k_pct": 25.0,
+        "pa": 28,
+        "woba_rank": 2,
+        "k_pct_rank": 4
       },
       "TB": {
         "woba": 0.257,
         "k_pct": 21.8,
         "pa": 262,
         "woba_rank": 5,
-        "k_pct_rank": 4
+        "k_pct_rank": 5
       }
     },
     "LHP": {
       "ATL": {
-        "woba": 0.317,
-        "k_pct": 27.3,
-        "pa": 33,
-        "woba_rank": 5,
-        "k_pct_rank": 4
+        "woba": 0.195,
+        "k_pct": 40.0,
+        "pa": 10,
+        "woba_rank": 1,
+        "k_pct_rank": 1
       },
       "CLE": {
         "woba": 0.336,
@@ -83,41 +83,41 @@
         "k_pct": 38.3,
         "pa": 47,
         "woba_rank": 6,
-        "k_pct_rank": 1
+        "k_pct_rank": 2
       },
       "LAD": {
-        "woba": 0.236,
-        "k_pct": 27.5,
-        "pa": 120,
-        "woba_rank": 1,
-        "k_pct_rank": 3
+        "woba": 0.227,
+        "k_pct": 26.7,
+        "pa": 105,
+        "woba_rank": 2,
+        "k_pct_rank": 5
       },
       "MIL": {
-        "woba": 0.371,
-        "k_pct": 27.2,
-        "pa": 147,
+        "woba": 0.376,
+        "k_pct": 28.4,
+        "pa": 141,
         "woba_rank": 8,
-        "k_pct_rank": 5
+        "k_pct_rank": 4
       },
       "NYY": {
         "woba": 0.243,
         "k_pct": 30.0,
         "pa": 20,
-        "woba_rank": 2,
-        "k_pct_rank": 2
+        "woba_rank": 3,
+        "k_pct_rank": 3
       },
       "SD": {
-        "woba": 0.291,
-        "k_pct": 26.1,
-        "pa": 46,
-        "woba_rank": 3,
+        "woba": 0.279,
+        "k_pct": 23.1,
+        "pa": 39,
+        "woba_rank": 4,
         "k_pct_rank": 6
       },
       "TB": {
         "woba": 0.314,
         "k_pct": 21.5,
         "pa": 205,
-        "woba_rank": 4,
+        "woba_rank": 5,
         "k_pct_rank": 7
       }
     }
@@ -125,29 +125,29 @@
   "teams_7": {
     "RHP": {
       "MIL": {
-        "woba": 0.234,
-        "k_pct": 24.2,
-        "pa": 66,
+        "woba": 0.25,
+        "k_pct": 28.0,
+        "pa": 25,
         "woba_rank": 2
       },
       "TB": {
-        "woba": 0.208,
-        "k_pct": 22.2,
-        "pa": 54,
+        "woba": 0.184,
+        "k_pct": 16.1,
+        "pa": 31,
         "woba_rank": 1
       }
     },
     "LHP": {
       "MIL": {
-        "woba": 0.428,
-        "k_pct": 27.8,
-        "pa": 18,
+        "woba": 0.341,
+        "k_pct": 27.3,
+        "pa": 11,
         "woba_rank": 2
       },
       "TB": {
-        "woba": 0.274,
-        "k_pct": 17.4,
-        "pa": 23,
+        "woba": 0.3,
+        "k_pct": 33.3,
+        "pa": 3,
         "woba_rank": 1
       }
     }
