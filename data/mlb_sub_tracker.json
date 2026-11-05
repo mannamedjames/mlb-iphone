@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04 22:29",
-  "window_start": "2026-10-05",
-  "window_end": "2026-11-04",
-  "games_processed": 26,
+  "generated_at": "2026-11-05 01:23",
+  "window_start": "2026-10-06",
+  "window_end": "2026-11-05",
+  "games_processed": 24,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -12,7 +12,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 6,
       "started": 6,
-      "pctStarted": 43,
+      "pctStarted": 46,
       "hits": 1,
       "rank": 1
     },
@@ -23,8 +23,8 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 10,
-      "pctStarted": 91,
+      "started": 9,
+      "pctStarted": 90,
       "hits": 5,
       "rank": 2
     },
@@ -36,7 +36,7 @@
       "teamName": "Cleveland Guardians",
       "games": 5,
       "started": 7,
-      "pctStarted": 64,
+      "pctStarted": 70,
       "hits": 4,
       "rank": 3
     },
@@ -47,21 +47,21 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 4,
-      "started": 13,
-      "pctStarted": 93,
+      "started": 12,
+      "pctStarted": 92,
       "hits": 5,
       "rank": 4
     },
     {
-      "playerId": 650490,
-      "name": "Yandy D\u00edaz",
+      "playerId": 689414,
+      "name": "Liam Hicks",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 13,
-      "pctStarted": 93,
-      "hits": 17,
+      "started": 10,
+      "pctStarted": 77,
+      "hits": 11,
       "rank": 5
     }
   ],
@@ -91,27 +91,27 @@
       "rank": 2
     },
     {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 6,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 3
-    },
-    {
       "playerId": 682657,
       "name": "Angel Mart\u00ednez",
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 3,
-      "pctStarted": 27,
+      "started": 2,
+      "pctStarted": 20,
       "hits": 2,
+      "rank": 3
+    },
+    {
+      "playerId": 622761,
+      "name": "Jorge Mateo",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 5,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
       "rank": 4
     },
     {
