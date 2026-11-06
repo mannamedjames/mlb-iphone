@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05 22:36",
-  "window_start": "2026-10-06",
-  "window_end": "2026-11-05",
-  "games_processed": 24,
+  "generated_at": "2026-11-06 01:25",
+  "window_start": "2026-10-07",
+  "window_end": "2026-11-06",
+  "games_processed": 22,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 669242,
-      "name": "Tommy Edman",
-      "team": "LAD",
-      "teamId": 119,
-      "teamName": "Los Angeles Dodgers",
-      "games": 4,
-      "started": 2,
-      "pctStarted": 33,
-      "hits": 1,
+      "playerId": 683748,
+      "name": "Victor Mesa Jr.",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 3,
+      "started": 9,
+      "pctStarted": 69,
+      "hits": 5,
       "rank": 5
     }
   ]
