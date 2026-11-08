@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-11-07 17:16",
-  "window_30_start": "2026-10-08",
-  "window_30_end": "2026-11-07",
-  "window_7_start": "2026-10-31",
-  "window_7_end": "2026-11-07",
+  "generated_at": "2026-11-08 17:28",
+  "window_30_start": "2026-10-09",
+  "window_30_end": "2026-11-08",
+  "window_7_start": "2026-11-01",
+  "window_7_end": "2026-11-08",
   "teams_30": {
     "RHP": {
       "CLE": {
-        "woba": 0.301,
-        "k_pct": 18.5,
-        "pa": 233,
+        "woba": 0.235,
+        "k_pct": 16.5,
+        "pa": 243,
         "woba_rank": 3,
         "k_pct_rank": 5
       },
       "CWS": {
-        "woba": 0.211,
-        "k_pct": 47.3,
-        "pa": 55,
+        "woba": 0.141,
+        "k_pct": 58.8,
+        "pa": 34,
         "woba_rank": 1,
         "k_pct_rank": 1
       },
       "LAD": {
-        "woba": 0.309,
-        "k_pct": 21.1,
-        "pa": 76,
+        "woba": 0.254,
+        "k_pct": 16.7,
+        "pa": 96,
         "woba_rank": 4,
         "k_pct_rank": 3
       },
       "MIL": {
-        "woba": 0.324,
-        "k_pct": 20.0,
-        "pa": 225,
+        "woba": 0.29,
+        "k_pct": 16.7,
+        "pa": 270,
         "woba_rank": 5,
         "k_pct_rank": 4
       },
       "TB": {
-        "woba": 0.256,
-        "k_pct": 23.6,
-        "pa": 220,
+        "woba": 0.23,
+        "k_pct": 19.5,
+        "pa": 267,
         "woba_rank": 2,
         "k_pct_rank": 2
       }
     },
     "LHP": {
       "CLE": {
-        "woba": 0.303,
-        "k_pct": 19.6,
-        "pa": 56,
-        "woba_rank": 2,
-        "k_pct_rank": 5
+        "woba": 0.283,
+        "k_pct": 22.0,
+        "pa": 50,
+        "woba_rank": 3,
+        "k_pct_rank": 3
       },
       "CWS": {
-        "woba": 0.37,
-        "k_pct": 31.8,
-        "pa": 22,
-        "woba_rank": 4,
+        "woba": 0.0,
+        "k_pct": 100.0,
+        "pa": 1,
+        "woba_rank": 1,
         "k_pct_rank": 1
       },
       "LAD": {
-        "woba": 0.181,
-        "k_pct": 25.4,
-        "pa": 67,
-        "woba_rank": 1,
-        "k_pct_rank": 3
+        "woba": 0.146,
+        "k_pct": 19.1,
+        "pa": 89,
+        "woba_rank": 2,
+        "k_pct_rank": 4
       },
       "MIL": {
-        "woba": 0.378,
-        "k_pct": 30.0,
-        "pa": 130,
+        "woba": 0.345,
+        "k_pct": 26.0,
+        "pa": 150,
         "woba_rank": 5,
         "k_pct_rank": 2
       },
       "TB": {
-        "woba": 0.303,
-        "k_pct": 20.5,
-        "pa": 176,
-        "woba_rank": 3,
-        "k_pct_rank": 4
+        "woba": 0.288,
+        "k_pct": 17.9,
+        "pa": 201,
+        "woba_rank": 4,
+        "k_pct_rank": 5
       }
     }
   },
