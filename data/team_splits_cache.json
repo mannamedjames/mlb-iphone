@@ -1,82 +1,68 @@
 {
-  "generated_at": "2026-11-09 21:49",
-  "window_30_start": "2026-10-10",
-  "window_30_end": "2026-11-09",
-  "window_7_start": "2026-11-02",
-  "window_7_end": "2026-11-09",
+  "generated_at": "2026-11-10 19:10",
+  "window_30_start": "2026-10-11",
+  "window_30_end": "2026-11-10",
+  "window_7_start": "2026-11-03",
+  "window_7_end": "2026-11-10",
   "teams_30": {
     "RHP": {
       "CLE": {
         "woba": 0.283,
-        "k_pct": 19.8,
-        "pa": 202,
-        "woba_rank": 3,
-        "k_pct_rank": 5
-      },
-      "CWS": {
-        "woba": 0.15,
-        "k_pct": 62.5,
-        "pa": 32,
-        "woba_rank": 1,
-        "k_pct_rank": 1
+        "k_pct": 20.1,
+        "pa": 179,
+        "woba_rank": 2,
+        "k_pct_rank": 3
       },
       "LAD": {
         "woba": 0.309,
         "k_pct": 21.1,
         "pa": 76,
-        "woba_rank": 4,
-        "k_pct_rank": 3
+        "woba_rank": 3,
+        "k_pct_rank": 2
       },
       "MIL": {
         "woba": 0.324,
         "k_pct": 20.0,
         "pa": 225,
-        "woba_rank": 5,
+        "woba_rank": 4,
         "k_pct_rank": 4
       },
       "TB": {
         "woba": 0.256,
         "k_pct": 23.6,
         "pa": 220,
-        "woba_rank": 2,
-        "k_pct_rank": 2
+        "woba_rank": 1,
+        "k_pct_rank": 1
       }
     },
     "LHP": {
       "CLE": {
-        "woba": 0.293,
-        "k_pct": 25.0,
-        "pa": 44,
-        "woba_rank": 3,
-        "k_pct_rank": 4
-      },
-      "CWS": {
-        "woba": 0.0,
-        "k_pct": 100.0,
-        "pa": 1,
-        "woba_rank": 1,
-        "k_pct_rank": 1
+        "woba": 0.274,
+        "k_pct": 22.2,
+        "pa": 36,
+        "woba_rank": 2,
+        "k_pct_rank": 3
       },
       "LAD": {
         "woba": 0.181,
         "k_pct": 25.4,
         "pa": 67,
-        "woba_rank": 2,
-        "k_pct_rank": 3
+        "woba_rank": 1,
+        "k_pct_rank": 2
       },
       "MIL": {
         "woba": 0.378,
         "k_pct": 30.0,
         "pa": 130,
-        "woba_rank": 5,
-        "k_pct_rank": 2
+        "woba_rank": 4,
+        "k_pct_rank": 1
       },
       "TB": {
         "woba": 0.303,
         "k_pct": 20.5,
         "pa": 176,
-        "woba_rank": 4,
-        "k_pct_rank": 5
+        "woba_rank": 3,
+        "k_pct_rank": 4
       }
     }
   },
