@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09 23:03",
-  "window_start": "2026-10-10",
-  "window_end": "2026-11-09",
-  "games_processed": 17,
+  "generated_at": "2026-11-10 00:35",
+  "window_start": "2026-10-11",
+  "window_end": "2026-11-10",
+  "games_processed": 16,
   "subbed_out": [
     {
       "playerId": 690984,
@@ -11,9 +11,9 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 5,
-      "started": 7,
-      "pctStarted": 88,
-      "hits": 4,
+      "started": 6,
+      "pctStarted": 86,
+      "hits": 2,
       "rank": 1
     },
     {
@@ -103,18 +103,6 @@
       "rank": 3
     },
     {
-      "playerId": 694197,
-      "name": "Angel Genao",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 4,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 4
-    },
-    {
       "playerId": 683748,
       "name": "Victor Mesa Jr.",
       "team": "TB",
@@ -124,6 +112,18 @@
       "started": 8,
       "pctStarted": 67,
       "hits": 4,
+      "rank": 4
+    },
+    {
+      "playerId": 810938,
+      "name": "Ben Williamson",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 3,
+      "started": 6,
+      "pctStarted": 50,
+      "hits": 3,
       "rank": 5
     }
   ]
