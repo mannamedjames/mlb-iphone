@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10 22:12",
-  "window_start": "2026-10-11",
-  "window_end": "2026-11-10",
-  "games_processed": 16,
+  "generated_at": "2026-11-11 01:07",
+  "window_start": "2026-10-12",
+  "window_end": "2026-11-11",
+  "games_processed": 15,
   "subbed_out": [
     {
       "playerId": 690984,
@@ -60,7 +60,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 3,
       "started": 7,
-      "pctStarted": 78,
+      "pctStarted": 88,
       "hits": 8,
       "rank": 5
     }
