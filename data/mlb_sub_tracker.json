@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11 23:22",
-  "window_start": "2026-10-12",
-  "window_end": "2026-11-11",
-  "games_processed": 15,
+  "generated_at": "2026-11-12 02:09",
+  "window_start": "2026-10-13",
+  "window_end": "2026-11-12",
+  "games_processed": 13,
   "subbed_out": [
     {
       "playerId": 690984,
@@ -10,9 +10,9 @@
       "team": "CLE",
       "teamId": 114,
       "teamName": "Cleveland Guardians",
-      "games": 5,
-      "started": 6,
-      "pctStarted": 86,
+      "games": 4,
+      "started": 5,
+      "pctStarted": 83,
       "hits": 2,
       "rank": 1
     },
@@ -22,9 +22,9 @@
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
-      "games": 5,
-      "started": 5,
-      "pctStarted": 42,
+      "games": 4,
+      "started": 4,
+      "pctStarted": 36,
       "hits": 0,
       "rank": 2
     },
@@ -34,9 +34,9 @@
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
-      "games": 4,
-      "started": 11,
-      "pctStarted": 92,
+      "games": 3,
+      "started": 10,
+      "pctStarted": 91,
       "hits": 4,
       "rank": 3
     },
@@ -48,7 +48,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 9,
-      "pctStarted": 75,
+      "pctStarted": 82,
       "hits": 11,
       "rank": 4
     },
@@ -59,37 +59,13 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 3,
-      "started": 7,
-      "pctStarted": 88,
-      "hits": 8,
+      "started": 6,
+      "pctStarted": 86,
+      "hits": 6,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 656775,
-      "name": "Cedric Mullins",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 5,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 2,
-      "rank": 1
-    },
-    {
-      "playerId": 682657,
-      "name": "Angel Mart\u00ednez",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 5,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 2,
-      "rank": 2
-    },
     {
       "playerId": 622761,
       "name": "Jorge Mateo",
@@ -100,6 +76,30 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 0,
+      "rank": 1
+    },
+    {
+      "playerId": 682657,
+      "name": "Angel Mart\u00ednez",
+      "team": "CLE",
+      "teamId": 114,
+      "teamName": "Cleveland Guardians",
+      "games": 4,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 1,
+      "rank": 2
+    },
+    {
+      "playerId": 656775,
+      "name": "Cedric Mullins",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 4,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 1,
       "rank": 3
     },
     {
@@ -109,21 +109,21 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 8,
-      "pctStarted": 67,
-      "hits": 4,
+      "started": 7,
+      "pctStarted": 64,
+      "hits": 3,
       "rank": 4
     },
     {
-      "playerId": 810938,
-      "name": "Ben Williamson",
+      "playerId": 680700,
+      "name": "Richie Palacios",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 6,
-      "pctStarted": 50,
-      "hits": 3,
+      "started": 5,
+      "pctStarted": 45,
+      "hits": 6,
       "rank": 5
     }
   ]
