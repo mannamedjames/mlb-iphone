@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13 22:24",
-  "window_start": "2026-10-14",
-  "window_end": "2026-11-13",
-  "games_processed": 12,
+  "generated_at": "2026-11-14 01:21",
+  "window_start": "2026-10-15",
+  "window_end": "2026-11-14",
+  "games_processed": 11,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -48,7 +48,7 @@
       "teamName": "Milwaukee Brewers",
       "games": 3,
       "started": 6,
-      "pctStarted": 86,
+      "pctStarted": 100,
       "hits": 6,
       "rank": 4
     },
@@ -115,15 +115,15 @@
       "rank": 4
     },
     {
-      "playerId": 687401,
-      "name": "Joey Ortiz",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
+      "playerId": 663743,
+      "name": "Nick Fortes",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 1,
-      "pctStarted": 14,
-      "hits": 1,
+      "pctStarted": 10,
+      "hits": 0,
       "rank": 5
     }
   ]
