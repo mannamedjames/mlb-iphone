@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14 21:12",
-  "window_start": "2026-10-15",
-  "window_end": "2026-11-14",
-  "games_processed": 11,
+  "generated_at": "2026-11-15 00:54",
+  "window_start": "2026-10-16",
+  "window_end": "2026-11-15",
+  "games_processed": 9,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -12,7 +12,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 4,
       "started": 4,
-      "pctStarted": 40,
+      "pctStarted": 44,
       "hits": 0,
       "rank": 1
     },
@@ -23,8 +23,8 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 9,
-      "pctStarted": 90,
+      "started": 8,
+      "pctStarted": 89,
       "hits": 3,
       "rank": 2
     },
@@ -35,8 +35,8 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 8,
-      "pctStarted": 80,
+      "started": 7,
+      "pctStarted": 78,
       "hits": 9,
       "rank": 3
     },
@@ -47,9 +47,9 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 3,
-      "started": 6,
+      "started": 5,
       "pctStarted": 100,
-      "hits": 6,
+      "hits": 4,
       "rank": 4
     },
     {
@@ -59,25 +59,13 @@
       "teamId": 114,
       "teamName": "Cleveland Guardians",
       "games": 3,
-      "started": 4,
-      "pctStarted": 80,
-      "hits": 1,
+      "started": 3,
+      "pctStarted": 75,
+      "hits": 0,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 5,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 1
-    },
     {
       "playerId": 656775,
       "name": "Cedric Mullins",
@@ -88,6 +76,18 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 1,
+      "rank": 1
+    },
+    {
+      "playerId": 622761,
+      "name": "Jorge Mateo",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 4,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
       "rank": 2
     },
     {
@@ -97,8 +97,8 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 6,
-      "pctStarted": 60,
+      "started": 5,
+      "pctStarted": 56,
       "hits": 3,
       "rank": 3
     },
@@ -110,7 +110,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 4,
-      "pctStarted": 40,
+      "pctStarted": 44,
       "hits": 3,
       "rank": 4
     },
@@ -122,7 +122,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 1,
-      "pctStarted": 10,
+      "pctStarted": 11,
       "hits": 0,
       "rank": 5
     }
