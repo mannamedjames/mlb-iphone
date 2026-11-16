@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15 21:32",
-  "window_start": "2026-10-16",
-  "window_end": "2026-11-15",
-  "games_processed": 9,
+  "generated_at": "2026-11-16 00:53",
+  "window_start": "2026-10-17",
+  "window_end": "2026-11-16",
+  "games_processed": 8,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -12,7 +12,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 4,
       "started": 4,
-      "pctStarted": 44,
+      "pctStarted": 50,
       "hits": 0,
       "rank": 1
     },
@@ -24,8 +24,8 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 8,
-      "pctStarted": 89,
-      "hits": 3,
+      "pctStarted": 100,
+      "hits": 2,
       "rank": 2
     },
     {
@@ -36,8 +36,8 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 7,
-      "pctStarted": 78,
-      "hits": 9,
+      "pctStarted": 88,
+      "hits": 7,
       "rank": 3
     },
     {
@@ -60,7 +60,7 @@
       "teamName": "Cleveland Guardians",
       "games": 3,
       "started": 3,
-      "pctStarted": 75,
+      "pctStarted": 100,
       "hits": 0,
       "rank": 5
     }
@@ -98,7 +98,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 5,
-      "pctStarted": 56,
+      "pctStarted": 62,
       "hits": 3,
       "rank": 3
     },
@@ -110,8 +110,8 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 4,
-      "pctStarted": 44,
-      "hits": 3,
+      "pctStarted": 50,
+      "hits": 2,
       "rank": 4
     },
     {
@@ -122,7 +122,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 1,
-      "pctStarted": 11,
+      "pctStarted": 12,
       "hits": 0,
       "rank": 5
     }
