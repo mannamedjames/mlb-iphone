@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16 22:57",
-  "window_start": "2026-10-17",
-  "window_end": "2026-11-16",
-  "games_processed": 8,
+  "generated_at": "2026-11-17 00:41",
+  "window_start": "2026-10-18",
+  "window_end": "2026-11-17",
+  "games_processed": 7,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -12,7 +12,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 4,
       "started": 4,
-      "pctStarted": 50,
+      "pctStarted": 57,
       "hits": 0,
       "rank": 1
     },
@@ -23,22 +23,10 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 8,
-      "pctStarted": 100,
-      "hits": 2,
-      "rank": 2
-    },
-    {
-      "playerId": 689414,
-      "name": "Liam Hicks",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 3,
       "started": 7,
-      "pctStarted": 88,
-      "hits": 7,
-      "rank": 3
+      "pctStarted": 100,
+      "hits": 1,
+      "rank": 2
     },
     {
       "playerId": 666152,
@@ -50,34 +38,34 @@
       "started": 5,
       "pctStarted": 100,
       "hits": 4,
+      "rank": 3
+    },
+    {
+      "playerId": 650490,
+      "name": "Yandy D\u00edaz",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 2,
+      "started": 7,
+      "pctStarted": 100,
+      "hits": 7,
       "rank": 4
     },
     {
-      "playerId": 690984,
-      "name": "Petey Halpin",
-      "team": "CLE",
-      "teamId": 114,
-      "teamName": "Cleveland Guardians",
-      "games": 3,
-      "started": 3,
+      "playerId": 691406,
+      "name": "Junior Caminero",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 2,
+      "started": 7,
       "pctStarted": 100,
-      "hits": 0,
+      "hits": 7,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 656775,
-      "name": "Cedric Mullins",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 4,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 1,
-      "rank": 1
-    },
     {
       "playerId": 622761,
       "name": "Jorge Mateo",
@@ -88,7 +76,7 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 0,
-      "rank": 2
+      "rank": 1
     },
     {
       "playerId": 683748,
@@ -97,32 +85,44 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 3,
-      "started": 5,
-      "pctStarted": 62,
-      "hits": 3,
+      "started": 4,
+      "pctStarted": 57,
+      "hits": 2,
+      "rank": 2
+    },
+    {
+      "playerId": 656775,
+      "name": "Cedric Mullins",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 3,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 1,
       "rank": 3
     },
     {
-      "playerId": 810938,
-      "name": "Ben Williamson",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
+      "playerId": 687401,
+      "name": "Joey Ortiz",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 3,
-      "started": 4,
-      "pctStarted": 50,
-      "hits": 2,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
       "rank": 4
     },
     {
-      "playerId": 663743,
-      "name": "Nick Fortes",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
+      "playerId": 800325,
+      "name": "Luis Lara",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 3,
-      "started": 1,
-      "pctStarted": 12,
+      "started": 0,
+      "pctStarted": 0,
       "hits": 0,
       "rank": 5
     }
