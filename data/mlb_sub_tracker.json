@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-11-18 23:18",
-  "window_start": "2026-10-19",
-  "window_end": "2026-11-18",
-  "games_processed": 6,
+  "generated_at": "2026-11-19 02:24",
+  "window_start": "2026-10-20",
+  "window_end": "2026-11-19",
+  "games_processed": 5,
   "subbed_out": [
-    {
-      "playerId": 670764,
-      "name": "Taylor Walls",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 3,
-      "started": 6,
-      "pctStarted": 100,
-      "hits": 0,
-      "rank": 1
-    },
     {
       "playerId": 666152,
       "name": "David Hamilton",
@@ -26,6 +14,18 @@
       "started": 5,
       "pctStarted": 100,
       "hits": 4,
+      "rank": 1
+    },
+    {
+      "playerId": 670764,
+      "name": "Taylor Walls",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 3,
+      "started": 5,
+      "pctStarted": 100,
+      "hits": 0,
       "rank": 2
     },
     {
@@ -36,21 +36,9 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 3,
-      "pctStarted": 50,
+      "pctStarted": 60,
       "hits": 0,
       "rank": 3
-    },
-    {
-      "playerId": 689414,
-      "name": "Liam Hicks",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 2,
-      "started": 5,
-      "pctStarted": 83,
-      "hits": 5,
-      "rank": 4
     },
     {
       "playerId": 669003,
@@ -62,6 +50,18 @@
       "started": 5,
       "pctStarted": 100,
       "hits": 3,
+      "rank": 4
+    },
+    {
+      "playerId": 689414,
+      "name": "Liam Hicks",
+      "team": "TB",
+      "teamId": 139,
+      "teamName": "Tampa Bay Rays",
+      "games": 2,
+      "started": 4,
+      "pctStarted": 80,
+      "hits": 4,
       "rank": 5
     }
   ],
@@ -109,8 +109,8 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 2,
-      "started": 4,
-      "pctStarted": 67,
+      "started": 3,
+      "pctStarted": 60,
       "hits": 2,
       "rank": 4
     },
@@ -122,7 +122,7 @@
       "teamName": "Tampa Bay Rays",
       "games": 2,
       "started": 3,
-      "pctStarted": 50,
+      "pctStarted": 60,
       "hits": 1,
       "rank": 5
     }
