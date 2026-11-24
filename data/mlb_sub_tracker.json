@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23 04:33",
-  "window_start": "2026-10-24",
-  "window_end": "2026-11-23",
-  "games_processed": 4,
+  "generated_at": "2026-11-24 01:04",
+  "window_start": "2026-10-25",
+  "window_end": "2026-11-24",
+  "games_processed": 3,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -12,21 +12,9 @@
       "teamName": "Tampa Bay Rays",
       "games": 3,
       "started": 3,
-      "pctStarted": 75,
+      "pctStarted": 100,
       "hits": 0,
       "rank": 1
-    },
-    {
-      "playerId": 669003,
-      "name": "Garrett Mitchell",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "games": 2,
-      "started": 4,
-      "pctStarted": 100,
-      "hits": 3,
-      "rank": 2
     },
     {
       "playerId": 666152,
@@ -35,49 +23,49 @@
       "teamId": 158,
       "teamName": "Milwaukee Brewers",
       "games": 2,
-      "started": 4,
+      "started": 3,
       "pctStarted": 100,
       "hits": 3,
+      "rank": 2
+    },
+    {
+      "playerId": 669003,
+      "name": "Garrett Mitchell",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "games": 2,
+      "started": 3,
+      "pctStarted": 100,
+      "hits": 2,
       "rank": 3
     },
     {
-      "playerId": 670764,
-      "name": "Taylor Walls",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 2,
-      "started": 4,
+      "playerId": 661388,
+      "name": "William Contreras",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "games": 1,
+      "started": 3,
       "pctStarted": 100,
-      "hits": 0,
+      "hits": 4,
       "rank": 4
     },
     {
-      "playerId": 689414,
-      "name": "Liam Hicks",
+      "playerId": 650490,
+      "name": "Yandy D\u00edaz",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
-      "games": 2,
+      "games": 1,
       "started": 3,
-      "pctStarted": 75,
-      "hits": 4,
+      "pctStarted": 100,
+      "hits": 3,
       "rank": 5
     }
   ],
   "subbed_in": [
-    {
-      "playerId": 810938,
-      "name": "Ben Williamson",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 2,
-      "started": 2,
-      "pctStarted": 50,
-      "hits": 1,
-      "rank": 1
-    },
     {
       "playerId": 683748,
       "name": "Victor Mesa Jr.",
@@ -85,22 +73,10 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 2,
-      "started": 2,
-      "pctStarted": 50,
-      "hits": 1,
-      "rank": 2
-    },
-    {
-      "playerId": 663743,
-      "name": "Nick Fortes",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 2,
       "started": 1,
-      "pctStarted": 25,
+      "pctStarted": 33,
       "hits": 0,
-      "rank": 3
+      "rank": 1
     },
     {
       "playerId": 656775,
@@ -112,7 +88,7 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 1,
-      "rank": 4
+      "rank": 2
     },
     {
       "playerId": 622761,
@@ -120,6 +96,30 @@
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
+      "games": 2,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
+      "rank": 3
+    },
+    {
+      "playerId": 687401,
+      "name": "Joey Ortiz",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
+      "games": 2,
+      "started": 0,
+      "pctStarted": 0,
+      "hits": 0,
+      "rank": 4
+    },
+    {
+      "playerId": 683734,
+      "name": "Andrew Vaughn",
+      "team": "MIL",
+      "teamId": 158,
+      "teamName": "Milwaukee Brewers",
       "games": 2,
       "started": 0,
       "pctStarted": 0,
