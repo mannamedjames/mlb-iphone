@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26 22:28",
-  "window_start": "2026-10-27",
-  "window_end": "2026-11-26",
-  "games_processed": 2,
+  "generated_at": "2026-11-27 00:57",
+  "window_start": "2026-10-28",
+  "window_end": "2026-11-27",
+  "games_processed": 1,
   "subbed_out": [
     {
       "playerId": 668723,
@@ -10,71 +10,9 @@
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
-      "games": 2,
-      "started": 2,
-      "pctStarted": 100,
-      "hits": 0,
-      "rank": 1
-    },
-    {
-      "playerId": 689414,
-      "name": "Liam Hicks",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
       "games": 1,
-      "started": 2,
+      "started": 1,
       "pctStarted": 100,
-      "hits": 3,
-      "rank": 2
-    },
-    {
-      "playerId": 691406,
-      "name": "Junior Caminero",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 2,
-      "pctStarted": 100,
-      "hits": 2,
-      "rank": 3
-    },
-    {
-      "playerId": 666152,
-      "name": "David Hamilton",
-      "team": "MIL",
-      "teamId": 158,
-      "teamName": "Milwaukee Brewers",
-      "games": 1,
-      "started": 2,
-      "pctStarted": 100,
-      "hits": 2,
-      "rank": 4
-    },
-    {
-      "playerId": 650490,
-      "name": "Yandy D\u00edaz",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 2,
-      "pctStarted": 100,
-      "hits": 1,
-      "rank": 5
-    }
-  ],
-  "subbed_in": [
-    {
-      "playerId": 683748,
-      "name": "Victor Mesa Jr.",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 2,
-      "started": 0,
-      "pctStarted": 0,
       "hits": 0,
       "rank": 1
     },
@@ -86,10 +24,12 @@
       "teamName": "Tampa Bay Rays",
       "games": 1,
       "started": 1,
-      "pctStarted": 50,
-      "hits": 1,
+      "pctStarted": 100,
+      "hits": 0,
       "rank": 2
-    },
+    }
+  ],
+  "subbed_in": [
     {
       "playerId": 680700,
       "name": "Richie Palacios",
@@ -97,14 +37,14 @@
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
       "games": 1,
-      "started": 1,
-      "pctStarted": 50,
+      "started": 0,
+      "pctStarted": 0,
       "hits": 0,
-      "rank": 3
+      "rank": 1
     },
     {
-      "playerId": 622761,
-      "name": "Jorge Mateo",
+      "playerId": 683748,
+      "name": "Victor Mesa Jr.",
       "team": "TB",
       "teamId": 139,
       "teamName": "Tampa Bay Rays",
@@ -112,19 +52,7 @@
       "started": 0,
       "pctStarted": 0,
       "hits": 0,
-      "rank": 4
-    },
-    {
-      "playerId": 663743,
-      "name": "Nick Fortes",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 5
+      "rank": 2
     }
   ]
 }
