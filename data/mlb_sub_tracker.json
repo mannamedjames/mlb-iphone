@@ -1,58 +1,8 @@
 {
-  "generated_at": "2026-11-27 22:11",
-  "window_start": "2026-10-28",
-  "window_end": "2026-11-27",
-  "games_processed": 1,
-  "subbed_out": [
-    {
-      "playerId": 668723,
-      "name": "Ryan Vilade",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 1,
-      "pctStarted": 100,
-      "hits": 0,
-      "rank": 1
-    },
-    {
-      "playerId": 810938,
-      "name": "Ben Williamson",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 1,
-      "pctStarted": 100,
-      "hits": 0,
-      "rank": 2
-    }
-  ],
-  "subbed_in": [
-    {
-      "playerId": 680700,
-      "name": "Richie Palacios",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 1
-    },
-    {
-      "playerId": 683748,
-      "name": "Victor Mesa Jr.",
-      "team": "TB",
-      "teamId": 139,
-      "teamName": "Tampa Bay Rays",
-      "games": 1,
-      "started": 0,
-      "pctStarted": 0,
-      "hits": 0,
-      "rank": 2
-    }
-  ]
+  "generated_at": "2026-11-28 00:23",
+  "window_start": "2026-10-29",
+  "window_end": "2026-11-28",
+  "games_processed": 0,
+  "subbed_out": [],
+  "subbed_in": []
 }
